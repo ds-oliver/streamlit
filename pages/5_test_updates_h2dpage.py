@@ -29,8 +29,9 @@ def process_player_data(player_df):
     # create merge_key which is home_team + away_team + year
     player_df['matchup_merge_key'] = player_df.apply(lambda row: '_'.join(sorted([row['home_team'], row['away_team']])), axis=1)
 
-        # create season_merge_key which is sorted home_team + away_team + season
-    player_df['season_merge_key'] = player_df.apply(lambda row: '_'.join(sorted([row['home_team'], row['away_team']])) + row['season'], axis=1)
+    # create season_merge_key which is sorted home_team + away_team + season
+    player_df['season_merge_key'] = player_df.apply(lambda row: '_'.join(sorted([row['home_team'], row['away_team']] + [row['season']])), axis=1)
+
 
     # player_df['season_merge_key'] = player_df['matchup_merge_key'] + player_df['season']
 
@@ -179,8 +180,8 @@ def show_head2head_analysis(df_all_seasons, player_df):
     team_list = sorted(df_all_seasons['home_team'].unique().tolist())
 
     # Create two selectboxes for the two teams
-    team_selection1 = st.selectbox('Select first team', team_list)
-    team_selection2 = st.selectbox('Select second team', [team for team in team_list if team != team_selection1])
+    team_selection1 = st.selectbox('Select Primary Team', team_list)
+    team_selection2 = st.selectbox('Select Opponent', [team for team in team_list if team != team_selection1])
 
     # Apply the filter for both teams in all seasons
     df_filtered = df_all_seasons[(df_all_seasons['home_team'].isin([team_selection1, team_selection2])) & 
@@ -206,6 +207,9 @@ def show_head2head_analysis(df_all_seasons, player_df):
     # If no stat is selected, use the default stats
     if not selected_stats:
         selected_stats = default_stats
+        
+    st.dataframe(player_df)
+
 
 # Get top 5 players for each team
     for stat in selected_stats:
