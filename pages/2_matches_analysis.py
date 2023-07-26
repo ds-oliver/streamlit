@@ -46,7 +46,7 @@ def show_head2head_analysis(df_all_seasons):
     # create two selectboxes for the two teams
     team_selection1 = st.selectbox('Select first team', team_list)
     team_selection2 = st.selectbox('Select second team', [team for team in team_list if team != team_selection1])
-    
+
     # ensure the two selected teams are not the same
     while team_selection1 == team_selection2:
         st.error("Please select two different teams.")
@@ -54,6 +54,12 @@ def show_head2head_analysis(df_all_seasons):
 
     # create a multiselect for seasons although seasons are not required
     season_selection = st.multiselect('[Optional] Select season(s)', season_list)
+
+    # if no season is selected, use the original dataframe
+    if not season_selection:
+        df_selected_teams_seasons = df_all_seasons[(df_all_seasons['home_team'].isin([team_selection1, team_selection2])) | (df_all_seasons['away_team'].isin([team_selection1, team_selection2]))]
+    else:
+        df_selected_teams_seasons = df_all_seasons[(df_all_seasons['home_team'].isin([team_selection1, team_selection2])) & (df_all_seasons['season'].isin(season_selection))]
 
     # create a dataframe of the selected teams
     df_selected_teams = df_all_seasons[df_all_seasons['home_team'].isin([team_selection1, team_selection2])]
