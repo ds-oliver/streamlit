@@ -185,15 +185,23 @@ def show_head2head_analysis(df_all_seasons, player_df):
     # Display the DataFrame
     st.dataframe(df_stats)
 
-    # Get top 5 players for each team
-    top5_team1, top5_season_team1 = get_top_players(team_selection1, player_df, 'goals_scored', top=5)
-    top5_team2, top5_season_team2 = get_top_players(team_selection2, player_df, 'goals_scored', top=5)
+    # Let the user select a stat
+    selected_stats = st.multiselect('Select player stat', stat_list, default=['key_passes', 'xg', 'xa'])
 
-    # Display the top 5 players
-    st.subheader(f'Top 5 {team_selection1} players by goals scored:')
-    st.dataframe(top5_team1)
-    st.subheader(f'Top 5 {team_selection2} players by goals scored:')
-    st.dataframe(top5_team2)
+    # If no stat is selected, use the default stats
+    if not selected_stats:
+        selected_stats = ['key_passes', 'xg', 'xa']
+
+    # Get top 5 players for each team
+    for stat in selected_stats:
+        top5_team1, top5_season_team1 = get_top_players(team_selection1, player_df, stat, top=5)
+        top5_team2, top5_season_team2 = get_top_players(team_selection2, player_df, stat, top=5)
+
+        # Display the top 5 players
+        st.subheader(f'Top 5 {team_selection1} players by {stat}:')
+        st.dataframe(top5_team1)
+        st.subheader(f'Top 5 {team_selection2} players by {stat}:')
+        st.dataframe(top5_team2)
 
 def main():
     # Load and process player data
