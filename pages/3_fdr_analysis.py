@@ -12,10 +12,13 @@ def load_data():
     return df_fdr_pts_vs, df_fdr_best
 
 def show_tables(df_fdr_pts_vs, df_fdr_best):
-    # slider for gameweeks
-    st.sidebar.header("Gameweek")
-    gameweek = st.sidebar.slider("Select Gameweek", 1, 38, 1)
-    
+    # slider for gameweeks which are represented by columns in the dataframe
+    gameweek = st.slider('Gameweek', 1, 38, 1)
+
+    # filter the dataframes by gameweek
+    df_fdr_pts_vs = df_fdr_pts_vs[df_fdr_pts_vs['gameweek'] == gameweek]
+    df_fdr_best = df_fdr_best[df_fdr_best['gameweek'] == gameweek]
+
     # show the dataframes
     st.write(df_fdr_pts_vs)
     st.write(df_fdr_best)

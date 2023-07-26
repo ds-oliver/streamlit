@@ -101,10 +101,8 @@ def show_head2head_analysis(df_all_seasons):
         'Clean Sheets': ((df_selected_teams_seasons['home_team'] == team_selection2) & (df_selected_teams_seasons['away_score'] == 0)).sum() + ((df_selected_teams_seasons['away_team'] == team_selection2) & (df_selected_teams_seasons['home_score'] == 0)).sum(),
     }
 
-    # use colors to highlight the team with the highest value for each stat
-    team1_stats = {k: f"<span style='color: {'green' if v > team2_stats[k] else 'black'}'>{v}</span>" for k, v in team1_stats.items()}
-
-    team2_stats = {k: f"<span style='color: {'green' if v > team1_stats[k] else 'black'}'>{v}</span>" for k, v in team2_stats.items()}
+    for k, v in team2_stats.items():
+        print(f"Key: {k}, Value: {v}, Type of value: {type(v)}, Type of corresponding value in team1_stats: {type(team1_stats[k])}")
 
     df_head2head = pd.DataFrame({team_selection1: team1_stats, team_selection2: team2_stats})
 
