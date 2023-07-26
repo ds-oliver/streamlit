@@ -3,8 +3,7 @@ import pandas as pd
 import numpy as np
 import re
 import uuid
-import sklearn
-from sklearn.preprocessing import StandardScaler
+
 
 def load_player_data():
     player_df = pd.read_csv('data/all_seasons_combined_df_2023-07-25_12-50-09.csv')
