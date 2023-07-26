@@ -27,10 +27,10 @@ def process_player_data(player_df):
     player_df['away_team'] = np.select(conditions, choices_opponent)
 
     # create merge_key which is home_team + away_team + year
-    player_df['matchup_merge_key'] = player_df.apply(lambda row: ''.join(sorted([row['home_team'], row['away_team']])), axis=1)
+    player_df['matchup_merge_key'] = player_df.apply(lambda row: '_'.join(sorted([row['home_team'], row['away_team']])), axis=1)
 
         # create season_merge_key which is sorted home_team + away_team + season
-    player_df['season_merge_key'] = player_df.apply(lambda row: ''.join(sorted([row['home_team'], row['away_team']])) + row['season'], axis=1)
+    player_df['season_merge_key'] = player_df.apply(lambda row: '_'.join(sorted([row['home_team'], row['away_team']])) + row['season'], axis=1)
 
     # player_df['season_merge_key'] = player_df['matchup_merge_key'] + player_df['season']
 
@@ -94,14 +94,13 @@ def get_top_players(team, player_df, stat, top=5):
         player_df_team = player_df[player_df['team'] == team]
 
         # Top players by matchup
-        top_players_matchup = player_df_team.groupby(['player', 'matchup_merge_key']).agg({stat: 'sum'}).reset_index()
-        top_players_matchup = top_players_matchup.sort_values(by=[stat, 'matchup_merge_key'], ascending=[False, True]).groupby('player').first().head(top)
+        top_players_matchup = player_df_team.groupby(['player']).agg({stat: 'sum'}).sort_values(by=stat, ascending=False).head(top)
 
         # Top players by season
-        top_players_season = player_df_team.groupby(['player', 'season_merge_key']).agg({stat: 'sum'}).reset_index()
-        top_players_season = top_players_season.sort_values(by=[stat, 'season_merge_key'], ascending=[False, True]).groupby('player').first().head(top)
+        top_players_season = player_df_team.groupby(['player']).agg({stat: 'sum'}).sort_values(by=stat, ascending=False).head(top)
 
     return top_players_matchup, top_players_season
+
 
 
 
