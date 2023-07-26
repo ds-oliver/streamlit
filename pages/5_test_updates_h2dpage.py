@@ -90,15 +90,19 @@ def get_top_players(team, player_df, stat, top=5):
     if 'team' not in player_df.columns:
         raise ValueError('team column not in player_df')
     else:
+        # Filter dataframe based on team
+        player_df_team = player_df[player_df['team'] == team]
+
         # Top players by matchup
-        top_players_matchup = player_df[player_df['team'] == team].groupby(['player', 'matchup_merge_key']).agg({stat: 'sum'}).reset_index()
-        top_players_matchup = top_players_matchup.sort_values(by=stat, ascending=False).groupby('player').first().head(top)
+        top_players_matchup = player_df_team.groupby(['player', 'matchup_merge_key']).agg({stat: 'sum'}).reset_index()
+        top_players_matchup = top_players_matchup.sort_values(by=[stat, 'matchup_merge_key'], ascending=[False, True]).groupby('player').first().head(top)
 
         # Top players by season
-        top_players_season = player_df[player_df['team'] == team].groupby(['player', 'season_merge_key']).agg({stat: 'sum'}).reset_index()
-        top_players_season = top_players_season.sort_values(by=stat, ascending=False).groupby('player').first().head(top)
+        top_players_season = player_df_team.groupby(['player', 'season_merge_key']).agg({stat: 'sum'}).reset_index()
+        top_players_season = top_players_season.sort_values(by=[stat, 'season_merge_key'], ascending=[False, True]).groupby('player').first().head(top)
 
     return top_players_matchup, top_players_season
+
 
 
 def get_teams_stats(df, team1, team2):
