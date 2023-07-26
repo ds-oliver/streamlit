@@ -20,6 +20,9 @@ def plot_data(df1, selected_columns, selected_item, item_type):
         st.line_chart(df1[df1['player'] == selected_item][selected_columns])
     elif item_type == 'team':
         st.line_chart(df1[df1['team'] == selected_item][selected_columns])
+    elif item_type == 'position':
+        st.line_chart(df1[df1['position_1'] == selected_item][selected_columns])
+
 
 
 def filter_and_group_data(df1, player_or_team, season, gameweek, position_1):
@@ -54,10 +57,6 @@ def main():
 
     columns_to_chart = st.multiselect(label='What columns do you want to chart?', options=df1.columns)
     plot_data(df1, columns_to_chart, item_name, option)
-
-if __name__ == "__main__":
-    main()
-
 
 if __name__ == "__main__":
     main()
