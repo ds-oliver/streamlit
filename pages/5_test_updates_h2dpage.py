@@ -164,7 +164,6 @@ def get_teams_stats(df, team1, team2):
 
     return stats_team1, stats_team2
 
-
 def show_head2head_analysis(df_all_seasons, player_df):
     # Create a list of teams
     team_list = sorted(df_all_seasons['home_team'].unique().tolist())
@@ -174,7 +173,8 @@ def show_head2head_analysis(df_all_seasons, player_df):
     team_selection2 = st.selectbox('Select second team', [team for team in team_list if team != team_selection1])
 
     # Apply the filter for both teams in all seasons
-    df_filtered = df_all_seasons[(df_all_seasons['home_team'].isin([team_selection1, team_selection2])) & (df_all_seasons['away_team'].isin([team_selection1, team_selection2]))]
+    df_filtered = df_all_seasons[(df_all_seasons['home_team'].isin([team_selection1, team_selection2])) & 
+                                 (df_all_seasons['away_team'].isin([team_selection1, team_selection2]))]
 
     # Apply the statistics function to the filtered DataFrame
     team1_stats, team2_stats = get_teams_stats(df_filtered, team_selection1, team_selection2)
@@ -185,7 +185,6 @@ def show_head2head_analysis(df_all_seasons, player_df):
     # Display the DataFrame
     st.dataframe(df_stats)
 
-    # create stat_list using list comprehension getting all columns that are numeric
     stat_list = [col for col in player_df.columns if (player_df[col].dtype == 'float64' or player_df[col].dtype == 'int64')]
 
     # Let the user select a stat
@@ -205,6 +204,7 @@ def show_head2head_analysis(df_all_seasons, player_df):
         st.dataframe(top5_team1)
         st.subheader(f'Top 5 {team_selection2} players by {stat}:')
         st.dataframe(top5_team2)
+
 
 def main():
     # Load and process player data
