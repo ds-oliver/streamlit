@@ -29,6 +29,11 @@ def show_tables(df_fdr_pts_vs, df_fdr_best):
     df_fdr_pts_vs = df_fdr_pts_vs.iloc[:, :gameweek + 1]
     df_fdr_best = df_fdr_best.iloc[:, :gameweek + 1]
 
+    # set default slider value to 6 until it is changed
+    st.markdown('### FDR Points vs')
+    st.markdown('#### Gameweek: ' + str(gameweek))
+    
+
     # show the dataframes
     st.write(df_fdr_pts_vs)
     st.write(df_fdr_best)
