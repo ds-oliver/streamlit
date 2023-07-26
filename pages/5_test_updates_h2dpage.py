@@ -188,7 +188,7 @@ def main():
     player_df = process_player_data(player_df)
 
     # Load and clean match data
-    df_1992_2016 = pd.read_csv('specific-csvs/historical_matches_reports-1992-2016.csv')
+    df_1992_2016 = pd.read_csv('data/historical_matches_reports-1992-2016.csv')
     df_2022_2023 = pd.read_csv('data/df_2023-07-25_12-17-41_2022-2023.csv')
     df_2021_2022 = pd.read_csv('data/df_2023-07-25_11-44-56_2021-2022.csv')
     df_2020_2021 = pd.read_csv('data/df_2023-07-25_11-08-29_2020-2021.csv')
