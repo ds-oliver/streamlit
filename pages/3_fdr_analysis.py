@@ -9,6 +9,16 @@ def load_data():
     df_fdr_pts_vs = pd.read_csv(list_of_files[0])
     df_fdr_best = pd.read_csv(list_of_files[1])
 
+    # drop rank from df_fdr_pts_vs
+    df_fdr_pts_vs = df_fdr_pts_vs.drop('Rank', axis=1)
+
+    # drop code from df_fdr_best
+    df_fdr_best = df_fdr_best.drop('Code', axis=1)
+
+    # set index to Team for both dataframes
+    df_fdr_pts_vs = df_fdr_pts_vs.set_index('Team')
+    df_fdr_best = df_fdr_best.set_index('Team')
+
     return df_fdr_pts_vs, df_fdr_best
 
 def show_tables(df_fdr_pts_vs, df_fdr_best):
