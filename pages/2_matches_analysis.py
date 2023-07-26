@@ -10,14 +10,24 @@ import uuid
 def load_player_data():
     player_df = pd.read_csv('data/all_seasons_combined_df_2023-07-25_12-50-09.csv')
     player_df = player_df.apply(lambda x: x.fillna(0) if x.dtype.kind in 'biufc' else x.fillna('None'))
-    drop_cols = ['Unnamed: 0', 'shirtnumber']
+    drop_cols = ['Unnamed: 0', 'shirtnumber', 'minutes', ]
     player_df = player_df.drop(drop_cols, axis=1)
     return player_df
 
 def process_player_data(player_df):
     player_df['year'] = player_df['season'].str[:4]
-    player_df['season_gameweek'] = player_df['year'] + '_' + player_df['gameweek'].astype(str)
+
+    # rename season to season_long and year to season
+    player_df = player_df.rename(columns={'season': 'season_long', 'year': 'season'})
+    # create home_team and away_team columns based on home column is true then home_team == team else home_team == opponent
+    player_df['home_team'] = player_df.apply(lambda x: x['team'] if x['home'] == True else x['opponent'], axis=1)
+    player_df['away_team'] = player_df.apply(lambda x: x['team'] if x['home'] == False else x['opponent'], axis=1)
+    # create merge_key which is home_team + away_team + year
+    player_df['matchup_merge_key'] = player_df[['home_team', 'away_team']].applymap(str).apply(lambda x: ''.join(x), axis=1).apply(lambda x: uuid.uuid5(uuid.NAMESPACE_DNS, x))
+    player_df['season_merge_key'] = player_df[['home_team', 'away_team', 'season']].applymap(str).apply(lambda x: ''.join(x), axis=1).apply(lambda x: uuid.uuid5(uuid.NAMESPACE_DNS, x))
+    player_df['season_gameweek'] = player_df['season'] + '_' + player_df['gameweek'].astype(str)
     player_df = player_df[['player', 'team', 'season_gameweek', 'minutes', 'position_1'] + [col for col in player_df.columns if col not in ['player', 'team', 'season_gameweek', 'minutes', 'position_1']]]
+
     return player_df
 
 def clean_dataframes(df):
@@ -45,28 +55,47 @@ def clean_dataframes(df):
     # create match_id column which is applymap of home_team and away_team and season using uuid
     df['match_id'] = df[['home_team', 'away_team', 'season']].applymap(str).apply(lambda x: ''.join(x), axis=1).apply(lambda x: uuid.uuid5(uuid.NAMESPACE_DNS, x))
 
+    df['matchup_merge_key'] = df[['home_team', 'away_team']].applymap(str).apply(lambda x: ''.join(x), axis=1).apply(lambda x: uuid.uuid5(uuid.NAMESPACE_DNS, x))
+    df['season_merge_key'] = df[['home_team', 'away_team', 'season']].applymap(str).apply(lambda x: ''.join(x), axis=1).apply(lambda x: uuid.uuid5(uuid.NAMESPACE_DNS, x))
+
     # ifna() 0
     df = df.fillna(0)
 
     return df
 
-def get_top_players(team, player_df, stat, top=5):
-    """
-    Get the top players from a team for a given statistic.
+# def get_top_players(team, player_df, stat, top=5):
+#     """
+#     Get the top players from a team for a specific matchup_merge_key for a given statistic.
 
-    Parameters:
-    team (str): The team to get players from.
-    player_df (DataFrame): The player data.
-    stat (str): The statistic to rank players by.
-    top (int): The number of top players to return.
+#     Then get the top players from a team for a specific season_merge_key for a given statistic.
 
-    Returns:
-    DataFrame: A DataFrame with the top players and their stats.
-    """
-    team_df = player_df[player_df['team'] == team]
-    top_players = team_df.nlargest(top, stat)[['player', stat]]
-    return top_players
+#     Parameters:
+#     team (str): The team to get players from.
+#     player_df (DataFrame): The player data.
+#     stat (str): The statistic to rank players by.
+#     top (int): The number of top players to return.
 
+#     Returns:
+#     DataFrame1: A DataFrame with the top players in specific set of matches described above and their stats.
+#     DataFrame2: A DataFrame with the top players in a specific set of matches and season described above and their stats.
+#     """
+
+#     return top_players
+
+# def get_teams_stats(df, team1, team2):
+#     """
+#     Get the stats for two teams for a specific matchup_merge_key.
+
+#     Parameters:
+#     df (DataFrame): The DataFrame to get the stats from.
+#     team1 (str): The first team to get stats for.
+#     team2 (str): The second team to get stats for.
+
+#     Returns:
+#     dict, dict: Two dictionaries with the statistics for the two teams.
+#     """
+
+#     return stats[team1], stats[team2]
 
 def show_head2head_analysis(df_all_seasons, player_df):
     # create a list of seasons
@@ -170,16 +199,13 @@ def main():
     df_2018_2019 = pd.read_csv('data/df_2023-07-25_09-57-12_2018-2019.csv')
     df_2017_2018 = pd.read_csv('data/df_2023-07-25_09-57-10_2017-2018.csv')
 
-    df_list = [df_2022_2023, df_2021_2022, df_2020_2021, df_2019_2020, df_2018_2019, df_2017_2018]
+    df_all_seasons = pd.concat([df_2022_2023, df_2021_2022, df_2020_2021, df_2019_2020, df_2018_2019, df_2017_2018, df_1992_2016], ignore_index=True)
 
-    df_list_cleaned = [clean_dataframes(df) for df in df_list]
-
-    # concatenate the cleaned dataframes
-    df_all_seasons = pd.concat(df_list_cleaned)
-
-    # Load and process player data
+    df_all_seasons = clean_dataframes(df_all_seasons)
     player_df = load_player_data()
     player_df = process_player_data(player_df)
+
+    # Merge the df_all_seasons with player_df using merge_key and merge the match_id column from df_all_seasons into player_df this way we can filter the player_df to only include players who played in the selected match
 
     show_head2head_analysis(df_all_seasons, player_df)
 
