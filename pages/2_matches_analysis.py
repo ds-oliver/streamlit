@@ -32,6 +32,9 @@ def clean_dataframes(df):
     # create match_id column which is applymap of home_team and away_team and season using uuid
     df['match_id'] = df[['home_team', 'away_team', 'season']].applymap(str).apply(lambda x: ''.join(x), axis=1).apply(lambda x: uuid.uuid5(uuid.NAMESPACE_DNS, x))
 
+    # ifna() 0
+    df = df.fillna(0)
+
     return df
 
 
@@ -52,7 +55,7 @@ def show_head2head_analysis(df_all_seasons):
         team_selection2 = st.selectbox('Select second team', [team for team in team_list if team != team_selection1])
 
     # show message that by default all seasons are selected and show unique seasons values in this message
-    st.info(f"By default, all seasons are selected. To filter by season, check the box below and select the season(s) you want to filter by. The seasons available are: {', '.join(map(str, season_list))}")
+    st.info(f"By default, all seasons are selected. To filter by season, check the box below and select the season(s) you want to filter by. The seasons available are: {', '.join(map(str, reversed(season_list)))}")
 
 
     # add a toggle button to decide whether to filter by season or not
