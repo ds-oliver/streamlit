@@ -7,7 +7,7 @@ import uuid
 def load_player_data():
     player_df = pd.read_csv('data/all_seasons_combined_df_2023-07-25_12-50-09.csv')
     player_df = player_df.apply(lambda x: x.fillna(0) if x.dtype.kind in 'biufc' else x.fillna('None'))
-    drop_cols = ['Unnamed: 0', 'shirtnumber', 'minutes', ]
+    drop_cols = ['Unnamed: 0', 'shirtnumber']
     player_df = player_df.drop(drop_cols, axis=1)
     return player_df
 
@@ -15,7 +15,7 @@ def process_player_data(player_df):
     player_df['year'] = player_df['season'].str[:4]
 
     # rename season to season_long and year to season
-    player_df = player_df.rename(columns={'season': 'season_long', 'year': 'season'})
+    player_df = player_df.rename(columns={'season': 'season_long', 'year': 'season', 'position_1': 'position'})
     # create home_team and away_team columns based on home column is true then home_team == team else home_team == opponent
     player_df['home_team'] = player_df.apply(lambda x: x['team'] if x['home'] == True else x['opponent'], axis=1)
     player_df['away_team'] = player_df.apply(lambda x: x['team'] if x['home'] == False else x['opponent'], axis=1)
