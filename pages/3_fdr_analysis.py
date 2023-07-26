@@ -12,6 +12,10 @@ def load_data():
     return df_fdr_pts_vs, df_fdr_best
 
 def show_tables(df_fdr_pts_vs, df_fdr_best):
+    # slider for gameweeks
+    st.sidebar.header("Gameweek")
+    gameweek = st.sidebar.slider("Select Gameweek", 1, 38, 1)
+    
     # show the dataframes
     st.write(df_fdr_pts_vs)
     st.write(df_fdr_best)
@@ -26,4 +30,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-    
