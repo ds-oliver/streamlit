@@ -23,7 +23,7 @@ def process_player_data(player_df):
     player_df['matchup_merge_key'] = player_df[['home_team', 'away_team']].applymap(str).apply(lambda x: ''.join(x), axis=1).apply(lambda x: uuid.uuid5(uuid.NAMESPACE_DNS, x))
     player_df['season_merge_key'] = player_df[['home_team', 'away_team', 'season']].applymap(str).apply(lambda x: ''.join(x), axis=1).apply(lambda x: uuid.uuid5(uuid.NAMESPACE_DNS, x))
     player_df['season_gameweek'] = player_df['season'] + '_' + player_df['gameweek'].astype(str)
-    player_df = player_df[['player', 'team', 'season_gameweek', 'minutes', 'position_1'] + [col for col in player_df.columns if col not in ['player', 'team', 'season_gameweek', 'minutes', 'position_1']]]
+    player_df = player_df[['player', 'team', 'season_gameweek', 'minutes', 'position'] + [col for col in player_df.columns if col not in ['player', 'team', 'season_gameweek', 'minutes', 'position']]]
 
     return player_df
 
