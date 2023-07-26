@@ -60,8 +60,9 @@ def show_head2head_analysis(df_all_seasons):
     else:
         season_selection = season_list  # if not filtered by season, include all seasons
 
-    # select matches involving either of the two teams and in the selected seasons
-    df_selected_teams_seasons = df_all_seasons[(df_all_seasons['home_team'].isin([team_selection1, team_selection2])) & (df_all_seasons['season'].isin(season_selection))]
+    # select matches where the selected teams faced each other and in the selected seasons
+    df_selected_teams_seasons = df_all_seasons[((df_all_seasons['home_team'] == team_selection1) & (df_all_seasons['away_team'] == team_selection2) | (df_all_seasons['home_team'] == team_selection2) & (df_all_seasons['away_team'] == team_selection1)) & (df_all_seasons['season'].isin(season_selection))]
+
 
     df_selected_teams_seasons['winner'] = np.where(df_selected_teams_seasons['home_score'] > df_selected_teams_seasons['away_score'], df_selected_teams_seasons['home_team'], df_selected_teams_seasons['away_team'])
     df_selected_teams_seasons['loser'] = np.where(df_selected_teams_seasons['home_score'] < df_selected_teams_seasons['away_score'], df_selected_teams_seasons['home_team'], df_selected_teams_seasons['away_team'])
