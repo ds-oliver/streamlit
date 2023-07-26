@@ -3,6 +3,7 @@ import pandas as pd
 import numpy as np
 import re
 import uuid
+import sklearn
 from sklearn.preprocessing import StandardScaler
 
 def load_player_data():
