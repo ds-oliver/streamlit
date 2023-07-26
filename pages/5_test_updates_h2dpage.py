@@ -13,7 +13,7 @@ def load_player_data():
 
 def process_player_data(player_df):
     player_df['year'] = player_df['season'].str[:4]
-    player_df = player_df.rename(columns={'season': 'season_long', 'year': 'season', 'position': 'position_1'})
+    player_df = player_df.rename(columns={'season': 'season_long', 'year': 'season', 'position_1': 'position'})
 
     conditions = [
         (player_df['home'] == True),
