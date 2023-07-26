@@ -6,7 +6,7 @@ st.title('My first app')
 
 st.write("Here's our first attempt at using data to create a table:")
 
-df = pd.read_csv('/Users/hogan/Library/CloudStorage/Dropbox/Mac/Documents/GitHub/streamlit/all_seasons_combined_df_2023-07-25_12-50-09.csv')
+df = pd.read_csv('all_seasons_combined_df_2023-07-25_12-50-09.csv')
 
 df = df.apply(lambda x: x.fillna(0) if x.dtype.kind in 'biufc' else x.fillna('None'))
 
