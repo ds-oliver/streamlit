@@ -180,8 +180,8 @@ def show_head2head_analysis(df_all_seasons, player_df):
     team_list = sorted(df_all_seasons['home_team'].unique().tolist())
 
     # Create two selectboxes for the two teams
-    team_selection1 = st.selectbox('Select Primary Team', team_list)
-    team_selection2 = st.selectbox('Select Opponent', [team for team in team_list if team != team_selection1])
+    team_selection1, team_selection2 = st.selectbox('Select Teams', list(combinations(team_list, 2)), format_func=lambda x: f'{x[0]} vs {x[1]}')
+
 
     # Apply the filter for both teams in all seasons
     df_filtered = df_all_seasons[(df_all_seasons['home_team'].isin([team_selection1, team_selection2])) & 
