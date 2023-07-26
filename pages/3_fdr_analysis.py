@@ -15,9 +15,9 @@ def show_tables(df_fdr_pts_vs, df_fdr_best):
     # slider for gameweeks which are represented by columns in the dataframe
     gameweek = st.slider('Gameweek', 1, 38, 1)
 
-    # filter the dataframes by gameweek
-    df_fdr_pts_vs = df_fdr_pts_vs[df_fdr_pts_vs['gameweek'] == gameweek]
-    df_fdr_best = df_fdr_best[df_fdr_best['gameweek'] == gameweek]
+    # filter the dataframes by gameweek by truncating columns depending on slider selection
+    df_fdr_pts_vs = df_fdr_pts_vs.iloc[:, :gameweek + 1]
+    df_fdr_best = df_fdr_best.iloc[:, :gameweek + 1]
 
     # show the dataframes
     st.write(df_fdr_pts_vs)

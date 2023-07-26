@@ -104,6 +104,10 @@ def show_head2head_analysis(df_all_seasons):
     for k, v in team2_stats.items():
         print(f"Key: {k}, Value: {v}, Type of value: {type(v)}, Type of corresponding value in team1_stats: {type(team1_stats[k])}")
 
+    # set default dataframe formatting
+    
+
+
     df_head2head = pd.DataFrame({team_selection1: team1_stats, team_selection2: team2_stats})
 
     # display the dataframe
