@@ -22,6 +22,10 @@ df1['year'] = df1['season'].str[:4]
 
 df1['season_gameweek'] = df1['year'] + '_' + df1['gameweek'].astype(str)
 
+# reorder columns player, team, season_gameweek, minutes then rest of columns
+
+df1 = df1[['player', 'team', 'season_gameweek', 'minutes'] + [col for col in df1.columns if col not in ['player', 'team', 'season_gameweek', 'minutes']]]
+
 st.write(df1)
 
 # plot the data
