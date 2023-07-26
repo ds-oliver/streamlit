@@ -24,7 +24,6 @@ def plot_data(df1, selected_columns, selected_item, item_type):
         st.line_chart(df1[df1['position_1'] == selected_item][selected_columns])
 
 
-
 def filter_and_group_data(df1, player_or_team, season, gameweek, position_1):
     df1 = df1[(df1['season'] == season) & (df1['gameweek'] == gameweek) & (df1['position_1'] == position_1)]
     df1 = df1.groupby(['player', 'team']).sum().reset_index()
@@ -37,7 +36,7 @@ def main():
     df1 = process_data(df)
     st.write(df1)
     
-    option = st.radio(label='Please choose:', options=['player', 'team', 'position'])
+    option = st.radio(label='Filter by:', options=['player', 'team', 'position'])
     season = st.selectbox(label='Select a season', options=df['season'].unique())
     gameweek = st.slider(label='Select a gameweek', min_value=1, max_value=38, value=1, step=1)
 
