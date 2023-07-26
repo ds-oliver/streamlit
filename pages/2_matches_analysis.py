@@ -7,13 +7,6 @@ import uuid
 # load these files
 # df_2023-07-25_12-17-41_2022-2023.csv df_2023-07-25_11-44-56_2021-2022.csv df_2023-07-25_11-08-29_2020-2021.csv df_2023-07-25_10-32-44_2019-2020.csv df_2023-07-25_09-57-12_2018-2019.csv df_2023-07-25_09-57-10_2017-2018.csv
 
-df_2022_2023 = pd.read_csv('data/df_2023-07-25_12-17-41_2022-2023.csv')
-df_2021_2022 = pd.read_csv('data/df_2023-07-25_11-44-56_2021-2022.csv')
-df_2020_2021 = pd.read_csv('data/df_2023-07-25_11-08-29_2020-2021.csv')
-df_2019_2020 = pd.read_csv('data/df_2023-07-25_10-32-44_2019-2020.csv')
-df_2018_2019 = pd.read_csv('data/df_2023-07-25_09-57-12_2018-2019.csv')
-df_2017_2018 = pd.read_csv('data/df_2023-07-25_09-57-10_2017-2018.csv')
-
 def clean_dataframes(df):
     """Description: This function cleans the dataframes by removing unnecessary columns, reordering columns, creating new columns and renaming columns.
     
@@ -40,6 +33,8 @@ def clean_dataframes(df):
     df['match_id'] = df[['home_team', 'away_team', 'season']].applymap(str).apply(lambda x: ''.join(x), axis=1).apply(lambda x: uuid.uuid5(uuid.NAMESPACE_DNS, x))
 
     return df
+
+
 
 def show_head2head_analysis(df_all_seasons):
     # create a list of seasons
@@ -103,6 +98,15 @@ def main():
     _return_: None
 
     """
+    df_2022_2023 = pd.read_csv('data/df_2023-07-25_12-17-41_2022-2023.csv')
+    df_2021_2022 = pd.read_csv('data/df_2023-07-25_11-44-56_2021-2022.csv')
+    df_2020_2021 = pd.read_csv('data/df_2023-07-25_11-08-29_2020-2021.csv')
+    df_2019_2020 = pd.read_csv('data/df_2023-07-25_10-32-44_2019-2020.csv')
+    df_2018_2019 = pd.read_csv('data/df_2023-07-25_09-57-12_2018-2019.csv')
+    df_2017_2018 = pd.read_csv('data/df_2023-07-25_09-57-10_2017-2018.csv')
+
+    df_list = [df_2022_2023, df_2021_2022, df_2020_2021, df_2019_2020, df_2018_2019, df_2017_2018]
+
     df_list_cleaned = [clean_dataframes(df) for df in df_list]
 
     # concatenate the cleaned dataframes
