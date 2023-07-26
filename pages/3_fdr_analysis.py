@@ -10,7 +10,7 @@ def load_data():
     df_fdr_best = pd.read_csv(list_of_files[1])
 
     # drop rank from df_fdr_pts_vs
-    df_fdr_pts_vs = df_fdr_pts_vs.drop('Rank', axis=1)
+    df_fdr_pts_vs = df_fdr_pts_vs.drop(['Rank', 'Sum'], axis=1)
 
     # drop code from df_fdr_best
     df_fdr_best = df_fdr_best.drop('Code', axis=1)
