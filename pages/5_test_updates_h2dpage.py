@@ -13,17 +13,30 @@ def load_player_data():
 
 def process_player_data(player_df):
     player_df['year'] = player_df['season'].str[:4]
+    player_df = player_df.rename(columns={'season': 'season_long', 'year': 'season', 'position': 'position_1'})
 
-    # rename season to season_long and year to season
-    player_df = player_df.rename(columns={'season': 'season_long', 'year': 'season', 'position_1': 'position'})
-    # create home_team and away_team columns based on home column is true then home_team == team else home_team == opponent
-    player_df['home_team'] = player_df.apply(lambda x: x['team'] if x['home'] == True else x['opponent'], axis=1)
-    player_df['away_team'] = player_df.apply(lambda x: x['team'] if x['home'] == False else x['opponent'], axis=1)
+    conditions = [
+        (player_df['home'] == True),
+        (player_df['home'] == False)
+    ]
+
+    choices_team = [player_df['team'], player_df['opponent']]
+    choices_opponent = [player_df['opponent'], player_df['team']]
+
+    player_df['home_team'] = np.select(conditions, choices_team)
+    player_df['away_team'] = np.select(conditions, choices_opponent)
+
     # create merge_key which is home_team + away_team + year
-    player_df['matchup_merge_key'] = player_df[['home_team', 'away_team']].applymap(str).apply(lambda x: ''.join(x), axis=1).apply(lambda x: uuid.uuid5(uuid.NAMESPACE_DNS, x))
-    player_df['season_merge_key'] = player_df[['home_team', 'away_team', 'season']].applymap(str).apply(lambda x: ''.join(x), axis=1).apply(lambda x: uuid.uuid5(uuid.NAMESPACE_DNS, x))
+    player_df['matchup_merge_key'] = player_df.apply(lambda row: ''.join(sorted([row['home_team'], row['away_team']])), axis=1)
+
+        # create season_merge_key which is sorted home_team + away_team + season
+    player_df['season_merge_key'] = player_df.apply(lambda row: ''.join(sorted([row['home_team'], row['away_team']])) + row['season'], axis=1)
+
+    # player_df['season_merge_key'] = player_df['matchup_merge_key'] + player_df['season']
+
     player_df['season_gameweek'] = player_df['season'] + '_' + player_df['gameweek'].astype(str)
-    player_df = player_df[['player', 'team', 'season_gameweek', 'minutes', 'position'] + [col for col in player_df.columns if col not in ['player', 'team', 'season_gameweek', 'minutes', 'position']]]
+    cols_order = ['player', 'team', 'season_gameweek', 'minutes', 'position'] + [col for col in player_df.columns if col not in ['player', 'team', 'season_gameweek', 'minutes', 'position']]
+    player_df = player_df[cols_order]
 
     return player_df
 
