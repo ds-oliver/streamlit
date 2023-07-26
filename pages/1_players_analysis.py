@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 
 def load_data():
-    df = pd.read_csv('all_seasons_combined_df_2023-07-25_12-50-09.csv')
+    df = pd.read_csv('data/all_seasons_combined_df_2023-07-25_12-50-09.csv')
     df = df.apply(lambda x: x.fillna(0) if x.dtype.kind in 'biufc' else x.fillna('None'))
     drop_cols = ['Unnamed: 0', 'shirtnumber']
     df = df.drop(drop_cols, axis=1)
