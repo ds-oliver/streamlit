@@ -57,10 +57,12 @@ def main():
     df_fdr_pts_vs = clean_pts_vs(df_fdr_pts_vs)
     df_fdr_color = colorcode_pts_vs(df_fdr_pts_vs)
 
-    df_fdr_pts_vs_styled = df_fdr_pts_vs.style.apply(lambda _: df_fdr_color, axis=None).set_precision(2)
+    pd.options.display.float_format = '{:.2f}'.format
+    df_fdr_pts_vs_styled = df_fdr_pts_vs.style.apply(lambda _: df_fdr_color, axis=None)
     df_html = df_fdr_pts_vs_styled.render()
 
     show_tables(df_html, df_fdr_best)
+
 
 if __name__ == "__main__":
     main()
