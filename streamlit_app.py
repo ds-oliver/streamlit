@@ -12,18 +12,19 @@ def load_data():
 def process_data(df):
     df['year'] = df['season'].str[:4]
     df['season_gameweek'] = df['year'] + '_' + df['gameweek'].astype(str)
-    df = df[['player', 'team', 'season_gameweek', 'minutes'] + [col for col in df.columns if col not in ['player', 'team', 'season_gameweek', 'minutes']]]
+    df = df[['player', 'team', 'season_gameweek', 'minutes', 'position_1'] + [col for col in df.columns if col not in ['player', 'team', 'season_gameweek', 'minutes']]]
     return df
 
-def plot_data(df1, selected_columns, selected_item):
-    st.line_chart(df1[df1[selected_item] == selected_item][selected_columns])
+def plot_data(df1, selected_columns, selected_item, item_type):
+    if item_type == 'player':
+        st.line_chart(df1[df1['player'] == selected_item][selected_columns])
+    elif item_type == 'team':
+        st.line_chart(df1[df1['team'] == selected_item][selected_columns])
 
-def filter_and_group_data(df1, player_or_team, season, gameweek):
-    df1 = df1[(df1['season'] == season) & (df1['gameweek'] == gameweek)]
-    if player_or_team == 'player':
-        df1 = df1.groupby(['player', 'year']).sum().reset_index()
-    elif player_or_team == 'team':
-        df1 = df1.groupby(['team', 'year']).sum().reset_index()
+
+def filter_and_group_data(df1, player_or_team, season, gameweek, position_1):
+    df1 = df1[(df1['season'] == season) & (df1['gameweek'] == gameweek) & (df1['position_1'] == position_1)]
+    df1 = df1.groupby(['player', 'team']).sum().reset_index()
     return df1
 
 def main():
@@ -43,12 +44,12 @@ def main():
         player_name = st.selectbox(label='Select a player', options=df1['player'].unique())
         st.write(df1[df1['player'] == player_name])
         columns_to_chart = st.multiselect(label='What columns do you want to chart?', options=df1.columns)
-        plot_data(df1, columns_to_chart, player_name)
+        plot_data(df1, columns_to_chart, player_name, 'player')
     elif player_or_team == 'team':
         team_name = st.selectbox(label='Select a team', options=df['team'].unique())
         st.write(df1[df1['team'] == team_name])
         columns_to_chart = st.multiselect(label='What columns do you want to chart?', options=df1.columns)
-        plot_data(df1, columns_to_chart, team_name)
+        plot_data(df1, columns_to_chart, team_name, 'team')
 
 if __name__ == "__main__":
     main()
