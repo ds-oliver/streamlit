@@ -201,3 +201,6 @@ def main():
 
     # Show head to head analysis
     show_head2head_analysis(df_all_seasons, player_df)
+
+if __name__ == "__main__":
+    main()
