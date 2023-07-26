@@ -41,9 +41,6 @@ def clean_dataframes(df):
 
     return df
 
-# concatenate the dataframes
-df_all_seasons = pd.concat(df_list)
-
 def show_head2head_analysis(df_all_seasons):
     # create a list of seasons
     season_list = df_all_seasons['season'].unique().tolist()
