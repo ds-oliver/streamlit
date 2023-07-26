@@ -12,7 +12,7 @@ def load_data():
 def process_data(df):
     df['year'] = df['season'].str[:4]
     df['season_gameweek'] = df['year'] + '_' + df['gameweek'].astype(str)
-    df = df[['player', 'team', 'season_gameweek', 'minutes', 'position_1'] + [col for col in df.columns if col not in ['player', 'team', 'season_gameweek', 'minutes']]]
+    df = df[['player', 'team', 'season_gameweek', 'minutes', 'position_1'] + [col for col in df.columns if col not in ['player', 'team', 'season_gameweek', 'minutes', 'position_1']]]
     return df
 
 def plot_data(df1, selected_columns, selected_item, item_type):
