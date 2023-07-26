@@ -35,7 +35,6 @@ def clean_dataframes(df):
     return df
 
 
-
 def show_head2head_analysis(df_all_seasons):
     # create a list of seasons
     season_list = df_all_seasons['season'].unique().tolist()
@@ -52,23 +51,17 @@ def show_head2head_analysis(df_all_seasons):
         st.error("Please select two different teams.")
         team_selection2 = st.selectbox('Select second team', [team for team in team_list if team != team_selection1])
 
-    # create a multiselect for seasons although seasons are not required
-    season_selection = st.multiselect('[Optional] Select season(s)', season_list)
+    # add a toggle button to decide whether to filter by season or not
+    filter_by_season = st.checkbox('Filter by season')
 
-    # if no season is selected, use the original dataframe
-    if not season_selection:
-        df_selected_teams_seasons = df_all_seasons[(df_all_seasons['home_team'].isin([team_selection1, team_selection2])) | (df_all_seasons['away_team'].isin([team_selection1, team_selection2]))]
+    if filter_by_season:
+        # create a multiselect for seasons
+        season_selection = st.multiselect('Select season(s)', season_list)
     else:
-        df_selected_teams_seasons = df_all_seasons[(df_all_seasons['home_team'].isin([team_selection1, team_selection2])) & (df_all_seasons['season'].isin(season_selection))]
+        season_selection = season_list  # if not filtered by season, include all seasons
 
-    # create a dataframe of the selected teams
-    df_selected_teams = df_all_seasons[df_all_seasons['home_team'].isin([team_selection1, team_selection2])]
-
-    # create a dataframe of the selected seasons
-    df_selected_seasons = df_all_seasons[df_all_seasons['season'].isin(season_selection)]
-
-    # create a dataframe of the selected teams and seasons
-    df_selected_teams_seasons = df_selected_teams[df_selected_teams['season'].isin(season_selection)]
+    # select matches involving either of the two teams and in the selected seasons
+    df_selected_teams_seasons = df_all_seasons[(df_all_seasons['home_team'].isin([team_selection1, team_selection2])) & (df_all_seasons['season'].isin(season_selection))]
 
     df_selected_teams_seasons['winner'] = np.where(df_selected_teams_seasons['home_score'] > df_selected_teams_seasons['away_score'], df_selected_teams_seasons['home_team'], df_selected_teams_seasons['away_team'])
     df_selected_teams_seasons['loser'] = np.where(df_selected_teams_seasons['home_score'] < df_selected_teams_seasons['away_score'], df_selected_teams_seasons['home_team'], df_selected_teams_seasons['away_team'])
