@@ -34,23 +34,30 @@ def main():
     df1 = process_data(df)
     st.write(df1)
     
-    player_or_team = st.radio(label='player or team?', options=['player', 'team'])
+    option = st.radio(label='Please choose:', options=['player', 'team', 'position'])
     season = st.selectbox(label='Select a season', options=df['season'].unique())
     gameweek = st.slider(label='Select a gameweek', min_value=1, max_value=38, value=1, step=1)
-    position_1 = st.selectbox(label='Select a position', options=df['position_1'].unique()) # add this line
 
-    df1 = filter_and_group_data(df1, player_or_team, season, gameweek, position_1) # and change this line
+    df1 = df1[(df1['season'] == season) & (df1['gameweek'] == gameweek)]
 
-    if player_or_team == 'player':
-        player_name = st.selectbox(label='Select a player', options=df1['player'].unique())
-        st.write(df1[df1['player'] == player_name])
-        columns_to_chart = st.multiselect(label='What columns do you want to chart?', options=df1.columns)
-        plot_data(df1, columns_to_chart, player_name, 'player')
-    elif player_or_team == 'team':
-        team_name = st.selectbox(label='Select a team', options=df['team'].unique())
-        st.write(df1[df1['team'] == team_name])
-        columns_to_chart = st.multiselect(label='What columns do you want to chart?', options=df1.columns)
-        plot_data(df1, columns_to_chart, team_name, 'team')
+    if option == 'player':
+        item_name = st.selectbox(label='Select a player', options=df1['player'].unique())
+        df1 = df1[df1['player'] == item_name]
+    elif option == 'team':
+        item_name = st.selectbox(label='Select a team', options=df1['team'].unique())
+        df1 = df1[df1['team'] == item_name]
+    elif option == 'position':
+        item_name = st.selectbox(label='Select a position', options=df1['position_1'].unique())
+        df1 = df1[df1['position_1'] == item_name]
+
+    st.write(df1)
+
+    columns_to_chart = st.multiselect(label='What columns do you want to chart?', options=df1.columns)
+    plot_data(df1, columns_to_chart, item_name, option)
+
+if __name__ == "__main__":
+    main()
+
 
 if __name__ == "__main__":
     main()
