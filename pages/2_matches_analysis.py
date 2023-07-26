@@ -50,8 +50,25 @@ def clean_dataframes(df):
 
     return df
 
+def get_top_players(team, player_df, stat, top=5):
+    """
+    Get the top players from a team for a given statistic.
 
-def show_head2head_analysis(df_all_seasons):
+    Parameters:
+    team (str): The team to get players from.
+    player_df (DataFrame): The player data.
+    stat (str): The statistic to rank players by.
+    top (int): The number of top players to return.
+
+    Returns:
+    DataFrame: A DataFrame with the top players and their stats.
+    """
+    team_df = player_df[player_df['team'] == team]
+    top_players = team_df.nlargest(top, stat)[['player', stat]]
+    return top_players
+
+
+def show_head2head_analysis(df_all_seasons, player_df):
     # create a list of seasons
     season_list = df_all_seasons['season'].unique().tolist()
 
@@ -119,11 +136,21 @@ def show_head2head_analysis(df_all_seasons):
 
     # set default dataframe formatting
     
-
     df_head2head = pd.DataFrame({team_selection1: team1_stats, team_selection2: team2_stats})
 
-    # display the dataframe
     st.dataframe(df_head2head)
+
+    # Get list of player numeric stats
+    player_numeric_stats = player_df.select_dtypes(include=[np.number]).columns.tolist()
+
+    # Add selectbox for user to select stat to rank players by
+    selected_stat = st.selectbox('Select a statistic to rank players by', player_numeric_stats)
+
+    st.subheader(f'Top 5 {team_selection1} players by {selected_stat}:')
+    st.dataframe(get_top_players(team_selection1, player_df, selected_stat))
+
+    st.subheader(f'Top 5 {team_selection2} players by {selected_stat}:')
+    st.dataframe(get_top_players(team_selection2, player_df, selected_stat))
 
 
 def main():
@@ -150,7 +177,11 @@ def main():
     # concatenate the cleaned dataframes
     df_all_seasons = pd.concat(df_list_cleaned)
 
-    show_head2head_analysis(df_all_seasons) 
+    # Load and process player data
+    player_df = load_player_data()
+    player_df = process_player_data(player_df)
+
+    show_head2head_analysis(df_all_seasons, player_df)
 
 
 if __name__ == "__main__":
