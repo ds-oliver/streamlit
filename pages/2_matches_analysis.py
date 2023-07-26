@@ -7,6 +7,19 @@ import uuid
 # load these files
 # df_2023-07-25_12-17-41_2022-2023.csv df_2023-07-25_11-44-56_2021-2022.csv df_2023-07-25_11-08-29_2020-2021.csv df_2023-07-25_10-32-44_2019-2020.csv df_2023-07-25_09-57-12_2018-2019.csv df_2023-07-25_09-57-10_2017-2018.csv
 
+def load_player_data():
+    player_df = pd.read_csv('data/all_seasons_combined_df_2023-07-25_12-50-09.csv')
+    player_df = player_df.apply(lambda x: x.fillna(0) if x.dtype.kind in 'biufc' else x.fillna('None'))
+    drop_cols = ['Unnamed: 0', 'shirtnumber']
+    player_df = player_df.drop(drop_cols, axis=1)
+    return player_df
+
+def process_player_data(player_df):
+    player_df['year'] = player_df['season'].str[:4]
+    player_df['season_gameweek'] = player_df['year'] + '_' + player_df['gameweek'].astype(str)
+    player_df = player_df[['player', 'team', 'season_gameweek', 'minutes', 'position_1'] + [col for col in player_df.columns if col not in ['player', 'team', 'season_gameweek', 'minutes', 'position_1']]]
+    return player_df
+
 def clean_dataframes(df):
     """Description: This function cleans the dataframes by removing unnecessary columns, reordering columns, creating new columns and renaming columns.
     
@@ -106,7 +119,6 @@ def show_head2head_analysis(df_all_seasons):
 
     # set default dataframe formatting
     
-
 
     df_head2head = pd.DataFrame({team_selection1: team1_stats, team_selection2: team2_stats})
 
