@@ -37,8 +37,9 @@ def main():
     player_or_team = st.radio(label='player or team?', options=['player', 'team'])
     season = st.selectbox(label='Select a season', options=df['season'].unique())
     gameweek = st.slider(label='Select a gameweek', min_value=1, max_value=38, value=1, step=1)
+    position_1 = st.selectbox(label='Select a position', options=df['position_1'].unique()) # add this line
 
-    df1 = filter_and_group_data(df1, player_or_team, season, gameweek)
+    df1 = filter_and_group_data(df1, player_or_team, season, gameweek, position_1) # and change this line
 
     if player_or_team == 'player':
         player_name = st.selectbox(label='Select a player', options=df1['player'].unique())
