@@ -185,6 +185,9 @@ def show_head2head_analysis(df_all_seasons, player_df):
     # Display the DataFrame
     st.dataframe(df_stats)
 
+    # create stat_list using list comprehension getting all columns that are numeric
+    stat_list = [col for col in player_df.columns if (player_df[col].dtype == 'float64' or player_df[col].dtype == 'int64')]
+
     # Let the user select a stat
     selected_stats = st.multiselect('Select player stat', stat_list, default=['key_passes', 'xg', 'xa'])
 
