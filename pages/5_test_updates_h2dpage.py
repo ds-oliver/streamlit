@@ -94,7 +94,8 @@ def get_top_players(team, player_df, stat, top=5):
         top_players_matchup = player_df[player_df['team'] == team].sort_values(by=stat, ascending=False).head(top)
 
         # Top players by season_merge_key
-        top_players_season = player_df.groupby(['season_merge_key', 'player']).agg({stat: 'sum'}).reset_index()
+        top_players_season = player_df.groupby(['season_merge_key', 'team', 'player']).agg({stat: 'sum'}).reset_index()
+
         top_players_season = top_players_season[top_players_season['team'] == team].sort_values(by=stat, ascending=False).head(top)
 
     return top_players_matchup, top_players_season
