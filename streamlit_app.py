@@ -13,4 +13,3 @@ st.write(df)
 # plot the data
 
 st.line_chart(df)
-
