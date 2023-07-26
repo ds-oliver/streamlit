@@ -58,12 +58,8 @@ def main():
     df_fdr_color = colorcode_pts_vs(df_fdr_pts_vs)
 
     df_fdr_pts_vs_styled = df_fdr_pts_vs.style.apply(lambda _: df_fdr_color, axis=None).format("{:.2f}")
-    df_html = df_fdr_pts_vs_styled.render() # Render to HTML
 
-    # Use st.write or st.markdown with unsafe_allow_html option to display HTML
-    st.write(df_html, unsafe_allow_html=True) 
-    show_tables(df_fdr_best)
-
+    show_tables(df_fdr_pts_vs_styled, df_fdr_best)
 
 
 if __name__ == "__main__":
