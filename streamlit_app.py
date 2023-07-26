@@ -22,7 +22,7 @@ df1['year'] = df1['season'].str[:4]
 
 df1['season_gameweek'] = df1['year'] + '_' + df1['gameweek'].astype(str)
 
-st.write(df)
+st.write(df1)
 
 # plot the data
 
@@ -41,29 +41,29 @@ player_or_team = st.radio(
 if player_or_team == 'player':
     player_name = st.selectbox(
         label='Select a player',
-        options=df['player'].unique())
+        options=df1['player'].unique())
 
-    st.write(df[df['player'] == player_name])
+    st.write(df1[df1['player'] == player_name])
 
     # plot the data
 
     columns_to_chart = st.multiselect(
         label='What columns do you want to chart?',
-        options=df.columns)
+        options=df1.columns)
 
-    st.line_chart(df[df['player'] == player_name][columns_to_chart])
+    st.line_chart(df1[df1['player'] == player_name][columns_to_chart])
 
 elif player_or_team == 'team':
     team_name = st.selectbox(
         label='Select a team',
         options=df['team'].unique())
 
-    st.write(df[df['team'] == team_name])
+    st.write(df1[df1['team'] == team_name])
 
     # plot the data
 
     columns_to_chart = st.multiselect(
         label='What columns do you want to chart?',
-        options=df.columns)
+        options=df1.columns)
 
-    st.line_chart(df[df['team'] == team_name][columns_to_chart])
+    st.line_chart(df1[df1['team'] == team_name][columns_to_chart])
