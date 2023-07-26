@@ -51,6 +51,9 @@ def show_head2head_analysis(df_all_seasons):
         st.error("Please select two different teams.")
         team_selection2 = st.selectbox('Select second team', [team for team in team_list if team != team_selection1])
 
+    # show message that by default all seasons are selected and show unique seasons values in this message
+    st.info(f"By default, all seasons are selected. To filter by season, check the box below and select the season(s) you want to filter by. The seasons available are: {', '.join(season_list)}")
+
     # add a toggle button to decide whether to filter by season or not
     filter_by_season = st.checkbox('Filter by season')
 
@@ -74,6 +77,11 @@ def show_head2head_analysis(df_all_seasons):
         'Draws': ((df_selected_teams_seasons['home_team'] == team_selection1) & (df_selected_teams_seasons['winner'] == 'Draw')).sum(),
         'Goals For': df_selected_teams_seasons.loc[df_selected_teams_seasons['home_team'] == team_selection1, 'home_score'].sum() + df_selected_teams_seasons.loc[df_selected_teams_seasons['away_team'] == team_selection1, 'away_score'].sum(),
         'Goals Against': df_selected_teams_seasons.loc[df_selected_teams_seasons['home_team'] == team_selection1, 'away_score'].sum() + df_selected_teams_seasons.loc[df_selected_teams_seasons['away_team'] == team_selection1, 'home_score'].sum(),
+        # expected goals for and against using the _xg columns
+        'xG For': df_selected_teams_seasons.loc[df_selected_teams_seasons['home_team'] == team_selection1, 'home_xg'].sum() + df_selected_teams_seasons.loc[df_selected_teams_seasons['away_team'] == team_selection1, 'away_xg'].sum(),
+        'xG Against': df_selected_teams_seasons.loc[df_selected_teams_seasons['home_team'] == team_selection1, 'away_xg'].sum() + df_selected_teams_seasons.loc[df_selected_teams_seasons['away_team'] == team_selection1, 'home_xg'].sum(),
+        # clean sheets are recorded when a team does not concede a goal in a match
+        'Clean Sheets': ((df_selected_teams_seasons['home_team'] == team_selection1) & (df_selected_teams_seasons['away_score'] == 0)).sum() + ((df_selected_teams_seasons['away_team'] == team_selection1) & (df_selected_teams_seasons['home_score'] == 0)).sum(),
     }
 
     team2_stats = {
@@ -82,7 +90,17 @@ def show_head2head_analysis(df_all_seasons):
         'Draws': ((df_selected_teams_seasons['home_team'] == team_selection2) & (df_selected_teams_seasons['winner'] == 'Draw')).sum(),
         'Goals For': df_selected_teams_seasons.loc[df_selected_teams_seasons['home_team'] == team_selection2, 'home_score'].sum() + df_selected_teams_seasons.loc[df_selected_teams_seasons['away_team'] == team_selection2, 'away_score'].sum(),
         'Goals Against': df_selected_teams_seasons.loc[df_selected_teams_seasons['home_team'] == team_selection2, 'away_score'].sum() + df_selected_teams_seasons.loc[df_selected_teams_seasons['away_team'] == team_selection2, 'home_score'].sum(),
+        # expected goals for and against using the _xg columns
+        'xG For': df_selected_teams_seasons.loc[df_selected_teams_seasons['home_team'] == team_selection2, 'home_xg'].sum() + df_selected_teams_seasons.loc[df_selected_teams_seasons['away_team'] == team_selection2, 'away_xg'].sum(),
+        'xG Against': df_selected_teams_seasons.loc[df_selected_teams_seasons['home_team'] == team_selection2, 'away_xg'].sum() + df_selected_teams_seasons.loc[df_selected_teams_seasons['away_team'] == team_selection2, 'home_xg'].sum(),
+        # clean sheets are recorded when a team does not concede a goal in a match
+        'Clean Sheets': ((df_selected_teams_seasons['home_team'] == team_selection2) & (df_selected_teams_seasons['away_score'] == 0)).sum() + ((df_selected_teams_seasons['away_team'] == team_selection2) & (df_selected_teams_seasons['home_score'] == 0)).sum(),
     }
+
+    # use colors to highlight the team with the highest value for each stat
+    team1_stats = {k: f"<span style='color: {'green' if v > team2_stats[k] else 'black'}'>{v}</span>" for k, v in team1_stats.items()}
+
+    team2_stats = {k: f"<span style='color: {'green' if v > team1_stats[k] else 'black'}'>{v}</span>" for k, v in team2_stats.items()}
 
     df_head2head = pd.DataFrame({team_selection1: team1_stats, team_selection2: team2_stats})
 
