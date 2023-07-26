@@ -130,9 +130,8 @@ def show_head2head_analysis():
 
     # create a column for the average goals conceded
     df_head2head['average_goals_conceded'] = df_head2head['total_goals_conceded'] / df_head2head['total_matches']
-
-    # create a column for the xg    
     
+
 
 
 def main():
