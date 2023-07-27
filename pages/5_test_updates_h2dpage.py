@@ -82,9 +82,9 @@ def clean_dataframes(df):
     df['opponent'] = df['away_team']
 
     # create match_teams column from team and opponent where we sort the team and opponent alphabetically and join with _
-    df['match_teams'] = df.apply(lambda row: '_'.join(sorted([row['team'], row['opponent']])), axis=1)
+    df['match_teams'] = df.apply(lambda row: '_'.join(sorted([row['team'], row['opponent']])), axis=1).str.replace(' ', '')
 
-    df['match_teams'].strip()
+    # df['match_teams'] = df['match_teams'].str.replace(' ', '')
 
     # create season_match_teams column from match_teams and season
     df['season_match_teams'] = df['match_teams'] + '_' + df['season'].astype(str)
