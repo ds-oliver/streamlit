@@ -287,3 +287,17 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+# def show_head2head_analysis(df_all_seasons, player_df):
+#     """Show head to head analysis between two teams for all seasons, a particular set of seasons, or a single seasons. The default is the most recent season. We get the user to select the season(s) they want to compare and then the teams they want to compare. We create a filtered dataframe based on the season(s) and teams selected. More specifically, from team and opponent selected by the user, we create a 'selected_teams' object that has the teams the user selected in alphabetical order. We filter the dataframe using the 'match_teams' column based on the 'selected_teams' object and then we group by player. Now we have a dataframe that contains all the players that played in the matches between the two teams selected by the user. We then create a multiselect for the user to select the stat(s) they want to compare. Default stats should be 'npxg', 'sca', 'gca'. 
+
+#     Args:
+#         df_all_seasons (dataframe): contains general match stats
+#         player_df (dataframe): contains player specific stats
+
+#     Returns:
+#         teams_dataframe: dataframe containing the stats of the players that played in the matches between the two teams selected by the user
+#         players_dataframe: dataframe containing the stats of the players that played in the matches between the two teams selected by the user
+#     """
+#     # Show head to head analysis between two teams for all seasons, a particular set of seasons, or a single seasons. The default is the most recent season. We get the user to select the season(s) they want to compare and then the teams they want to compare. We create a filtered dataframe based on the season(s) and teams selected. More specifically, from team and opponent selected by the user, we create a 'selected_teams' object that has the teams the user selected in alphabetical order. We filter the dataframe using the 'match_teams' column based on the 'selected_teams' object and then we group by player. Now we have a dataframe that contains all the players that played in the matches between the two teams selected by the user. We then create a multiselect for the user to select the stat(s) they want to compare. Default stats should be 'npxg', 'sca', 'gca'. 
