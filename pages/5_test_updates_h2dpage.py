@@ -4,7 +4,7 @@ import numpy as np
 import re
 import uuid
 
-@st.cache_data
+# @st.cache_data
 def load_player_data():
     player_df = pd.read_csv('data/all_seasons_combined_df_2023-07-25_12-50-09.csv')
     player_df = player_df.apply(lambda x: x.fillna(0) if x.dtype.kind in 'biufc' else x.fillna('None'))
