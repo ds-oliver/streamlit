@@ -203,7 +203,7 @@ def get_teams_stats(df, team1, team2):
     return stats_team1, stats_team2
 
 
-@st.cache_data
+@st.cache_data(experimental_allow_widgets=True)
 def show_head2head_analysis(df_all_seasons, player_df):
 
     st.info('Select season(s) you want to compare. \nNote: Default is the most recent season')
