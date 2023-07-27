@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2007,3,Blackburn,0.0,0.0,Arsenal,1.0,1.0,0,Alan Wiley,draw,draw,da235d4f-8c3e-5f50-b9b1-f9ecac85b37b,6123f101-fa66-5bdf-bbb5-ad9bf8ad1cd7,9e0b5a85-b596-58ed-87ff-172814cc54d5,Blackburn,Arsenal,Arsenal_Blackburn,Arsenal_Blackburn_2007
+2007,26,Arsenal,0.0,0.0,Blackburn,2.0,0.0,0,Stephen Bennett,Arsenal,Blackburn,499c42f5-1d0a-5a6e-87bd-e6f8928cd1d9,6123f101-fa66-5bdf-bbb5-ad9bf8ad1cd7,9e0b5a85-b596-58ed-87ff-172814cc54d5,Arsenal,Blackburn,Arsenal_Blackburn,Arsenal_Blackburn_2007

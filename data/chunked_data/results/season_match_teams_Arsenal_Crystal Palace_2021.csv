@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-2021,8,Arsenal,1.7,0.7,Crystal Palace,2.0,2.0,2021-10-18,0,draw,draw,a8c88eeb-81c1-5624-a013-d23162e2c717,0b982c5a-391b-5c5a-a87b-b269e795d42c,4bbeedda-c1e5-5d34-9d94-2cf98eb730c5,Arsenal,Crystal Palace,Arsenal_Crystal Palace,Arsenal_Crystal Palace_2021
-2021,31,Crystal Palace,1.5,0.8,Arsenal,3.0,0.0,2022-04-04,0,Crystal Palace,Arsenal,e3b988b2-3122-5b5d-ac3a-c018ca6e8155,0b982c5a-391b-5c5a-a87b-b269e795d42c,4bbeedda-c1e5-5d34-9d94-2cf98eb730c5,Crystal Palace,Arsenal,Arsenal_Crystal Palace,Arsenal_Crystal Palace_2021

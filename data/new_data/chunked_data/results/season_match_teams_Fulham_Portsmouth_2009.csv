@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2009,1,Portsmouth,0.0,0.0,Fulham,0.0,1.0,0,Martin Atkinson,Fulham,Portsmouth,bd5d11e2-a456-586e-a9cd-2c1b14bcbe54,bee04d8f-95fe-5772-8122-e39aa19d0bab,3077e57f-f535-52ad-b656-5879cc0f02db,Portsmouth,Fulham,Fulham_Portsmouth,Fulham_Portsmouth_2009
+2009,21,Fulham,0.0,0.0,Portsmouth,1.0,0.0,0,Anthony Taylor,Fulham,Portsmouth,101e1d2d-3781-572b-9a26-34883fc502a6,bee04d8f-95fe-5772-8122-e39aa19d0bab,3077e57f-f535-52ad-b656-5879cc0f02db,Fulham,Portsmouth,Fulham_Portsmouth,Fulham_Portsmouth_2009

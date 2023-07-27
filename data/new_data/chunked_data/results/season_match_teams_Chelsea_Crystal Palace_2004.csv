@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2004,3,Crystal Palace,0.0,0.0,Chelsea,0.0,2.0,0,Chris Foy,Chelsea,Crystal Palace,33ae7308-417c-5377-94d2-c6b375e75ac3,fb13bb64-8df9-5b5c-b626-6efb9f3628dc,4ae330d5-a2a2-5010-b138-d861ac2e15c3,Crystal Palace,Chelsea,Chelsea_Crystal Palace,Chelsea_Crystal Palace_2004
+2004,30,Chelsea,0.0,0.0,Crystal Palace,4.0,1.0,0,Phil Dowd,Chelsea,Crystal Palace,419cfd92-ff73-5ac9-bd77-ea42755d66f3,fb13bb64-8df9-5b5c-b626-6efb9f3628dc,4ae330d5-a2a2-5010-b138-d861ac2e15c3,Chelsea,Crystal Palace,Chelsea_Crystal Palace,Chelsea_Crystal Palace_2004

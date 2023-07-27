@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+1997,6,Barnsley,0.0,0.0,Aston Villa,0.0,3.0,0,Graham Barber,Aston Villa,Barnsley,6f8494ec-0c8b-525c-ad6a-9788529ea2d1,a82b843a-d821-5e76-9446-3a61cf881c22,6391bd30-b52f-5cb8-a6d5-eb6bafd40a29,Barnsley,Aston Villa,Aston Villa_Barnsley,Aston Villa_Barnsley_1997
+1997,26,Aston Villa,0.0,0.0,Barnsley,0.0,1.0,0,Peter Jones,Barnsley,Aston Villa,070b2210-6dfb-5049-b6a7-08f02a1fe571,a82b843a-d821-5e76-9446-3a61cf881c22,6391bd30-b52f-5cb8-a6d5-eb6bafd40a29,Aston Villa,Barnsley,Aston Villa_Barnsley,Aston Villa_Barnsley_1997

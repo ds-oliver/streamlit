@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2021,9,Crystal Palace,1.9,0.3,Newcastle Utd,1.0,1.0,2021-10-23,0,draw,draw,45e6121a-86ee-547f-8f8b-f444138991fd,884cb5e7-1e76-5998-84fa-af7d39bbca5b,1fb4f4be-f679-5194-afb8-20adc33332d0,Crystal Palace,Newcastle Utd,Crystal Palace_Newcastle Utd,Crystal Palace_Newcastle Utd_2021
+2021,30,Newcastle Utd,0.9,0.5,Crystal Palace,1.0,0.0,2022-04-20,0,Newcastle Utd,Crystal Palace,e486f758-9c96-5aa6-a275-2901f13c1152,884cb5e7-1e76-5998-84fa-af7d39bbca5b,1fb4f4be-f679-5194-afb8-20adc33332d0,Newcastle Utd,Crystal Palace,Crystal Palace_Newcastle Utd,Crystal Palace_Newcastle Utd_2021

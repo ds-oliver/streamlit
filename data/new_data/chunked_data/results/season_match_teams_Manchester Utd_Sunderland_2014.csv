@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2014,2,Sunderland,0.0,0.0,Manchester Utd,1.0,1.0,0,Martin Atkinson,draw,draw,765e805c-e60c-5197-ac04-417a6c9de90b,76f06bd6-af47-59b0-828f-f45feec4cf32,ff855d00-d9f5-5d02-aa6d-be7bf132bb98,Sunderland,Manchester Utd,Manchester Utd_Sunderland,Manchester Utd_Sunderland_2014
+2014,27,Manchester Utd,0.0,0.0,Sunderland,2.0,0.0,0,Roger East,Manchester Utd,Sunderland,6a825d5b-779a-5671-93ed-ca8adc111fb8,76f06bd6-af47-59b0-828f-f45feec4cf32,ff855d00-d9f5-5d02-aa6d-be7bf132bb98,Manchester Utd,Sunderland,Manchester Utd_Sunderland,Manchester Utd_Sunderland_2014

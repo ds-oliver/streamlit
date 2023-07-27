@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-1994,9,Tottenham,0.0,0.0,QPR,1.0,1.0,0,Roger Dilkes,draw,draw,184e5ec5-9e71-5b14-a34c-b4620be7571c,d30fc48f-e6ed-5c18-abba-89c29c848c33,b890d7b9-61fb-57c3-b142-f695ea2e2f55,Tottenham,QPR,QPR_Tottenham,QPR_Tottenham_1994
-1994,41,QPR,0.0,0.0,Tottenham,2.0,1.0,0,Graham Poll,QPR,Tottenham,a3141ad3-8743-5ac3-8195-12b7260af7e9,d30fc48f-e6ed-5c18-abba-89c29c848c33,b890d7b9-61fb-57c3-b142-f695ea2e2f55,QPR,Tottenham,QPR_Tottenham,QPR_Tottenham_1994

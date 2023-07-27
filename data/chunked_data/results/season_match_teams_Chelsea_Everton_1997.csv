@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-1997,2,Chelsea,0.0,0.0,Everton,2.0,0.0,0,Neale Barry,Chelsea,Everton,612d9f6a-45d2-511d-934c-924c7f19e207,febaa9d0-3823-5249-8227-3ef8af4034db,9c6696c1-f596-5e07-90a3-867f7e4d1eeb,Chelsea,Everton,Chelsea_Everton,Chelsea_Everton_1997
-1997,23,Everton,0.0,0.0,Chelsea,3.0,1.0,0,Alan Wilkie,Everton,Chelsea,eed5136e-c95b-5f1d-8fc4-85275c919fa4,febaa9d0-3823-5249-8227-3ef8af4034db,9c6696c1-f596-5e07-90a3-867f7e4d1eeb,Everton,Chelsea,Chelsea_Everton,Chelsea_Everton_1997

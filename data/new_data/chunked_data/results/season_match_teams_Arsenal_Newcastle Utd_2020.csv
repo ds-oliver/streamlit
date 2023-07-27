@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2020,19,Arsenal,2.4,0.2,Newcastle Utd,3.0,0.0,2021-01-18,0,Arsenal,Newcastle Utd,38bf4cc0-0d77-5489-962b-ad992f7436e7,26d3c673-e19b-5165-92c7-d7e1a8445fcc,73d0de35-27a6-5254-bea9-daf6e00d7195,Arsenal,Newcastle Utd,Arsenal_Newcastle Utd,Arsenal_Newcastle Utd_2020
+2020,34,Newcastle Utd,0.3,2.0,Arsenal,0.0,2.0,2021-05-02,0,Arsenal,Newcastle Utd,f6939868-5a3f-535e-87a6-306cf3fff06b,26d3c673-e19b-5165-92c7-d7e1a8445fcc,73d0de35-27a6-5254-bea9-daf6e00d7195,Newcastle Utd,Arsenal,Arsenal_Newcastle Utd,Arsenal_Newcastle Utd_2020

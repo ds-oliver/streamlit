@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-2020,14,Tottenham,0.7,1.7,Leicester City,0.0,2.0,2020-12-20,0,Leicester City,Tottenham,d86f4e8d-e287-524f-a3aa-a138ad3d8b3c,834f9057-0119-5261-8629-1175f592393a,84f13cb3-ea86-5cad-9574-ae0189ae8755,Tottenham,Leicester City,Leicester City_Tottenham,Leicester City_Tottenham_2020
-2020,38,Leicester City,1.9,1.5,Tottenham,2.0,4.0,2021-05-23,0,Tottenham,Leicester City,aa1680b6-8cb1-5adc-9abe-d474093e50cd,834f9057-0119-5261-8629-1175f592393a,84f13cb3-ea86-5cad-9574-ae0189ae8755,Leicester City,Tottenham,Leicester City_Tottenham,Leicester City_Tottenham_2020

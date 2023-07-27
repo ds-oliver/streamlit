@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2010,2,Everton,0.0,0.0,Wolves,1.0,1.0,0,Lee Mason,draw,draw,b6875e87-7fb5-5f29-9475-caecb766b402,a8da8a70-6840-56c3-846d-cf6ff03cefac,bed206c5-9bb3-5262-85be-79b1bf99c57d,Everton,Wolves,Everton_Wolves,Everton_Wolves_2010
+2010,32,Wolves,0.0,0.0,Everton,0.0,3.0,0,Phil Dowd,Everton,Wolves,35476023-fb50-5bd6-8b29-143ea5aa8a92,a8da8a70-6840-56c3-846d-cf6ff03cefac,bed206c5-9bb3-5262-85be-79b1bf99c57d,Wolves,Everton,Everton_Wolves,Everton_Wolves_2010

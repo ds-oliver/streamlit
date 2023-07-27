@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2018,7,West Ham,1.4,0.7,Manchester Utd,3.0,1.0,2018-09-29,0,West Ham,Manchester Utd,d5570b88-d852-5bfb-b019-2a6975bb7223,7ab9ba9f-6fed-51be-8b8f-b8c54699bf3f,f2c76065-60b0-5d81-9c32-4cb6b258a2da,West Ham,Manchester Utd,Manchester Utd_West Ham,Manchester Utd_West Ham_2018
+2018,34,Manchester Utd,2.5,1.4,West Ham,2.0,1.0,2019-04-13,0,Manchester Utd,West Ham,182bf906-10f0-509f-9a15-23b9cf403b31,7ab9ba9f-6fed-51be-8b8f-b8c54699bf3f,f2c76065-60b0-5d81-9c32-4cb6b258a2da,Manchester Utd,West Ham,Manchester Utd_West Ham,Manchester Utd_West Ham_2018

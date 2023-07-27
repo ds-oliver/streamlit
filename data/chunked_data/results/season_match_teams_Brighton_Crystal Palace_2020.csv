@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-2020,5,Crystal Palace,0.8,1.7,Brighton,1.0,1.0,2020-10-18,0,draw,draw,d035cbab-f598-5db0-ba36-f2f8a7461a6d,f8dd9215-20f7-5103-bed9-9ced675b1c25,9be5cfec-38a4-54fc-9dfc-36d17e161975,Crystal Palace,Brighton,Brighton_Crystal Palace,Brighton_Crystal Palace_2020
-2020,25,Brighton,2.4,0.2,Crystal Palace,1.0,2.0,2021-02-22,0,Crystal Palace,Brighton,5337f161-de00-518d-92af-c5defee30b1a,f8dd9215-20f7-5103-bed9-9ced675b1c25,9be5cfec-38a4-54fc-9dfc-36d17e161975,Brighton,Crystal Palace,Brighton_Crystal Palace,Brighton_Crystal Palace_2020

@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2007,4,Bolton,0.0,0.0,Reading,3.0,0.0,0,Mark Clattenburg,Bolton,Reading,39911b3a-69b9-58d5-aef4-39da825bc0f1,383cb809-c5cd-5e18-b6d2-2f43a678113f,cfe8e82e-96a5-5919-b5c7-c144c32fe04f,Bolton,Reading,Bolton_Reading,Bolton_Reading_2007
+2007,25,Reading,0.0,0.0,Bolton,0.0,2.0,0,Phil Dowd,Bolton,Reading,17ca2993-033f-5928-a70c-1c3b7224e837,383cb809-c5cd-5e18-b6d2-2f43a678113f,cfe8e82e-96a5-5919-b5c7-c144c32fe04f,Reading,Bolton,Bolton_Reading,Bolton_Reading_2007

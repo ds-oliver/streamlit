@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-2017,9,Everton,1.0,3.5,Arsenal,2.0,5.0,2017-10-22,0,Arsenal,Everton,1e74cd7c-f523-5caf-82c7-042edbc1f1d6,52c688cb-9c56-584e-8e90-6567c18618aa,1566ac9c-94b4-5da0-b5ea-5684ffe7d868,Everton,Arsenal,Arsenal_Everton,Arsenal_Everton_2017
-2017,26,Arsenal,2.6,1.2,Everton,5.0,1.0,2018-02-03,0,Arsenal,Everton,2453a289-f007-5f3a-a029-1d0e2ea986b6,52c688cb-9c56-584e-8e90-6567c18618aa,1566ac9c-94b4-5da0-b5ea-5684ffe7d868,Arsenal,Everton,Arsenal_Everton,Arsenal_Everton_2017

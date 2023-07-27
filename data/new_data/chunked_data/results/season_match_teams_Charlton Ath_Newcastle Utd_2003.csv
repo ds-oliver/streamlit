@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2003,17,Charlton Ath,0.0,0.0,Newcastle Utd,0.0,0.0,0,Stephen Bennett,draw,draw,10ea1847-d202-57fa-afb0-c5fd7bbbd8ba,0aba2358-0581-56a2-bab1-42f3df13cbf3,78e4d562-953a-5f3d-b1a5-3d2ea1cf9a2d,Charlton Ath,Newcastle Utd,Charlton Ath_Newcastle Utd,Charlton Ath_Newcastle Utd_2003
+2003,29,Newcastle Utd,0.0,0.0,Charlton Ath,3.0,1.0,0,Mike Riley,Newcastle Utd,Charlton Ath,19c86a2f-c72f-5846-9ceb-58af6bb1f22a,0aba2358-0581-56a2-bab1-42f3df13cbf3,78e4d562-953a-5f3d-b1a5-3d2ea1cf9a2d,Newcastle Utd,Charlton Ath,Charlton Ath_Newcastle Utd,Charlton Ath_Newcastle Utd_2003

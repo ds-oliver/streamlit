@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+1999,6,Derby County,0.0,0.0,Everton,1.0,0.0,0,Andy D'Urso,Derby County,Everton,32ebaea7-4a8c-5f74-a431-923ec2c899a9,cbdb0d5a-7db4-5eaf-959f-21282313d0dd,1c213a68-a963-51b9-808e-aebe44085623,Derby County,Everton,Derby County_Everton,Derby County_Everton_1999
+1999,25,Everton,0.0,0.0,Derby County,2.0,1.0,0,Uriah Rennie,Everton,Derby County,16fbc871-cb59-5e09-b38f-156100684d6d,cbdb0d5a-7db4-5eaf-959f-21282313d0dd,1c213a68-a963-51b9-808e-aebe44085623,Everton,Derby County,Derby County_Everton,Derby County_Everton_1999

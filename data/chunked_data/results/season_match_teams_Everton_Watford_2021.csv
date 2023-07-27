@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-2021,9,Everton,1.5,3.7,Watford,2.0,5.0,2021-10-23,0,Watford,Everton,e78d832f-4895-5edc-a920-7bfd83468b50,1ce2949d-031a-52d5-b465-5389fe1fc355,97800ee6-f8fc-5d0c-9e74-8ddd57a9cb77,Everton,Watford,Everton_Watford,Everton_Watford_2021
-2021,30,Watford,0.3,0.7,Everton,0.0,0.0,2022-05-11,0,draw,draw,8d4d96fa-a454-515c-9e53-45b4877ed7ba,1ce2949d-031a-52d5-b465-5389fe1fc355,97800ee6-f8fc-5d0c-9e74-8ddd57a9cb77,Watford,Everton,Everton_Watford,Everton_Watford_2021

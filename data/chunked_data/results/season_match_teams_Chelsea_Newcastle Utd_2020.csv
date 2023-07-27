@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-2020,9,Newcastle Utd,0.3,1.5,Chelsea,0.0,2.0,2020-11-21,0,Chelsea,Newcastle Utd,452a4a5e-4b2b-5128-b434-d548c33c5439,685aa728-3f47-588a-91e7-100c9cd9b719,f8ae328c-b1a3-5eea-b9ef-9acefa016eb2,Newcastle Utd,Chelsea,Chelsea_Newcastle Utd,Chelsea_Newcastle Utd_2020
-2020,24,Chelsea,2.2,0.6,Newcastle Utd,2.0,0.0,2021-02-15,0,Chelsea,Newcastle Utd,e11bc7e2-b872-532e-a67b-66f34353b2f5,685aa728-3f47-588a-91e7-100c9cd9b719,f8ae328c-b1a3-5eea-b9ef-9acefa016eb2,Chelsea,Newcastle Utd,Chelsea_Newcastle Utd,Chelsea_Newcastle Utd_2020

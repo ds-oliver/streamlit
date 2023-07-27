@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2008,4,Wigan Athletic,0.0,0.0,Sunderland,1.0,1.0,0,Rob Styles,draw,draw,da3c51de-c706-5a46-b3fb-4309cc994b93,51a54cb9-5fb8-5667-a62b-47d10bd4a3c6,137e68d1-9387-5f69-9a2e-64760ddbfbaf,Wigan Athletic,Sunderland,Sunderland_Wigan Athletic,Sunderland_Wigan Athletic_2008
+2008,29,Sunderland,0.0,0.0,Wigan Athletic,1.0,2.0,0,Mike Dean,Wigan Athletic,Sunderland,7e49669b-5a16-59fa-a900-6689ad4246fa,51a54cb9-5fb8-5667-a62b-47d10bd4a3c6,137e68d1-9387-5f69-9a2e-64760ddbfbaf,Sunderland,Wigan Athletic,Sunderland_Wigan Athletic,Sunderland_Wigan Athletic_2008

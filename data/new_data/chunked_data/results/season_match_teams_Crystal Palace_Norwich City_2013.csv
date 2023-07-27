@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2013,13,Norwich City,0.0,0.0,Crystal Palace,1.0,0.0,0,Chris Foy,Norwich City,Crystal Palace,80a68607-44d9-5a49-952d-1842dd248001,1a857028-dd07-589e-8fc2-d7a23a9fa587,9c0ae6e3-4c0b-54fd-8051-084caf07abaa,Norwich City,Crystal Palace,Crystal Palace_Norwich City,Crystal Palace_Norwich City_2013
+2013,20,Crystal Palace,0.0,0.0,Norwich City,1.0,1.0,0,Mike Dean,draw,draw,105cc152-55f5-548a-818b-b254caee8c82,1a857028-dd07-589e-8fc2-d7a23a9fa587,9c0ae6e3-4c0b-54fd-8051-084caf07abaa,Crystal Palace,Norwich City,Crystal Palace_Norwich City,Crystal Palace_Norwich City_2013

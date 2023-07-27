@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2011,6,West Brom,0.0,0.0,Fulham,0.0,0.0,0,Stuart Attwell,draw,draw,acca93f9-a4a9-5088-bd5c-8a75ab3fb087,a4837af4-dedd-58c4-972c-4d67329aedf9,f32e30cd-8882-5ec5-bec1-fddba7c0bcf8,West Brom,Fulham,Fulham_West Brom,Fulham_West Brom_2011
+2011,23,Fulham,0.0,0.0,West Brom,1.0,1.0,0,Mark Halsey,draw,draw,d24adf73-af5a-5a98-8f0d-38d5675fc56f,a4837af4-dedd-58c4-972c-4d67329aedf9,f32e30cd-8882-5ec5-bec1-fddba7c0bcf8,Fulham,West Brom,Fulham_West Brom,Fulham_West Brom_2011

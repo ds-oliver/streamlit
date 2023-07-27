@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+1992,19,QPR,0.0,0.0,Crystal Palace,1.0,3.0,0,Robbie Hart,Crystal Palace,QPR,26280f25-0b31-5b95-87c4-487e79e7e80f,7d13c62d-982a-522c-af59-62e4f6a0cc29,c123d40f-3fb9-54d7-845d-1240940bd29a,QPR,Crystal Palace,Crystal Palace_QPR,Crystal Palace_QPR_1992
+1992,37,Crystal Palace,0.0,0.0,QPR,1.0,1.0,0,Alan Wilkie,draw,draw,59ef6ddd-f541-5d90-95d1-876ac378d95f,7d13c62d-982a-522c-af59-62e4f6a0cc29,c123d40f-3fb9-54d7-845d-1240940bd29a,Crystal Palace,QPR,Crystal Palace_QPR,Crystal Palace_QPR_1992

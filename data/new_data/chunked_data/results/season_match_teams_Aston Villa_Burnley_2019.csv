@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2019,7,Aston Villa,1.0,1.5,Burnley,2.0,2.0,2019-09-28,0,draw,draw,6343267b-4b8b-5246-8c93-e1a2d996b3da,2edabcb0-8262-527d-8dc1-9e6bb209ef76,494d28e1-5044-56f2-9f08-b91bf8a2175b,Aston Villa,Burnley,Aston Villa_Burnley,Aston Villa_Burnley_2019
+2019,21,Burnley,2.2,1.3,Aston Villa,1.0,2.0,2020-01-01,0,Aston Villa,Burnley,dbb9b9d1-1068-5a0a-b56e-716bbb821bc0,2edabcb0-8262-527d-8dc1-9e6bb209ef76,494d28e1-5044-56f2-9f08-b91bf8a2175b,Burnley,Aston Villa,Aston Villa_Burnley,Aston Villa_Burnley_2019

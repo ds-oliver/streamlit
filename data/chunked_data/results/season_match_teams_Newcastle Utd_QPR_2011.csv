@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-2011,4,QPR,0.0,0.0,Newcastle Utd,0.0,0.0,0,Phil Dowd,draw,draw,dc6a7495-b357-557a-9828-e451b407b592,cc8f9956-e539-5430-b2e5-135493a343ba,e0320373-26ae-5526-8713-0153db7059db,QPR,Newcastle Utd,Newcastle Utd_QPR,Newcastle Utd_QPR_2011
-2011,21,Newcastle Utd,0.0,0.0,QPR,1.0,0.0,0,Chris Foy,Newcastle Utd,QPR,22383c96-210a-59f5-be45-754b61c343c2,cc8f9956-e539-5430-b2e5-135493a343ba,e0320373-26ae-5526-8713-0153db7059db,Newcastle Utd,QPR,Newcastle Utd_QPR,Newcastle Utd_QPR_2011

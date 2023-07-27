@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-1995,9,Blackburn,0.0,0.0,Southampton,2.0,1.0,0,Mike Reed,Blackburn,Southampton,c1aba8f1-17e7-560f-bdc4-874842e48d05,ae7ff4d1-423c-5f00-8ca3-67ddbea27a66,9953898e-ef44-553c-953f-d455218934f7,Blackburn,Southampton,Blackburn_Southampton,Blackburn_Southampton_1995
-1995,34,Southampton,0.0,0.0,Blackburn,1.0,0.0,0,David Elleray,Southampton,Blackburn,515f01a7-85ae-5cac-bf9a-ff635e44cfa4,ae7ff4d1-423c-5f00-8ca3-67ddbea27a66,9953898e-ef44-553c-953f-d455218934f7,Southampton,Blackburn,Blackburn_Southampton,Blackburn_Southampton_1995

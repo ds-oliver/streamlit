@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2018,5,Southampton,2.0,1.4,Brighton,2.0,2.0,2018-09-17,0,draw,draw,60eee727-544c-5148-b559-d4969ab49c5e,d16b972b-49c2-5a62-b4bb-eb6581677f53,625e8dff-21e2-5b50-930e-0f25f720879d,Southampton,Brighton,Brighton_Southampton,Brighton_Southampton_2018
+2018,32,Brighton,0.7,0.7,Southampton,0.0,1.0,2019-03-30,0,Southampton,Brighton,eb88afd2-2c9a-5fca-815c-4ed20c7d1a83,d16b972b-49c2-5a62-b4bb-eb6581677f53,625e8dff-21e2-5b50-930e-0f25f720879d,Brighton,Southampton,Brighton_Southampton,Brighton_Southampton_2018

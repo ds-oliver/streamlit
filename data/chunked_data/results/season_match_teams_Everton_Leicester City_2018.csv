@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-2018,8,Leicester City,0.9,1.3,Everton,1.0,2.0,2018-10-06,0,Everton,Leicester City,ef4f16c5-00d9-5a4a-a204-feba3eba7f44,d42bb8f7-6b5a-5879-a36e-f363cc490fa6,6e5e8b79-f6ea-5df4-b44d-f383dcc1f441,Leicester City,Everton,Everton_Leicester City,Everton_Leicester City_2018
-2018,21,Everton,1.0,0.6,Leicester City,0.0,1.0,2019-01-01,0,Leicester City,Everton,5f961ce2-f8d4-5c0b-b55f-3b7767f956cf,d42bb8f7-6b5a-5879-a36e-f363cc490fa6,6e5e8b79-f6ea-5df4-b44d-f383dcc1f441,Everton,Leicester City,Everton_Leicester City,Everton_Leicester City_2018

@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2000,20,Bradford City,0.0,0.0,Sunderland,1.0,4.0,0,Paul Durkin,Sunderland,Bradford City,5345bf59-ba41-5fe4-9cf9-541e081d35a2,d6308bbc-ac3f-5d59-b364-803963d830cf,73b659e5-b14c-568c-8352-3bc86a729f5b,Bradford City,Sunderland,Bradford City_Sunderland,Bradford City_Sunderland_2000
+2000,24,Sunderland,0.0,0.0,Bradford City,0.0,0.0,0,Mark Halsey,draw,draw,6fe92f77-fa93-5a29-b4e8-074a3a107306,d6308bbc-ac3f-5d59-b364-803963d830cf,73b659e5-b14c-568c-8352-3bc86a729f5b,Sunderland,Bradford City,Bradford City_Sunderland,Bradford City_Sunderland_2000

@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-2017,1,Chelsea,1.5,0.6,Burnley,2.0,3.0,2017-08-12,0,Burnley,Chelsea,713984c3-edbb-5eb7-b514-eb24ef2f82a6,6cf0daa1-2b3e-5d71-97b4-e4699e26befe,fd18b474-bc43-5cd4-8dc7-de2caa4069f2,Chelsea,Burnley,Burnley_Chelsea,Burnley_Chelsea_2017
-2017,31,Burnley,0.2,1.7,Chelsea,1.0,2.0,2018-04-19,0,Chelsea,Burnley,30f4275a-3e08-59c0-a36a-fcb2a89ba0fc,6cf0daa1-2b3e-5d71-97b4-e4699e26befe,fd18b474-bc43-5cd4-8dc7-de2caa4069f2,Burnley,Chelsea,Burnley_Chelsea,Burnley_Chelsea_2017

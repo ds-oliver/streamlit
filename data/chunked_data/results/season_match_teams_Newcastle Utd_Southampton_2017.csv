@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-2017,8,Southampton,1.5,1.2,Newcastle Utd,2.0,2.0,2017-10-15,0,draw,draw,8d34ac06-ccdb-5575-9ca5-9a3cbf82bbd9,105841b6-c3d6-5567-b3a1-9f52377fc305,fc3acf34-c5a8-57af-9d08-ff0e62d65f83,Southampton,Newcastle Utd,Newcastle Utd_Southampton,Newcastle Utd_Southampton_2017
-2017,30,Newcastle Utd,1.3,0.3,Southampton,3.0,0.0,2018-03-10,0,Newcastle Utd,Southampton,25ba1bea-f83e-52e7-80e6-10c7c88ab474,105841b6-c3d6-5567-b3a1-9f52377fc305,fc3acf34-c5a8-57af-9d08-ff0e62d65f83,Newcastle Utd,Southampton,Newcastle Utd_Southampton,Newcastle Utd_Southampton_2017

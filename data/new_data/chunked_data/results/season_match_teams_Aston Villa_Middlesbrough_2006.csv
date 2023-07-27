@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2006,14,Aston Villa,0.0,0.0,Middlesbrough,1.0,1.0,0,Peter Walton,draw,draw,da0d8046-d20f-54ce-adfe-84f0b56cd907,e804bd4e-19cf-54fb-b6fe-d7fe27050f60,a33096e5-5d43-5895-a2b4-5c42794b93aa,Aston Villa,Middlesbrough,Aston Villa_Middlesbrough,Aston Villa_Middlesbrough_2006
+2006,34,Middlesbrough,0.0,0.0,Aston Villa,1.0,3.0,0,Dermot Gallagher,Aston Villa,Middlesbrough,d2516a9a-a3a4-598c-b8e7-a3dc496b0cc5,e804bd4e-19cf-54fb-b6fe-d7fe27050f60,a33096e5-5d43-5895-a2b4-5c42794b93aa,Middlesbrough,Aston Villa,Aston Villa_Middlesbrough,Aston Villa_Middlesbrough_2006

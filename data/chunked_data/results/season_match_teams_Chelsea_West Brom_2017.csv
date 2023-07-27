@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-2017,12,West Brom,0.8,1.6,Chelsea,0.0,4.0,2017-11-18,0,Chelsea,West Brom,5bb2dd2c-a696-533c-b9c4-1fb0df2f337f,53c8bde1-521d-5e47-9a2b-a82172be079b,d041b22c-43f2-53ca-9e12-732407bddcac,West Brom,Chelsea,Chelsea_West Brom,Chelsea_West Brom_2017
-2017,27,Chelsea,1.9,0.7,West Brom,3.0,0.0,2018-02-12,0,Chelsea,West Brom,bb5ff373-43e2-57ae-8c9d-6026238fdf18,53c8bde1-521d-5e47-9a2b-a82172be079b,d041b22c-43f2-53ca-9e12-732407bddcac,Chelsea,West Brom,Chelsea_West Brom,Chelsea_West Brom_2017

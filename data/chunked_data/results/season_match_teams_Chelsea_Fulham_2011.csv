@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-2011,18,Chelsea,0.0,0.0,Fulham,1.0,1.0,0,Kevin Friend,draw,draw,6e8fd5bb-c63d-54b6-87bb-a55bd6d1e93d,4e26d9d5-e485-5a81-89cc-54f401fd5f3c,839690c0-c15c-5eca-bcf4-d20ac0897900,Chelsea,Fulham,Chelsea_Fulham,Chelsea_Fulham_2011
-2011,33,Fulham,0.0,0.0,Chelsea,1.0,1.0,0,Mark Clattenburg,draw,draw,abf0e2f0-819a-52c8-9c60-d2a8ec4bb3ac,4e26d9d5-e485-5a81-89cc-54f401fd5f3c,839690c0-c15c-5eca-bcf4-d20ac0897900,Fulham,Chelsea,Chelsea_Fulham,Chelsea_Fulham_2011

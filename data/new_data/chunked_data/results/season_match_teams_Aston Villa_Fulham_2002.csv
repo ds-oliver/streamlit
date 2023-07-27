@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2002,13,Aston Villa,0.0,0.0,Fulham,3.0,1.0,0,Andy D'Urso,Aston Villa,Fulham,5534d48b-a7ec-5096-b823-cf85729caa45,dba89333-f367-56b0-9fa1-7fec86aa5f5c,7d82cd4b-2644-558a-b57c-c386fb0d17ca,Aston Villa,Fulham,Aston Villa_Fulham,Aston Villa_Fulham_2002
+2002,27,Fulham,0.0,0.0,Aston Villa,2.0,1.0,0,Steve Dunn,Fulham,Aston Villa,073dea7d-d1e9-5c0a-9a4e-4a0cb5c94b1f,dba89333-f367-56b0-9fa1-7fec86aa5f5c,7d82cd4b-2644-558a-b57c-c386fb0d17ca,Fulham,Aston Villa,Aston Villa_Fulham,Aston Villa_Fulham_2002

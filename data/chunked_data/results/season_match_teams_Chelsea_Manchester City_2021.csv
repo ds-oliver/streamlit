@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-2021,6,Chelsea,0.2,1.7,Manchester City,0.0,1.0,2021-09-25,0,Manchester City,Chelsea,9b819a7d-04e3-561d-aaba-10523f8888b2,85feaa5f-216f-5a82-8d71-5ae1b9de9f33,2253310d-d2fa-5dde-be16-8eb3666f2282,Chelsea,Manchester City,Chelsea_Manchester City,Chelsea_Manchester City_2021
-2021,22,Manchester City,1.0,0.3,Chelsea,1.0,0.0,2022-01-15,0,Manchester City,Chelsea,f5b77276-65be-564a-b1db-5eff58398bc2,85feaa5f-216f-5a82-8d71-5ae1b9de9f33,2253310d-d2fa-5dde-be16-8eb3666f2282,Manchester City,Chelsea,Chelsea_Manchester City,Chelsea_Manchester City_2021

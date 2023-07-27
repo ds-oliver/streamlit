@@ -1,5 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-1995,8,Bolton,0.0,0.0,QPR,0.0,1.0,0,Jeff Winter,QPR,Bolton,c3c0c755-3f7e-57c3-b729-b47231d2105f,145d6005-764a-5c6b-9ce8-48afb6c889d6,01cfe9dd-1be0-5a0b-ad8f-276807d739b7,Bolton,QPR,Bolton_QPR,Bolton_QPR_1995
-1995,18,QPR,0.0,0.0,Bolton,2.0,1.0,0,Stephen Lodge,QPR,Bolton,cdc308f0-1305-5fec-b675-7596b65dc43f,145d6005-764a-5c6b-9ce8-48afb6c889d6,01cfe9dd-1be0-5a0b-ad8f-276807d739b7,QPR,Bolton,Bolton_QPR,Bolton_QPR_1995
-2011,1,QPR,0.0,0.0,Bolton,0.0,4.0,0,Martin Atkinson,Bolton,QPR,ee62a2b2-14cf-58ea-86be-6630818d0983,145d6005-764a-5c6b-9ce8-48afb6c889d6,ca8ed672-3b18-58c4-9a95-7e3af6ff0df1,QPR,Bolton,Bolton_QPR,Bolton_QPR_2011
-2011,28,Bolton,0.0,0.0,QPR,2.0,1.0,0,Martin Atkinson,Bolton,QPR,6a1c8983-8340-5ba4-865f-9ffad831349a,145d6005-764a-5c6b-9ce8-48afb6c889d6,ca8ed672-3b18-58c4-9a95-7e3af6ff0df1,Bolton,QPR,Bolton_QPR,Bolton_QPR_2011

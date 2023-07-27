@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-2019,10,Liverpool,2.6,1.2,Tottenham,2.0,1.0,2019-10-27,0,Liverpool,Tottenham,b796bb8f-7c14-5816-9f64-de1274b4b9b4,6b4436bc-1c6f-5b26-94f5-113bce14583d,8caa7f1f-8124-5be3-961b-46e37538bf64,Liverpool,Tottenham,Liverpool_Tottenham,Liverpool_Tottenham_2019
-2019,22,Tottenham,1.2,1.2,Liverpool,0.0,1.0,2020-01-11,0,Liverpool,Tottenham,0bc843e2-7357-58a1-af22-a6cc4f415e9e,6b4436bc-1c6f-5b26-94f5-113bce14583d,8caa7f1f-8124-5be3-961b-46e37538bf64,Tottenham,Liverpool,Liverpool_Tottenham,Liverpool_Tottenham_2019

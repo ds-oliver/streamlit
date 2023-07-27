@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2019,7,Wolves,1.4,1.4,Watford,2.0,0.0,2019-09-28,0,Wolves,Watford,1e009e84-eed5-531f-aa36-95118f176d37,7f28ecda-60ad-5e14-8d3f-ed1944aea9e9,62610e17-9c15-5c30-882b-8f3503735952,Wolves,Watford,Watford_Wolves,Watford_Wolves_2019
+2019,21,Watford,1.1,1.2,Wolves,2.0,1.0,2020-01-01,0,Watford,Wolves,eeb0ec7d-8d1d-5cbf-ab3a-7dfb3656dfb0,7f28ecda-60ad-5e14-8d3f-ed1944aea9e9,62610e17-9c15-5c30-882b-8f3503735952,Watford,Wolves,Watford_Wolves,Watford_Wolves_2019

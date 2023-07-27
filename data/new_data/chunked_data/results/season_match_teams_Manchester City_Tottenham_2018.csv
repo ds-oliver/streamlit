@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2018,10,Tottenham,0.4,1.6,Manchester City,0.0,1.0,2018-10-29,0,Manchester City,Tottenham,7394ce4c-d98c-5b80-9b41-5b9cf005dc89,54043609-c77b-57b1-af20-914ee4bd409d,54a7a73b-8830-544c-8f06-50aca1c2b556,Tottenham,Manchester City,Manchester City_Tottenham,Manchester City_Tottenham_2018
+2018,35,Manchester City,1.9,1.0,Tottenham,1.0,0.0,2019-04-20,0,Manchester City,Tottenham,5db3e9f2-8434-549a-83a4-ef20423e7516,54043609-c77b-57b1-af20-914ee4bd409d,54a7a73b-8830-544c-8f06-50aca1c2b556,Manchester City,Tottenham,Manchester City_Tottenham,Manchester City_Tottenham_2018

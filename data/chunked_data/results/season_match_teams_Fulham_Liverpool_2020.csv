@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-2020,12,Fulham,1.5,1.8,Liverpool,1.0,1.0,2020-12-13,0,draw,draw,e6459dd3-1a24-5aa0-8b8b-d0b14ad312d4,cde19b55-32e4-572a-9b0d-272170e70fb6,181e3de4-39eb-5f91-a032-978f5c8ad069,Fulham,Liverpool,Fulham_Liverpool,Fulham_Liverpool_2020
-2020,27,Liverpool,0.9,1.3,Fulham,0.0,1.0,2021-03-07,0,Fulham,Liverpool,fb517a91-d3ba-5bb5-b6f3-e87d3f8d288f,cde19b55-32e4-572a-9b0d-272170e70fb6,181e3de4-39eb-5f91-a032-978f5c8ad069,Liverpool,Fulham,Fulham_Liverpool,Fulham_Liverpool_2020

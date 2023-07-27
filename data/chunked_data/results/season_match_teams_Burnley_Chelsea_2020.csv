@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-2020,7,Burnley,0.5,0.9,Chelsea,0.0,3.0,2020-10-31,0,Chelsea,Burnley,a8cf4160-e28c-537e-9f63-23e744957797,6cf0daa1-2b3e-5d71-97b4-e4699e26befe,df276125-eeb7-564e-96d9-815d055a352b,Burnley,Chelsea,Burnley_Chelsea,Burnley_Chelsea_2020
-2020,21,Chelsea,1.2,0.2,Burnley,2.0,0.0,2021-01-31,0,Chelsea,Burnley,a36e1446-3504-5ad6-9664-15b1d77730fa,6cf0daa1-2b3e-5d71-97b4-e4699e26befe,df276125-eeb7-564e-96d9-815d055a352b,Chelsea,Burnley,Burnley_Chelsea,Burnley_Chelsea_2020

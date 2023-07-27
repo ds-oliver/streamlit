@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-2020,6,Wolves,0.7,0.3,Newcastle Utd,1.0,1.0,2020-10-25,0,draw,draw,03427765-2d77-51ca-bc61-179aacbf26c1,ea18b00b-6302-520e-bb72-ba55a290aa47,9c254e99-b7fd-54b6-8689-980ebca2c38a,Wolves,Newcastle Utd,Newcastle Utd_Wolves,Newcastle Utd_Wolves_2020
-2020,26,Newcastle Utd,1.7,1.1,Wolves,1.0,1.0,2021-02-27,0,draw,draw,8b7d2a9d-cb8d-5656-8190-b8979bb06db0,ea18b00b-6302-520e-bb72-ba55a290aa47,9c254e99-b7fd-54b6-8689-980ebca2c38a,Newcastle Utd,Wolves,Newcastle Utd_Wolves,Newcastle Utd_Wolves_2020

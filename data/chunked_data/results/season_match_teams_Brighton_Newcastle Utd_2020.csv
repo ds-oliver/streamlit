@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-2020,2,Newcastle Utd,0.5,1.8,Brighton,0.0,3.0,2020-09-20,0,Brighton,Newcastle Utd,fd0599e1-a5c8-50f6-bbb9-ba1dcfd8ed66,12f6c71e-43f9-5d36-b805-a954a0acdab3,7718345e-3884-5f37-826f-7aa5f2c7f128,Newcastle Utd,Brighton,Brighton_Newcastle Utd,Brighton_Newcastle Utd_2020
-2020,29,Brighton,0.9,0.1,Newcastle Utd,3.0,0.0,2021-03-20,0,Brighton,Newcastle Utd,90e91590-2820-5619-bd44-97e538ab7881,12f6c71e-43f9-5d36-b805-a954a0acdab3,7718345e-3884-5f37-826f-7aa5f2c7f128,Brighton,Newcastle Utd,Brighton_Newcastle Utd,Brighton_Newcastle Utd_2020

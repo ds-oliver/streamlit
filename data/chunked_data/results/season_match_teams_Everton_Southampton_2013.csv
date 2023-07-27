@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-2013,19,Everton,0.0,0.0,Southampton,2.0,1.0,0,Mark Clattenburg,Everton,Southampton,9306f975-8b57-587d-b2e1-042e11630f6a,071acb8a-d862-5f0d-9e68-4f6fc92a713f,1c27640f-4777-57f7-8e7c-ae8d45cda4ca,Everton,Southampton,Everton_Southampton,Everton_Southampton_2013
-2013,36,Southampton,0.0,0.0,Everton,2.0,0.0,0,Michael Oliver,Southampton,Everton,509f8904-c65b-5598-b9be-42ac03166f10,071acb8a-d862-5f0d-9e68-4f6fc92a713f,1c27640f-4777-57f7-8e7c-ae8d45cda4ca,Southampton,Everton,Everton_Southampton,Everton_Southampton_2013

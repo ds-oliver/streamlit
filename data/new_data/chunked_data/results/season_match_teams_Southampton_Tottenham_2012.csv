@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2012,9,Southampton,0.0,0.0,Tottenham,1.0,2.0,0,Lee Mason,Tottenham,Southampton,c358a135-34b4-58a5-99fe-e7e4b87753d1,2458c24d-308b-5cda-a4f1-9c5f3d3b7ceb,99191268-4ebf-57bf-b984-c41650a8890a,Southampton,Tottenham,Southampton_Tottenham,Southampton_Tottenham_2012
+2012,36,Tottenham,0.0,0.0,Southampton,1.0,0.0,0,Mark Clattenburg,Tottenham,Southampton,26a5c7be-135e-5cf6-9e2a-e3c26e7a8863,2458c24d-308b-5cda-a4f1-9c5f3d3b7ceb,99191268-4ebf-57bf-b984-c41650a8890a,Tottenham,Southampton,Southampton_Tottenham,Southampton_Tottenham_2012

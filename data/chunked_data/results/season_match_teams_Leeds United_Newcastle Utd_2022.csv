@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-2022,18,Newcastle Utd,2.2,0.4,Leeds United,0.0,0.0,2022-12-31,0,draw,draw,26e642ac-549e-502b-b282-3e137c29cb4b,6672f801-50fa-5893-b2bc-c64ab7f65152,f6c8b38c-9cb6-5839-be0c-73ef1792cc34,Newcastle Utd,Leeds United,Leeds United_Newcastle Utd,Leeds United_Newcastle Utd_2022
-2022,36,Leeds United,2.1,2.4,Newcastle Utd,2.0,2.0,2023-05-13,0,draw,draw,8aeb8699-3405-55ce-b0fc-afb5b6d23afc,6672f801-50fa-5893-b2bc-c64ab7f65152,f6c8b38c-9cb6-5839-be0c-73ef1792cc34,Leeds United,Newcastle Utd,Leeds United_Newcastle Utd,Leeds United_Newcastle Utd_2022

@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2011,5,Everton,0.0,0.0,Wigan Athletic,3.0,1.0,0,Peter Walton,Everton,Wigan Athletic,db932f4b-acb1-5950-a4b7-000c40d01909,91e1cffd-afaa-566d-9643-df197b235912,a85fb271-53c0-52fa-999a-49ce715082aa,Everton,Wigan Athletic,Everton_Wigan Athletic,Everton_Wigan Athletic_2011
+2011,24,Wigan Athletic,0.0,0.0,Everton,1.0,1.0,0,Anthony Taylor,draw,draw,861df538-71ce-5b78-97c4-7fa95f487ac4,91e1cffd-afaa-566d-9643-df197b235912,a85fb271-53c0-52fa-999a-49ce715082aa,Wigan Athletic,Everton,Everton_Wigan Athletic,Everton_Wigan Athletic_2011

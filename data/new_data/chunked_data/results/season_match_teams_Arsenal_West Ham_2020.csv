@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2020,2,Arsenal,1.1,2.0,West Ham,2.0,1.0,2020-09-19,0,Arsenal,West Ham,34016fb9-fa1a-54d5-a2df-59bae0c561f3,08319e3d-6089-5906-9663-6c08b4cd6c3a,57ef7249-db7a-5830-8b0b-aa9caef4286b,Arsenal,West Ham,Arsenal_West Ham,Arsenal_West Ham_2020
+2020,29,West Ham,2.4,1.4,Arsenal,3.0,3.0,2021-03-21,0,draw,draw,d3d82b35-9d17-57fd-b863-ce6165791436,08319e3d-6089-5906-9663-6c08b4cd6c3a,57ef7249-db7a-5830-8b0b-aa9caef4286b,West Ham,Arsenal,Arsenal_West Ham,Arsenal_West Ham_2020

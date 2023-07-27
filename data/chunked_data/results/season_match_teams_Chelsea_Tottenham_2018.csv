@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-2018,13,Tottenham,3.1,1.0,Chelsea,3.0,1.0,2018-11-24,0,Tottenham,Chelsea,fd59ec7f-cc85-587b-b9fe-28272de3c162,611a4d26-18ae-59ff-9821-b9c0919763e0,2e8268ba-818a-5059-8f41-159f842aa117,Tottenham,Chelsea,Chelsea_Tottenham,Chelsea_Tottenham_2018
-2018,28,Chelsea,0.6,0.6,Tottenham,2.0,0.0,2019-02-27,0,Chelsea,Tottenham,57de4e62-db1b-59ad-8fd8-d7dc4d1f005b,611a4d26-18ae-59ff-9821-b9c0919763e0,2e8268ba-818a-5059-8f41-159f842aa117,Chelsea,Tottenham,Chelsea_Tottenham,Chelsea_Tottenham_2018

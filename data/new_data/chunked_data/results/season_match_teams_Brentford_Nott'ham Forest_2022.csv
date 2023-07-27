@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2022,15,Nott'ham Forest,1.5,1.5,Brentford,2.0,2.0,2022-11-05,0,draw,draw,40b97d11-47dd-5ff4-bb73-1ae775e43b58,df114565-b9cb-545f-b1cb-bd5993da1a98,cc98ecce-6507-5a83-b815-22334b1ca79c,Nott'ham Forest,Brentford,Brentford_Nott'ham Forest,Brentford_Nott'ham Forest_2022
+2022,34,Brentford,1.6,0.7,Nott'ham Forest,2.0,1.0,2023-04-29,0,Brentford,Nott'ham Forest,8e97f4d7-000e-5c4c-8991-db4d4db7a58b,df114565-b9cb-545f-b1cb-bd5993da1a98,cc98ecce-6507-5a83-b815-22334b1ca79c,Brentford,Nott'ham Forest,Brentford_Nott'ham Forest,Brentford_Nott'ham Forest_2022

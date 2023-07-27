@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2014,12,Newcastle Utd,0.0,0.0,QPR,1.0,0.0,0,Chris Foy,Newcastle Utd,QPR,c443cd9f-ef03-5778-b999-747979bd3aa5,cc8f9956-e539-5430-b2e5-135493a343ba,69612cf9-7571-5cc8-a87b-f819f5e7f1c3,Newcastle Utd,QPR,Newcastle Utd_QPR,Newcastle Utd_QPR_2014
+2014,37,QPR,0.0,0.0,Newcastle Utd,2.0,1.0,0,Lee Probert,QPR,Newcastle Utd,30c56e73-7216-550c-8881-26080a845dba,cc8f9956-e539-5430-b2e5-135493a343ba,69612cf9-7571-5cc8-a87b-f819f5e7f1c3,QPR,Newcastle Utd,Newcastle Utd_QPR,Newcastle Utd_QPR_2014

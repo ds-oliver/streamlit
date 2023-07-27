@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+1992,18,Middlesbrough,0.0,0.0,Blackburn,3.0,2.0,0,Brian Hill,Middlesbrough,Blackburn,ac167035-3bbb-556e-ab0a-5227554130be,1270aefc-ddf0-50ec-afa8-08d3147f1edc,59783588-0126-51af-8a2d-6415f04dadab,Middlesbrough,Blackburn,Blackburn_Middlesbrough,Blackburn_Middlesbrough_1992
+1992,35,Blackburn,0.0,0.0,Middlesbrough,1.0,1.0,0,Gerald Ashby,draw,draw,a75dcce4-ad6c-530a-b2e1-bdf42af35388,1270aefc-ddf0-50ec-afa8-08d3147f1edc,59783588-0126-51af-8a2d-6415f04dadab,Blackburn,Middlesbrough,Blackburn_Middlesbrough,Blackburn_Middlesbrough_1992

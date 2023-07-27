@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2013,18,Hull City,0.0,0.0,Manchester Utd,2.0,3.0,0,Michael Oliver,Manchester Utd,Hull City,f360c7b6-b3aa-5628-91bb-f7cfb47a1051,6340a6c5-e657-52f7-b251-f2aa2fbaf520,1c7d58fa-c50a-514c-8c25-ad17d3de7c00,Hull City,Manchester Utd,Hull City_Manchester Utd,Hull City_Manchester Utd_2013
+2013,34,Manchester Utd,0.0,0.0,Hull City,3.0,1.0,0,Craig Pawson,Manchester Utd,Hull City,57200551-1466-5e82-b2bf-1c2f3375ee5e,6340a6c5-e657-52f7-b251-f2aa2fbaf520,1c7d58fa-c50a-514c-8c25-ad17d3de7c00,Manchester Utd,Hull City,Hull City_Manchester Utd,Hull City_Manchester Utd_2013

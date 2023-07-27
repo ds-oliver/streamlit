@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2010,3,Sunderland,0.0,0.0,Manchester City,1.0,0.0,0,Mike Dean,Sunderland,Manchester City,34c57216-e9c8-541b-955c-efe99a5d3829,dc2dbee1-f75e-50e0-a610-39871963d64c,3fc669fc-ca83-527c-9dc8-0bbca4683017,Sunderland,Manchester City,Manchester City_Sunderland,Manchester City_Sunderland_2010
+2010,31,Manchester City,0.0,0.0,Sunderland,5.0,0.0,0,Howard Webb,Manchester City,Sunderland,6d93fadf-28c2-5421-8f9c-97f8c01b0421,dc2dbee1-f75e-50e0-a610-39871963d64c,3fc669fc-ca83-527c-9dc8-0bbca4683017,Manchester City,Sunderland,Manchester City_Sunderland,Manchester City_Sunderland_2010

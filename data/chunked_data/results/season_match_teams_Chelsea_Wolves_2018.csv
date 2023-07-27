@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-2018,15,Wolves,0.7,1.3,Chelsea,2.0,1.0,2018-12-05,0,Wolves,Chelsea,553172ec-2055-57f7-9bcd-6480847babb4,92cad103-54d1-591d-82a4-af615ea7c4e5,83c6b218-1600-5963-835a-9714c18257d5,Wolves,Chelsea,Chelsea_Wolves,Chelsea_Wolves_2018
-2018,30,Chelsea,1.1,0.5,Wolves,1.0,1.0,2019-03-10,0,draw,draw,33f0264f-fbe4-5a39-99db-001192a190aa,92cad103-54d1-591d-82a4-af615ea7c4e5,83c6b218-1600-5963-835a-9714c18257d5,Chelsea,Wolves,Chelsea_Wolves,Chelsea_Wolves_2018

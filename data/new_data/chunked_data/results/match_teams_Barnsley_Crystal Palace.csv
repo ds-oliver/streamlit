@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+1997,2,Crystal Palace,0.0,0.0,Barnsley,0.0,1.0,0,Neale Barry,Barnsley,Crystal Palace,a914d445-971f-56b0-9640-cf0533866a4a,273c3774-81b6-5a55-9548-aa3bfc259c83,fdae4522-4608-5d80-81c0-6b1596a54fd9,Crystal Palace,Barnsley,Barnsley_Crystal Palace,Barnsley_Crystal Palace_1997
+1997,23,Barnsley,0.0,0.0,Crystal Palace,1.0,0.0,0,Mike Reed,Barnsley,Crystal Palace,11e63407-cbf8-50b8-bcee-c8e4a89a1f52,273c3774-81b6-5a55-9548-aa3bfc259c83,fdae4522-4608-5d80-81c0-6b1596a54fd9,Barnsley,Crystal Palace,Barnsley_Crystal Palace,Barnsley_Crystal Palace_1997

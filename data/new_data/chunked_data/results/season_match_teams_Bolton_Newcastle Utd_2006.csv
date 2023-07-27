@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2006,8,Newcastle Utd,0.0,0.0,Bolton,1.0,2.0,0,Alan Wiley,Bolton,Newcastle Utd,a4c41474-be74-50fe-ba61-059a06054a35,50eb2f7b-9020-5643-993a-f47297c65e63,65fd09b2-06c3-543d-9630-9c8c5006ab39,Newcastle Utd,Bolton,Bolton_Newcastle Utd,Bolton_Newcastle Utd_2006
+2006,20,Bolton,0.0,0.0,Newcastle Utd,2.0,1.0,0,Howard Webb,Bolton,Newcastle Utd,d5e75c9c-d846-50df-88f0-07c16599d973,50eb2f7b-9020-5643-993a-f47297c65e63,65fd09b2-06c3-543d-9630-9c8c5006ab39,Bolton,Newcastle Utd,Bolton_Newcastle Utd,Bolton_Newcastle Utd_2006

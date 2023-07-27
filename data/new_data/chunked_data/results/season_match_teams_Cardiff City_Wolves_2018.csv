@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2018,14,Cardiff City,1.0,0.8,Wolves,2.0,1.0,2018-11-30,0,Cardiff City,Wolves,be547145-59f0-58ff-835a-57e848019f63,1a45e609-68e2-553e-8888-e62090804531,569762ec-79cb-5a10-9f18-c9c930dc282f,Cardiff City,Wolves,Cardiff City_Wolves,Cardiff City_Wolves_2018
+2018,29,Wolves,2.8,0.6,Cardiff City,2.0,0.0,2019-03-02,0,Wolves,Cardiff City,95ad6fbe-98f6-553e-9133-712708d2c2fc,1a45e609-68e2-553e-8888-e62090804531,569762ec-79cb-5a10-9f18-c9c930dc282f,Wolves,Cardiff City,Cardiff City_Wolves,Cardiff City_Wolves_2018

@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2014,18,Burnley,0.0,0.0,Liverpool,0.0,1.0,0,Anthony Taylor,Liverpool,Burnley,cb9cbf46-85c4-55e7-ab99-e2fdfd60f703,e8b55af3-4521-56c8-9bab-bbc939f27a39,e1b66f85-6f0e-538a-8585-158138058a17,Burnley,Liverpool,Burnley_Liverpool,Burnley_Liverpool_2014
+2014,28,Liverpool,0.0,0.0,Burnley,2.0,0.0,0,Lee Mason,Liverpool,Burnley,92e030a4-480d-5131-a789-ec36bc93b915,e8b55af3-4521-56c8-9bab-bbc939f27a39,e1b66f85-6f0e-538a-8585-158138058a17,Liverpool,Burnley,Burnley_Liverpool,Burnley_Liverpool_2014

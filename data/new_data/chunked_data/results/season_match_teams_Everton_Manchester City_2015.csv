@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2015,3,Everton,0.0,0.0,Manchester City,0.0,2.0,0,Anthony Taylor,Manchester City,Everton,77371c36-f5b9-50df-8adb-0de37af3d94d,ca5d66d5-1aac-5479-9844-76026e5ec092,f1407803-6d34-5906-a70d-d4f37a5c6689,Everton,Manchester City,Everton_Manchester City,Everton_Manchester City_2015
+2015,21,Manchester City,0.0,0.0,Everton,0.0,0.0,0,Roger East,draw,draw,9d83e410-fd76-5b21-be40-71cfb70b11c5,ca5d66d5-1aac-5479-9844-76026e5ec092,f1407803-6d34-5906-a70d-d4f37a5c6689,Manchester City,Everton,Everton_Manchester City,Everton_Manchester City_2015

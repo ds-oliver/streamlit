@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-1994,13,Everton,0.0,0.0,West Ham,1.0,0.0,0,Martin Bodenham,Everton,West Ham,c791d4ee-ae8a-505a-a593-8297544a5ea6,526d1c04-b9c5-50ef-a573-a758dbaf7768,dd22bc38-b954-5789-ac5e-22c7f59d07f9,Everton,West Ham,Everton_West Ham,Everton_West Ham_1994
-1994,28,West Ham,0.0,0.0,Everton,2.0,2.0,0,Mike Reed,draw,draw,72f68cda-e431-572f-9375-7e7f5bf7d12b,526d1c04-b9c5-50ef-a573-a758dbaf7768,dd22bc38-b954-5789-ac5e-22c7f59d07f9,West Ham,Everton,Everton_West Ham,Everton_West Ham_1994

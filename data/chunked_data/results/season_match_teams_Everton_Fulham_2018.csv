@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-2018,7,Everton,2.3,0.5,Fulham,3.0,0.0,2018-09-29,0,Everton,Fulham,6e0da568-615c-5f9f-8817-c17709a2f29d,5e6bc07a-3047-53ec-a4f7-c0548d285248,5fcd1425-9318-5027-99e1-b1c88064a232,Everton,Fulham,Everton_Fulham,Everton_Fulham_2018
-2018,34,Fulham,1.5,1.1,Everton,2.0,0.0,2019-04-13,0,Fulham,Everton,674a9c01-6feb-5023-9d25-3c170407c3c5,5e6bc07a-3047-53ec-a4f7-c0548d285248,5fcd1425-9318-5027-99e1-b1c88064a232,Fulham,Everton,Everton_Fulham,Everton_Fulham_2018

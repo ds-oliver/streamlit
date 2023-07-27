@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-2021,3,Tottenham,1.0,0.8,Watford,1.0,0.0,2021-08-29,0,Tottenham,Watford,5e667cd0-d266-5d3a-9c14-7b0a40f9a103,8c15b1c9-3dc7-5d7f-8116-bda3e3c1dc2a,f4a11374-7d20-5078-8d29-7fecff2b21ca,Tottenham,Watford,Tottenham_Watford,Tottenham_Watford_2021
-2021,21,Watford,0.3,2.2,Tottenham,0.0,1.0,2022-01-01,0,Tottenham,Watford,10bbbeed-9299-5491-a699-2292ae43d4a2,8c15b1c9-3dc7-5d7f-8116-bda3e3c1dc2a,f4a11374-7d20-5078-8d29-7fecff2b21ca,Watford,Tottenham,Tottenham_Watford,Tottenham_Watford_2021

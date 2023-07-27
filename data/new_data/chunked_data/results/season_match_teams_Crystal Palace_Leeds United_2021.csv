@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2021,14,Leeds United,1.4,1.1,Crystal Palace,1.0,0.0,2021-11-30,0,Leeds United,Crystal Palace,6db48764-bcab-539e-bd4d-f000fc0c684e,039480fd-d0fb-5893-ae56-0342e555152d,b5b483d6-861b-5a69-8932-fc37f7b9b884,Leeds United,Crystal Palace,Crystal Palace_Leeds United,Crystal Palace_Leeds United_2021
+2021,34,Crystal Palace,1.9,0.5,Leeds United,0.0,0.0,2022-04-25,0,draw,draw,82cb8a69-72cf-5440-bce3-2d9a6b469a1c,039480fd-d0fb-5893-ae56-0342e555152d,b5b483d6-861b-5a69-8932-fc37f7b9b884,Crystal Palace,Leeds United,Crystal Palace_Leeds United,Crystal Palace_Leeds United_2021

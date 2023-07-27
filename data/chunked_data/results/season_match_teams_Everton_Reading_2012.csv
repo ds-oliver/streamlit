@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-2012,12,Reading,0.0,0.0,Everton,2.0,1.0,0,Martin Atkinson,Reading,Everton,5bc59e85-84ab-5d42-980d-ef01f7715d8f,253e661e-9fa2-5354-b392-b96fcc04050b,ec809dbe-40cc-58c4-943d-4659b4893300,Reading,Everton,Everton_Reading,Everton_Reading_2012
-2012,28,Everton,0.0,0.0,Reading,3.0,1.0,0,Anthony Taylor,Everton,Reading,9d0613bf-3e62-516a-8507-deb289303af2,253e661e-9fa2-5354-b392-b96fcc04050b,ec809dbe-40cc-58c4-943d-4659b4893300,Everton,Reading,Everton_Reading,Everton_Reading_2012

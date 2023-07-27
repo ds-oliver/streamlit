@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2000,4,Liverpool,0.0,0.0,Aston Villa,3.0,1.0,0,Neale Barry,Liverpool,Aston Villa,cb52a1bd-4c03-587c-ad51-8deaf5f3cc5c,47286672-2c0d-5b86-ab18-8a24ec9b4536,bfb27620-2612-54f5-9b21-6be784597b9b,Liverpool,Aston Villa,Aston Villa_Liverpool,Aston Villa_Liverpool_2000
+2000,23,Aston Villa,0.0,0.0,Liverpool,0.0,3.0,0,Graham Barber,Liverpool,Aston Villa,cf6fa739-f20f-5f16-88e4-3304c8a02537,47286672-2c0d-5b86-ab18-8a24ec9b4536,bfb27620-2612-54f5-9b21-6be784597b9b,Aston Villa,Liverpool,Aston Villa_Liverpool,Aston Villa_Liverpool_2000

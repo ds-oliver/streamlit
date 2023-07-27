@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2005,8,Arsenal,0.0,0.0,Birmingham City,1.0,0.0,0,Mike Riley,Arsenal,Birmingham City,fa1d889b-bd2a-5fad-8b5c-91b62608606b,14160666-c352-5f70-8b13-faf9f89750b2,13f23a2b-d896-5388-b82b-5feb903758b5,Arsenal,Birmingham City,Arsenal_Birmingham City,Arsenal_Birmingham City_2005
+2005,25,Birmingham City,0.0,0.0,Arsenal,0.0,2.0,0,Mike Riley,Arsenal,Birmingham City,ed234a28-f405-5779-8257-bf654e612fe5,14160666-c352-5f70-8b13-faf9f89750b2,13f23a2b-d896-5388-b82b-5feb903758b5,Birmingham City,Arsenal,Arsenal_Birmingham City,Arsenal_Birmingham City_2005

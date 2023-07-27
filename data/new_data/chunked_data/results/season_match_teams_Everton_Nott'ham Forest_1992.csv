@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+1992,15,Nott'ham Forest,0.0,0.0,Everton,0.0,1.0,0,Stephen Lodge,Everton,Nott'ham Forest,5ce877e4-13bd-5e40-bfaf-76d53fd198b1,f3bc4f83-4443-58c8-b633-32755135eca6,c43d0496-5a53-58da-8f61-d9da7bdd6b63,Nott'ham Forest,Everton,Everton_Nott'ham Forest,Everton_Nott'ham Forest_1992
+1992,34,Everton,0.0,0.0,Nott'ham Forest,3.0,0.0,0,Vic Callow,Everton,Nott'ham Forest,2dad89b5-d5fc-5056-b917-da8715038cad,f3bc4f83-4443-58c8-b633-32755135eca6,c43d0496-5a53-58da-8f61-d9da7bdd6b63,Everton,Nott'ham Forest,Everton_Nott'ham Forest,Everton_Nott'ham Forest_1992

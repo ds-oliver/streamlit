@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-2018,19,Watford,1.2,1.9,Chelsea,1.0,2.0,2018-12-26,0,Chelsea,Watford,437b448c-b78a-59c2-aa6b-5b0c5aa92b41,e33afbb8-2e53-50e7-b9e4-91887c8a5acf,b8a7f5e9-9005-5700-84bb-a8b748b5c8ed,Watford,Chelsea,Chelsea_Watford,Chelsea_Watford_2018
-2018,37,Chelsea,2.3,1.7,Watford,3.0,0.0,2019-05-05,0,Chelsea,Watford,c4d470e6-0abe-5036-a1ea-a511f168813b,e33afbb8-2e53-50e7-b9e4-91887c8a5acf,b8a7f5e9-9005-5700-84bb-a8b748b5c8ed,Chelsea,Watford,Chelsea_Watford,Chelsea_Watford_2018

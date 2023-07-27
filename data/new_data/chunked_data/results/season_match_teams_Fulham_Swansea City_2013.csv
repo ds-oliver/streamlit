@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2013,12,Fulham,0.0,0.0,Swansea City,1.0,2.0,0,Andre Marriner,Swansea City,Fulham,6ccaa02f-a9ef-5bb8-b518-633465c034a8,df149a63-e07c-56d5-bcb9-5204bef7b48f,4267be6c-512c-5dc0-8396-5bfa5f3b236c,Fulham,Swansea City,Fulham_Swansea City,Fulham_Swansea City_2013
+2013,23,Swansea City,0.0,0.0,Fulham,2.0,0.0,0,Michael Oliver,Swansea City,Fulham,ace18ae1-6de4-5b69-aecb-04cf767a1965,df149a63-e07c-56d5-bcb9-5204bef7b48f,4267be6c-512c-5dc0-8396-5bfa5f3b236c,Swansea City,Fulham,Fulham_Swansea City,Fulham_Swansea City_2013

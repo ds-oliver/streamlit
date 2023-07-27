@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+1999,14,Aston Villa,0.0,0.0,Southampton,0.0,1.0,0,Andy D'Urso,Southampton,Aston Villa,dea13f3e-92e5-5ed8-b5fc-4d718309d8b6,f24d3ef2-789b-59bc-b780-3615195a211a,934e3a95-0ffa-5f28-8f72-a8ba41cbcb5a,Aston Villa,Southampton,Aston Villa_Southampton,Aston Villa_Southampton_1999
+1999,29,Southampton,0.0,0.0,Aston Villa,2.0,0.0,0,Mike Riley,Southampton,Aston Villa,0505d326-e94c-5638-a021-21fb995e2d2b,f24d3ef2-789b-59bc-b780-3615195a211a,934e3a95-0ffa-5f28-8f72-a8ba41cbcb5a,Southampton,Aston Villa,Aston Villa_Southampton,Aston Villa_Southampton_1999

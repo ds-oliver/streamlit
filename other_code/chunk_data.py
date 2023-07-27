@@ -189,5 +189,8 @@ def main():
     save_dfs(results_df_dict, 'data/chunked_data/results/', 'data/chunked_data/sqlite3_db_files/results/')
     save_dfs(players_df_dict, 'data/chunked_data/players/', 'data/chunked_data/sqlite3_db_files/players/')
 
+    # merge the players_df and results_df on the matchup_merge_key
+    players_results_df = pd.merge(players_df, results_df, on='matchup_merge_key', how='inner')
+
 if __name__ == "__main__":
     main()

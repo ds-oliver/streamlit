@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-2020,11,Chelsea,4.1,0.8,Leeds United,3.0,1.0,2020-12-05,0,Chelsea,Leeds United,9ff943aa-db09-5279-89d0-d9a5086248e9,a4218c8c-248c-5415-97c3-76b3a0a7ce29,ec0c02e1-4715-55b3-a3b4-be833e210d6d,Chelsea,Leeds United,Chelsea_Leeds United,Chelsea_Leeds United_2020
-2020,28,Leeds United,0.4,1.0,Chelsea,0.0,0.0,2021-03-13,0,draw,draw,7b190126-dc45-5b23-b974-62c457de4699,a4218c8c-248c-5415-97c3-76b3a0a7ce29,ec0c02e1-4715-55b3-a3b4-be833e210d6d,Leeds United,Chelsea,Chelsea_Leeds United,Chelsea_Leeds United_2020

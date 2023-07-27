@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2002,13,Middlesbrough,0.0,0.0,Liverpool,1.0,0.0,0,Mark Halsey,Middlesbrough,Liverpool,a9bd81e9-5cfe-5b03-8e53-6b5b78e5cc22,5ffa03bd-8da9-5c83-b473-4168759eb49a,3886c53a-2a42-5592-82a2-90515a49609b,Middlesbrough,Liverpool,Liverpool_Middlesbrough,Liverpool_Middlesbrough_2002
+2002,27,Liverpool,0.0,0.0,Middlesbrough,1.0,1.0,0,Stephen Bennett,draw,draw,2aa08b8b-4308-504a-8f60-0afd346efd33,5ffa03bd-8da9-5c83-b473-4168759eb49a,3886c53a-2a42-5592-82a2-90515a49609b,Liverpool,Middlesbrough,Liverpool_Middlesbrough,Liverpool_Middlesbrough_2002

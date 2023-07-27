@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-1993,25,Arsenal,0.0,0.0,QPR,0.0,0.0,0,Jim Borrett,draw,draw,957f2195-3bcc-503b-a067-6288664eaa24,2188fd09-147d-56e3-9446-a89f8702ff8f,1b067892-a027-51e6-a710-64b0c6f529df,Arsenal,QPR,Arsenal_QPR,Arsenal_QPR_1993
-1993,28,QPR,0.0,0.0,Arsenal,1.0,1.0,0,Jim Borrett,draw,draw,13f34d93-85cb-5b5d-ae43-48f39f0f1678,2188fd09-147d-56e3-9446-a89f8702ff8f,1b067892-a027-51e6-a710-64b0c6f529df,QPR,Arsenal,Arsenal_QPR,Arsenal_QPR_1993

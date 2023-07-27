@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+1994,7,Coventry City,0.0,0.0,Southampton,1.0,3.0,0,Kelvin Morton,Southampton,Coventry City,e1712029-793f-52fd-8b21-d0cd4dac17c5,4fd2fe6d-baeb-56ae-992b-6fa7fbd55aad,37389f03-c52d-5918-a078-855246684dbc,Coventry City,Southampton,Coventry City_Southampton,Coventry City_Southampton_1994
+1994,32,Southampton,0.0,0.0,Coventry City,0.0,0.0,0,Kelvin Morton,draw,draw,c45afc60-8e8a-581d-9dfe-ee1013dcfde9,4fd2fe6d-baeb-56ae-992b-6fa7fbd55aad,37389f03-c52d-5918-a078-855246684dbc,Southampton,Coventry City,Coventry City_Southampton,Coventry City_Southampton_1994

@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2020,9,Aston Villa,1.5,1.4,Brighton,1.0,2.0,2020-11-21,0,Brighton,Aston Villa,28860ace-d9ff-5bd7-ace5-f231e6f4cb28,52b30ca1-f657-50ca-a945-1a0cf1929c26,549074d9-9359-5c2c-9972-7361e7b5a475,Aston Villa,Brighton,Aston Villa_Brighton,Aston Villa_Brighton_2020
+2020,24,Brighton,2.2,0.1,Aston Villa,0.0,0.0,2021-02-13,0,draw,draw,480619d3-b80e-53b7-9d70-57e51150df6a,52b30ca1-f657-50ca-a945-1a0cf1929c26,549074d9-9359-5c2c-9972-7361e7b5a475,Brighton,Aston Villa,Aston Villa_Brighton,Aston Villa_Brighton_2020

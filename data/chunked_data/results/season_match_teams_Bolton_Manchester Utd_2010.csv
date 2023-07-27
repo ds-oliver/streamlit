@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-2010,6,Bolton,0.0,0.0,Manchester Utd,2.0,2.0,0,Phil Dowd,draw,draw,c5248b02-4b50-5db8-a108-0bf2d1fe1c2f,7db70350-fe37-5bb5-9041-2120ada78ce6,ed1274c6-c5a4-5cc4-9655-076236d4a92e,Bolton,Manchester Utd,Bolton_Manchester Utd,Bolton_Manchester Utd_2010
-2010,30,Manchester Utd,0.0,0.0,Bolton,1.0,0.0,0,Andre Marriner,Manchester Utd,Bolton,a0116ec8-54f8-5e08-8be3-1f50f63f32ef,7db70350-fe37-5bb5-9041-2120ada78ce6,ed1274c6-c5a4-5cc4-9655-076236d4a92e,Manchester Utd,Bolton,Bolton_Manchester Utd,Bolton_Manchester Utd_2010

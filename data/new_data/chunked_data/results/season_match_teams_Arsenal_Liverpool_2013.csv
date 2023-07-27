@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2013,10,Arsenal,0.0,0.0,Liverpool,2.0,0.0,0,Martin Atkinson,Arsenal,Liverpool,33ea49ae-ca5f-534d-b6b7-fff30f9e206a,19772de6-75df-5209-aa5e-032dd6af055f,fb8f084e-1fbb-5206-b725-c9a4ebd6300b,Arsenal,Liverpool,Arsenal_Liverpool,Arsenal_Liverpool_2013
+2013,25,Liverpool,0.0,0.0,Arsenal,5.0,1.0,0,Michael Oliver,Liverpool,Arsenal,e4ed718a-7fc8-5549-ae0c-fccad8f220dd,19772de6-75df-5209-aa5e-032dd6af055f,fb8f084e-1fbb-5206-b725-c9a4ebd6300b,Liverpool,Arsenal,Arsenal_Liverpool,Arsenal_Liverpool_2013

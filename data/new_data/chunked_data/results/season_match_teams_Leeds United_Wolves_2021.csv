@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2021,9,Leeds United,1.6,0.9,Wolves,1.0,1.0,2021-10-23,0,draw,draw,36dee155-b743-5cbd-9c64-fe60f260774b,371c8459-6e12-56a9-8c3a-44fe78a4979e,83656508-5d33-5020-83b0-ba54d0ce41e7,Leeds United,Wolves,Leeds United_Wolves,Leeds United_Wolves_2021
+2021,30,Wolves,1.2,2.0,Leeds United,2.0,3.0,2022-03-18,0,Leeds United,Wolves,5ef76597-2a4c-5067-8739-e7eef3066518,371c8459-6e12-56a9-8c3a-44fe78a4979e,83656508-5d33-5020-83b0-ba54d0ce41e7,Wolves,Leeds United,Leeds United_Wolves,Leeds United_Wolves_2021

@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2020,12,Arsenal,1.6,1.4,Burnley,0.0,1.0,2020-12-13,0,Burnley,Arsenal,db99e380-92af-5dd4-9029-78452d6d2710,f6e36264-2fd4-5596-8ff8-7807e9ab04c8,e6dcdfa6-0070-5660-82c6-0c1a9f5ff300,Arsenal,Burnley,Arsenal_Burnley,Arsenal_Burnley_2020
+2020,27,Burnley,1.1,2.5,Arsenal,1.0,1.0,2021-03-06,0,draw,draw,1ebdaaa7-83a3-5027-a62f-2772277de97c,f6e36264-2fd4-5596-8ff8-7807e9ab04c8,e6dcdfa6-0070-5660-82c6-0c1a9f5ff300,Burnley,Arsenal,Arsenal_Burnley,Arsenal_Burnley_2020

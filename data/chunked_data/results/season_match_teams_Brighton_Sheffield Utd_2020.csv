@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-2020,14,Brighton,2.8,0.5,Sheffield Utd,1.0,1.0,2020-12-20,0,draw,draw,b27d74a5-0af3-5c36-8ff7-56080e535f77,c7a9badc-81d1-5393-8162-90b6378a4aa8,06ef3883-0b15-582d-a27e-f5f2c246e951,Brighton,Sheffield Utd,Brighton_Sheffield Utd,Brighton_Sheffield Utd_2020
-2020,33,Sheffield Utd,0.7,2.0,Brighton,1.0,0.0,2021-04-24,0,Sheffield Utd,Brighton,6d771c1c-a918-5bfc-9d8f-78217509df3a,c7a9badc-81d1-5393-8162-90b6378a4aa8,06ef3883-0b15-582d-a27e-f5f2c246e951,Sheffield Utd,Brighton,Brighton_Sheffield Utd,Brighton_Sheffield Utd_2020

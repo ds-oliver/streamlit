@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2008,11,Bolton,0.0,0.0,Manchester City,2.0,0.0,0,Mike Riley,Bolton,Manchester City,2119ba8e-b246-5c7c-aeec-54c83a1cdf06,a2c8a8b2-65ab-573f-804d-fb31c8333403,0700507a-1ee1-5275-a0f8-662626c17db1,Bolton,Manchester City,Bolton_Manchester City,Bolton_Manchester City_2008
+2008,38,Manchester City,0.0,0.0,Bolton,1.0,0.0,0,Mark Clattenburg,Manchester City,Bolton,adb19cea-daf1-5c60-9a04-8722f1dd2851,a2c8a8b2-65ab-573f-804d-fb31c8333403,0700507a-1ee1-5275-a0f8-662626c17db1,Manchester City,Bolton,Bolton_Manchester City,Bolton_Manchester City_2008

@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2005,4,Wigan Athletic,0.0,0.0,Sunderland,1.0,0.0,0,Stephen Bennett,Wigan Athletic,Sunderland,9c0fe3d2-6c30-5276-b6df-c8d11a5584fe,51a54cb9-5fb8-5667-a62b-47d10bd4a3c6,1c5bb9d5-9b76-58f6-a417-0b911d925d20,Wigan Athletic,Sunderland,Sunderland_Wigan Athletic,Sunderland_Wigan Athletic_2005
+2005,29,Sunderland,0.0,0.0,Wigan Athletic,0.0,1.0,0,Mike Riley,Wigan Athletic,Sunderland,6667d9c5-d20f-525c-b602-637c34b3ce52,51a54cb9-5fb8-5667-a62b-47d10bd4a3c6,1c5bb9d5-9b76-58f6-a417-0b911d925d20,Sunderland,Wigan Athletic,Sunderland_Wigan Athletic,Sunderland_Wigan Athletic_2005

@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-2020,3,Burnley,0.5,0.6,Southampton,0.0,1.0,2020-09-26,0,Southampton,Burnley,029644c2-3a7c-5841-b7e6-b28169b31491,39e350b8-3f0a-53b0-9308-719f5ef48c33,1d30dfff-7950-5e01-9d54-686f6232ea85,Burnley,Southampton,Burnley_Southampton,Burnley_Southampton_2020
-2020,30,Southampton,2.2,1.5,Burnley,3.0,2.0,2021-04-04,0,Southampton,Burnley,2733bcd4-163c-52fa-9fc3-77fd81fd5ff9,39e350b8-3f0a-53b0-9308-719f5ef48c33,1d30dfff-7950-5e01-9d54-686f6232ea85,Southampton,Burnley,Burnley_Southampton,Burnley_Southampton_2020

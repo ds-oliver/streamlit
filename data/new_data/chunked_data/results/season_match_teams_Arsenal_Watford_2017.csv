@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2017,8,Watford,1.6,1.0,Arsenal,2.0,1.0,2017-10-14,0,Watford,Arsenal,4e5745df-12f3-59f1-922f-2d641a12e4d9,f609bcfe-b56e-5eaa-bb7b-666eee4a506c,969e2421-e0db-581d-b463-9b13e2584dce,Watford,Arsenal,Arsenal_Watford,Arsenal_Watford_2017
+2017,30,Arsenal,2.2,1.4,Watford,3.0,0.0,2018-03-11,0,Arsenal,Watford,c83a2562-4dc0-5953-a66e-87b350b3fcdc,f609bcfe-b56e-5eaa-bb7b-666eee4a506c,969e2421-e0db-581d-b463-9b13e2584dce,Arsenal,Watford,Arsenal_Watford,Arsenal_Watford_2017

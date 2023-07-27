@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2022,14,Bournemouth,0.5,2.0,Tottenham,2.0,3.0,2022-10-29,0,Tottenham,Bournemouth,2b2e5577-2ae6-5897-8ceb-7340764c359c,336ff249-eb58-5527-b71d-44a53a84450b,773f7438-a0c9-565a-9653-25a6a17354b8,Bournemouth,Tottenham,Bournemouth_Tottenham,Bournemouth_Tottenham_2022
+2022,31,Tottenham,2.2,1.3,Bournemouth,2.0,3.0,2023-04-15,0,Bournemouth,Tottenham,adae469e-55e8-59eb-93ae-66e31dcc33c0,336ff249-eb58-5527-b71d-44a53a84450b,773f7438-a0c9-565a-9653-25a6a17354b8,Tottenham,Bournemouth,Bournemouth_Tottenham,Bournemouth_Tottenham_2022

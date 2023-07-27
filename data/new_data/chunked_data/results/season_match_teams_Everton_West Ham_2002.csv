@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2002,11,West Ham,0.0,0.0,Everton,0.0,1.0,0,Alan Wiley,Everton,West Ham,15cb5cb5-4c96-59b7-bd9d-8db25741d8c6,526d1c04-b9c5-50ef-a573-a758dbaf7768,be265b75-ad71-585b-afeb-28d2d00341ed,West Ham,Everton,Everton_West Ham,Everton_West Ham_2002
+2002,30,Everton,0.0,0.0,West Ham,0.0,0.0,0,Mark Halsey,draw,draw,f3333fcf-32de-50e4-8c34-183066a3dd90,526d1c04-b9c5-50ef-a573-a758dbaf7768,be265b75-ad71-585b-afeb-28d2d00341ed,Everton,West Ham,Everton_West Ham,Everton_West Ham_2002

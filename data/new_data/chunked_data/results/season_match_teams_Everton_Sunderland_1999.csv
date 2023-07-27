@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+1999,19,Everton,0.0,0.0,Sunderland,5.0,0.0,0,Stephen Lodge,Everton,Sunderland,3b6b6d85-75e7-51f1-ae6d-0564405ede9f,dfe76029-d0e8-59ca-bec9-03e6e2f1e110,9942afb5-1c0a-58ab-ae97-a8a894982f2a,Everton,Sunderland,Everton_Sunderland,Everton_Sunderland_1999
+1999,30,Sunderland,0.0,0.0,Everton,2.0,1.0,0,Stephen Bennett,Sunderland,Everton,bb84ab4e-8691-59d9-b9ee-fad4dca431ee,dfe76029-d0e8-59ca-bec9-03e6e2f1e110,9942afb5-1c0a-58ab-ae97-a8a894982f2a,Sunderland,Everton,Everton_Sunderland,Everton_Sunderland_1999

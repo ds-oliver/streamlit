@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-1992,2,QPR,0.0,0.0,Southampton,3.0,1.0,0,Ray Bigger,QPR,Southampton,47d528c6-bcf7-584d-b0b4-e3253a91540b,ffccebd3-2f71-50bb-9304-5f495bc2da92,d09ee3e8-19a2-5c13-98aa-1a5040dfd298,QPR,Southampton,QPR_Southampton,QPR_Southampton_1992
-1992,8,Southampton,0.0,0.0,QPR,1.0,2.0,0,Alan Gunn,QPR,Southampton,083e7e45-ef43-5944-9406-63fc484f69e8,ffccebd3-2f71-50bb-9304-5f495bc2da92,d09ee3e8-19a2-5c13-98aa-1a5040dfd298,Southampton,QPR,QPR_Southampton,QPR_Southampton_1992

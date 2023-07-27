@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-2022,1,Everton,0.7,1.5,Chelsea,0.0,1.0,2022-08-06,0,Chelsea,Everton,e14b69e5-5131-5784-b443-72d2ad831b9a,febaa9d0-3823-5249-8227-3ef8af4034db,c85eaf8f-0bec-5de4-b008-e6bd1d2d9b2c,Everton,Chelsea,Chelsea_Everton,Chelsea_Everton_2022
-2022,28,Chelsea,2.3,1.2,Everton,2.0,2.0,2023-03-18,0,draw,draw,dba125c5-052e-5694-949c-826be0c66374,febaa9d0-3823-5249-8227-3ef8af4034db,c85eaf8f-0bec-5de4-b008-e6bd1d2d9b2c,Chelsea,Everton,Chelsea_Everton,Chelsea_Everton_2022

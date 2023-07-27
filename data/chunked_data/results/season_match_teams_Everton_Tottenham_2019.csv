@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-2019,11,Everton,1.1,0.6,Tottenham,1.0,1.0,2019-11-03,0,draw,draw,b26e774a-3c4e-5240-b9f5-7ae1231efa86,74361b68-e6e1-5d3e-8a95-5429f4658739,3e33245a-4ed0-5eff-9d5b-53fdf2c92083,Everton,Tottenham,Everton_Tottenham,Everton_Tottenham_2019
-2019,33,Tottenham,0.5,0.5,Everton,1.0,0.0,2020-07-06,0,Tottenham,Everton,c20d5fb5-3da1-5a60-b4c2-c78c7ee513e5,74361b68-e6e1-5d3e-8a95-5429f4658739,3e33245a-4ed0-5eff-9d5b-53fdf2c92083,Tottenham,Everton,Everton_Tottenham,Everton_Tottenham_2019

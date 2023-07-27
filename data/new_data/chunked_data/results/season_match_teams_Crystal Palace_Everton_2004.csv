@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2004,2,Crystal Palace,0.0,0.0,Everton,1.0,3.0,0,Mark Clattenburg,Everton,Crystal Palace,75fadb9f-2a06-51ba-89f4-fb28f44b9ed8,097bf99a-7c5f-55b5-9665-5685ae13c4e8,23209fad-d105-5e3e-8db9-1e1c92e9a071,Crystal Palace,Everton,Crystal Palace_Everton,Crystal Palace_Everton_2004
+2004,32,Everton,0.0,0.0,Crystal Palace,4.0,0.0,0,Uriah Rennie,Everton,Crystal Palace,98a5680a-aab6-5a0a-8d56-e3dcbacfd5a4,097bf99a-7c5f-55b5-9665-5685ae13c4e8,23209fad-d105-5e3e-8db9-1e1c92e9a071,Everton,Crystal Palace,Crystal Palace_Everton,Crystal Palace_Everton_2004

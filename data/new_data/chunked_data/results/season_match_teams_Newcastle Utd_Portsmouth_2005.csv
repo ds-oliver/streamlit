@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2005,8,Portsmouth,0.0,0.0,Newcastle Utd,0.0,0.0,0,Stephen Bennett,draw,draw,a5ae2bab-1601-5588-a07c-dadaa5e0918d,68a72347-2e80-570c-93da-68dca9a675df,5566d221-774a-53d0-bd6d-366f6f3f5141,Portsmouth,Newcastle Utd,Newcastle Utd_Portsmouth,Newcastle Utd_Portsmouth_2005
+2005,25,Newcastle Utd,0.0,0.0,Portsmouth,2.0,0.0,0,Mark Halsey,Newcastle Utd,Portsmouth,9b876161-ed99-532b-a76c-4fd64cfbdbd5,68a72347-2e80-570c-93da-68dca9a675df,5566d221-774a-53d0-bd6d-366f6f3f5141,Newcastle Utd,Portsmouth,Newcastle Utd_Portsmouth,Newcastle Utd_Portsmouth_2005

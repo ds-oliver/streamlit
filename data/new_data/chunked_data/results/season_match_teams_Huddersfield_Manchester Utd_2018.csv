@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2018,19,Manchester Utd,1.5,1.1,Huddersfield,3.0,1.0,2018-12-26,0,Manchester Utd,Huddersfield,eea09a02-af31-5fb0-a6f4-05217512f788,a423668c-f0d8-539c-9c0e-8de680e77dc8,b29a6839-a7ae-5409-868a-3d83b8d4154e,Manchester Utd,Huddersfield,Huddersfield_Manchester Utd,Huddersfield_Manchester Utd_2018
+2018,37,Huddersfield,1.0,1.8,Manchester Utd,1.0,1.0,2019-05-05,0,draw,draw,c0dc87ab-34eb-5f5c-8a7d-74f582982fd7,a423668c-f0d8-539c-9c0e-8de680e77dc8,b29a6839-a7ae-5409-868a-3d83b8d4154e,Huddersfield,Manchester Utd,Huddersfield_Manchester Utd,Huddersfield_Manchester Utd_2018

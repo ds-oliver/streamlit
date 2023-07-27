@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-2020,3,Crystal Palace,0.4,1.9,Everton,1.0,2.0,2020-09-26,0,Everton,Crystal Palace,2984e686-5f46-5b0e-9c56-c7e1afa41fc3,097bf99a-7c5f-55b5-9665-5685ae13c4e8,62d988df-7984-5748-83e4-2fcc2dd63c20,Crystal Palace,Everton,Crystal Palace_Everton,Crystal Palace_Everton_2020
-2020,30,Everton,2.5,0.7,Crystal Palace,1.0,1.0,2021-04-05,0,draw,draw,51c69ee0-aef8-5fc2-bcdc-624c518c678a,097bf99a-7c5f-55b5-9665-5685ae13c4e8,62d988df-7984-5748-83e4-2fcc2dd63c20,Everton,Crystal Palace,Crystal Palace_Everton,Crystal Palace_Everton_2020

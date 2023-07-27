@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2015,18,Chelsea,0.0,0.0,Watford,2.0,2.0,0,Andre Marriner,draw,draw,4de43c12-1f2e-5598-813c-8b32e84282db,e33afbb8-2e53-50e7-b9e4-91887c8a5acf,4b5cc9fa-e72c-5224-92d6-b0908f873fa3,Chelsea,Watford,Chelsea_Watford,Chelsea_Watford_2015
+2015,24,Watford,0.0,0.0,Chelsea,0.0,0.0,0,Mike Dean,draw,draw,f02f771b-0159-5f7e-bde3-667e5dc05b2a,e33afbb8-2e53-50e7-b9e4-91887c8a5acf,4b5cc9fa-e72c-5224-92d6-b0908f873fa3,Watford,Chelsea,Chelsea_Watford,Chelsea_Watford_2015

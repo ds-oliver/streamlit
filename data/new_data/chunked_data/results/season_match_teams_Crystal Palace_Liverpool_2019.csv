@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2019,13,Crystal Palace,1.0,1.4,Liverpool,1.0,2.0,2019-11-23,0,Liverpool,Crystal Palace,522a7121-a22a-5e59-bd76-10f37cc1c6d8,592241a6-5df2-57e8-83c5-d6edbc083fde,43e09446-ae47-548f-b31f-b77d36dd5ea8,Crystal Palace,Liverpool,Crystal Palace_Liverpool,Crystal Palace_Liverpool_2019
+2019,31,Liverpool,2.4,0.1,Crystal Palace,4.0,0.0,2020-06-24,0,Liverpool,Crystal Palace,4c5be70f-d985-5129-a4cf-9995e98219f9,592241a6-5df2-57e8-83c5-d6edbc083fde,43e09446-ae47-548f-b31f-b77d36dd5ea8,Liverpool,Crystal Palace,Crystal Palace_Liverpool,Crystal Palace_Liverpool_2019

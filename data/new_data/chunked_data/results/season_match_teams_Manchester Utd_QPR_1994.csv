@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+1994,1,Manchester Utd,0.0,0.0,QPR,2.0,0.0,0,Dermot Gallagher,Manchester Utd,QPR,d98b7214-97c9-5023-9fbb-ee39d2b5d750,07952d91-7ec2-565c-8168-6ac76062546b,40eef6e5-9b2a-5aa6-a275-9eb0971a179d,Manchester Utd,QPR,Manchester Utd_QPR,Manchester Utd_QPR_1994
+1994,18,QPR,0.0,0.0,Manchester Utd,2.0,3.0,0,Graham Poll,Manchester Utd,QPR,a0160ff8-da27-51f7-8c6a-791113cbf817,07952d91-7ec2-565c-8168-6ac76062546b,40eef6e5-9b2a-5aa6-a275-9eb0971a179d,QPR,Manchester Utd,Manchester Utd_QPR,Manchester Utd_QPR_1994

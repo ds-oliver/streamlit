@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-2018,4,Everton,0.8,0.4,Huddersfield,1.0,1.0,2018-09-01,0,draw,draw,f8e11983-e903-5a5b-bef3-24c5d9e60845,0a7eb8ae-8bce-5061-a255-12ce767abac3,fadcbb6c-d9d6-5485-b8b7-90e81371cfe0,Everton,Huddersfield,Everton_Huddersfield,Everton_Huddersfield_2018
-2018,24,Huddersfield,0.7,1.1,Everton,0.0,1.0,2019-01-29,0,Everton,Huddersfield,203ee0ae-1260-522f-b0c9-838517c6975c,0a7eb8ae-8bce-5061-a255-12ce767abac3,fadcbb6c-d9d6-5485-b8b7-90e81371cfe0,Huddersfield,Everton,Everton_Huddersfield,Everton_Huddersfield_2018

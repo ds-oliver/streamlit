@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2004,18,Tottenham,0.0,0.0,Southampton,5.0,1.0,0,Phil Dowd,Tottenham,Southampton,b21da197-1eea-50b9-9a32-4d62fe546fc7,2458c24d-308b-5cda-a4f1-9c5f3d3b7ceb,48964d61-56b1-5711-844e-65310c5082d0,Tottenham,Southampton,Southampton_Tottenham,Southampton_Tottenham_2004
+2004,29,Southampton,0.0,0.0,Tottenham,1.0,0.0,0,Peter Walton,Southampton,Tottenham,83453df0-46dc-5521-99ae-0c9bc19662f6,2458c24d-308b-5cda-a4f1-9c5f3d3b7ceb,48964d61-56b1-5711-844e-65310c5082d0,Southampton,Tottenham,Southampton_Tottenham,Southampton_Tottenham_2004

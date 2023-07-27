@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2022,5,West Ham,1.2,0.6,Tottenham,1.0,1.0,2022-08-31,0,draw,draw,00f067a8-3edd-5182-b9e4-810c9d32d2c7,2ed2d456-cf0d-59c4-ac06-2fd3203ded61,50227a76-0f38-59e1-b884-bdbd405da6b4,West Ham,Tottenham,Tottenham_West Ham,Tottenham_West Ham_2022
+2022,24,Tottenham,1.5,0.5,West Ham,2.0,0.0,2023-02-19,0,Tottenham,West Ham,9680d0c6-8cab-5d80-b39b-70d530599eca,2ed2d456-cf0d-59c4-ac06-2fd3203ded61,50227a76-0f38-59e1-b884-bdbd405da6b4,Tottenham,West Ham,Tottenham_West Ham,Tottenham_West Ham_2022

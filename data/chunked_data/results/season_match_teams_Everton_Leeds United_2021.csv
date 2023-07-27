@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-2021,2,Leeds United,1.2,1.8,Everton,2.0,2.0,2021-08-21,0,draw,draw,953ad526-2d30-5fef-af31-c6bfd3d3e975,509fccc6-3004-5efe-8261-069d8fab5e4a,43bff664-dc80-5a2e-b62e-178f13b54c38,Leeds United,Everton,Everton_Leeds United,Everton_Leeds United_2021
-2021,25,Everton,2.7,0.3,Leeds United,3.0,0.0,2022-02-12,0,Everton,Leeds United,4cbf699d-3259-5d14-88e6-2bcfdd3014b9,509fccc6-3004-5efe-8261-069d8fab5e4a,43bff664-dc80-5a2e-b62e-178f13b54c38,Everton,Leeds United,Everton_Leeds United,Everton_Leeds United_2021

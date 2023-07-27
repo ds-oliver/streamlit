@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+1998,5,Leicester City,0.0,0.0,Arsenal,1.0,1.0,0,Paul Durkin,draw,draw,53a6215f-a340-5c7f-8f9a-0d1c9f9a1c89,6ac5e735-548a-5e6f-b613-eac0f99e3c58,83f9ab8f-11d8-501b-8b35-1c27251518da,Leicester City,Arsenal,Arsenal_Leicester City,Arsenal_Leicester City_1998
+1998,26,Arsenal,0.0,0.0,Leicester City,5.0,0.0,0,Paul Durkin,Arsenal,Leicester City,3a964299-05d3-558f-a2f6-415dba198122,6ac5e735-548a-5e6f-b613-eac0f99e3c58,83f9ab8f-11d8-501b-8b35-1c27251518da,Arsenal,Leicester City,Arsenal_Leicester City,Arsenal_Leicester City_1998

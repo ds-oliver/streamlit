@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-2012,3,Southampton,0.0,0.0,Manchester Utd,2.0,3.0,0,Mike Dean,Manchester Utd,Southampton,4b8e2967-cc4b-5ae2-9ee9-3e6fc933a1a1,893c6226-a740-5e9d-bb33-0806aa66d9b0,53271d4f-0b4d-5352-acdc-3f0ad2be68f0,Southampton,Manchester Utd,Manchester Utd_Southampton,Manchester Utd_Southampton_2012
-2012,24,Manchester Utd,0.0,0.0,Southampton,2.0,1.0,0,Lee Mason,Manchester Utd,Southampton,3f80f6d2-0fb5-5881-96c7-442a6177e1ea,893c6226-a740-5e9d-bb33-0806aa66d9b0,53271d4f-0b4d-5352-acdc-3f0ad2be68f0,Manchester Utd,Southampton,Manchester Utd_Southampton,Manchester Utd_Southampton_2012

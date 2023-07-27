@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-2022,4,Arsenal,2.6,0.8,Fulham,2.0,1.0,2022-08-27,0,Arsenal,Fulham,b92b59be-edc1-5009-9e6e-79736037508a,42585e77-fe1d-5a86-8278-faa4d254ecd1,7962dc42-3b4d-5239-98db-48a1c8ce8809,Arsenal,Fulham,Arsenal_Fulham,Arsenal_Fulham_2022
-2022,27,Fulham,0.8,2.3,Arsenal,0.0,3.0,2023-03-12,0,Arsenal,Fulham,cb52109d-ea0c-5689-9dec-b9b145b30fc6,42585e77-fe1d-5a86-8278-faa4d254ecd1,7962dc42-3b4d-5239-98db-48a1c8ce8809,Fulham,Arsenal,Arsenal_Fulham,Arsenal_Fulham_2022

@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+1998,17,Aston Villa,0.0,0.0,Arsenal,3.0,2.0,0,Stephen Lodge,Aston Villa,Arsenal,b47cfd8a-a7a9-5b06-82f0-161de2160dc0,b967e7b4-9e81-5d5d-b0ef-5fae90544e61,520aea93-d199-5944-ba61-8cb8d6131345,Aston Villa,Arsenal,Arsenal_Aston Villa,Arsenal_Aston Villa_1998
+1998,38,Arsenal,0.0,0.0,Aston Villa,1.0,0.0,0,Dermot Gallagher,Arsenal,Aston Villa,ce40634d-c70d-5be2-a259-405ca9334229,b967e7b4-9e81-5d5d-b0ef-5fae90544e61,520aea93-d199-5944-ba61-8cb8d6131345,Arsenal,Aston Villa,Arsenal_Aston Villa,Arsenal_Aston Villa_1998

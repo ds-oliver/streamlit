@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-2022,15,Tottenham,1.2,1.2,Liverpool,1.0,2.0,2022-11-06,0,Liverpool,Tottenham,22c25ef4-55dd-5aa4-a7f5-b2a2a15f7ba5,6b4436bc-1c6f-5b26-94f5-113bce14583d,42494b08-2f19-597f-bcde-6757ff69a4b8,Tottenham,Liverpool,Liverpool_Tottenham,Liverpool_Tottenham_2022
-2022,34,Liverpool,2.2,2.0,Tottenham,4.0,3.0,2023-04-30,0,Liverpool,Tottenham,3f649a43-82ae-54b8-ab07-b89e120eb0b5,6b4436bc-1c6f-5b26-94f5-113bce14583d,42494b08-2f19-597f-bcde-6757ff69a4b8,Liverpool,Tottenham,Liverpool_Tottenham,Liverpool_Tottenham_2022

@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-2017,2,Southampton,2.1,2.0,West Ham,3.0,2.0,2017-08-19,0,Southampton,West Ham,349e61f0-37b3-5b47-bf41-3890901113d4,eca04e05-41fe-57e1-a880-f91f1b4ce127,24d06a89-da7c-51e0-abae-2a75e321afcf,Southampton,West Ham,Southampton_West Ham,Southampton_West Ham_2017
-2017,32,West Ham,1.4,0.5,Southampton,3.0,0.0,2018-03-31,0,West Ham,Southampton,b5da7271-5a67-5f25-ae8f-10b9326d3aac,eca04e05-41fe-57e1-a880-f91f1b4ce127,24d06a89-da7c-51e0-abae-2a75e321afcf,West Ham,Southampton,Southampton_West Ham,Southampton_West Ham_2017

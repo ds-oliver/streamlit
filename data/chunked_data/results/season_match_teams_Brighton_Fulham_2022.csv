@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-2022,5,Fulham,0.7,1.4,Brighton,2.0,1.0,2022-08-30,0,Fulham,Brighton,69f50b3c-ecd8-54b5-9119-c680cff854af,bb779471-7cdb-574a-b304-3acb094b5c9d,36600de1-dfd6-52fb-90ce-09dd1d9b4ac2,Fulham,Brighton,Brighton_Fulham,Brighton_Fulham_2022
-2022,24,Brighton,2.2,0.3,Fulham,0.0,1.0,2023-02-18,0,Fulham,Brighton,97dcecd3-b501-57da-9c4d-4e129120ae96,bb779471-7cdb-574a-b304-3acb094b5c9d,36600de1-dfd6-52fb-90ce-09dd1d9b4ac2,Brighton,Fulham,Brighton_Fulham,Brighton_Fulham_2022

@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2007,6,Derby County,0.0,0.0,Newcastle Utd,1.0,0.0,0,Peter Walton,Derby County,Newcastle Utd,97ec59f1-684e-57b5-b35c-072158e84cc5,e9050a8d-88da-532a-a604-36c8126ed55e,64c162d8-3948-5d90-95b1-3a860e50de69,Derby County,Newcastle Utd,Derby County_Newcastle Utd,Derby County_Newcastle Utd_2007
+2007,18,Newcastle Utd,0.0,0.0,Derby County,2.0,2.0,0,Andre Marriner,draw,draw,693965c1-a617-5ad8-bbb3-b7c43a73b1f8,e9050a8d-88da-532a-a604-36c8126ed55e,64c162d8-3948-5d90-95b1-3a860e50de69,Newcastle Utd,Derby County,Derby County_Newcastle Utd,Derby County_Newcastle Utd_2007

@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2020,1,Burnley,0.9,1.2,Manchester Utd,0.0,1.0,2021-01-12,0,Manchester Utd,Burnley,e70fe12f-8713-52d1-bb59-160f4aa6499b,b2faec3e-cdd0-5515-b0de-f6a48d38f6b3,7600afaf-7fc9-58a3-9b38-02e84e829577,Burnley,Manchester Utd,Burnley_Manchester Utd,Burnley_Manchester Utd_2020
+2020,32,Manchester Utd,2.5,0.9,Burnley,3.0,1.0,2021-04-18,0,Manchester Utd,Burnley,56e2b53f-aa94-5564-908e-05b20985672d,b2faec3e-cdd0-5515-b0de-f6a48d38f6b3,7600afaf-7fc9-58a3-9b38-02e84e829577,Manchester Utd,Burnley,Burnley_Manchester Utd,Burnley_Manchester Utd_2020

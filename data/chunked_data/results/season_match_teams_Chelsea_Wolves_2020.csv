@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-2020,13,Wolves,0.5,1.0,Chelsea,2.0,1.0,2020-12-15,0,Wolves,Chelsea,e51cfcbe-643d-5da7-a38c-15ae4a139e7a,92cad103-54d1-591d-82a4-af615ea7c4e5,ee7f24d7-514a-5c00-be85-da179639a4d5,Wolves,Chelsea,Chelsea_Wolves,Chelsea_Wolves_2020
-2020,20,Chelsea,0.7,0.5,Wolves,0.0,0.0,2021-01-27,0,draw,draw,d6244c07-500c-59ac-a7e7-0bd123bd9dc4,92cad103-54d1-591d-82a4-af615ea7c4e5,ee7f24d7-514a-5c00-be85-da179639a4d5,Chelsea,Wolves,Chelsea_Wolves,Chelsea_Wolves_2020

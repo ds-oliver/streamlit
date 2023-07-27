@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2011,1,Tottenham,0.0,0.0,Everton,2.0,0.0,0,Martin Atkinson,Tottenham,Everton,d2d8010e-ca77-5681-8f7e-36804b5ace98,74361b68-e6e1-5d3e-8a95-5429f4658739,2f189707-b54c-55a2-a3b8-d064a756a50f,Tottenham,Everton,Everton_Tottenham,Everton_Tottenham_2011
+2011,28,Everton,0.0,0.0,Tottenham,1.0,0.0,0,Mark Halsey,Everton,Tottenham,3e2809c8-210a-5a0b-bb95-3332d04ce235,74361b68-e6e1-5d3e-8a95-5429f4658739,2f189707-b54c-55a2-a3b8-d064a756a50f,Everton,Tottenham,Everton_Tottenham,Everton_Tottenham_2011

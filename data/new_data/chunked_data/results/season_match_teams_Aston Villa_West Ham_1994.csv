@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+1994,6,West Ham,0.0,0.0,Aston Villa,1.0,0.0,0,Stephen Lodge,West Ham,Aston Villa,7c572dd2-de0a-5911-b29d-d48513f8ec33,2e0c3d54-4c5e-56ee-88e8-76bb1a292fc9,9e64816d-139c-5e8d-90ca-9925a084409a,West Ham,Aston Villa,Aston Villa_West Ham,Aston Villa_West Ham_1994
+1994,35,Aston Villa,0.0,0.0,West Ham,0.0,2.0,0,Martin Bodenham,West Ham,Aston Villa,e1227d4d-a380-52ad-bc9e-4142545f8d00,2e0c3d54-4c5e-56ee-88e8-76bb1a292fc9,9e64816d-139c-5e8d-90ca-9925a084409a,Aston Villa,West Ham,Aston Villa_West Ham,Aston Villa_West Ham_1994

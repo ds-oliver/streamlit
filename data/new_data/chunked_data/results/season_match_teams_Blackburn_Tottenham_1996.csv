@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+1996,1,Blackburn,0.0,0.0,Tottenham,0.0,2.0,0,Peter Jones,Tottenham,Blackburn,830dfd46-8462-5d64-8e49-df1c4c6958df,c2116b4d-f257-5ae2-b600-81f50007ed7b,885cc28d-87c9-55da-abca-6103f8ca0d28,Blackburn,Tottenham,Blackburn_Tottenham,Blackburn_Tottenham_1996
+1996,24,Tottenham,0.0,0.0,Blackburn,2.0,1.0,0,Paul Danson,Tottenham,Blackburn,94902782-a8bb-5de2-ac19-29d498d70d31,c2116b4d-f257-5ae2-b600-81f50007ed7b,885cc28d-87c9-55da-abca-6103f8ca0d28,Tottenham,Blackburn,Blackburn_Tottenham,Blackburn_Tottenham_1996

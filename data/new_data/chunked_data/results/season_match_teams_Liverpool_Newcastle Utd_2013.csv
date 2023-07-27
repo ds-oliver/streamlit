@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2013,8,Newcastle Utd,0.0,0.0,Liverpool,2.0,2.0,0,Andre Marriner,draw,draw,9f7dcd17-323b-5b2b-b2a9-1f1c611d0cca,40adc14d-36a2-5012-af99-394a435711e3,ae5df00e-ef99-531b-afe0-c6208be46792,Newcastle Utd,Liverpool,Liverpool_Newcastle Utd,Liverpool_Newcastle Utd_2013
+2013,38,Liverpool,0.0,0.0,Newcastle Utd,2.0,1.0,0,Phil Dowd,Liverpool,Newcastle Utd,f2687d1a-833d-5f9a-8e37-bf50faeac485,40adc14d-36a2-5012-af99-394a435711e3,ae5df00e-ef99-531b-afe0-c6208be46792,Liverpool,Newcastle Utd,Liverpool_Newcastle Utd,Liverpool_Newcastle Utd_2013

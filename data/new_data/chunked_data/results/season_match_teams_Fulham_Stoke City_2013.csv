@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2013,7,Fulham,0.0,0.0,Stoke City,1.0,0.0,0,Roger East,Fulham,Stoke City,981f380b-987f-5a15-8fdf-367fad005d1c,228a319b-5f1a-57de-b281-07e9abbd204b,0168379c-b2e7-53c8-9f18-751858eb1c40,Fulham,Stoke City,Fulham_Stoke City,Fulham_Stoke City_2013
+2013,37,Stoke City,0.0,0.0,Fulham,4.0,1.0,0,Chris Foy,Stoke City,Fulham,b4a8b773-37e6-5a86-bb08-b05dbef22310,228a319b-5f1a-57de-b281-07e9abbd204b,0168379c-b2e7-53c8-9f18-751858eb1c40,Stoke City,Fulham,Fulham_Stoke City,Fulham_Stoke City_2013

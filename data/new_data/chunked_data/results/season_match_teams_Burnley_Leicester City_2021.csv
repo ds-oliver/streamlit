@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2021,6,Leicester City,2.4,0.5,Burnley,2.0,2.0,2021-09-25,0,draw,draw,72bdb2ee-3e22-5727-8c4b-56a64807fa69,f35381e2-4d68-5496-ba35-732711560463,03c78d81-2ba9-5140-9eec-82bbab706dc2,Leicester City,Burnley,Burnley_Leicester City,Burnley_Leicester City_2021
+2021,22,Burnley,0.9,1.5,Leicester City,0.0,2.0,2022-03-01,0,Leicester City,Burnley,cb2b9390-14bd-5355-b8b1-f4aa034116a8,f35381e2-4d68-5496-ba35-732711560463,03c78d81-2ba9-5140-9eec-82bbab706dc2,Burnley,Leicester City,Burnley_Leicester City,Burnley_Leicester City_2021

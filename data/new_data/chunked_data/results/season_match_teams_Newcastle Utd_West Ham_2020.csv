@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2020,1,West Ham,1.0,1.6,Newcastle Utd,0.0,2.0,2020-09-12,0,Newcastle Utd,West Ham,f169b21f-498d-5291-9a76-378892832ef2,8b21e514-642e-52c8-ad63-14a911ef1178,57726793-108d-55d5-8291-a2ab9655fde0,West Ham,Newcastle Utd,Newcastle Utd_West Ham,Newcastle Utd_West Ham_2020
+2020,32,Newcastle Utd,2.2,1.9,West Ham,3.0,2.0,2021-04-17,0,Newcastle Utd,West Ham,f953ebf7-916e-51f9-90b8-681c4bd6fe70,8b21e514-642e-52c8-ad63-14a911ef1178,57726793-108d-55d5-8291-a2ab9655fde0,Newcastle Utd,West Ham,Newcastle Utd_West Ham,Newcastle Utd_West Ham_2020

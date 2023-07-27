@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2000,7,Tottenham,0.0,0.0,Manchester City,0.0,0.0,0,Stephen Bennett,draw,draw,cf018c71-99fd-51fa-a913-38690e45ddea,54043609-c77b-57b1-af20-914ee4bd409d,9aa8ebd0-e11e-5f84-9550-3434ea687970,Tottenham,Manchester City,Manchester City_Tottenham,Manchester City_Tottenham_2000
+2000,27,Manchester City,0.0,0.0,Tottenham,0.0,1.0,0,Steve Dunn,Tottenham,Manchester City,c283e0b6-edd6-510b-9044-01b513c68209,54043609-c77b-57b1-af20-914ee4bd409d,9aa8ebd0-e11e-5f84-9550-3434ea687970,Manchester City,Tottenham,Manchester City_Tottenham,Manchester City_Tottenham_2000

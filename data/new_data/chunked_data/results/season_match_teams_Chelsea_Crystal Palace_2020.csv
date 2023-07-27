@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2020,4,Chelsea,2.7,0.2,Crystal Palace,4.0,0.0,2020-10-03,0,Chelsea,Crystal Palace,2b9a5ff8-eca6-573c-8fd0-b310ae866693,fb13bb64-8df9-5b5c-b626-6efb9f3628dc,bb64246d-3a86-5176-9e3b-21afff975588,Chelsea,Crystal Palace,Chelsea_Crystal Palace,Chelsea_Crystal Palace_2020
+2020,31,Crystal Palace,0.4,3.1,Chelsea,1.0,4.0,2021-04-10,0,Chelsea,Crystal Palace,039d5a19-913b-5528-bd6e-752e75002fd6,fb13bb64-8df9-5b5c-b626-6efb9f3628dc,bb64246d-3a86-5176-9e3b-21afff975588,Crystal Palace,Chelsea,Chelsea_Crystal Palace,Chelsea_Crystal Palace_2020

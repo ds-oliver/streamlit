@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2020,16,Newcastle Utd,0.5,1.4,Liverpool,0.0,0.0,2020-12-30,0,draw,draw,8186c49b-8e7d-589d-bbcd-633099264ba8,40adc14d-36a2-5012-af99-394a435711e3,ddf48a0b-7f98-5738-be83-67089e25e829,Newcastle Utd,Liverpool,Liverpool_Newcastle Utd,Liverpool_Newcastle Utd_2020
+2020,33,Liverpool,2.4,1.0,Newcastle Utd,1.0,1.0,2021-04-24,0,draw,draw,4b14b87e-a46a-569f-bdc6-60fd8495f950,40adc14d-36a2-5012-af99-394a435711e3,ddf48a0b-7f98-5738-be83-67089e25e829,Liverpool,Newcastle Utd,Liverpool_Newcastle Utd,Liverpool_Newcastle Utd_2020

@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+1996,7,Liverpool,0.0,0.0,Chelsea,5.0,1.0,0,Steve Dunn,Liverpool,Chelsea,8f449dbe-88f8-5adc-99aa-6602caa1fd57,69ac041e-3516-5d16-bb75-b88c501bc86c,db32e47f-505b-5627-a263-f9e1cf7d6340,Liverpool,Chelsea,Chelsea_Liverpool,Chelsea_Liverpool_1996
+1996,21,Chelsea,0.0,0.0,Liverpool,1.0,0.0,0,Stephen Lodge,Chelsea,Liverpool,6c5caacf-b512-5759-aca5-d308ce7294a6,69ac041e-3516-5d16-bb75-b88c501bc86c,db32e47f-505b-5627-a263-f9e1cf7d6340,Chelsea,Liverpool,Chelsea_Liverpool,Chelsea_Liverpool_1996

@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-2005,3,Everton,0.0,0.0,West Ham,1.0,2.0,0,Peter Walton,West Ham,Everton,6f674f64-a64a-5a85-8a55-f3a3104bc518,526d1c04-b9c5-50ef-a573-a758dbaf7768,e279c2f5-4d97-5b5b-b48d-48eca9cc02ea,Everton,West Ham,Everton_West Ham,Everton_West Ham_2005
-2005,28,West Ham,0.0,0.0,Everton,2.0,2.0,0,Mike Riley,draw,draw,bf7e9805-b78c-5fc5-b972-61259b9b95dd,526d1c04-b9c5-50ef-a573-a758dbaf7768,e279c2f5-4d97-5b5b-b48d-48eca9cc02ea,West Ham,Everton,Everton_West Ham,Everton_West Ham_2005

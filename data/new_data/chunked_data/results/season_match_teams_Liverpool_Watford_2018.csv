@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2018,13,Watford,0.4,1.2,Liverpool,0.0,3.0,2018-11-24,0,Liverpool,Watford,29851391-13e6-58eb-b349-e9a841d71f0d,41497568-5d1c-57bc-abb0-b53147504226,29f12ed1-9ec9-5921-9443-5462ad14c20b,Watford,Liverpool,Liverpool_Watford,Liverpool_Watford_2018
+2018,28,Liverpool,1.9,0.3,Watford,5.0,0.0,2019-02-27,0,Liverpool,Watford,e234a830-8c50-566d-ab90-dbace52314d2,41497568-5d1c-57bc-abb0-b53147504226,29f12ed1-9ec9-5921-9443-5462ad14c20b,Liverpool,Watford,Liverpool_Watford,Liverpool_Watford_2018

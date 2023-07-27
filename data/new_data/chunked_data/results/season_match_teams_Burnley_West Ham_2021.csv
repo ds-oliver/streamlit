@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2021,16,Burnley,0.8,0.8,West Ham,0.0,0.0,2021-12-12,0,draw,draw,7c980a83-590e-534c-933d-e0bdef246650,da41ffdb-3365-5114-bc0d-3ad89e6db9aa,9465dc44-dadc-5748-8e3f-29b5e189c2a2,Burnley,West Ham,Burnley_West Ham,Burnley_West Ham_2021
+2021,33,West Ham,2.2,1.8,Burnley,1.0,1.0,2022-04-17,0,draw,draw,87720c19-beb0-5b63-a783-37359c4c1ee7,da41ffdb-3365-5114-bc0d-3ad89e6db9aa,9465dc44-dadc-5748-8e3f-29b5e189c2a2,West Ham,Burnley,Burnley_West Ham,Burnley_West Ham_2021

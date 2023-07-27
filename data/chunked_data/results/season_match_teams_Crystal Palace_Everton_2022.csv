@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-2022,13,Everton,1.4,0.9,Crystal Palace,3.0,0.0,2022-10-22,0,Everton,Crystal Palace,00c4d362-4e05-5e31-99bc-7481a3aecd79,097bf99a-7c5f-55b5-9665-5685ae13c4e8,f950fd1b-8e6f-536c-bdf2-b72e95686de7,Everton,Crystal Palace,Crystal Palace_Everton,Crystal Palace_Everton_2022
-2022,32,Crystal Palace,0.5,0.4,Everton,0.0,0.0,2023-04-22,0,draw,draw,04496ef5-270f-5f15-abec-83fb5910276d,097bf99a-7c5f-55b5-9665-5685ae13c4e8,f950fd1b-8e6f-536c-bdf2-b72e95686de7,Crystal Palace,Everton,Crystal Palace_Everton,Crystal Palace_Everton_2022

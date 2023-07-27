@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2000,18,Ipswich Town,0.0,0.0,Southampton,3.0,1.0,0,Barry Knight,Ipswich Town,Southampton,505fc1a1-b7a1-5340-a544-a3bc173c8534,1bdf76d5-579a-50b6-ab49-798e16ecbf95,ffec6083-418d-5852-8cd0-dbb892d171bc,Ipswich Town,Southampton,Ipswich Town_Southampton,Ipswich Town_Southampton_2000
+2000,31,Southampton,0.0,0.0,Ipswich Town,0.0,3.0,0,Alan Wiley,Ipswich Town,Southampton,735d0172-bb0e-5154-8d6d-46e9d7e86ef6,1bdf76d5-579a-50b6-ab49-798e16ecbf95,ffec6083-418d-5852-8cd0-dbb892d171bc,Southampton,Ipswich Town,Ipswich Town_Southampton,Ipswich Town_Southampton_2000

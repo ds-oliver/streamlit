@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2021,8,Everton,0.9,1.2,West Ham,0.0,1.0,2021-10-17,0,West Ham,Everton,51df6c13-0b71-59f0-a279-5f34abe19c98,526d1c04-b9c5-50ef-a573-a758dbaf7768,453f07df-3e01-5bd3-8f45-e838db549e60,Everton,West Ham,Everton_West Ham,Everton_West Ham_2021
+2021,31,West Ham,1.2,0.7,Everton,2.0,1.0,2022-04-03,0,West Ham,Everton,038f796b-8aa0-5de5-97b0-3dfb1636a087,526d1c04-b9c5-50ef-a573-a758dbaf7768,453f07df-3e01-5bd3-8f45-e838db549e60,West Ham,Everton,Everton_West Ham,Everton_West Ham_2021

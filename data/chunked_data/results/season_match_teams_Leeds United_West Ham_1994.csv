@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-1994,1,West Ham,0.0,0.0,Leeds United,0.0,0.0,0,Keith Burge,draw,draw,0c87fdda-c277-53f9-b4c1-77caa33822e0,33fd6485-6773-5b61-b272-5e4ec240036e,647aff50-91c5-55dc-9aec-6c3703f620c9,West Ham,Leeds United,Leeds United_West Ham,Leeds United_West Ham_1994
-1994,18,Leeds United,0.0,0.0,West Ham,2.0,2.0,0,Robbie Hart,draw,draw,1d26ea89-7f5c-557b-bf13-8b652847fe2e,33fd6485-6773-5b61-b272-5e4ec240036e,647aff50-91c5-55dc-9aec-6c3703f620c9,Leeds United,West Ham,Leeds United_West Ham,Leeds United_West Ham_1994

@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-2018,8,Fulham,1.4,1.1,Arsenal,1.0,5.0,2018-10-07,0,Arsenal,Fulham,d20643b2-f682-566f-9a63-64407ee6e675,42585e77-fe1d-5a86-8278-faa4d254ecd1,fb2e42b0-b632-550c-b050-e3f134d16439,Fulham,Arsenal,Arsenal_Fulham,Arsenal_Fulham_2018
-2018,21,Arsenal,4.5,1.4,Fulham,4.0,1.0,2019-01-01,0,Arsenal,Fulham,ec34a58f-e3cc-5419-9bdf-dd1e899607a6,42585e77-fe1d-5a86-8278-faa4d254ecd1,fb2e42b0-b632-550c-b050-e3f134d16439,Arsenal,Fulham,Arsenal_Fulham,Arsenal_Fulham_2018

@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-2018,15,Watford,1.8,2.5,Manchester City,1.0,2.0,2018-12-04,0,Manchester City,Watford,749bb0ae-86f3-53f8-a26d-e7594f99e5c2,9b262969-6f4f-5845-b978-1c057f36db01,73d99348-7a11-5621-b059-e7a80d165524,Watford,Manchester City,Manchester City_Watford,Manchester City_Watford_2018
-2018,30,Manchester City,3.4,0.2,Watford,3.0,1.0,2019-03-09,0,Manchester City,Watford,3bfbb2cc-c8d7-52cd-9c4d-2e5373f31112,9b262969-6f4f-5845-b978-1c057f36db01,73d99348-7a11-5621-b059-e7a80d165524,Manchester City,Watford,Manchester City_Watford,Manchester City_Watford_2018

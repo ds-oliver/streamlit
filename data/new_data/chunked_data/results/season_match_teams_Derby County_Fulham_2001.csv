@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2001,3,Fulham,0.0,0.0,Derby County,0.0,0.0,0,Mike Dean,draw,draw,db79dc56-33c5-5b6e-9f58-c53740b0f471,7f31f32c-c968-5b77-8d34-dd6b502cdd51,c8de514d-e4cd-5722-b6d8-52f5b33484a2,Fulham,Derby County,Derby County_Fulham,Derby County_Fulham_2001
+2001,21,Derby County,0.0,0.0,Fulham,0.0,1.0,0,Barry Knight,Fulham,Derby County,3ae2f254-9c61-541b-8116-c3abb26a4cdd,7f31f32c-c968-5b77-8d34-dd6b502cdd51,c8de514d-e4cd-5722-b6d8-52f5b33484a2,Derby County,Fulham,Derby County_Fulham,Derby County_Fulham_2001

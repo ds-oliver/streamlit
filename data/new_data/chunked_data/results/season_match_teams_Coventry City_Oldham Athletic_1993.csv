@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+1993,4,Oldham Athletic,0.0,0.0,Coventry City,3.0,3.0,0,Peter Foakes,draw,draw,56518e58-f2a2-52ca-ba4f-e8f3478ebf26,d17a9942-e157-5c50-bea3-1047bb130596,cdc13a16-5f16-5b19-b949-8f4d80710410,Oldham Athletic,Coventry City,Coventry City_Oldham Athletic,Coventry City_Oldham Athletic_1993
+1993,21,Coventry City,0.0,0.0,Oldham Athletic,1.0,1.0,0,Dermot Gallagher,draw,draw,8cad9121-af80-599c-a493-ff75e3b052fd,d17a9942-e157-5c50-bea3-1047bb130596,cdc13a16-5f16-5b19-b949-8f4d80710410,Coventry City,Oldham Athletic,Coventry City_Oldham Athletic,Coventry City_Oldham Athletic_1993

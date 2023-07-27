@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-2011,19,Sunderland,0.0,0.0,Manchester City,1.0,0.0,0,Kevin Friend,Sunderland,Manchester City,dc708465-f456-58db-8d3a-14198c55a300,dc2dbee1-f75e-50e0-a610-39871963d64c,9e5462b5-8b99-5fcd-924a-46fef98c2000,Sunderland,Manchester City,Manchester City_Sunderland,Manchester City_Sunderland_2011
-2011,31,Manchester City,0.0,0.0,Sunderland,3.0,3.0,0,Phil Dowd,draw,draw,9a922db5-35f6-51c5-9efd-0efee78a136a,dc2dbee1-f75e-50e0-a610-39871963d64c,9e5462b5-8b99-5fcd-924a-46fef98c2000,Manchester City,Sunderland,Manchester City_Sunderland,Manchester City_Sunderland_2011

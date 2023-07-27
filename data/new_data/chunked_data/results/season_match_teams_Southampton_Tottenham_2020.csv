@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2020,2,Southampton,2.0,2.1,Tottenham,2.0,5.0,2020-09-20,0,Tottenham,Southampton,1a7df30a-f01e-5b24-b2a3-b43c09dd5c8c,2458c24d-308b-5cda-a4f1-9c5f3d3b7ceb,1abc31a7-b919-5e69-a8a9-4bf413f64a8a,Southampton,Tottenham,Southampton_Tottenham,Southampton_Tottenham_2020
+2020,29,Tottenham,1.4,0.8,Southampton,2.0,1.0,2021-04-21,0,Tottenham,Southampton,752070e3-ec7f-5e22-8093-3cd20542206b,2458c24d-308b-5cda-a4f1-9c5f3d3b7ceb,1abc31a7-b919-5e69-a8a9-4bf413f64a8a,Tottenham,Southampton,Southampton_Tottenham,Southampton_Tottenham_2020

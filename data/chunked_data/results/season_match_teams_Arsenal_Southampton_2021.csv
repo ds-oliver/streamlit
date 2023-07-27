@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-2021,16,Arsenal,1.8,0.6,Southampton,3.0,0.0,2021-12-11,0,Arsenal,Southampton,2e0d1179-9674-5400-bd32-b81a361bbbb4,981b4a5b-67e1-503f-953b-6ccdd279460a,8a325612-0a17-5b48-b27f-4a474dd406db,Arsenal,Southampton,Arsenal_Southampton,Arsenal_Southampton_2021
-2021,33,Southampton,0.8,1.7,Arsenal,1.0,0.0,2022-04-16,0,Southampton,Arsenal,b948b038-d744-5c65-8538-a402300b03a3,981b4a5b-67e1-503f-953b-6ccdd279460a,8a325612-0a17-5b48-b27f-4a474dd406db,Southampton,Arsenal,Arsenal_Southampton,Arsenal_Southampton_2021

@@ -1,7 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-2018,9,Wolves,0.7,1.1,Watford,0.0,2.0,2018-10-20,0,Watford,Wolves,84260423-6b8b-5621-85ec-2061ca68b689,7f28ecda-60ad-5e14-8d3f-ed1944aea9e9,14ba989b-40c9-5174-a5b8-a391fbf051c7,Wolves,Watford,Watford_Wolves,Watford_Wolves_2018
-2018,36,Watford,0.8,2.0,Wolves,1.0,2.0,2019-04-27,0,Wolves,Watford,d4b66b04-f728-5bb1-a987-f30a52ce1fe6,7f28ecda-60ad-5e14-8d3f-ed1944aea9e9,14ba989b-40c9-5174-a5b8-a391fbf051c7,Watford,Wolves,Watford_Wolves,Watford_Wolves_2018
-2019,7,Wolves,1.4,1.4,Watford,2.0,0.0,2019-09-28,0,Wolves,Watford,1e009e84-eed5-531f-aa36-95118f176d37,7f28ecda-60ad-5e14-8d3f-ed1944aea9e9,62610e17-9c15-5c30-882b-8f3503735952,Wolves,Watford,Watford_Wolves,Watford_Wolves_2019
-2019,21,Watford,1.1,1.2,Wolves,2.0,1.0,2020-01-01,0,Watford,Wolves,eeb0ec7d-8d1d-5cbf-ab3a-7dfb3656dfb0,7f28ecda-60ad-5e14-8d3f-ed1944aea9e9,62610e17-9c15-5c30-882b-8f3503735952,Watford,Wolves,Watford_Wolves,Watford_Wolves_2019
-2021,4,Watford,0.2,2.2,Wolves,0.0,2.0,2021-09-11,0,Wolves,Watford,8121f55b-c4df-585e-a546-676364b2a56a,7f28ecda-60ad-5e14-8d3f-ed1944aea9e9,ad38026a-0e6f-53e8-80ab-a530c6ca2cda,Watford,Wolves,Watford_Wolves,Watford_Wolves_2021
-2021,19,Wolves,0.7,0.6,Watford,4.0,0.0,2022-03-10,0,Wolves,Watford,748ab291-a111-5282-970d-130d6579e0c3,7f28ecda-60ad-5e14-8d3f-ed1944aea9e9,ad38026a-0e6f-53e8-80ab-a530c6ca2cda,Wolves,Watford,Watford_Wolves,Watford_Wolves_2021

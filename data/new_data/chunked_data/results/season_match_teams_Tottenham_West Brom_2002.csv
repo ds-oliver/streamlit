@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2002,17,Tottenham,0.0,0.0,West Brom,3.0,1.0,0,Alan Wiley,Tottenham,West Brom,77ccf915-73a5-5e7c-b2f4-7b86adf8079e,be557923-47f2-5dec-869b-0782ce22f3f6,f2d935c8-b045-54f1-b847-afceb77bcba1,Tottenham,West Brom,Tottenham_West Brom,Tottenham_West Brom_2002
+2002,35,West Brom,0.0,0.0,Tottenham,2.0,3.0,0,Phil Dowd,Tottenham,West Brom,0b052505-6302-5d74-aad8-ceafaee372da,be557923-47f2-5dec-869b-0782ce22f3f6,f2d935c8-b045-54f1-b847-afceb77bcba1,West Brom,Tottenham,Tottenham_West Brom,Tottenham_West Brom_2002

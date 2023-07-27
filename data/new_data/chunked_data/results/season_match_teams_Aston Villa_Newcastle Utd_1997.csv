@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+1997,3,Newcastle Utd,0.0,0.0,Aston Villa,1.0,0.0,0,Gary Willard,Newcastle Utd,Aston Villa,4306adc9-5645-512b-9e61-172834cadd55,1743232e-32be-50c8-b499-a9eaae9af563,aa45bfcb-fc36-5ef0-aa8b-5505860a5b77,Newcastle Utd,Aston Villa,Aston Villa_Newcastle Utd,Aston Villa_Newcastle Utd_1997
+1997,24,Aston Villa,0.0,0.0,Newcastle Utd,0.0,1.0,0,Stephen Lodge,Newcastle Utd,Aston Villa,bcf36875-d490-58bd-be61-0a1d6a3a850a,1743232e-32be-50c8-b499-a9eaae9af563,aa45bfcb-fc36-5ef0-aa8b-5505860a5b77,Aston Villa,Newcastle Utd,Aston Villa_Newcastle Utd,Aston Villa_Newcastle Utd_1997

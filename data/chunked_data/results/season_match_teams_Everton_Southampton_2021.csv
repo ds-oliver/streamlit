@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-2021,1,Everton,2.4,0.8,Southampton,3.0,1.0,2021-08-14,0,Everton,Southampton,629e7b3b-7cb1-5e10-b553-6337ed43c59c,071acb8a-d862-5f0d-9e68-4f6fc92a713f,3485b362-3cca-51d6-bdf6-78315202c678,Everton,Southampton,Everton_Southampton,Everton_Southampton_2021
-2021,26,Southampton,2.5,0.3,Everton,2.0,0.0,2022-02-19,0,Southampton,Everton,19618357-3a1d-5303-811a-97f16790adc1,071acb8a-d862-5f0d-9e68-4f6fc92a713f,3485b362-3cca-51d6-bdf6-78315202c678,Southampton,Everton,Everton_Southampton,Everton_Southampton_2021

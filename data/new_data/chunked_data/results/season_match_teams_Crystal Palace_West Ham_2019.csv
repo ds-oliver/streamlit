@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2019,8,West Ham,1.4,2.1,Crystal Palace,1.0,2.0,2019-10-05,0,Crystal Palace,West Ham,92cac3d7-5cfc-520a-9be3-45db0b78b2c1,8045efc9-b9df-529c-b315-0cda8e15bcd2,f4410619-2563-5bb4-820f-3df1ec166bae,West Ham,Crystal Palace,Crystal Palace_West Ham,Crystal Palace_West Ham_2019
+2019,19,Crystal Palace,2.7,0.9,West Ham,2.0,1.0,2019-12-26,0,Crystal Palace,West Ham,38508c60-f9eb-5004-9bbb-8d83466ca59d,8045efc9-b9df-529c-b315-0cda8e15bcd2,f4410619-2563-5bb4-820f-3df1ec166bae,Crystal Palace,West Ham,Crystal Palace_West Ham,Crystal Palace_West Ham_2019

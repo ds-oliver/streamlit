@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2012,10,QPR,0.0,0.0,Reading,1.0,1.0,0,Michael Oliver,draw,draw,7d3b793d-149d-5d12-b06a-065335024626,84aa6359-ac8c-5ced-a532-94c2d686cf58,1b4da21d-b51d-5d94-b7d9-2caa20221ff7,QPR,Reading,QPR_Reading,QPR_Reading_2012
+2012,35,Reading,0.0,0.0,QPR,0.0,0.0,0,Kevin Friend,draw,draw,3e8e183f-2901-522c-9252-c63612873863,84aa6359-ac8c-5ced-a532-94c2d686cf58,1b4da21d-b51d-5d94-b7d9-2caa20221ff7,Reading,QPR,QPR_Reading,QPR_Reading_2012

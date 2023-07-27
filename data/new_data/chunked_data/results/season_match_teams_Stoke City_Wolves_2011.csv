@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2011,16,Wolves,0.0,0.0,Stoke City,1.0,2.0,0,Anthony Taylor,Stoke City,Wolves,a027b842-a60f-57fd-88ba-eb144bbe365a,800f03c0-5866-519b-b0a2-a3d19f905b39,90d3f56d-cbc9-51b7-b6b3-d42d436fe117,Wolves,Stoke City,Stoke City_Wolves,Stoke City_Wolves_2011
+2011,32,Stoke City,0.0,0.0,Wolves,2.0,1.0,0,Mark Halsey,Stoke City,Wolves,3658dc1c-ff2a-5536-948e-88863262c82e,800f03c0-5866-519b-b0a2-a3d19f905b39,90d3f56d-cbc9-51b7-b6b3-d42d436fe117,Stoke City,Wolves,Stoke City_Wolves,Stoke City_Wolves_2011

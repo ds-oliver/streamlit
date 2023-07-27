@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-2009,3,West Ham,0.0,0.0,Tottenham,1.0,2.0,0,Mark Clattenburg,Tottenham,West Ham,af8f0590-5d91-5217-b29d-704edf295857,2ed2d456-cf0d-59c4-ac06-2fd3203ded61,d4e5b76f-5daa-581b-bebd-69bb35d2ed2c,West Ham,Tottenham,Tottenham_West Ham,Tottenham_West Ham_2009
-2009,20,Tottenham,0.0,0.0,West Ham,2.0,0.0,0,Chris Foy,Tottenham,West Ham,edff6f2a-8d4f-5aba-94d7-b65a08f0ae96,2ed2d456-cf0d-59c4-ac06-2fd3203ded61,d4e5b76f-5daa-581b-bebd-69bb35d2ed2c,Tottenham,West Ham,Tottenham_West Ham,Tottenham_West Ham_2009

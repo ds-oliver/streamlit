@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2018,1,Fulham,0.7,1.0,Crystal Palace,0.0,2.0,2018-08-11,0,Crystal Palace,Fulham,6aa45099-6ec7-5990-85d5-eeb367eb8a30,6b1d525d-a1b2-561d-adf4-8e5e1da55722,8376070f-8c38-58b4-bf97-f5bb589f70ae,Fulham,Crystal Palace,Crystal Palace_Fulham,Crystal Palace_Fulham_2018
+2018,25,Crystal Palace,2.2,0.6,Fulham,2.0,0.0,2019-02-02,0,Crystal Palace,Fulham,52ecc295-a52f-51a6-b8a8-3b489af7e050,6b1d525d-a1b2-561d-adf4-8e5e1da55722,8376070f-8c38-58b4-bf97-f5bb589f70ae,Crystal Palace,Fulham,Crystal Palace_Fulham,Crystal Palace_Fulham_2018

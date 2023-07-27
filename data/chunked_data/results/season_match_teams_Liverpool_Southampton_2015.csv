@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-2015,10,Liverpool,0.0,0.0,Southampton,1.0,1.0,0,Andre Marriner,draw,draw,77dbab65-b7d7-5a69-9d71-dc5bfd5d91bf,5128b827-0008-5d0a-9f43-5b9afa9cb04f,53ec7530-2a5d-59c3-a3ea-e2eea33364b9,Liverpool,Southampton,Liverpool_Southampton,Liverpool_Southampton_2015
-2015,31,Southampton,0.0,0.0,Liverpool,3.0,2.0,0,Roger East,Southampton,Liverpool,626dcea4-5d5b-51d6-bff7-4dc389c83bd1,5128b827-0008-5d0a-9f43-5b9afa9cb04f,53ec7530-2a5d-59c3-a3ea-e2eea33364b9,Southampton,Liverpool,Liverpool_Southampton,Liverpool_Southampton_2015

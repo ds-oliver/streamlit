@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-2000,1,Sunderland,0.0,0.0,Arsenal,1.0,0.0,0,Steve Dunn,Sunderland,Arsenal,5be0f7d5-1383-5c08-9c11-3f39e5d192e7,c8da12e3-c9bc-5cbc-b80a-60ec13e11dab,cf9ce4f1-e718-5594-b367-1b6422c47496,Sunderland,Arsenal,Arsenal_Sunderland,Arsenal_Sunderland_2000
-2000,21,Arsenal,0.0,0.0,Sunderland,2.0,2.0,0,Graham Barber,draw,draw,136d4cd8-71dd-5621-9715-d4cb947fb8fb,c8da12e3-c9bc-5cbc-b80a-60ec13e11dab,cf9ce4f1-e718-5594-b367-1b6422c47496,Arsenal,Sunderland,Arsenal_Sunderland,Arsenal_Sunderland_2000

@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2005,19,Newcastle Utd,0.0,0.0,Charlton Ath,0.0,0.0,0,Mike Dean,draw,draw,29e2e135-54f8-596f-9009-623467faf2ee,0aba2358-0581-56a2-bab1-42f3df13cbf3,59fe61b5-951b-5e77-a1bc-f5c90ab9466e,Newcastle Utd,Charlton Ath,Charlton Ath_Newcastle Utd,Charlton Ath_Newcastle Utd_2005
+2005,31,Charlton Ath,0.0,0.0,Newcastle Utd,3.0,1.0,0,Mark Halsey,Charlton Ath,Newcastle Utd,8437a69b-a6e9-552e-9a97-c2258d146e2a,0aba2358-0581-56a2-bab1-42f3df13cbf3,59fe61b5-951b-5e77-a1bc-f5c90ab9466e,Charlton Ath,Newcastle Utd,Charlton Ath_Newcastle Utd,Charlton Ath_Newcastle Utd_2005

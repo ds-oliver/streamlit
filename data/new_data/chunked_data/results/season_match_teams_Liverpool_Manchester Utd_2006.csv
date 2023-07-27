@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2006,9,Manchester Utd,0.0,0.0,Liverpool,2.0,0.0,0,Graham Poll,Manchester Utd,Liverpool,daa4ad7b-c038-5af4-8ab8-4467afec12de,57be0458-e014-52cd-9f80-35215ce90b6d,4f711cff-5043-56cd-a237-9149e24afcb9,Manchester Utd,Liverpool,Liverpool_Manchester Utd,Liverpool_Manchester Utd_2006
+2006,29,Liverpool,0.0,0.0,Manchester Utd,0.0,1.0,0,Martin Atkinson,Manchester Utd,Liverpool,8ed76412-38de-5a9b-967a-4023e175a625,57be0458-e014-52cd-9f80-35215ce90b6d,4f711cff-5043-56cd-a237-9149e24afcb9,Liverpool,Manchester Utd,Liverpool_Manchester Utd,Liverpool_Manchester Utd_2006

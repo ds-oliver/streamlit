@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2010,14,Liverpool,0.0,0.0,West Ham,3.0,0.0,0,Lee Probert,Liverpool,West Ham,6d4c416f-0c38-5f57-bb97-91f5bcd2425a,6a1c93ca-93e5-5213-8209-7240e803465d,81824d50-e15a-5070-91fa-0dbe212e22e9,Liverpool,West Ham,Liverpool_West Ham,Liverpool_West Ham_2010
+2010,28,West Ham,0.0,0.0,Liverpool,3.0,1.0,0,Mark Halsey,West Ham,Liverpool,38b828ce-d171-544d-948b-db0dab8e21d3,6a1c93ca-93e5-5213-8209-7240e803465d,81824d50-e15a-5070-91fa-0dbe212e22e9,West Ham,Liverpool,Liverpool_West Ham,Liverpool_West Ham_2010

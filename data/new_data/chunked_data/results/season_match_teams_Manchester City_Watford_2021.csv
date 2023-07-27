@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2021,15,Watford,0.8,3.1,Manchester City,1.0,3.0,2021-12-04,0,Manchester City,Watford,ef23ad1a-d659-5ad1-9ce1-1b086b33ef50,9b262969-6f4f-5845-b978-1c057f36db01,7170df80-2dbf-5a69-b975-fe7726b3b5a6,Watford,Manchester City,Manchester City_Watford,Manchester City_Watford_2021
+2021,34,Manchester City,3.6,0.5,Watford,5.0,1.0,2022-04-23,0,Manchester City,Watford,631e78c6-e7b2-51cb-b606-c30362e054b4,9b262969-6f4f-5845-b978-1c057f36db01,7170df80-2dbf-5a69-b975-fe7726b3b5a6,Manchester City,Watford,Manchester City_Watford,Manchester City_Watford_2021

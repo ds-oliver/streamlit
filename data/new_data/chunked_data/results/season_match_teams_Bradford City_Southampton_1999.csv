@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+1999,21,Southampton,0.0,0.0,Bradford City,1.0,0.0,0,David Elleray,Southampton,Bradford City,b0a0a73a-2368-5fda-9e08-e832ebed68e5,e0f4dda5-2eb6-5f3b-a106-a353d6d15f04,05d218ff-d693-5fb8-b2b0-d075aca8429d,Southampton,Bradford City,Bradford City_Southampton,Bradford City_Southampton_1999
+1999,32,Bradford City,0.0,0.0,Southampton,1.0,2.0,0,David Elleray,Southampton,Bradford City,1d21775f-6066-5bc1-8e7b-4a6e2b080221,e0f4dda5-2eb6-5f3b-a106-a353d6d15f04,05d218ff-d693-5fb8-b2b0-d075aca8429d,Bradford City,Southampton,Bradford City_Southampton,Bradford City_Southampton_1999

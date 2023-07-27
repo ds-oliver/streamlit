@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-2021,11,West Ham,1.0,1.2,Liverpool,3.0,2.0,2021-11-07,0,West Ham,Liverpool,c4fcdd21-8ba4-5e1b-b654-26b6c6d4c967,6a1c93ca-93e5-5213-8209-7240e803465d,1817bc13-d98b-535a-9af4-9e252dbb0b31,West Ham,Liverpool,Liverpool_West Ham,Liverpool_West Ham_2021
-2021,28,Liverpool,2.4,1.3,West Ham,1.0,0.0,2022-03-05,0,Liverpool,West Ham,a0723968-387f-5440-9179-0edb1883252b,6a1c93ca-93e5-5213-8209-7240e803465d,1817bc13-d98b-535a-9af4-9e252dbb0b31,Liverpool,West Ham,Liverpool_West Ham,Liverpool_West Ham_2021

@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-2012,4,Stoke City,0.0,0.0,Manchester City,1.0,1.0,0,Mark Clattenburg,draw,draw,369fd1fa-91e2-5b91-9b4d-e04bf304deb3,ffe973cb-9d6a-5736-85fa-c896176287b3,46c41eb7-1fc3-54b6-8915-f52bc699a9b3,Stoke City,Manchester City,Manchester City_Stoke City,Manchester City_Stoke City_2012
-2012,21,Manchester City,0.0,0.0,Stoke City,3.0,0.0,0,Michael Oliver,Manchester City,Stoke City,7683285c-1b51-541e-9a3b-8d47916f117b,ffe973cb-9d6a-5736-85fa-c896176287b3,46c41eb7-1fc3-54b6-8915-f52bc699a9b3,Manchester City,Stoke City,Manchester City_Stoke City,Manchester City_Stoke City_2012

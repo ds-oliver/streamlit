@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2009,12,Aston Villa,0.0,0.0,Bolton,5.0,1.0,0,Mark Clattenburg,Aston Villa,Bolton,1dec523d-da5d-5d36-81c7-58dc083aa24b,7985d367-16ea-500c-9066-eb5236e96256,dac9dafc-e11b-5c87-a8b6-377ece3070bc,Aston Villa,Bolton,Aston Villa_Bolton,Aston Villa_Bolton_2009
+2009,33,Bolton,0.0,0.0,Aston Villa,0.0,1.0,0,Mike Jones,Aston Villa,Bolton,57b81955-c853-53b9-ad5f-60f62823e20b,7985d367-16ea-500c-9066-eb5236e96256,dac9dafc-e11b-5c87-a8b6-377ece3070bc,Bolton,Aston Villa,Aston Villa_Bolton,Aston Villa_Bolton_2009

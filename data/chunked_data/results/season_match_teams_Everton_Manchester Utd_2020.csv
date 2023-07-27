@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-2020,8,Everton,0.4,1.5,Manchester Utd,1.0,3.0,2020-11-07,0,Manchester Utd,Everton,1bb840f8-6b3f-57c9-ad22-2bfa5fb99a6a,ffaf32d8-e3f8-58c9-aa2d-f476ab82acc8,6842acec-0f11-5a12-b4b8-0cfc4ccb1951,Everton,Manchester Utd,Everton_Manchester Utd,Everton_Manchester Utd_2020
-2020,23,Manchester Utd,1.8,1.5,Everton,3.0,3.0,2021-02-06,0,draw,draw,a2d1240a-656a-5d3b-9ae5-b2cb32611b5a,ffaf32d8-e3f8-58c9-aa2d-f476ab82acc8,6842acec-0f11-5a12-b4b8-0cfc4ccb1951,Manchester Utd,Everton,Everton_Manchester Utd,Everton_Manchester Utd_2020

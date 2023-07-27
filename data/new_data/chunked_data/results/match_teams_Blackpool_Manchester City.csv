@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2010,8,Blackpool,0.0,0.0,Manchester City,2.0,3.0,0,Phil Dowd,Manchester City,Blackpool,2e88a808-5b6e-5fe5-aa10-d1fe0ce52fa6,f3e5d86f-d42e-51c4-a64d-68da2177cd43,5b0bef9c-6cdf-57e9-9702-4b7afa3cf305,Blackpool,Manchester City,Blackpool_Manchester City,Blackpool_Manchester City_2010
+2010,21,Manchester City,0.0,0.0,Blackpool,1.0,0.0,0,Mark Clattenburg,Manchester City,Blackpool,2b30e883-dca8-5ddd-b48d-116443b3edbf,f3e5d86f-d42e-51c4-a64d-68da2177cd43,5b0bef9c-6cdf-57e9-9702-4b7afa3cf305,Manchester City,Blackpool,Blackpool_Manchester City,Blackpool_Manchester City_2010

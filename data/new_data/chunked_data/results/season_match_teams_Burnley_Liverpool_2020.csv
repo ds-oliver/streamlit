@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2020,18,Liverpool,1.6,1.1,Burnley,0.0,1.0,2021-01-21,0,Burnley,Liverpool,7af4c8f9-9b4b-5dd9-95d5-c3a556cfbf0e,e8b55af3-4521-56c8-9bab-bbc939f27a39,041ddb4f-5d8a-518e-9250-9b31ba044172,Liverpool,Burnley,Burnley_Liverpool,Burnley_Liverpool_2020
+2020,37,Burnley,0.8,2.6,Liverpool,0.0,3.0,2021-05-19,0,Liverpool,Burnley,96642bd6-68bb-5959-85e7-4735b78fa4a7,e8b55af3-4521-56c8-9bab-bbc939f27a39,041ddb4f-5d8a-518e-9250-9b31ba044172,Burnley,Liverpool,Burnley_Liverpool,Burnley_Liverpool_2020

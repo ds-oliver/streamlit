@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-1994,7,QPR,0.0,0.0,Wimbledon,0.0,1.0,0,Keith Burge,Wimbledon,QPR,ee071eac-b560-55d9-b496-8c449b2871c0,9161d481-c938-5e33-8ae6-e8a01215566a,e6005f8e-43f8-558f-a354-746b3866a835,QPR,Wimbledon,QPR_Wimbledon,QPR_Wimbledon_1994
-1994,32,Wimbledon,0.0,0.0,QPR,1.0,3.0,0,Gary Willard,QPR,Wimbledon,afb189cd-43ba-5920-a0ef-aab0690cd2c8,9161d481-c938-5e33-8ae6-e8a01215566a,e6005f8e-43f8-558f-a354-746b3866a835,Wimbledon,QPR,QPR_Wimbledon,QPR_Wimbledon_1994

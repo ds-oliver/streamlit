@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2011,5,Bolton,0.0,0.0,Norwich City,1.0,2.0,0,Howard Webb,Norwich City,Bolton,ea682320-f0d1-5879-8dfa-761f52d8e1b5,a7a8fbc0-2be9-5764-9a66-f76dbdd48c01,1cfee763-2259-528f-891f-10a56e1d4965,Bolton,Norwich City,Bolton_Norwich City,Bolton_Norwich City_2011
+2011,24,Norwich City,0.0,0.0,Bolton,2.0,0.0,0,Lee Probert,Norwich City,Bolton,3b8de4dc-0e40-502a-98ad-d13a16089a7f,a7a8fbc0-2be9-5764-9a66-f76dbdd48c01,1cfee763-2259-528f-891f-10a56e1d4965,Norwich City,Bolton,Bolton_Norwich City,Bolton_Norwich City_2011

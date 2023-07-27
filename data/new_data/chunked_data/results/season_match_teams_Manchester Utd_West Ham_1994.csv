@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+1994,10,Manchester Utd,0.0,0.0,West Ham,1.0,0.0,0,Rodger Gifford,Manchester Utd,West Ham,d1a74495-2742-527e-ac36-98fa1eceafe5,7ab9ba9f-6fed-51be-8b8f-b8c54699bf3f,6545dbde-aefb-53e3-a35b-9e256abd3a1a,Manchester Utd,West Ham,Manchester Utd_West Ham,Manchester Utd_West Ham_1994
+1994,42,West Ham,0.0,0.0,Manchester Utd,1.0,1.0,0,Alan Wilkie,draw,draw,0b217b39-409e-5f62-bcfe-e4a59a7b9bb7,7ab9ba9f-6fed-51be-8b8f-b8c54699bf3f,6545dbde-aefb-53e3-a35b-9e256abd3a1a,West Ham,Manchester Utd,Manchester Utd_West Ham,Manchester Utd_West Ham_1994

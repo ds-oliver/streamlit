@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+1994,22,Coventry City,0.0,0.0,Tottenham,0.0,4.0,0,Gerald Ashby,Tottenham,Coventry City,cc651c59-9a13-55d8-ba42-d0460ea91197,7dd2d8dd-c6e1-5e87-82de-86e8fc349e4d,3c8d401b-ec80-5c6a-98bf-523bea3a31d2,Coventry City,Tottenham,Coventry City_Tottenham,Coventry City_Tottenham_1994
+1994,37,Tottenham,0.0,0.0,Coventry City,1.0,3.0,0,Alan Wilkie,Coventry City,Tottenham,7454c2aa-c369-5296-91dc-c6eff1acc187,7dd2d8dd-c6e1-5e87-82de-86e8fc349e4d,3c8d401b-ec80-5c6a-98bf-523bea3a31d2,Tottenham,Coventry City,Coventry City_Tottenham,Coventry City_Tottenham_1994

@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2019,18,Norwich City,1.3,1.4,Wolves,1.0,2.0,2019-12-21,0,Wolves,Norwich City,314b8309-8d24-5ad6-aab0-5c7827cc6ec4,9ee63b87-44f8-5d86-8e5a-1fabf7d6485a,1452bbbb-818f-517d-8768-2a3e2a00a069,Norwich City,Wolves,Norwich City_Wolves,Norwich City_Wolves_2019
+2019,27,Wolves,2.9,0.4,Norwich City,3.0,0.0,2020-02-23,0,Wolves,Norwich City,9278f053-b599-5ac8-8fbe-b7c482c96d15,9ee63b87-44f8-5d86-8e5a-1fabf7d6485a,1452bbbb-818f-517d-8768-2a3e2a00a069,Wolves,Norwich City,Norwich City_Wolves,Norwich City_Wolves_2019

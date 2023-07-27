@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-2011,14,QPR,0.0,0.0,West Brom,1.0,1.0,0,Martin Atkinson,draw,draw,6faa1873-027e-5ffe-8cfd-8ea54147e401,4097b41e-4f62-5d2f-b125-a8e03ae60ba4,7373a187-699a-51fa-b734-b66b422a6600,QPR,West Brom,QPR_West Brom,QPR_West Brom_2011
-2011,34,West Brom,0.0,0.0,QPR,1.0,0.0,0,Jon Moss,West Brom,QPR,36537b7f-927d-56f8-9fdd-ce29255c5bce,4097b41e-4f62-5d2f-b125-a8e03ae60ba4,7373a187-699a-51fa-b734-b66b422a6600,West Brom,QPR,QPR_West Brom,QPR_West Brom_2011

@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+1996,6,Southampton,0.0,0.0,Tottenham,0.0,1.0,0,Paul Alcock,Tottenham,Southampton,a29915db-e1f4-57f7-9699-c8aa16fac716,2458c24d-308b-5cda-a4f1-9c5f3d3b7ceb,f459ea8a-5794-5009-a1e2-0caaadd59eae,Southampton,Tottenham,Southampton_Tottenham,Southampton_Tottenham_1996
+1996,19,Tottenham,0.0,0.0,Southampton,3.0,1.0,0,Graham Barber,Tottenham,Southampton,15fb76d4-4b50-5a0e-86da-9cf23c77f8e7,2458c24d-308b-5cda-a4f1-9c5f3d3b7ceb,f459ea8a-5794-5009-a1e2-0caaadd59eae,Tottenham,Southampton,Southampton_Tottenham,Southampton_Tottenham_1996

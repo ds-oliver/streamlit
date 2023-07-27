@@ -1,5 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-2011,7,Fulham,0.0,0.0,QPR,6.0,0.0,0,Andre Marriner,Fulham,QPR,16187d61-5668-52ce-ac44-275e1d9a67c2,c34459df-a95c-5c0a-bdf6-246de56c7fd8,1b837be6-3779-53d9-a24b-9f6ab35ef84d,Fulham,QPR,Fulham_QPR,Fulham_QPR_2011
-2011,26,QPR,0.0,0.0,Fulham,0.0,1.0,0,Phil Dowd,Fulham,QPR,3c100d3d-64c8-5119-992f-7e917116ccf3,c34459df-a95c-5c0a-bdf6-246de56c7fd8,1b837be6-3779-53d9-a24b-9f6ab35ef84d,QPR,Fulham,Fulham_QPR,Fulham_QPR_2011
-2012,17,QPR,0.0,0.0,Fulham,2.0,1.0,0,Martin Atkinson,QPR,Fulham,b6ac716b-68aa-5382-9a52-3836b57fed61,c34459df-a95c-5c0a-bdf6-246de56c7fd8,260789ba-6869-5efd-8749-b26863cc615a,QPR,Fulham,Fulham_QPR,Fulham_QPR_2012
-2012,31,Fulham,0.0,0.0,QPR,3.0,2.0,0,Lee Probert,Fulham,QPR,01a69e58-05ea-5ab7-86d7-b412f1323584,c34459df-a95c-5c0a-bdf6-246de56c7fd8,260789ba-6869-5efd-8749-b26863cc615a,Fulham,QPR,Fulham_QPR,Fulham_QPR_2012

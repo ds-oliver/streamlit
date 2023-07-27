@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2015,6,Liverpool,0.0,0.0,Norwich City,1.0,1.0,0,Anthony Taylor,draw,draw,62769e66-f8fd-58ed-ae30-6a6e61bd1296,630cf271-35be-5590-a4f9-333436829445,a591923b-2d26-545b-a824-174e24498efd,Liverpool,Norwich City,Liverpool_Norwich City,Liverpool_Norwich City_2015
+2015,23,Norwich City,0.0,0.0,Liverpool,4.0,5.0,0,Lee Mason,Liverpool,Norwich City,f98f8ba2-27a3-5c4d-80b8-813491aac46c,630cf271-35be-5590-a4f9-333436829445,a591923b-2d26-545b-a824-174e24498efd,Norwich City,Liverpool,Liverpool_Norwich City,Liverpool_Norwich City_2015

@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2009,7,Birmingham City,0.0,0.0,Bolton,1.0,2.0,0,Stephen Bennett,Bolton,Birmingham City,dde8f8ad-e116-55f5-b3e0-5c21d53025c6,44326831-fcdc-5a08-990c-dc21db2e63ab,008ba85c-598d-55fd-9fe9-1c7bb5406215,Birmingham City,Bolton,Birmingham City_Bolton,Birmingham City_Bolton_2009
+2009,38,Bolton,0.0,0.0,Birmingham City,2.0,1.0,0,Kevin Friend,Bolton,Birmingham City,6608221e-1815-5c14-9129-ad0a880e8d18,44326831-fcdc-5a08-990c-dc21db2e63ab,008ba85c-598d-55fd-9fe9-1c7bb5406215,Bolton,Birmingham City,Birmingham City_Bolton,Birmingham City_Bolton_2009

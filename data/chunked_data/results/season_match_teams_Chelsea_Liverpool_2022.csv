@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-2022,21,Liverpool,1.4,1.6,Chelsea,0.0,0.0,2023-01-21,0,draw,draw,53101da7-ea21-58d6-a6ba-a11de292e709,69ac041e-3516-5d16-bb75-b88c501bc86c,23428105-f6b2-5825-ac9c-8849138a7e08,Liverpool,Chelsea,Chelsea_Liverpool,Chelsea_Liverpool_2022
-2022,8,Chelsea,2.2,0.3,Liverpool,0.0,0.0,2023-04-04,0,draw,draw,ada32b70-bb80-5dfb-859e-19ec5b68dff1,69ac041e-3516-5d16-bb75-b88c501bc86c,23428105-f6b2-5825-ac9c-8849138a7e08,Chelsea,Liverpool,Chelsea_Liverpool,Chelsea_Liverpool_2022

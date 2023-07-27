@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2015,5,West Brom,0.0,0.0,Southampton,0.0,0.0,0,Stuart Attwell,draw,draw,67e70aeb-c936-5f29-82dc-babf5ddf7a6d,9f05295f-54b9-5a9d-8442-804b5396ff25,a3a8f527-9802-5143-991e-4006464ba51a,West Brom,Southampton,Southampton_West Brom,Southampton_West Brom_2015
+2015,22,Southampton,0.0,0.0,West Brom,3.0,0.0,0,Martin Atkinson,Southampton,West Brom,c1d3f50e-6f61-59c6-8127-0fddd882046d,9f05295f-54b9-5a9d-8442-804b5396ff25,a3a8f527-9802-5143-991e-4006464ba51a,Southampton,West Brom,Southampton_West Brom,Southampton_West Brom_2015

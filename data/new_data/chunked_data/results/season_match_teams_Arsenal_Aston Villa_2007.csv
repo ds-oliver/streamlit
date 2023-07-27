@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2007,15,Aston Villa,0.0,0.0,Arsenal,1.0,2.0,0,Chris Foy,Arsenal,Aston Villa,e9dcbd63-becd-5663-8050-ed9f405cf415,b967e7b4-9e81-5d5d-b0ef-5fae90544e61,02a02878-f5cf-55b3-8d67-23f39d0b2f96,Aston Villa,Arsenal,Arsenal_Aston Villa,Arsenal_Aston Villa_2007
+2007,28,Arsenal,0.0,0.0,Aston Villa,1.0,1.0,0,Mark Clattenburg,draw,draw,e14ff4be-0b36-5a71-bcff-d23cf4c73d59,b967e7b4-9e81-5d5d-b0ef-5fae90544e61,02a02878-f5cf-55b3-8d67-23f39d0b2f96,Arsenal,Aston Villa,Arsenal_Aston Villa,Arsenal_Aston Villa_2007

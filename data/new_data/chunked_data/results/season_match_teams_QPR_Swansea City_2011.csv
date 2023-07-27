@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2011,18,Swansea City,0.0,0.0,QPR,1.0,1.0,0,Lee Probert,draw,draw,7a41aac3-3b21-5565-b21d-a1ec0579c7f9,9c52bcbd-04c5-59ad-b485-f7d142abb6b6,db4f0c73-09a7-5a74-953a-4ed4b0f03575,Swansea City,QPR,QPR_Swansea City,QPR_Swansea City_2011
+2011,33,QPR,0.0,0.0,Swansea City,3.0,0.0,0,Lee Probert,QPR,Swansea City,c082437d-e94d-5caa-a0e6-170915015326,9c52bcbd-04c5-59ad-b485-f7d142abb6b6,db4f0c73-09a7-5a74-953a-4ed4b0f03575,QPR,Swansea City,QPR_Swansea City,QPR_Swansea City_2011

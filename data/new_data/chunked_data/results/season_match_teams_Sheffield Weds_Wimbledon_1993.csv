@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+1993,11,Sheffield Weds,0.0,0.0,Wimbledon,2.0,2.0,0,Rodger Gifford,draw,draw,576f5b47-a3e2-53de-97d9-e732c8a561e2,fe174e13-9cee-5458-b1d9-40df69829f24,ce81e723-6cc2-5cdd-b6fe-8cbb91daaf18,Sheffield Weds,Wimbledon,Sheffield Weds_Wimbledon,Sheffield Weds_Wimbledon_1993
+1993,26,Wimbledon,0.0,0.0,Sheffield Weds,2.0,1.0,0,Martin Bodenham,Wimbledon,Sheffield Weds,479e7bd1-2c86-52cb-aaca-a78aa9cf6514,fe174e13-9cee-5458-b1d9-40df69829f24,ce81e723-6cc2-5cdd-b6fe-8cbb91daaf18,Wimbledon,Sheffield Weds,Sheffield Weds_Wimbledon,Sheffield Weds_Wimbledon_1993

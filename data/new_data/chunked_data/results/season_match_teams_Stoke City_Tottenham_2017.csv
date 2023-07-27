@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2017,16,Tottenham,3.6,0.5,Stoke City,5.0,1.0,2017-12-09,0,Tottenham,Stoke City,7242f994-e735-549e-943d-e3c91b001051,f2a6e157-46b8-5c7e-8e89-03ceaf5fd748,98a15f8b-9be1-5edc-9568-70d9baf5b5d9,Tottenham,Stoke City,Stoke City_Tottenham,Stoke City_Tottenham_2017
+2017,33,Stoke City,1.4,1.7,Tottenham,1.0,2.0,2018-04-07,0,Tottenham,Stoke City,812551d9-a545-5726-b8cc-e49c04c3cb4c,f2a6e157-46b8-5c7e-8e89-03ceaf5fd748,98a15f8b-9be1-5edc-9568-70d9baf5b5d9,Stoke City,Tottenham,Stoke City_Tottenham,Stoke City_Tottenham_2017

@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-2011,12,Everton,0.0,0.0,Wolves,2.0,1.0,0,Jon Moss,Everton,Wolves,4cae1a04-0a51-52c6-9ba6-e24e9e9e9448,a8da8a70-6840-56c3-846d-cf6ff03cefac,d1973d3a-83b0-5237-a6f6-fc9e7f7991e2,Everton,Wolves,Everton_Wolves,Everton_Wolves_2011
-2011,37,Wolves,0.0,0.0,Everton,0.0,0.0,0,Lee Mason,draw,draw,665b035a-dc75-5ff5-9d2c-479c13c2936e,a8da8a70-6840-56c3-846d-cf6ff03cefac,d1973d3a-83b0-5237-a6f6-fc9e7f7991e2,Wolves,Everton,Everton_Wolves,Everton_Wolves_2011

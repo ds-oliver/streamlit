@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2005,18,Middlesbrough,0.0,0.0,Blackburn,0.0,2.0,0,Uriah Rennie,Blackburn,Middlesbrough,fdbd9a68-ce91-5459-aed1-1d6d9069e83a,1270aefc-ddf0-50ec-afa8-08d3147f1edc,a6538d6d-4c43-590d-9894-ecea2cddf0c1,Middlesbrough,Blackburn,Blackburn_Middlesbrough,Blackburn_Middlesbrough_2005
+2005,30,Blackburn,0.0,0.0,Middlesbrough,3.0,2.0,0,Chris Foy,Blackburn,Middlesbrough,a33309a7-fc66-5ac0-ad7f-e7a118231b7b,1270aefc-ddf0-50ec-afa8-08d3147f1edc,a6538d6d-4c43-590d-9894-ecea2cddf0c1,Blackburn,Middlesbrough,Blackburn_Middlesbrough,Blackburn_Middlesbrough_2005

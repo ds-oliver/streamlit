@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+1999,20,Arsenal,0.0,0.0,Leeds United,2.0,0.0,0,Graham Poll,Arsenal,Leeds United,008033c2-59fa-510a-90fd-4a095c654094,3c4db7c8-6438-546e-8b35-7b966f71a431,f65288ff-46a0-5d2a-8b22-9402653aaeb8,Arsenal,Leeds United,Arsenal_Leeds United,Arsenal_Leeds United_1999
+1999,33,Leeds United,0.0,0.0,Arsenal,0.0,4.0,0,Steve Dunn,Arsenal,Leeds United,c3cd11bf-7963-5f5e-8232-54a183ac8a42,3c4db7c8-6438-546e-8b35-7b966f71a431,f65288ff-46a0-5d2a-8b22-9402653aaeb8,Leeds United,Arsenal,Arsenal_Leeds United,Arsenal_Leeds United_1999

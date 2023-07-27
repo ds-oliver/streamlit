@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-2013,3,Liverpool,0.0,0.0,Manchester Utd,1.0,0.0,0,Andre Marriner,Liverpool,Manchester Utd,fde6a976-1025-5c7c-8a96-b3679faa033a,57be0458-e014-52cd-9f80-35215ce90b6d,4de517dc-47ac-573e-a128-d2c11dfe801f,Liverpool,Manchester Utd,Liverpool_Manchester Utd,Liverpool_Manchester Utd_2013
-2013,30,Manchester Utd,0.0,0.0,Liverpool,0.0,3.0,0,Mark Clattenburg,Liverpool,Manchester Utd,c4f6944b-df43-544b-8a87-4b256f8e66bb,57be0458-e014-52cd-9f80-35215ce90b6d,4de517dc-47ac-573e-a128-d2c11dfe801f,Manchester Utd,Liverpool,Liverpool_Manchester Utd,Liverpool_Manchester Utd_2013

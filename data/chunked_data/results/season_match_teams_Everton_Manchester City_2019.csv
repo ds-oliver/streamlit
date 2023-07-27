@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-2019,7,Everton,2.4,2.8,Manchester City,1.0,3.0,2019-09-28,0,Manchester City,Everton,ac0fb126-663d-5ba5-9244-4ecc26082c33,ca5d66d5-1aac-5479-9844-76026e5ec092,6cdef5d7-621e-5828-b95c-9e98cd7f384e,Everton,Manchester City,Everton_Manchester City,Everton_Manchester City_2019
-2019,21,Manchester City,1.5,1.0,Everton,2.0,1.0,2020-01-01,0,Manchester City,Everton,c9aa17e4-dcca-5b4e-bb7c-476cb8e3facd,ca5d66d5-1aac-5479-9844-76026e5ec092,6cdef5d7-621e-5828-b95c-9e98cd7f384e,Manchester City,Everton,Everton_Manchester City,Everton_Manchester City_2019

@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2003,3,Portsmouth,0.0,0.0,Bolton,4.0,0.0,0,Dermot Gallagher,Portsmouth,Bolton,e142bc0e-e6c4-511a-b7d1-b9ebbeb2d509,c71c5f4e-9246-5271-8f10-e7d04c09747a,7a7e7899-df21-558b-9d79-7cc0fb09d193,Portsmouth,Bolton,Bolton_Portsmouth,Bolton_Portsmouth_2003
+2003,22,Bolton,0.0,0.0,Portsmouth,1.0,0.0,0,Phil Dowd,Bolton,Portsmouth,a7f5fcbe-3ab0-5c2d-b809-9b7d5852e612,c71c5f4e-9246-5271-8f10-e7d04c09747a,7a7e7899-df21-558b-9d79-7cc0fb09d193,Bolton,Portsmouth,Bolton_Portsmouth,Bolton_Portsmouth_2003

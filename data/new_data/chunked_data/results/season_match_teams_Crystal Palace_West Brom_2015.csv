@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2015,8,Crystal Palace,0.0,0.0,West Brom,2.0,0.0,0,Jonathan Moss,Crystal Palace,West Brom,43c01c2f-9340-5659-865e-e15c0f94c355,b025a727-85ab-5efd-8a4d-e1afff72764f,f8870350-8d4c-5640-b1de-b12a8eec6fd5,Crystal Palace,West Brom,Crystal Palace_West Brom,Crystal Palace_West Brom_2015
+2015,27,West Brom,0.0,0.0,Crystal Palace,3.0,2.0,0,Jonathan Moss,West Brom,Crystal Palace,871a34ed-71b0-597c-8b92-8912c262f7bf,b025a727-85ab-5efd-8a4d-e1afff72764f,f8870350-8d4c-5640-b1de-b12a8eec6fd5,West Brom,Crystal Palace,Crystal Palace_West Brom,Crystal Palace_West Brom_2015

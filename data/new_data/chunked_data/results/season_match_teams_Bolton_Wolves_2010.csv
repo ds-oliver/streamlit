@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2010,13,Wolves,0.0,0.0,Bolton,2.0,3.0,0,Peter Walton,Bolton,Wolves,73eaf81f-eb90-5039-beb7-f310b731ea83,2cf94779-5d88-5a05-99ac-dfcd1671b4e8,f1371da9-3f09-5ba0-8a8d-b6b3db6521dc,Wolves,Bolton,Bolton_Wolves,Bolton_Wolves_2010
+2010,25,Bolton,0.0,0.0,Wolves,1.0,0.0,0,Peter Walton,Bolton,Wolves,a2f4fbf6-18e5-5486-8fae-5dc7b0f79e7f,2cf94779-5d88-5a05-99ac-dfcd1671b4e8,f1371da9-3f09-5ba0-8a8d-b6b3db6521dc,Bolton,Wolves,Bolton_Wolves,Bolton_Wolves_2010

@@ -1,5 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-1992,9,QPR,0.0,0.0,Middlesbrough,3.0,3.0,0,Jim Borrett,draw,draw,803ad4ea-dadc-509b-9d43-59db5c4a1590,e436621e-b8e6-5a2e-a16c-8369fe842d4e,66e02fb3-d0d8-5b4b-bb26-1ef61cc4506f,QPR,Middlesbrough,Middlesbrough_QPR,Middlesbrough_QPR_1992
-1992,23,Middlesbrough,0.0,0.0,QPR,0.0,1.0,0,Roger Dilkes,QPR,Middlesbrough,5b40141b-fdd6-51a0-8f3b-98ccf2df412c,e436621e-b8e6-5a2e-a16c-8369fe842d4e,66e02fb3-d0d8-5b4b-bb26-1ef61cc4506f,Middlesbrough,QPR,Middlesbrough_QPR,Middlesbrough_QPR_1992
-1995,10,Middlesbrough,0.0,0.0,QPR,1.0,0.0,0,Mike Reed,Middlesbrough,QPR,e680931c-7eed-5fce-8042-67cb740eb83f,e436621e-b8e6-5a2e-a16c-8369fe842d4e,7c199d2e-9344-53f4-b1d4-6fec52356a2e,Middlesbrough,QPR,Middlesbrough_QPR,Middlesbrough_QPR_1995
-1995,16,QPR,0.0,0.0,Middlesbrough,1.0,1.0,0,Paul Durkin,draw,draw,9962aba6-d43a-589f-aee7-d98d303a0efb,e436621e-b8e6-5a2e-a16c-8369fe842d4e,7c199d2e-9344-53f4-b1d4-6fec52356a2e,QPR,Middlesbrough,Middlesbrough_QPR,Middlesbrough_QPR_1995

@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2014,12,Everton,0.0,0.0,West Ham,2.0,1.0,0,Mark Clattenburg,Everton,West Ham,87e6729d-8657-5c61-95df-3cedaead884f,526d1c04-b9c5-50ef-a573-a758dbaf7768,608ae25e-1421-54ba-a694-88efb8f4c5e9,Everton,West Ham,Everton_West Ham,Everton_West Ham_2014
+2014,37,West Ham,0.0,0.0,Everton,1.0,2.0,0,Kevin Friend,Everton,West Ham,958cfdd6-0bab-5ddb-a229-afc532c24830,526d1c04-b9c5-50ef-a573-a758dbaf7768,608ae25e-1421-54ba-a694-88efb8f4c5e9,West Ham,Everton,Everton_West Ham,Everton_West Ham_2014

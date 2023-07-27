@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+1993,1,Aston Villa,0.0,0.0,QPR,4.0,1.0,0,Kelvin Morton,Aston Villa,QPR,751bd4ac-33f9-5dbf-947a-70e7c7d75005,1e5b9475-44be-5bb3-a30f-cea611767255,caeb9893-3ef8-5e90-97c5-4568de5d367a,Aston Villa,QPR,Aston Villa_QPR,Aston Villa_QPR_1993
+1993,18,QPR,0.0,0.0,Aston Villa,2.0,2.0,0,Keith Hackett,draw,draw,948fafb4-7b5d-5a66-b000-0c0b3d71b5c2,1e5b9475-44be-5bb3-a30f-cea611767255,caeb9893-3ef8-5e90-97c5-4568de5d367a,QPR,Aston Villa,Aston Villa_QPR,Aston Villa_QPR_1993

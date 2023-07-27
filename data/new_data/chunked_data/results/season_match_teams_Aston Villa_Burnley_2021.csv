@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2021,36,Burnley,1.9,2.1,Aston Villa,1.0,3.0,2022-05-07,0,Aston Villa,Burnley,d4fd87f8-e026-575c-a2e9-d31332b3ee16,2edabcb0-8262-527d-8dc1-9e6bb209ef76,7f1545a7-2992-5079-9355-688dc8bf932e,Burnley,Aston Villa,Aston Villa_Burnley,Aston Villa_Burnley_2021
+2021,18,Aston Villa,1.5,1.6,Burnley,1.0,1.0,2022-05-19,0,draw,draw,3f82d400-aae3-5c29-9cc8-ee60528f7311,2edabcb0-8262-527d-8dc1-9e6bb209ef76,7f1545a7-2992-5079-9355-688dc8bf932e,Aston Villa,Burnley,Aston Villa_Burnley,Aston Villa_Burnley_2021

@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-2018,4,Chelsea,1.1,0.9,Bournemouth,2.0,0.0,2018-09-01,0,Chelsea,Bournemouth,95c60152-8ca2-534c-b04f-da5060e00722,1fbac7cf-ca27-5564-aa68-081120710c0d,b6c5bb9d-9977-5afa-b7c2-10392d2b9ad1,Chelsea,Bournemouth,Bournemouth_Chelsea,Bournemouth_Chelsea_2018
-2018,24,Bournemouth,2.0,0.7,Chelsea,4.0,0.0,2019-01-30,0,Bournemouth,Chelsea,6735a680-dee6-5f07-9ce2-08c131853073,1fbac7cf-ca27-5564-aa68-081120710c0d,b6c5bb9d-9977-5afa-b7c2-10392d2b9ad1,Bournemouth,Chelsea,Bournemouth_Chelsea,Bournemouth_Chelsea_2018

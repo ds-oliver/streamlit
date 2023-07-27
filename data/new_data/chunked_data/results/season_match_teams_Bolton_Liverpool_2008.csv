@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2008,13,Bolton,0.0,0.0,Liverpool,0.0,2.0,0,Rob Styles,Liverpool,Bolton,94133485-1247-52ba-965b-7f908db5860e,fc69fbcd-6de6-5b5a-bafa-cd0d872f1453,d8c77f1a-7789-593c-8d9d-c63a3feedc6b,Bolton,Liverpool,Bolton_Liverpool,Bolton_Liverpool_2008
+2008,19,Liverpool,0.0,0.0,Bolton,3.0,0.0,0,Alan Wiley,Liverpool,Bolton,7c8eaf22-c98a-5025-ac34-5738e7c4ebf6,fc69fbcd-6de6-5b5a-bafa-cd0d872f1453,d8c77f1a-7789-593c-8d9d-c63a3feedc6b,Liverpool,Bolton,Bolton_Liverpool,Bolton_Liverpool_2008

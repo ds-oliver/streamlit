@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2019,13,Arsenal,1.8,2.4,Southampton,2.0,2.0,2019-11-23,0,draw,draw,b8d68108-d5b7-5328-809c-40c4aaa0202a,981b4a5b-67e1-503f-953b-6ccdd279460a,5925c532-60d8-5887-9781-03995dfb50e4,Arsenal,Southampton,Arsenal_Southampton,Arsenal_Southampton_2019
+2019,31,Southampton,0.9,1.9,Arsenal,0.0,2.0,2020-06-25,0,Arsenal,Southampton,8da79754-50a6-5fb7-b63d-c4617b1e483c,981b4a5b-67e1-503f-953b-6ccdd279460a,5925c532-60d8-5887-9781-03995dfb50e4,Southampton,Arsenal,Arsenal_Southampton,Arsenal_Southampton_2019

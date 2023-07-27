@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2018,8,Southampton,1.6,2.9,Chelsea,0.0,3.0,2018-10-07,0,Chelsea,Southampton,f4cb1c76-0dfc-5517-a07e-f7db9f7707a3,7884417a-dd26-5296-80e9-e8e7aeb044e0,01f95e11-f310-5d72-a420-71b09ea2e28c,Southampton,Chelsea,Chelsea_Southampton,Chelsea_Southampton_2018
+2018,21,Chelsea,0.9,0.2,Southampton,0.0,0.0,2019-01-02,0,draw,draw,fb1bbc32-08c7-5b4c-bcaf-2d27fd780e0d,7884417a-dd26-5296-80e9-e8e7aeb044e0,01f95e11-f310-5d72-a420-71b09ea2e28c,Chelsea,Southampton,Chelsea_Southampton,Chelsea_Southampton_2018

@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2011,5,Wolves,0.0,0.0,QPR,0.0,3.0,0,Anthony Taylor,QPR,Wolves,3c48e895-a612-5470-9dd5-d3885cf597bd,add5ba1d-718e-58a8-bec4-2a0f58fb5c3c,f09ab2cc-3d64-5d42-a18d-45fa9415f3a2,Wolves,QPR,QPR_Wolves,QPR_Wolves_2011
+2011,24,QPR,0.0,0.0,Wolves,1.0,2.0,0,Mark Clattenburg,Wolves,QPR,aea467cc-9227-5920-a0aa-f3956ffdbe88,add5ba1d-718e-58a8-bec4-2a0f58fb5c3c,f09ab2cc-3d64-5d42-a18d-45fa9415f3a2,QPR,Wolves,QPR_Wolves,QPR_Wolves_2011

@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-1996,16,Chelsea,0.0,0.0,Everton,2.0,2.0,0,Paul Durkin,draw,draw,065243ae-18ab-5816-9d1f-942dffcd537b,febaa9d0-3823-5249-8227-3ef8af4034db,5f796bc8-eb9f-57f8-9272-97e0c6e7fdf1,Chelsea,Everton,Chelsea_Everton,Chelsea_Everton_1996
-1996,38,Everton,0.0,0.0,Chelsea,1.0,2.0,0,Peter Jones,Chelsea,Everton,f31712ed-ae6c-5c14-b0a3-2f47f0c80d33,febaa9d0-3823-5249-8227-3ef8af4034db,5f796bc8-eb9f-57f8-9272-97e0c6e7fdf1,Everton,Chelsea,Chelsea_Everton,Chelsea_Everton_1996

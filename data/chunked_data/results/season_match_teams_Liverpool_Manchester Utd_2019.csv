@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-2019,9,Manchester Utd,0.7,1.2,Liverpool,1.0,1.0,2019-10-20,0,draw,draw,3c615877-5a2b-5486-b15c-9311f3376df7,57be0458-e014-52cd-9f80-35215ce90b6d,f350129c-56d9-5e63-a7b7-60d156bd505c,Manchester Utd,Liverpool,Liverpool_Manchester Utd,Liverpool_Manchester Utd_2019
-2019,23,Liverpool,1.9,1.3,Manchester Utd,2.0,0.0,2020-01-19,0,Liverpool,Manchester Utd,a9c549b4-7335-55a3-b165-ca1076d260a6,57be0458-e014-52cd-9f80-35215ce90b6d,f350129c-56d9-5e63-a7b7-60d156bd505c,Liverpool,Manchester Utd,Liverpool_Manchester Utd,Liverpool_Manchester Utd_2019

@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-2018,18,Chelsea,2.4,0.5,Leicester City,0.0,1.0,2018-12-22,0,Leicester City,Chelsea,0f3a7c5f-7237-5039-9183-4236901b8b5c,342f32eb-87b5-5811-98ed-a119e534c271,fc28982a-96fc-53cc-bd1d-453f70b6532f,Chelsea,Leicester City,Chelsea_Leicester City,Chelsea_Leicester City_2018
-2018,38,Leicester City,0.4,1.5,Chelsea,0.0,0.0,2019-05-12,0,draw,draw,76c39973-baab-5705-9659-a2641e3d40f5,342f32eb-87b5-5811-98ed-a119e534c271,fc28982a-96fc-53cc-bd1d-453f70b6532f,Leicester City,Chelsea,Chelsea_Leicester City,Chelsea_Leicester City_2018

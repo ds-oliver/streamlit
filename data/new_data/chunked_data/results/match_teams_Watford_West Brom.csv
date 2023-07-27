@@ -1,0 +1,5 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2017,7,West Brom,1.9,1.4,Watford,2.0,2.0,2017-09-30,0,draw,draw,fa51592c-11e5-5005-afb3-df0969a17d38,8187b8a3-f166-51f8-9366-33bd0a28beb7,22290390-ab57-50e1-9309-a0f89981032f,West Brom,Watford,Watford_West Brom,Watford_West Brom_2017
+2017,29,Watford,1.3,1.1,West Brom,1.0,0.0,2018-03-03,0,Watford,West Brom,d5d3aa26-bfc3-5e32-8e81-58da3e028185,8187b8a3-f166-51f8-9366-33bd0a28beb7,22290390-ab57-50e1-9309-a0f89981032f,Watford,West Brom,Watford_West Brom,Watford_West Brom_2017
+2015,2,Watford,0.0,0.0,West Brom,0.0,0.0,0,Paul Tierney,draw,draw,069bcdd3-6fbb-5014-ae70-15efe06cbc21,8187b8a3-f166-51f8-9366-33bd0a28beb7,f11f86f1-fe2b-5c10-a737-02d10e4b96f5,Watford,West Brom,Watford_West Brom,Watford_West Brom_2015
+2015,34,West Brom,0.0,0.0,Watford,0.0,1.0,0,Michael Oliver,Watford,West Brom,70c6db28-e5e7-5271-97c9-70471aaed3e2,8187b8a3-f166-51f8-9366-33bd0a28beb7,f11f86f1-fe2b-5c10-a737-02d10e4b96f5,West Brom,Watford,Watford_West Brom,Watford_West Brom_2015

@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-2017,1,Everton,0.6,0.4,Stoke City,1.0,0.0,2017-08-12,0,Everton,Stoke City,ac0e83be-dd22-5d4b-8962-a053353d6d14,759474f8-3120-5afe-bca3-9b543d178dd3,e2a753c8-f3e5-507e-aa15-423ba1db7581,Everton,Stoke City,Everton_Stoke City,Everton_Stoke City_2017
-2017,31,Stoke City,0.8,2.3,Everton,1.0,2.0,2018-03-17,0,Everton,Stoke City,87a6878d-2f3d-598f-a332-c276e7f58b32,759474f8-3120-5afe-bca3-9b543d178dd3,e2a753c8-f3e5-507e-aa15-423ba1db7581,Stoke City,Everton,Everton_Stoke City,Everton_Stoke City_2017

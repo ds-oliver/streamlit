@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-1995,5,Wimbledon,0.0,0.0,Liverpool,1.0,0.0,0,Keith Burge,Wimbledon,Liverpool,0409c1b2-6d03-5103-a320-b634075b7487,aac79fd1-bf57-5102-897a-18ce565510c6,2f1ab199-07b0-5c6b-a9f2-ee7f151c335f,Wimbledon,Liverpool,Liverpool_Wimbledon,Liverpool_Wimbledon_1995
-1995,27,Liverpool,0.0,0.0,Wimbledon,2.0,2.0,0,Gary Willard,draw,draw,e49b3311-ce59-577a-9e9a-3a0b188a080d,aac79fd1-bf57-5102-897a-18ce565510c6,2f1ab199-07b0-5c6b-a9f2-ee7f151c335f,Liverpool,Wimbledon,Liverpool_Wimbledon,Liverpool_Wimbledon_1995

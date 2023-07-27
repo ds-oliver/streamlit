@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-2020,10,Manchester City,1.7,0.5,Burnley,5.0,0.0,2020-11-28,0,Manchester City,Burnley,af698bc2-9399-5c42-8c39-51aec5ea48e2,ba88300f-7a61-523c-9794-f2d3f1d22fe2,552c279a-ae4c-5a6a-ab3d-46fb41100332,Manchester City,Burnley,Burnley_Manchester City,Burnley_Manchester City_2020
-2020,22,Burnley,0.1,2.0,Manchester City,0.0,2.0,2021-02-03,0,Manchester City,Burnley,49a838da-be90-5591-af5b-3332b0dc0e3d,ba88300f-7a61-523c-9794-f2d3f1d22fe2,552c279a-ae4c-5a6a-ab3d-46fb41100332,Burnley,Manchester City,Burnley_Manchester City,Burnley_Manchester City_2020

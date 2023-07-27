@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2022,1,Crystal Palace,1.2,1.0,Arsenal,0.0,2.0,2022-08-05,0,Arsenal,Crystal Palace,20f54ea9-e565-59df-9f58-02ed4413ae6e,0b982c5a-391b-5c5a-a87b-b269e795d42c,b6e0b819-a96d-51b3-8e30-a8e4737a3091,Crystal Palace,Arsenal,Arsenal_Crystal Palace,Arsenal_Crystal Palace_2022
+2022,28,Arsenal,1.6,0.8,Crystal Palace,4.0,1.0,2023-03-19,0,Arsenal,Crystal Palace,7e765dee-ebf9-5d29-a814-89659a3e9766,0b982c5a-391b-5c5a-a87b-b269e795d42c,b6e0b819-a96d-51b3-8e30-a8e4737a3091,Arsenal,Crystal Palace,Arsenal_Crystal Palace,Arsenal_Crystal Palace_2022

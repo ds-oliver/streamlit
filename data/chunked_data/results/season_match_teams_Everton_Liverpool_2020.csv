@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-2020,5,Everton,1.2,2.6,Liverpool,2.0,2.0,2020-10-17,0,draw,draw,038cd53e-b722-5d77-b592-4629566a0ef3,1ce4ba3a-cb76-5ca8-bb64-b58f1f77d24b,88f06097-ee76-5e50-8974-c225d6f57b41,Everton,Liverpool,Everton_Liverpool,Everton_Liverpool_2020
-2020,25,Liverpool,1.4,1.6,Everton,0.0,2.0,2021-02-20,0,Everton,Liverpool,b84710bd-6d4e-5d43-842e-3f50dca071f0,1ce4ba3a-cb76-5ca8-bb64-b58f1f77d24b,88f06097-ee76-5e50-8974-c225d6f57b41,Liverpool,Everton,Everton_Liverpool,Everton_Liverpool_2020

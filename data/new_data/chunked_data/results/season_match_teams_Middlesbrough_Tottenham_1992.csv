@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+1992,12,Tottenham,0.0,0.0,Middlesbrough,2.0,2.0,0,Paul Durkin,draw,draw,0ec8eead-3055-5019-ae0d-dc5955e7d501,295c6315-d019-52cb-995d-f0ccc9baeb01,5142f645-e93a-5f85-aecf-2ffbabedd2b5,Tottenham,Middlesbrough,Middlesbrough_Tottenham,Middlesbrough_Tottenham_1992
+1992,32,Middlesbrough,0.0,0.0,Tottenham,3.0,0.0,0,David Allison,Middlesbrough,Tottenham,41f15fd3-4053-5277-8ebd-facaa7dc977a,295c6315-d019-52cb-995d-f0ccc9baeb01,5142f645-e93a-5f85-aecf-2ffbabedd2b5,Middlesbrough,Tottenham,Middlesbrough_Tottenham,Middlesbrough_Tottenham_1992

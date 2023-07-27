@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2015,18,Liverpool,0.0,0.0,Leicester City,1.0,0.0,0,Martin Atkinson,Liverpool,Leicester City,94f1124d-6f19-56fe-8aa1-c200cf0159c2,2567b990-4ad4-532b-86aa-7e65bb79d809,fa0aba9c-b3cd-50b4-b3d6-93314e7c693c,Liverpool,Leicester City,Leicester City_Liverpool,Leicester City_Liverpool_2015
+2015,24,Leicester City,0.0,0.0,Liverpool,2.0,0.0,0,Andre Marriner,Leicester City,Liverpool,5aac81f3-d1dd-5ee0-b044-d23737bd999b,2567b990-4ad4-532b-86aa-7e65bb79d809,fa0aba9c-b3cd-50b4-b3d6-93314e7c693c,Leicester City,Liverpool,Leicester City_Liverpool,Leicester City_Liverpool_2015

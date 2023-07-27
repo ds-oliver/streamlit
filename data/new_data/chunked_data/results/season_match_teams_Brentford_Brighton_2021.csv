@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2021,4,Brentford,0.4,0.3,Brighton,0.0,1.0,2021-09-11,0,Brighton,Brentford,5841e7b3-8bc6-51a3-af17-2606d9d88b48,f469bb86-8d1c-5582-abe8-56cdade25f83,b6bd3f78-8901-5624-880b-6730ae53be21,Brentford,Brighton,Brentford_Brighton,Brentford_Brighton_2021
+2021,19,Brighton,0.8,0.7,Brentford,2.0,0.0,2021-12-26,0,Brighton,Brentford,d00ee66f-0fc7-50a6-87fa-c591c0a27185,f469bb86-8d1c-5582-abe8-56cdade25f83,b6bd3f78-8901-5624-880b-6730ae53be21,Brighton,Brentford,Brentford_Brighton,Brentford_Brighton_2021

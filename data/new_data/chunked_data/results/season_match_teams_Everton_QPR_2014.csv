@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2014,16,Everton,0.0,0.0,QPR,3.0,1.0,0,Niel Swarbrick,Everton,QPR,73f76c85-399d-5c70-bd9a-0b55d91995ca,9392dfd2-fcf0-5e8e-a26f-94c2720e8588,274e0601-298a-5d1b-bdde-7f45ffb58a27,Everton,QPR,Everton_QPR,Everton_QPR_2014
+2014,30,QPR,0.0,0.0,Everton,1.0,2.0,0,Jonathan Moss,Everton,QPR,8d3d55bb-2f01-56d1-b39e-cdf762fd01c4,9392dfd2-fcf0-5e8e-a26f-94c2720e8588,274e0601-298a-5d1b-bdde-7f45ffb58a27,QPR,Everton,Everton_QPR,Everton_QPR_2014

@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2007,7,Liverpool,0.0,0.0,Birmingham City,0.0,0.0,0,Lee Mason,draw,draw,a63f7e7b-864b-5309-b91b-8a5e74437453,34c437f6-539b-59a1-8122-34e403c9f22f,e0cadd3d-e44c-506c-bd5d-9d4df9513b79,Liverpool,Birmingham City,Birmingham City_Liverpool,Birmingham City_Liverpool_2007
+2007,36,Birmingham City,0.0,0.0,Liverpool,2.0,2.0,0,Peter Walton,draw,draw,6a379770-8a0d-5768-9109-9c2b74ebd6bc,34c437f6-539b-59a1-8122-34e403c9f22f,e0cadd3d-e44c-506c-bd5d-9d4df9513b79,Birmingham City,Liverpool,Birmingham City_Liverpool,Birmingham City_Liverpool_2007

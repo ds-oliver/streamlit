@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-2018,12,Chelsea,1.2,0.3,Everton,0.0,0.0,2018-11-11,0,draw,draw,66ccfb3a-e629-5c9b-9d8b-7bb11c08c672,febaa9d0-3823-5249-8227-3ef8af4034db,65257090-146e-519a-bb6e-30f223526adb,Chelsea,Everton,Chelsea_Everton,Chelsea_Everton_2018
-2018,31,Everton,2.3,1.4,Chelsea,2.0,0.0,2019-03-17,0,Everton,Chelsea,fd8a4ab0-ca25-5347-b4d0-a5f2671ea38e,febaa9d0-3823-5249-8227-3ef8af4034db,65257090-146e-519a-bb6e-30f223526adb,Everton,Chelsea,Chelsea_Everton,Chelsea_Everton_2018

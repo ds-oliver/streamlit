@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+1993,15,Swindon Town,0.0,0.0,Ipswich Town,2.0,2.0,0,Roger Dilkes,draw,draw,c4c04470-53ff-571c-9e84-5ddad227ca53,63f8402a-705a-5f57-85c3-a78cbcaafc6d,06ac72a8-6153-5dab-8715-c81d83957d51,Swindon Town,Ipswich Town,Ipswich Town_Swindon Town,Ipswich Town_Swindon Town_1993
+1993,39,Ipswich Town,0.0,0.0,Swindon Town,1.0,1.0,0,Vic Callow,draw,draw,0be044e6-4ffa-5ed4-8f83-60a02ccb4fd9,63f8402a-705a-5f57-85c3-a78cbcaafc6d,06ac72a8-6153-5dab-8715-c81d83957d51,Ipswich Town,Swindon Town,Ipswich Town_Swindon Town,Ipswich Town_Swindon Town_1993

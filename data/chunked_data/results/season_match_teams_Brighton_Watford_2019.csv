@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-2019,1,Watford,0.7,0.8,Brighton,0.0,3.0,2019-08-10,0,Brighton,Watford,1a219fa4-4c51-50be-b223-fb33ac844780,59799de8-f51a-52d8-a0ba-0688b369f36c,aa96e539-d064-5a33-bc6d-f4bffdb7bae8,Watford,Brighton,Brighton_Watford,Brighton_Watford_2019
-2019,26,Brighton,0.8,0.2,Watford,1.0,1.0,2020-02-08,0,draw,draw,ace65b4e-4b9e-5438-b059-ed8c97a133f9,59799de8-f51a-52d8-a0ba-0688b369f36c,aa96e539-d064-5a33-bc6d-f4bffdb7bae8,Brighton,Watford,Brighton_Watford,Brighton_Watford_2019

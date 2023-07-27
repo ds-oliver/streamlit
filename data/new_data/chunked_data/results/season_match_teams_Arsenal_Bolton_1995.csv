@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+1995,11,Bolton,0.0,0.0,Arsenal,1.0,0.0,0,Keith Cooper,Bolton,Arsenal,962b48cf-fed4-5dc6-90b3-7dce106f57ce,2d36a8ea-cb29-54ca-ac32-a0838efc81af,e6021bf6-6a2c-581d-bedc-326f2d4ed6df,Bolton,Arsenal,Arsenal_Bolton,Arsenal_Bolton_1995
+1995,38,Arsenal,0.0,0.0,Bolton,2.0,1.0,0,Gary Willard,Arsenal,Bolton,f76efa3f-52bf-580d-86d3-fc9e32b6dbc6,2d36a8ea-cb29-54ca-ac32-a0838efc81af,e6021bf6-6a2c-581d-bedc-326f2d4ed6df,Arsenal,Bolton,Arsenal_Bolton,Arsenal_Bolton_1995

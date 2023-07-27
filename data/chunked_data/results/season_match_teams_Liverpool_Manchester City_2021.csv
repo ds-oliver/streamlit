@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-2021,7,Liverpool,0.9,1.2,Manchester City,2.0,2.0,2021-10-03,0,draw,draw,b70df516-ff0b-5639-8e3b-7a0055beac86,ec572f7e-e6dd-5dde-a333-be9159a1f3e8,5f864eb0-2395-59cf-8c3f-2c462edd480c,Liverpool,Manchester City,Liverpool_Manchester City,Liverpool_Manchester City_2021
-2021,32,Manchester City,1.3,1.3,Liverpool,2.0,2.0,2022-04-10,0,draw,draw,0e78368b-84d5-56ee-8898-cf61f2ddaf8f,ec572f7e-e6dd-5dde-a333-be9159a1f3e8,5f864eb0-2395-59cf-8c3f-2c462edd480c,Manchester City,Liverpool,Liverpool_Manchester City,Liverpool_Manchester City_2021

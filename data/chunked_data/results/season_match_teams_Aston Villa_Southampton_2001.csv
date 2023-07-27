@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-2001,7,Southampton,0.0,0.0,Aston Villa,1.0,3.0,0,Steve Dunn,Aston Villa,Southampton,947de9fe-c5fd-5d43-a085-a67ea8e6e6d0,f24d3ef2-789b-59bc-b780-3615195a211a,e8bd6b1b-ee62-53a1-be84-bbc8c1e10f0e,Southampton,Aston Villa,Aston Villa_Southampton,Aston Villa_Southampton_2001
-2001,37,Aston Villa,0.0,0.0,Southampton,2.0,1.0,0,David Elleray,Aston Villa,Southampton,c9083aeb-80ef-550b-a9c7-7ab00fe48e21,f24d3ef2-789b-59bc-b780-3615195a211a,e8bd6b1b-ee62-53a1-be84-bbc8c1e10f0e,Aston Villa,Southampton,Aston Villa_Southampton,Aston Villa_Southampton_2001

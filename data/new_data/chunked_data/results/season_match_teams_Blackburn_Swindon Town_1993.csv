@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+1993,10,Swindon Town,0.0,0.0,Blackburn,1.0,3.0,0,David Frampton,Blackburn,Swindon Town,642cbbef-f5e9-58c0-96c1-c65d5ac100cb,b6fd5d80-e47c-5554-8df2-e12bbc83c8a1,78a1a95c-6d4e-5315-bb77-6a3ed08fd2ca,Swindon Town,Blackburn,Blackburn_Swindon Town,Blackburn_Swindon Town_1993
+1993,35,Blackburn,0.0,0.0,Swindon Town,3.0,1.0,0,Kelvin Morton,Blackburn,Swindon Town,61b21fe0-1589-596f-bce1-1e2bc66c6611,b6fd5d80-e47c-5554-8df2-e12bbc83c8a1,78a1a95c-6d4e-5315-bb77-6a3ed08fd2ca,Blackburn,Swindon Town,Blackburn_Swindon Town,Blackburn_Swindon Town_1993

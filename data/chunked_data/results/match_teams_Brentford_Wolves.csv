@@ -1,5 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-2021,5,Wolves,0.6,2.5,Brentford,0.0,2.0,2021-09-18,0,Brentford,Wolves,5eff32bf-bcd5-57ed-92fa-6928ef3621a1,09ca6a60-b7ce-562d-b49a-5e5ac96848b9,ba81efc2-b5aa-5db5-986f-0187ee541c17,Wolves,Brentford,Brentford_Wolves,Brentford_Wolves_2021
-2021,23,Brentford,1.1,0.2,Wolves,1.0,2.0,2022-01-22,0,Wolves,Brentford,82d5afd0-682a-5e3e-aa51-318e410c4833,09ca6a60-b7ce-562d-b49a-5e5ac96848b9,ba81efc2-b5aa-5db5-986f-0187ee541c17,Brentford,Wolves,Brentford_Wolves,Brentford_Wolves_2021
-2022,14,Brentford,1.4,0.6,Wolves,1.0,1.0,2022-10-29,0,draw,draw,f54477fe-5d61-5837-81bc-729bac4c68f0,09ca6a60-b7ce-562d-b49a-5e5ac96848b9,b59dd125-38e1-579b-979d-f3cb3a4d72dd,Brentford,Wolves,Brentford_Wolves,Brentford_Wolves_2022
-2022,31,Wolves,0.8,1.1,Brentford,2.0,0.0,2023-04-15,0,Wolves,Brentford,18f811cf-be6f-5868-8140-ef153001a3bf,09ca6a60-b7ce-562d-b49a-5e5ac96848b9,b59dd125-38e1-579b-979d-f3cb3a4d72dd,Wolves,Brentford,Brentford_Wolves,Brentford_Wolves_2022

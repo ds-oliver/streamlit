@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+1996,1,Wimbledon,0.0,0.0,Manchester Utd,0.0,3.0,0,David Elleray,Manchester Utd,Wimbledon,99800aac-d417-5e6c-8623-efc9d96512ae,e90a2e3a-9f7c-5a81-9f9c-7f73fc28e357,9dcdbf13-316a-512d-9607-ea8f55470755,Wimbledon,Manchester Utd,Manchester Utd_Wimbledon,Manchester Utd_Wimbledon_1996
+1996,24,Manchester Utd,0.0,0.0,Wimbledon,2.0,1.0,0,Mike Reed,Manchester Utd,Wimbledon,b1c8dfeb-cc63-5c03-b74d-9f25758779c1,e90a2e3a-9f7c-5a81-9f9c-7f73fc28e357,9dcdbf13-316a-512d-9607-ea8f55470755,Manchester Utd,Wimbledon,Manchester Utd_Wimbledon,Manchester Utd_Wimbledon_1996

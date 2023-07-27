@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-2022,22,Brentford,2.2,0.7,Southampton,3.0,0.0,2023-02-04,0,Brentford,Southampton,c883269d-f720-5c89-a065-8c5def15481d,f863f7f0-2e46-54df-a04e-ddb822717f3f,a6737bbd-6d55-575e-9065-9cfcead382a0,Brentford,Southampton,Brentford_Southampton,Brentford_Southampton_2022
-2022,7,Southampton,0.5,1.9,Brentford,0.0,2.0,2023-03-15,0,Brentford,Southampton,63d99956-8763-5235-8bff-8980cb62be3e,f863f7f0-2e46-54df-a04e-ddb822717f3f,a6737bbd-6d55-575e-9065-9cfcead382a0,Southampton,Brentford,Brentford_Southampton,Brentford_Southampton_2022

@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2000,16,Ipswich Town,0.0,0.0,Derby County,0.0,1.0,0,Mark Halsey,Derby County,Ipswich Town,479a49df-ba2b-56f3-99ba-6ddad79979ce,1cdde85b-856b-5cb3-bec2-5e11fb6a1cb6,64fbd5a5-a09d-539d-a63e-5829dc8f630e,Ipswich Town,Derby County,Derby County_Ipswich Town,Derby County_Ipswich Town_2000
+2000,38,Derby County,0.0,0.0,Ipswich Town,1.0,1.0,0,Graham Poll,draw,draw,9fa9ebbb-3cea-592c-a1b5-f98771d738b3,1cdde85b-856b-5cb3-bec2-5e11fb6a1cb6,64fbd5a5-a09d-539d-a63e-5829dc8f630e,Derby County,Ipswich Town,Derby County_Ipswich Town,Derby County_Ipswich Town_2000

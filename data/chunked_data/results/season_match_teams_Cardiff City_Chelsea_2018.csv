@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-2018,5,Chelsea,2.6,0.7,Cardiff City,4.0,1.0,2018-09-15,0,Chelsea,Cardiff City,85ebb35f-9df2-5ecb-8be7-b74a2770aa59,6621d5b1-175c-5d0c-aa0a-7359292f099d,bf7abfe3-8d75-5068-b4ce-ad376f542614,Chelsea,Cardiff City,Cardiff City_Chelsea,Cardiff City_Chelsea_2018
-2018,32,Cardiff City,0.5,1.8,Chelsea,1.0,2.0,2019-03-31,0,Chelsea,Cardiff City,4d13f4bc-ca44-5bda-9525-3c48bd026aa1,6621d5b1-175c-5d0c-aa0a-7359292f099d,bf7abfe3-8d75-5068-b4ce-ad376f542614,Cardiff City,Chelsea,Cardiff City_Chelsea,Cardiff City_Chelsea_2018

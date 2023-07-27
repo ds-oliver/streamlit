@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2006,4,Reading,0.0,0.0,Manchester City,1.0,0.0,0,Howard Webb,Reading,Manchester City,8aded7c6-1d8b-5a72-bfe7-24a12c0aaf2f,8143df0a-e541-5fe2-9ee0-61763e12515a,bd14dc78-615f-5c04-b94d-4b002ef0b952,Reading,Manchester City,Manchester City_Reading,Manchester City_Reading_2006
+2006,26,Manchester City,0.0,0.0,Reading,0.0,2.0,0,Howard Webb,Reading,Manchester City,7f14ff91-93b5-5848-b092-c83becb21eb5,8143df0a-e541-5fe2-9ee0-61763e12515a,bd14dc78-615f-5c04-b94d-4b002ef0b952,Manchester City,Reading,Manchester City_Reading,Manchester City_Reading_2006

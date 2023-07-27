@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-2017,13,Liverpool,1.2,0.8,Chelsea,1.0,1.0,2017-11-25,0,draw,draw,c702cff5-f533-5aae-a959-f8ba94c431db,69ac041e-3516-5d16-bb75-b88c501bc86c,edc58bc9-6e20-58f7-849a-9a65a634e545,Liverpool,Chelsea,Chelsea_Liverpool,Chelsea_Liverpool_2017
-2017,37,Chelsea,0.6,0.5,Liverpool,1.0,0.0,2018-05-06,0,Chelsea,Liverpool,29106330-1c08-54b0-a47e-5a43c38a3621,69ac041e-3516-5d16-bb75-b88c501bc86c,edc58bc9-6e20-58f7-849a-9a65a634e545,Chelsea,Liverpool,Chelsea_Liverpool,Chelsea_Liverpool_2017

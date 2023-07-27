@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+1993,8,QPR,0.0,0.0,Norwich City,2.0,2.0,0,Roger Milford,draw,draw,e3a09d33-da3d-5d13-88e6-18dc6bd33c85,db09517b-aaeb-5d0f-8dec-66329bb0b1e9,109a8933-aebb-51aa-bc03-626c1c59abb1,QPR,Norwich City,Norwich City_QPR,Norwich City_QPR_1993
+1993,33,Norwich City,0.0,0.0,QPR,3.0,4.0,0,David Allison,QPR,Norwich City,ac7b7954-6a2e-5655-8d7c-41c9b0c59257,db09517b-aaeb-5d0f-8dec-66329bb0b1e9,109a8933-aebb-51aa-bc03-626c1c59abb1,Norwich City,QPR,Norwich City_QPR,Norwich City_QPR_1993

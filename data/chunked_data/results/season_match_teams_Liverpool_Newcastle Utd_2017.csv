@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-2017,7,Newcastle Utd,0.3,1.3,Liverpool,1.0,1.0,2017-10-01,0,draw,draw,81bb90d2-d227-5861-baeb-da7411cafecd,40adc14d-36a2-5012-af99-394a435711e3,165634d1-a280-58c7-bb59-d0b6cbc64bb5,Newcastle Utd,Liverpool,Liverpool_Newcastle Utd,Liverpool_Newcastle Utd_2017
-2017,29,Liverpool,1.5,0.3,Newcastle Utd,2.0,0.0,2018-03-03,0,Liverpool,Newcastle Utd,d4eaf2f0-9af3-5e61-80cc-79343ccd4894,40adc14d-36a2-5012-af99-394a435711e3,165634d1-a280-58c7-bb59-d0b6cbc64bb5,Liverpool,Newcastle Utd,Liverpool_Newcastle Utd,Liverpool_Newcastle Utd_2017

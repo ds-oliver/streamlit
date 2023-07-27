@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-2020,4,Wolves,1.2,0.9,Fulham,1.0,0.0,2020-10-04,0,Wolves,Fulham,e2a027ae-70ce-5674-90d2-6f628a7e48e3,611e9eb6-0f27-5536-b8b3-8d2b4daf0dfa,65b46231-703c-57cb-b8f3-34380a20f0a0,Wolves,Fulham,Fulham_Wolves,Fulham_Wolves_2020
-2020,31,Fulham,0.9,0.5,Wolves,0.0,1.0,2021-04-09,0,Wolves,Fulham,b9595859-7937-5f1b-8934-216d2a050a6c,611e9eb6-0f27-5536-b8b3-8d2b4daf0dfa,65b46231-703c-57cb-b8f3-34380a20f0a0,Fulham,Wolves,Fulham_Wolves,Fulham_Wolves_2020

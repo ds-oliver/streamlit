@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+1992,13,Liverpool,0.0,0.0,Norwich City,4.0,1.0,0,Raymond Lewis,Liverpool,Norwich City,89908d23-7f08-59e7-954b-f1ad5971becc,630cf271-35be-5590-a4f9-333436829445,d369c5fe-e2ba-51fb-96b7-66ddb43e4cf8,Liverpool,Norwich City,Liverpool_Norwich City,Liverpool_Norwich City_1992
+1992,41,Norwich City,0.0,0.0,Liverpool,1.0,0.0,0,David Elleray,Norwich City,Liverpool,4bc7f8c6-ea8c-53f2-ac95-fdbe24c85e42,630cf271-35be-5590-a4f9-333436829445,d369c5fe-e2ba-51fb-96b7-66ddb43e4cf8,Norwich City,Liverpool,Liverpool_Norwich City,Liverpool_Norwich City_1992

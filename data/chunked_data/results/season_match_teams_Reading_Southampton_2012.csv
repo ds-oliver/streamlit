@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-2012,16,Southampton,0.0,0.0,Reading,1.0,0.0,0,Jon Moss,Southampton,Reading,c75dd42b-c37e-5d09-bd66-83f0f42c9659,5c9bee7d-07b2-5241-8a7f-a7896e3c6046,7343e9cf-0c96-5cb6-b8db-e53d2753627b,Southampton,Reading,Reading_Southampton,Reading_Southampton_2012
-2012,32,Reading,0.0,0.0,Southampton,0.0,2.0,0,Mike Jones,Southampton,Reading,d829a3c9-7dd3-5378-98cc-a0667f21f2aa,5c9bee7d-07b2-5241-8a7f-a7896e3c6046,7343e9cf-0c96-5cb6-b8db-e53d2753627b,Reading,Southampton,Reading_Southampton,Reading_Southampton_2012

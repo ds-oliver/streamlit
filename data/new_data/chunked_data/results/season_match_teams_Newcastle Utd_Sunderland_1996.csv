@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+1996,4,Sunderland,0.0,0.0,Newcastle Utd,1.0,2.0,0,Jeff Winter,Newcastle Utd,Sunderland,d3eb5d7f-649f-5568-9662-0ecfefea3346,d8d73216-6c22-5b6e-b380-1d4b4e9aedaf,e8a14fb2-a74f-52cd-834b-0bbde2755dee,Sunderland,Newcastle Utd,Newcastle Utd_Sunderland,Newcastle Utd_Sunderland_1996
+1996,33,Newcastle Utd,0.0,0.0,Sunderland,1.0,1.0,0,Paul Durkin,draw,draw,144f7bc4-170f-5826-9699-ba44ed72fa4a,d8d73216-6c22-5b6e-b380-1d4b4e9aedaf,e8a14fb2-a74f-52cd-834b-0bbde2755dee,Newcastle Utd,Sunderland,Newcastle Utd_Sunderland,Newcastle Utd_Sunderland_1996

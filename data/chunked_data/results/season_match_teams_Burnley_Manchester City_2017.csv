@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-2017,9,Manchester City,3.1,0.2,Burnley,3.0,0.0,2017-10-21,0,Manchester City,Burnley,cff1f144-6844-543e-86be-9a4491daca20,ba88300f-7a61-523c-9794-f2d3f1d22fe2,873f937c-032c-5cd5-9ef8-7167d22b154e,Manchester City,Burnley,Burnley_Manchester City,Burnley_Manchester City_2017
-2017,26,Burnley,0.9,1.8,Manchester City,1.0,1.0,2018-02-03,0,draw,draw,e62264f4-b64f-57ac-af67-704cfb37078b,ba88300f-7a61-523c-9794-f2d3f1d22fe2,873f937c-032c-5cd5-9ef8-7167d22b154e,Burnley,Manchester City,Burnley_Manchester City,Burnley_Manchester City_2017

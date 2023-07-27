@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-2018,14,Liverpool,2.9,1.1,Everton,1.0,0.0,2018-12-02,0,Liverpool,Everton,3c0cc988-1a57-55b9-8573-3793ec38fa97,1ce4ba3a-cb76-5ca8-bb64-b58f1f77d24b,7c7b47a8-a4bc-5ac2-ade9-5d7006854a30,Liverpool,Everton,Everton_Liverpool,Everton_Liverpool_2018
-2018,29,Everton,0.3,1.1,Liverpool,0.0,0.0,2019-03-03,0,draw,draw,e8e355c7-cf42-5879-8ca9-0b6cdc35a4d3,1ce4ba3a-cb76-5ca8-bb64-b58f1f77d24b,7c7b47a8-a4bc-5ac2-ade9-5d7006854a30,Everton,Liverpool,Everton_Liverpool,Everton_Liverpool_2018

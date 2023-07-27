@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-2021,20,Chelsea,0.7,0.9,Brighton,1.0,1.0,2021-12-29,0,draw,draw,9b8231fd-f1a6-52ff-b0ef-8e1d312475d9,e7fa3a2b-2c8b-5904-aa5f-acf78ae6898b,982e19e1-0e2d-5043-86a5-6f34abef9a1d,Chelsea,Brighton,Brighton_Chelsea,Brighton_Chelsea_2021
-2021,24,Brighton,0.7,0.7,Chelsea,1.0,1.0,2022-01-18,0,draw,draw,9c4038f2-1f38-5551-82ff-187ca5d4704c,e7fa3a2b-2c8b-5904-aa5f-acf78ae6898b,982e19e1-0e2d-5043-86a5-6f34abef9a1d,Brighton,Chelsea,Brighton_Chelsea,Brighton_Chelsea_2021

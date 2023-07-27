@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2010,5,Aston Villa,0.0,0.0,Bolton,1.0,1.0,0,Mike Dean,draw,draw,9e7e5595-6c1d-52eb-ba55-0e12af2a54f5,7985d367-16ea-500c-9066-eb5236e96256,b0e91fc5-f6af-5fa5-9581-371494d02752,Aston Villa,Bolton,Aston Villa_Bolton,Aston Villa_Bolton_2010
+2010,29,Bolton,0.0,0.0,Aston Villa,3.0,2.0,0,Kevin Friend,Bolton,Aston Villa,d1525285-2dbd-50ff-9ee4-5804c4f2e706,7985d367-16ea-500c-9066-eb5236e96256,b0e91fc5-f6af-5fa5-9581-371494d02752,Bolton,Aston Villa,Aston Villa_Bolton,Aston Villa_Bolton_2010

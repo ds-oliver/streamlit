@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2002,19,West Brom,0.0,0.0,Sunderland,2.0,2.0,0,Clive Wilkes,draw,draw,26047942-f8ce-521c-b0f5-eb3d70612073,706c9012-532d-52c8-8502-c1ce64630fcc,be7c2878-c693-5b64-b421-01f1ee4f30de,West Brom,Sunderland,Sunderland_West Brom,Sunderland_West Brom_2002
+2002,34,Sunderland,0.0,0.0,West Brom,1.0,2.0,0,Graham Poll,West Brom,Sunderland,0645d540-5d2a-5990-8d71-f3cfef715c4c,706c9012-532d-52c8-8502-c1ce64630fcc,be7c2878-c693-5b64-b421-01f1ee4f30de,Sunderland,West Brom,Sunderland_West Brom,Sunderland_West Brom_2002

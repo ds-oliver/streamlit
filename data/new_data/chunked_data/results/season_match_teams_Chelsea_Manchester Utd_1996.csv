@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+1996,12,Manchester Utd,0.0,0.0,Chelsea,1.0,2.0,0,Keith Burge,Chelsea,Manchester Utd,ac7d63f6-4ce8-5b73-b1d4-bc7fb5b16af4,15dd1127-1120-5288-8523-8d3181c2ddd1,93573a07-4a6c-5e4a-8157-4a74eccc882c,Manchester Utd,Chelsea,Chelsea_Manchester Utd,Chelsea_Manchester Utd_1996
+1996,27,Chelsea,0.0,0.0,Manchester Utd,1.0,1.0,0,Gerald Ashby,draw,draw,312932e2-8791-583b-81ad-4b2738e05b11,15dd1127-1120-5288-8523-8d3181c2ddd1,93573a07-4a6c-5e4a-8157-4a74eccc882c,Chelsea,Manchester Utd,Chelsea_Manchester Utd,Chelsea_Manchester Utd_1996

@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-1995,10,Chelsea,0.0,0.0,Manchester Utd,1.0,4.0,0,Alan Wilkie,Manchester Utd,Chelsea,5e9a4339-8784-5bca-8492-4e5606758d75,15dd1127-1120-5288-8523-8d3181c2ddd1,bb51b896-ae1a-5dc0-b557-36257a8f251e,Chelsea,Manchester Utd,Chelsea_Manchester Utd,Chelsea_Manchester Utd_1995
-1995,16,Manchester Utd,0.0,0.0,Chelsea,1.0,1.0,0,Martin Bodenham,draw,draw,9b5fdc08-b831-5181-81e0-07e83f9961b2,15dd1127-1120-5288-8523-8d3181c2ddd1,bb51b896-ae1a-5dc0-b557-36257a8f251e,Manchester Utd,Chelsea,Chelsea_Manchester Utd,Chelsea_Manchester Utd_1995

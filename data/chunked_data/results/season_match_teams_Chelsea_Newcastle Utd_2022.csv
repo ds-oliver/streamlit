@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-2022,16,Newcastle Utd,1.0,0.3,Chelsea,1.0,0.0,2022-11-12,0,Newcastle Utd,Chelsea,3923bc76-7276-579d-875e-c677f14147ec,685aa728-3f47-588a-91e7-100c9cd9b719,d7f31810-2dd3-5ae2-830a-ba42416de5d7,Newcastle Utd,Chelsea,Chelsea_Newcastle Utd,Chelsea_Newcastle Utd_2022
-2022,38,Chelsea,2.2,1.7,Newcastle Utd,1.0,1.0,2023-05-28,0,draw,draw,86f3130a-dc7e-5e02-a8b0-6c469481bcab,685aa728-3f47-588a-91e7-100c9cd9b719,d7f31810-2dd3-5ae2-830a-ba42416de5d7,Chelsea,Newcastle Utd,Chelsea_Newcastle Utd,Chelsea_Newcastle Utd_2022

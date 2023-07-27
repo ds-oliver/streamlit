@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2019,8,Norwich City,2.6,3.0,Aston Villa,1.0,5.0,2019-10-05,0,Aston Villa,Norwich City,3a0091e9-000d-525e-a955-d7b12e128cda,9d6f9730-a47a-582b-8356-62ce09f648fb,60d4e4c1-58dd-5b44-9d5a-c706953dab4f,Norwich City,Aston Villa,Aston Villa_Norwich City,Aston Villa_Norwich City_2019
+2019,19,Aston Villa,0.6,1.2,Norwich City,1.0,0.0,2019-12-26,0,Aston Villa,Norwich City,ef74531f-a166-5f2b-9dae-9b633c2ff07f,9d6f9730-a47a-582b-8356-62ce09f648fb,60d4e4c1-58dd-5b44-9d5a-c706953dab4f,Aston Villa,Norwich City,Aston Villa_Norwich City,Aston Villa_Norwich City_2019

@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2017,9,Southampton,2.0,0.4,West Brom,1.0,0.0,2017-10-21,0,Southampton,West Brom,ece13f79-d1b4-5c2b-b238-db06f90d076b,9f05295f-54b9-5a9d-8442-804b5396ff25,383de633-c61d-561a-bddc-42a8fd4b9f07,Southampton,West Brom,Southampton_West Brom,Southampton_West Brom_2017
+2017,26,West Brom,0.8,0.9,Southampton,2.0,3.0,2018-02-03,0,Southampton,West Brom,ac2bb15a-878e-5e40-833a-02862002dc9d,9f05295f-54b9-5a9d-8442-804b5396ff25,383de633-c61d-561a-bddc-42a8fd4b9f07,West Brom,Southampton,Southampton_West Brom,Southampton_West Brom_2017

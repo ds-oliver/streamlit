@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-2020,10,Chelsea,0.8,0.2,Tottenham,0.0,0.0,2020-11-29,0,draw,draw,ac394d5c-a7a3-5194-8662-3b5fc591a584,611a4d26-18ae-59ff-9821-b9c0919763e0,79af8a21-9a00-5b0d-a8a6-362e4f8050b2,Chelsea,Tottenham,Chelsea_Tottenham,Chelsea_Tottenham_2020
-2020,22,Tottenham,0.6,1.6,Chelsea,0.0,1.0,2021-02-04,0,Chelsea,Tottenham,b9dd8e25-8cd7-5729-8bf1-54cd9630267a,611a4d26-18ae-59ff-9821-b9c0919763e0,79af8a21-9a00-5b0d-a8a6-362e4f8050b2,Tottenham,Chelsea,Chelsea_Tottenham,Chelsea_Tottenham_2020

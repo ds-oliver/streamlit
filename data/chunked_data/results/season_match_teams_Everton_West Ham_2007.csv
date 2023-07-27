@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-2007,17,West Ham,0.0,0.0,Everton,0.0,2.0,0,Steve Tanner,Everton,West Ham,3cc5725d-d4e3-5a34-97a7-c797e68ba6e6,526d1c04-b9c5-50ef-a573-a758dbaf7768,7ec9e047-f4d1-5e53-bdf2-d2eec05dc889,West Ham,Everton,Everton_West Ham,Everton_West Ham_2007
-2007,31,Everton,0.0,0.0,West Ham,1.0,1.0,0,Mark Halsey,draw,draw,215c1b1d-0f64-5285-80de-aac7bc24a03e,526d1c04-b9c5-50ef-a573-a758dbaf7768,7ec9e047-f4d1-5e53-bdf2-d2eec05dc889,Everton,West Ham,Everton_West Ham,Everton_West Ham_2007

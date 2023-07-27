@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-1998,18,Southampton,0.0,0.0,Wimbledon,3.0,1.0,0,Mike Reed,Southampton,Wimbledon,bd33b0f3-30fe-5222-b5f1-d09c4d1fb775,566ea5e3-4d66-501b-b33b-62e83e0a2919,8041e8b1-33db-577f-a6c2-cb26b73e70ac,Southampton,Wimbledon,Southampton_Wimbledon,Southampton_Wimbledon_1998
-1998,37,Wimbledon,0.0,0.0,Southampton,0.0,2.0,0,Steve Dunn,Southampton,Wimbledon,ceca2c09-8911-5955-8c47-525fd17681c6,566ea5e3-4d66-501b-b33b-62e83e0a2919,8041e8b1-33db-577f-a6c2-cb26b73e70ac,Wimbledon,Southampton,Southampton_Wimbledon,Southampton_Wimbledon_1998

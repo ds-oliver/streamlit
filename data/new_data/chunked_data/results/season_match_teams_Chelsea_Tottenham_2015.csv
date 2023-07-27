@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2015,14,Tottenham,0.0,0.0,Chelsea,0.0,0.0,0,Michael Oliver,draw,draw,28fb4c15-d512-50ea-9eb8-34eb965e72b7,611a4d26-18ae-59ff-9821-b9c0919763e0,02e8c64f-18d8-5fa6-94ad-c67fe5449d48,Tottenham,Chelsea,Chelsea_Tottenham,Chelsea_Tottenham_2015
+2015,36,Chelsea,0.0,0.0,Tottenham,2.0,2.0,0,Mark Clattenburg,draw,draw,61974351-9194-5d5c-9e3c-96f69adf06e8,611a4d26-18ae-59ff-9821-b9c0919763e0,02e8c64f-18d8-5fa6-94ad-c67fe5449d48,Chelsea,Tottenham,Chelsea_Tottenham,Chelsea_Tottenham_2015

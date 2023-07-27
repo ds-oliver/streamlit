@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+1998,4,Nott'ham Forest,0.0,0.0,Everton,0.0,2.0,0,Rob Harris,Everton,Nott'ham Forest,d15c4f46-1f4b-54d2-a7bd-e3a91132957d,f3bc4f83-4443-58c8-b633-32755135eca6,705b466f-5646-5974-81ad-6fabb3590e4f,Nott'ham Forest,Everton,Everton_Nott'ham Forest,Everton_Nott'ham Forest_1998
+1998,23,Everton,0.0,0.0,Nott'ham Forest,0.0,1.0,0,Graham Barber,Nott'ham Forest,Everton,689404f6-58b7-52e0-9293-02d7b46ddef1,f3bc4f83-4443-58c8-b633-32755135eca6,705b466f-5646-5974-81ad-6fabb3590e4f,Everton,Nott'ham Forest,Everton_Nott'ham Forest,Everton_Nott'ham Forest_1998

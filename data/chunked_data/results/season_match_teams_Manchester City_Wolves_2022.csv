@@ -1,3 +1,0 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
-2022,8,Wolves,0.4,1.1,Manchester City,0.0,3.0,2022-09-17,0,Manchester City,Wolves,f6b8a373-364a-5d73-ac08-916e9a4c3685,20f52bce-30c2-50d4-8056-d22d22fdfb7b,a49ee10f-302b-5313-912b-761b63d7e130,Wolves,Manchester City,Manchester City_Wolves,Manchester City_Wolves_2022
-2022,21,Manchester City,2.8,0.8,Wolves,3.0,0.0,2023-01-22,0,Manchester City,Wolves,a869f74d-60b6-5347-ab19-abbcc0f64459,20f52bce-30c2-50d4-8056-d22d22fdfb7b,a49ee10f-302b-5313-912b-761b63d7e130,Manchester City,Wolves,Manchester City_Wolves,Manchester City_Wolves_2022

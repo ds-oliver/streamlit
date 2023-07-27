@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2007,17,Manchester City,0.0,0.0,Bolton,4.0,2.0,0,Peter Walton,Manchester City,Bolton,4f477371-995c-5239-95e3-d30b20579140,a2c8a8b2-65ab-573f-804d-fb31c8333403,649165be-3525-5406-a846-ea5ed43fd38e,Manchester City,Bolton,Bolton_Manchester City,Bolton_Manchester City_2007
+2007,31,Bolton,0.0,0.0,Manchester City,0.0,0.0,0,Andre Marriner,draw,draw,aea1b9a7-2bf3-57db-ba81-7e835234f01e,a2c8a8b2-65ab-573f-804d-fb31c8333403,649165be-3525-5406-a846-ea5ed43fd38e,Bolton,Manchester City,Bolton_Manchester City,Bolton_Manchester City_2007

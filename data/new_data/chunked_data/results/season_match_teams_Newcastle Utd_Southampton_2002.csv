@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2002,14,Newcastle Utd,0.0,0.0,Southampton,2.0,1.0,0,Clive Wilkes,Newcastle Utd,Southampton,3a577090-78a9-5d19-9dd5-01ff17b62d05,105841b6-c3d6-5567-b3a1-9f52377fc305,26733801-7669-5151-84ae-efb40aaa4a6c,Newcastle Utd,Southampton,Newcastle Utd_Southampton,Newcastle Utd_Southampton_2002
+2002,18,Southampton,0.0,0.0,Newcastle Utd,1.0,1.0,0,Phil Dowd,draw,draw,bb849133-ba24-5234-a857-ed8514bf9388,105841b6-c3d6-5567-b3a1-9f52377fc305,26733801-7669-5151-84ae-efb40aaa4a6c,Southampton,Newcastle Utd,Newcastle Utd_Southampton,Newcastle Utd_Southampton_2002
