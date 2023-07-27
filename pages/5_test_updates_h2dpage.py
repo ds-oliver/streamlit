@@ -15,6 +15,9 @@ def load_player_data():
 def process_player_data(player_df):
     player_df['year'] = player_df['season'].str[:4]
     player_df = player_df.rename(columns={'season': 'season_long', 'year': 'season', 'position_1': 'position'})
+
+    # create a per90 column for minutes which is minutes / 90
+    player_df['minutes_per90'] = player_df['minutes'] / 90
     
     # create match_teams column from team and opponent where we sort the team and opponent alphabetically and join with _
     player_df['match_teams'] = player_df.apply(lambda row: '_'.join(sorted([row['team'], row['opponent']])), axis=1)
@@ -95,7 +98,7 @@ def clean_dataframes(df):
 
 def get_top_players(team, player_df, stat, top=5):
     """
-    Get the top players from a team for a given statistic.
+    group the player_df by match_teams
 
     Parameters:
     team (str): The team to get players from.
@@ -104,7 +107,7 @@ def get_top_players(team, player_df, stat, top=5):
     top (int): The number of top players to return.
 
     Returns:
-    DataFrame: A DataFrame with the top players and their stats.
+    DataFrame1: A DataFrame with the top players of team1 and their stats against the specific opponent
     """
     # check if team column exists in player_df
     if 'team' not in player_df.columns:
@@ -198,6 +201,16 @@ def get_teams_stats(df, team1, team2):
     return stats_team1, stats_team2
 
 def show_head2head_analysis(df_all_seasons, player_df):
+    """Show head to head analysis between two teams for all seasons, a particular set of seasons, or a single seasons. The default is the most recent season. We get the user to select the season(s) they want to compare and then the teams they want to compare. We create a filtered dataframe based on the season(s) and teams selected. More specifically, from team and opponent selected by the user, we create a 'selected_teams' object that has the teams the user selected in alphabetical order. We filter the dataframe using the 'match_teams' column based on the 'selected_teams' object and then we group by player. Now we have a dataframe that contains all the players that played in the matches between the two teams selected by the user. We then create a multiselect for the user to select the stat(s) they want to compare. Default stats should be 'npxg', 'sca', 'gca'. 
+
+    Args:
+        df_all_seasons (dataframe): contains general match stats
+        player_df (dataframe): contains player specific stats
+
+    Returns:
+        teams_dataframe: dataframe containing the stats of the players that played in the matches between the two teams selected by the user
+        players_dataframe: dataframe containing the stats of the players that played in the matches between the two teams selected by the user
+    """
 
     st.info('Select season(s) you want to compare. \nNote: Default is the most recent season')
 
