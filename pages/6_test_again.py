@@ -110,8 +110,8 @@ def get_top_players(team, player_df, stat, top=5):
     DataFrame1: A DataFrame with the top players of team1 and their stats against the specific opponent
     """
     # check if team column exists in player_df
-    if 'team' not in player_df.columns:
-        raise ValueError('team column not in player_df')
+    if 'team' not in player_df.columns or 'player' not in player_df.columns:
+        raise ValueError('team or player column not in player_df')
     else:
         # Filter dataframe based on team
         player_df_team = player_df[player_df['team'] == team]
