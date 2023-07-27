@@ -18,7 +18,7 @@ def process_player_data(player_df):
     player_df = player_df.rename(columns={'season': 'season_long', 'year': 'season', 'position_1': 'position'})
     
     # create match_teams column from team and opponent where we sort the team and opponent alphabetically and join with _
-    player_df['match_teams'] = player_df.apply(lambda row: '_'.join(sorted([row['team'].strip(), row['opponent'].strip()])), axis=1)
+    player_df['match_teams'] = player_df.apply(lambda row: '_'.join(sorted([row['team'], row['opponent']])), axis=1)
 
     # create season_match_teams column from match_teams and season
     player_df['season_match_teams'] = player_df['match_teams'] + '_' + player_df['season'].astype(str)
@@ -149,7 +149,7 @@ def get_teams_stats(df, team1, team2):
         'Clean Sheets': 0
     }
 
-    df_filtered = df[(df['home_team'].isin([team1, team2])) & (df['away_team'].isin([team1, team2]))]
+    df_filtered = df[df['match_teams'].isin([f'{team1}_{team2}', f'{team2}_{team1}'])]
 
     for index, row in df_filtered.iterrows():
         if row['home_team'] == team1:
@@ -217,13 +217,14 @@ def show_head2head_analysis(df_all_seasons, player_df):
     # Create a list of teams
     team_list = sorted(df_all_seasons['home_team'].unique().tolist())
 
-    # Create two selectboxes for the two teams
-    team_selection1 = st.selectbox('Select Primary Team', team_list)
-    team_selection2 = st.selectbox('Select Opponent', [team for team in team_list if team != team_selection1])
+    if 'team_selection1' not in st.session_state:
+        st.session_state['team_selection1'] = team_list[0]
 
-    # Apply the filter for both teams in all seasons
-    df_filtered = df_all_seasons[(df_all_seasons['home_team'].isin([team_selection1, team_selection2])) & 
-                                 (df_all_seasons['away_team'].isin([team_selection1, team_selection2]))]
+    if 'team_selection2' not in st.session_state:
+        st.session_state['team_selection2'] = [team for team in team_list if team != st.session_state['team_selection1']][0]
+
+    team_selection1 = st.selectbox('Select Primary Team', team_list, key='team_selection1')
+    team_selection2 = st.selectbox('Select Opponent', [team for team in team_list if team != st.session_state['team_selection1']], key='team_selection2')
 
     # Apply the statistics function to the filtered DataFrame
     team1_stats, team2_stats = get_teams_stats(df_filtered, team_selection1, team_selection2)
@@ -248,8 +249,7 @@ def show_head2head_analysis(df_all_seasons, player_df):
         
     st.dataframe(player_df)
 
-
-# Get top 5 players for each team
+    # Get top 5 players for each team
     for stat in selected_stats:
         top5_team1, top5_season_team1 = get_top_players(team_selection1, player_df, stat, top=5)
         top5_team2, top5_season_team2 = get_top_players(team_selection2, player_df, stat, top=5)
