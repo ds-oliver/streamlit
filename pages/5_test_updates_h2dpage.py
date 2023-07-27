@@ -237,13 +237,13 @@ def show_head2head_analysis(df_all_seasons, player_df):
     # Display the DataFrame
     st.dataframe(df_stats)
 
-    # Update the get_top_players function with selected team and stats
-    for stat in selected_stats:
-        top_players_matchup, top_players_season = get_top_players(team_selection1, player_df, stat)
-        st.write(f'Top players for {team_selection1} in matchup based on {stat}')
-        st.dataframe(top_players_matchup)
-        st.write(f'Top players for {team_selection1} in season based on {stat}')
-        st.dataframe(top_players_season)    
+    stat_list = [col for col in player_df.columns if (player_df[col].dtype == 'float64' or player_df[col].dtype == 'int64')]
+
+    default_stats = ['npxg', 'sca', 'gca']
+    default_stats = [stat for stat in default_stats if stat in stat_list]
+
+    # Let the user select a stat
+    selected_stats = st.multiselect('Select player stat', stat_list, default=default_stats)
 
     # If no stat is selected, use the default stats
     if not selected_stats:
@@ -251,16 +251,13 @@ def show_head2head_analysis(df_all_seasons, player_df):
         
     st.dataframe(player_df)
 
-    # Get top 5 players for each team
+    # Update the get_top_players function with selected team and stats
     for stat in selected_stats:
-        top5_team1, top5_season_team1 = get_top_players(team_selection1, player_df, stat, top=5)
-        top5_team2, top5_season_team2 = get_top_players(team_selection2, player_df, stat, top=5)
-
-        # Display the top 5 players
-        st.subheader(f'Top 5 {team_selection1} players by {stat}:')
-        st.dataframe(top5_team1)
-        st.subheader(f'Top 5 {team_selection2} players by {stat}:')
-        st.dataframe(top5_team2)
+        top_players_matchup, top_players_season = get_top_players(team_selection1, player_df, stat)
+        st.write(f'Top players for {team_selection1} in matchup based on {stat}')
+        st.dataframe(top_players_matchup)
+        st.write(f'Top players for {team_selection1} in season based on {stat}')
+        st.dataframe(top_players_season)
 
 @st.cache_data
 def main():
