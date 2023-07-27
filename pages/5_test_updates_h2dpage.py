@@ -4,7 +4,7 @@ import numpy as np
 import re
 import uuid
 
-# @st.cache_data
+@st.cache_data
 def load_player_data():
     player_df = pd.read_csv('data/all_seasons_combined_df_2023-07-25_12-50-09.csv')
     player_df = player_df.apply(lambda x: x.fillna(0) if x.dtype.kind in 'biufc' else x.fillna('None'))
@@ -12,7 +12,7 @@ def load_player_data():
     player_df = player_df.drop(drop_cols, axis=1)
     return player_df
 
-# @st.cache_data
+@st.cache_data
 def process_player_data(player_df):
     player_df['year'] = player_df['season'].str[:4]
     player_df = player_df.rename(columns={'season': 'season_long', 'year': 'season', 'position_1': 'position'})
@@ -48,7 +48,7 @@ def process_player_data(player_df):
 
     return player_df
 
-# @st.cache_data
+@st.cache_data
 def clean_dataframes(df):
     """Description: This function cleans the dataframes by removing unnecessary columns, reordering columns, creating new columns and renaming columns.
     
@@ -95,7 +95,7 @@ def clean_dataframes(df):
 
     return df
 
-# @st.cache_data
+@st.cache_data
 def get_top_players(team, player_df, stat, top=5):
     """
     Get the top players from a team for a given statistic.
@@ -126,7 +126,7 @@ def get_top_players(team, player_df, stat, top=5):
 
 
 
-# @st.cache_data
+@st.cache_data
 def get_teams_stats(df, team1, team2):
     stats_team1 = {
         'total_games': 0,
@@ -202,6 +202,8 @@ def get_teams_stats(df, team1, team2):
 
     return stats_team1, stats_team2
 
+
+@st.cache_data
 def show_head2head_analysis(df_all_seasons, player_df):
 
     st.info('Select season(s) you want to compare. \nNote: Default is the most recent season')
@@ -260,6 +262,7 @@ def show_head2head_analysis(df_all_seasons, player_df):
         st.subheader(f'Top 5 {team_selection2} players by {stat}:')
         st.dataframe(top5_team2)
 
+@st.cache_data
 def main():
     # Load and process player data
     player_df = load_player_data()
