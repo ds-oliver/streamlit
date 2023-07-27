@@ -18,7 +18,7 @@ def process_player_data(player_df):
     player_df = player_df.rename(columns={'season': 'season_long', 'year': 'season', 'position_1': 'position'})
     
     # create match_teams column from team and opponent where we sort the team and opponent alphabetically and join with _
-    player_df['match_teams'] = player_df.apply(lambda row: '_'.join(sorted([row['team'], row['opponent']])), axis=1).strip() 
+    player_df['match_teams'] = player_df.apply(lambda row: '_'.join(sorted([row['team'].strip(), row['opponent'].strip()])), axis=1)
 
     # create season_match_teams column from match_teams and season
     player_df['season_match_teams'] = player_df['match_teams'] + '_' + player_df['season'].astype(str)
@@ -82,10 +82,7 @@ def clean_dataframes(df):
     df['opponent'] = df['away_team']
 
     # create match_teams column from team and opponent where we sort the team and opponent alphabetically and join with _
-    df['match_teams'] = df.apply(lambda row: '_'.join(sorted([row['team'], row['opponent']])), axis=1)
-
-    # strip whitespace
-    df['match_teams'] = df['match_teams'].str.strip()
+    df['match_teams'] = df.apply(lambda row: '_'.join(sorted([row['team'].strip(), row['opponent'].strip()])), axis=1)
     
     # create season_match_teams column from match_teams and season
     df['season_match_teams'] = df['match_teams'] + '_' + df['season'].astype(str)
