@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+1994,14,Blackburn,0.0,0.0,Tottenham,2.0,0.0,0,Terence Holbrook,Blackburn,Tottenham,bc800386-6ff7-59b5-8a03-b5d3f5b675ac,c2116b4d-f257-5ae2-b600-81f50007ed7b,6a7141fb-dd62-5a88-8e89-36eae2ab83f6,Blackburn,Tottenham,Blackburn_Tottenham,Blackburn_Tottenham_1994
+1994,27,Tottenham,0.0,0.0,Blackburn,3.0,1.0,0,Martin Bodenham,Tottenham,Blackburn,4bab048d-a57d-52db-8dfa-d5c8165e5e96,c2116b4d-f257-5ae2-b600-81f50007ed7b,6a7141fb-dd62-5a88-8e89-36eae2ab83f6,Tottenham,Blackburn,Blackburn_Tottenham,Blackburn_Tottenham_1994

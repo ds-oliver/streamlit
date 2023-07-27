@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2020,12,Newcastle Utd,0.8,0.6,West Brom,2.0,1.0,2020-12-12,0,Newcastle Utd,West Brom,44e45007-fb95-5476-b3a5-9c52c6c51a99,d83eda75-15b3-5288-b3a7-f66ceab2c074,7ccc83f5-6e28-5093-bfc7-1e6722d33dc0,Newcastle Utd,West Brom,Newcastle Utd_West Brom,Newcastle Utd_West Brom_2020
+2020,27,West Brom,2.0,0.5,Newcastle Utd,0.0,0.0,2021-03-07,0,draw,draw,af8bf30f-ceab-5060-ba5c-9bc41ed7c718,d83eda75-15b3-5288-b3a7-f66ceab2c074,7ccc83f5-6e28-5093-bfc7-1e6722d33dc0,West Brom,Newcastle Utd,Newcastle Utd_West Brom,Newcastle Utd_West Brom_2020

@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2013,10,West Brom,0.0,0.0,Crystal Palace,2.0,0.0,0,Neil Swarbrick,West Brom,Crystal Palace,578b9bde-88a3-597e-a209-760a3e646ec3,b025a727-85ab-5efd-8a4d-e1afff72764f,c75a3559-439a-5311-9124-50b2a6874d5f,West Brom,Crystal Palace,Crystal Palace_West Brom,Crystal Palace_West Brom_2013
+2013,25,Crystal Palace,0.0,0.0,West Brom,3.0,1.0,0,Chris Foy,Crystal Palace,West Brom,45a8689b-c777-5ca3-aaaf-348b48a89831,b025a727-85ab-5efd-8a4d-e1afff72764f,c75a3559-439a-5311-9124-50b2a6874d5f,Crystal Palace,West Brom,Crystal Palace_West Brom,Crystal Palace_West Brom_2013

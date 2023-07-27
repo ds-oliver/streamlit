@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2002,15,Everton,0.0,0.0,West Brom,1.0,0.0,0,Jeff Winter,Everton,West Brom,f388b381-ea29-58e3-b3b9-98bdf9922fd4,811bb6d9-1b15-5c11-9415-bec97b6e7c86,b778abff-329b-558e-bbb6-4bc2387e3d8f,Everton,West Brom,Everton_West Brom,Everton_West Brom_2002
+2002,33,West Brom,0.0,0.0,Everton,1.0,2.0,0,Stephen Bennett,Everton,West Brom,cf0f140c-fefb-5219-8daf-a189fc86eeab,811bb6d9-1b15-5c11-9415-bec97b6e7c86,b778abff-329b-558e-bbb6-4bc2387e3d8f,West Brom,Everton,Everton_West Brom,Everton_West Brom_2002

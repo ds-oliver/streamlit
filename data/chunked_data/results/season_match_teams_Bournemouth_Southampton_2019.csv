@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2019,6,Southampton,2.5,1.2,Bournemouth,1.0,3.0,2019-09-20,0,Bournemouth,Southampton,7165393b-0bc0-5127-8ca3-8691f9c34f6a,55515400-8f39-597b-89e2-fe82927d52c0,fdd2753f-5e5f-5a85-a415-89286da3fd00,Southampton,Bournemouth,Bournemouth_Southampton,Bournemouth_Southampton_2019
+2019,37,Bournemouth,0.5,2.5,Southampton,0.0,2.0,2020-07-19,0,Southampton,Bournemouth,252b028e-917d-5610-9e78-80e5005f5b24,55515400-8f39-597b-89e2-fe82927d52c0,fdd2753f-5e5f-5a85-a415-89286da3fd00,Bournemouth,Southampton,Bournemouth_Southampton,Bournemouth_Southampton_2019

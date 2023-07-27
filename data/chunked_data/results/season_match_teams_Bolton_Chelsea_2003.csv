@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2003,16,Chelsea,0.0,0.0,Bolton,1.0,2.0,0,Matt Messias,Bolton,Chelsea,f6587f44-8482-5ff8-883d-a5f548650802,47ea0e76-e207-5a61-a856-1f2926015568,69982133-013d-59ef-9df1-1ceef160a31b,Chelsea,Bolton,Bolton_Chelsea,Bolton_Chelsea_2003
+2003,28,Bolton,0.0,0.0,Chelsea,0.0,2.0,0,Dermot Gallagher,Chelsea,Bolton,aa864c0d-15bc-50be-8462-45ac8c11775c,47ea0e76-e207-5a61-a856-1f2926015568,69982133-013d-59ef-9df1-1ceef160a31b,Bolton,Chelsea,Bolton_Chelsea,Bolton_Chelsea_2003

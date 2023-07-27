@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2004,16,Chelsea,0.0,0.0,Newcastle Utd,4.0,0.0,0,Rob Styles,Chelsea,Newcastle Utd,145e2f9b-9af6-5387-99fb-858dec8356cc,685aa728-3f47-588a-91e7-100c9cd9b719,340b43ca-4e95-5f4c-9d78-12b555652ea8,Chelsea,Newcastle Utd,Chelsea_Newcastle Utd,Chelsea_Newcastle Utd_2004
+2004,38,Newcastle Utd,0.0,0.0,Chelsea,1.0,1.0,0,Howard Webb,draw,draw,fa31590a-5532-5c3c-ae13-27fb91f082f5,685aa728-3f47-588a-91e7-100c9cd9b719,340b43ca-4e95-5f4c-9d78-12b555652ea8,Newcastle Utd,Chelsea,Chelsea_Newcastle Utd,Chelsea_Newcastle Utd_2004

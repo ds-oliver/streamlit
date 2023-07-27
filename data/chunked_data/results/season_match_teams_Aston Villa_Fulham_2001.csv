@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2001,9,Aston Villa,0.0,0.0,Fulham,2.0,0.0,0,Paul Durkin,Aston Villa,Fulham,f603c939-b68c-50b3-b0d8-66aef66bedd0,dba89333-f367-56b0-9fa1-7fec86aa5f5c,32137ccf-e11c-5311-97e2-0efc4ab4d524,Aston Villa,Fulham,Aston Villa_Fulham,Aston Villa_Fulham_2001
+2001,25,Fulham,0.0,0.0,Aston Villa,0.0,0.0,0,Matt Messias,draw,draw,36299d97-c99d-5129-9d4b-4e57451865c9,dba89333-f367-56b0-9fa1-7fec86aa5f5c,32137ccf-e11c-5311-97e2-0efc4ab4d524,Fulham,Aston Villa,Aston Villa_Fulham,Aston Villa_Fulham_2001

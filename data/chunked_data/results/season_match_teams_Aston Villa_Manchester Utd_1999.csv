@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+1999,13,Manchester Utd,0.0,0.0,Aston Villa,3.0,0.0,0,Alan Wilkie,Manchester Utd,Aston Villa,450c1718-9983-5635-91ec-a9e375b97770,e5d8eaa7-2d78-5190-8f08-ce581c0f7b79,72ccbfd0-d7e4-53e2-bb0e-bc660cff0cf8,Manchester Utd,Aston Villa,Aston Villa_Manchester Utd,Aston Villa_Manchester Utd_1999
+1999,38,Aston Villa,0.0,0.0,Manchester Utd,0.0,1.0,0,Paul Durkin,Manchester Utd,Aston Villa,0f621eb5-bc0a-509c-b920-25f11a7d04ad,e5d8eaa7-2d78-5190-8f08-ce581c0f7b79,72ccbfd0-d7e4-53e2-bb0e-bc660cff0cf8,Aston Villa,Manchester Utd,Aston Villa_Manchester Utd,Aston Villa_Manchester Utd_1999

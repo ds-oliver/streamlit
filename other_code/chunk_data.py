@@ -31,6 +31,11 @@ def clean_results(results_df):
     results_df['matchup_merge_key'] = [uuid.uuid5(uuid.NAMESPACE_DNS, ''.join(sorted(map(str, row)))) for row in zip(results_df['home_team'], results_df['away_team'])]
     results_df['season_merge_key'] = [uuid.uuid5(uuid.NAMESPACE_DNS, ''.join(sorted(map(str, row)))) for row in zip(results_df['home_team'], results_df['away_team'], results_df['season'])]
 
+    # convert uuids to strings
+    results_df['match_id'] = results_df['match_id'].astype(str)
+    results_df['matchup_merge_key'] = results_df['matchup_merge_key'].astype(str)
+    results_df['season_merge_key'] = results_df['season_merge_key'].astype(str)
+
     results_df['team'] = results_df['home_team']
     results_df['opponent'] = results_df['away_team']
     results_df['match_teams'] = ['_'.join(sorted(map(str, row))) for row in zip(results_df['team'], results_df['opponent'])]
@@ -72,6 +77,10 @@ def clean_players(players_df):
     # Create matchup_merge_key and season_merge_key columns
     players_df['matchup_merge_key'] = players_df.apply(lambda row: uuid.uuid5(uuid.NAMESPACE_DNS, ''.join(sorted([row['home_team'], row['away_team']]))) , axis=1)
     players_df['season_merge_key'] = players_df.apply(lambda row: uuid.uuid5(uuid.NAMESPACE_DNS, ''.join(sorted([row['home_team'], row['away_team'], str(row['season'])]))) , axis=1)
+
+    # convert uuids to strings
+    players_df['matchup_merge_key'] = players_df['matchup_merge_key'].astype(str)
+    players_df['season_merge_key'] = players_df['season_merge_key'].astype(str)
 
     return players_df
 

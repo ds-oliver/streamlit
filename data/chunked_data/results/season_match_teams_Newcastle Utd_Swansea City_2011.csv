@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2011,16,Newcastle Utd,0.0,0.0,Swansea City,0.0,0.0,0,Lee Mason,draw,draw,ae068206-bafe-5572-997b-ab7597309694,e5807d1f-5d71-5e7a-ae2f-bdbfa6a1f59f,0ec6d82e-b213-5ce0-866d-39d730083b7b,Newcastle Utd,Swansea City,Newcastle Utd_Swansea City,Newcastle Utd_Swansea City_2011
+2011,32,Swansea City,0.0,0.0,Newcastle Utd,0.0,2.0,0,Howard Webb,Newcastle Utd,Swansea City,43ac6943-7977-53e7-814c-e7aa2e863151,e5807d1f-5d71-5e7a-ae2f-bdbfa6a1f59f,0ec6d82e-b213-5ce0-866d-39d730083b7b,Swansea City,Newcastle Utd,Newcastle Utd_Swansea City,Newcastle Utd_Swansea City_2011

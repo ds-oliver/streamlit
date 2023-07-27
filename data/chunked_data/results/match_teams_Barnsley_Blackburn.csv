@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+1997,13,Barnsley,0.0,0.0,Blackburn,1.0,1.0,0,Graham Poll,draw,draw,0cd96511-a522-57da-a7f8-a6b1bf721e84,fa0e797c-c759-5307-b4c9-5a8719aecd95,ad12a679-846c-5212-b4a6-6631877e6180,Barnsley,Blackburn,Barnsley_Blackburn,Barnsley_Blackburn_1997
+1997,29,Blackburn,0.0,0.0,Barnsley,2.0,1.0,0,Mike Reed,Blackburn,Barnsley,b870b317-0cc9-5208-be7d-0c7256066b0d,fa0e797c-c759-5307-b4c9-5a8719aecd95,ad12a679-846c-5212-b4a6-6631877e6180,Blackburn,Barnsley,Barnsley_Blackburn,Barnsley_Blackburn_1997

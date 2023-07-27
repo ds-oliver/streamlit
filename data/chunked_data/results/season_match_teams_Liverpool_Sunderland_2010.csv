@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2010,6,Liverpool,0.0,0.0,Sunderland,2.0,2.0,0,Stuart Attwell,draw,draw,a34704fe-c94e-505a-901c-332b40a1a68d,90f5b709-a994-5935-bff8-0d89ad0fe7c0,07681b47-579d-5703-bd56-614ab57d8a36,Liverpool,Sunderland,Liverpool_Sunderland,Liverpool_Sunderland_2010
+2010,30,Sunderland,0.0,0.0,Liverpool,0.0,2.0,0,Kevin Friend,Liverpool,Sunderland,b5a1f392-9954-54f2-98ba-6c15c6fd6e1a,90f5b709-a994-5935-bff8-0d89ad0fe7c0,07681b47-579d-5703-bd56-614ab57d8a36,Sunderland,Liverpool,Liverpool_Sunderland,Liverpool_Sunderland_2010

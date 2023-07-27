@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2020,6,Burnley,1.0,0.6,Tottenham,0.0,1.0,2020-10-26,0,Tottenham,Burnley,7b11c24d-20c0-5904-9b32-2a1fa877a089,c909fc0b-8a10-5abb-a17d-3bd12dc0e1b1,a162575d-89cb-5064-95f8-4e41381d0ffc,Burnley,Tottenham,Burnley_Tottenham,Burnley_Tottenham_2020
+2020,26,Tottenham,2.1,0.7,Burnley,4.0,0.0,2021-02-28,0,Tottenham,Burnley,db02e041-95cd-5955-a095-e6703c1eef1c,c909fc0b-8a10-5abb-a17d-3bd12dc0e1b1,a162575d-89cb-5064-95f8-4e41381d0ffc,Tottenham,Burnley,Burnley_Tottenham,Burnley_Tottenham_2020

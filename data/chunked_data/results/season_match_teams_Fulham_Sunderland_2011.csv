@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2011,12,Sunderland,0.0,0.0,Fulham,0.0,0.0,0,Anthony Taylor,draw,draw,9fe4212b-3090-53b1-a0ea-f83288493f25,598fcf57-ca10-57c0-87d9-a18274383ad0,e791186b-0e8e-5de5-a200-c874fa0b0cde,Sunderland,Fulham,Fulham_Sunderland,Fulham_Sunderland_2011
+2011,37,Fulham,0.0,0.0,Sunderland,2.0,1.0,0,Martin Atkinson,Fulham,Sunderland,58df18f2-7bd2-5af7-aa95-240731762f3a,598fcf57-ca10-57c0-87d9-a18274383ad0,e791186b-0e8e-5de5-a200-c874fa0b0cde,Fulham,Sunderland,Fulham_Sunderland,Fulham_Sunderland_2011

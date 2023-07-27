@@ -1,0 +1,7 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2006,14,Fulham,0.0,0.0,Reading,0.0,1.0,0,Dermot Gallagher,Reading,Fulham,2a23ca40-da73-557f-94a0-a3a2a52a2a17,ce3ff707-31f2-5389-979b-f4c03e78ac7f,b70408bd-b2e8-5db9-b448-e8b5f5940be6,Fulham,Reading,Fulham_Reading,Fulham_Reading_2006
+2006,34,Reading,0.0,0.0,Fulham,1.0,0.0,0,Lee Mason,Reading,Fulham,ab8d7298-63f6-544a-99cd-b6b50e115532,ce3ff707-31f2-5389-979b-f4c03e78ac7f,b70408bd-b2e8-5db9-b448-e8b5f5940be6,Reading,Fulham,Fulham_Reading,Fulham_Reading_2006
+2007,12,Fulham,0.0,0.0,Reading,3.0,1.0,0,Mark Clattenburg,Fulham,Reading,b87703e5-57d4-59af-af25-1d90cf6cc79d,ce3ff707-31f2-5389-979b-f4c03e78ac7f,d7185f80-6362-5cf4-9b86-84fddfd17f6a,Fulham,Reading,Fulham_Reading,Fulham_Reading_2007
+2007,34,Reading,0.0,0.0,Fulham,0.0,2.0,0,Chris Foy,Fulham,Reading,e0e6b901-84e2-55ae-96fc-21da64031bd4,ce3ff707-31f2-5389-979b-f4c03e78ac7f,d7185f80-6362-5cf4-9b86-84fddfd17f6a,Reading,Fulham,Fulham_Reading,Fulham_Reading_2007
+2012,9,Reading,0.0,0.0,Fulham,3.0,3.0,0,Mike Jones,draw,draw,6c1eebb0-7426-5dc3-9714-34febc91f421,ce3ff707-31f2-5389-979b-f4c03e78ac7f,82947fc9-2c50-55e2-ba8b-36dabdbdd255,Reading,Fulham,Fulham_Reading,Fulham_Reading_2012
+2012,36,Fulham,0.0,0.0,Reading,2.0,4.0,0,Neil Swarbrick,Reading,Fulham,91a4f240-6aa4-5d20-90fd-e2989702d1ff,ce3ff707-31f2-5389-979b-f4c03e78ac7f,82947fc9-2c50-55e2-ba8b-36dabdbdd255,Fulham,Reading,Fulham_Reading,Fulham_Reading_2012

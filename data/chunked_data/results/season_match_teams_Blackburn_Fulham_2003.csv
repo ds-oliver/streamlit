@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2003,7,Blackburn,0.0,0.0,Fulham,0.0,2.0,0,Matt Messias,Fulham,Blackburn,604549b0-90f7-56fd-9781-9eafbd90fbda,ed0e97e1-f470-5ae8-b6ac-19e2d327b602,0caf89c7-eb5a-5e1f-96c7-8afad7322a77,Blackburn,Fulham,Blackburn_Fulham,Blackburn_Fulham_2003
+2003,33,Fulham,0.0,0.0,Blackburn,3.0,4.0,0,Mike Dean,Blackburn,Fulham,beef7646-6ae6-5136-afff-1448f5c265bd,ed0e97e1-f470-5ae8-b6ac-19e2d327b602,0caf89c7-eb5a-5e1f-96c7-8afad7322a77,Fulham,Blackburn,Blackburn_Fulham,Blackburn_Fulham_2003

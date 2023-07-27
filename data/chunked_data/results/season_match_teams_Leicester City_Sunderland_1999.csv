@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+1999,7,Sunderland,0.0,0.0,Leicester City,2.0,0.0,0,Andy D'Urso,Sunderland,Leicester City,cb3a0c9c-e577-5498-9ecb-2cac18b272c6,a0eb8b55-c77f-570c-b59c-60c086eee370,ff9c4678-937d-5a7a-8078-891e9419c927,Sunderland,Leicester City,Leicester City_Sunderland,Leicester City_Sunderland_1999
+1999,27,Leicester City,0.0,0.0,Sunderland,5.0,2.0,0,Neale Barry,Leicester City,Sunderland,5b86246f-1c9a-518f-a1a6-b7854136c32c,a0eb8b55-c77f-570c-b59c-60c086eee370,ff9c4678-937d-5a7a-8078-891e9419c927,Leicester City,Sunderland,Leicester City_Sunderland,Leicester City_Sunderland_1999

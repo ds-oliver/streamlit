@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2019,16,Aston Villa,1.2,4.6,Leicester City,1.0,4.0,2019-12-08,0,Leicester City,Aston Villa,6ce543c4-6df2-5f58-8869-11036f4dd243,4e9bebbd-961f-56cd-867b-b047e7e9a97f,cc4b4ecb-6b35-59b5-b56d-ade89502d73f,Aston Villa,Leicester City,Aston Villa_Leicester City,Aston Villa_Leicester City_2019
+2019,29,Leicester City,2.1,0.5,Aston Villa,4.0,0.0,2020-03-09,0,Leicester City,Aston Villa,4d3621eb-27d6-5fee-bbec-0987a9ff387b,4e9bebbd-961f-56cd-867b-b047e7e9a97f,cc4b4ecb-6b35-59b5-b56d-ade89502d73f,Leicester City,Aston Villa,Aston Villa_Leicester City,Aston Villa_Leicester City_2019

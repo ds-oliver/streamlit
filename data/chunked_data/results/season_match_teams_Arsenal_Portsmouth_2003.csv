@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2003,5,Arsenal,0.0,0.0,Portsmouth,1.0,1.0,0,Alan Wiley,draw,draw,7cffae0c-c722-5608-9c84-6bc11d9a87aa,114515a2-6291-56f2-b27d-0b87fef26338,b856c866-eab7-5740-b1b6-e016b73d391d,Arsenal,Portsmouth,Arsenal_Portsmouth,Arsenal_Portsmouth_2003
+2003,31,Portsmouth,0.0,0.0,Arsenal,1.0,1.0,0,Mike Riley,draw,draw,d90701e3-7ddd-5581-93a2-6dcbe14322bc,114515a2-6291-56f2-b27d-0b87fef26338,b856c866-eab7-5740-b1b6-e016b73d391d,Portsmouth,Arsenal,Arsenal_Portsmouth,Arsenal_Portsmouth_2003

@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2004,6,Blackburn,0.0,0.0,Portsmouth,1.0,0.0,0,Mark Clattenburg,Blackburn,Portsmouth,976f0e5d-dee6-5955-83aa-c15efda0a9bc,e3c96458-80bf-514e-b92c-afd6be346ca0,fa951b43-6706-5fcd-984a-e5451ad2687b,Blackburn,Portsmouth,Blackburn_Portsmouth,Blackburn_Portsmouth_2004
+2004,23,Portsmouth,0.0,0.0,Blackburn,0.0,1.0,0,Andy D'Urso,Blackburn,Portsmouth,eecbcfbf-85f9-56a8-aa10-ba87322a5237,e3c96458-80bf-514e-b92c-afd6be346ca0,fa951b43-6706-5fcd-984a-e5451ad2687b,Portsmouth,Blackburn,Blackburn_Portsmouth,Blackburn_Portsmouth_2004

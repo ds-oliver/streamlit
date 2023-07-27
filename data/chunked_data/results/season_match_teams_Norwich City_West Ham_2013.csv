@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2013,11,Norwich City,0.0,0.0,West Ham,3.0,1.0,0,Jon Moss,Norwich City,West Ham,32c52d1a-c4af-5ff1-9ba3-621a675136c6,04ce92e5-7b57-59c0-af31-f451726403ec,3cf2af1f-e99a-5ece-bb3d-3d31818d2ec5,Norwich City,West Ham,Norwich City_West Ham,Norwich City_West Ham_2013
+2013,26,West Ham,0.0,0.0,Norwich City,2.0,0.0,0,Michael Oliver,West Ham,Norwich City,a95c5510-271c-5722-9bf8-f25e966e4796,04ce92e5-7b57-59c0-af31-f451726403ec,3cf2af1f-e99a-5ece-bb3d-3d31818d2ec5,West Ham,Norwich City,Norwich City_West Ham,Norwich City_West Ham_2013

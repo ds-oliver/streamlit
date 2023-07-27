@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+1995,12,Everton,0.0,0.0,Blackburn,1.0,0.0,0,Alan Wilkie,Everton,Blackburn,7c0f1eee-ba6f-50d7-9edd-b78ee385de83,14b9fb84-4774-5ad6-80aa-db43e8461e00,86efc5f3-41dd-53cd-a429-679095e27091,Everton,Blackburn,Blackburn_Everton,Blackburn_Everton_1995
+1995,33,Blackburn,0.0,0.0,Everton,0.0,3.0,0,Jeff Winter,Everton,Blackburn,97713756-35e0-53c9-b38c-754df795e527,14b9fb84-4774-5ad6-80aa-db43e8461e00,86efc5f3-41dd-53cd-a429-679095e27091,Blackburn,Everton,Blackburn_Everton,Blackburn_Everton_1995

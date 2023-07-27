@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2007,1,Derby County,0.0,0.0,Portsmouth,2.0,2.0,0,Mike Dean,draw,draw,ef3d91b8-fe3a-565f-a09a-00bb98ed62c1,e5a30fce-5835-59d5-8b72-d0534816e488,39ae0d10-f1fe-58b0-a0ec-dc3014da7504,Derby County,Portsmouth,Derby County_Portsmouth,Derby County_Portsmouth_2007
+2007,23,Portsmouth,0.0,0.0,Derby County,3.0,1.0,0,Mike Dean,Portsmouth,Derby County,4aba71c2-fd99-52e1-8e41-839361e56105,e5a30fce-5835-59d5-8b72-d0534816e488,39ae0d10-f1fe-58b0-a0ec-dc3014da7504,Portsmouth,Derby County,Derby County_Portsmouth,Derby County_Portsmouth_2007

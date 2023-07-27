@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2012,9,Chelsea,0.0,0.0,Manchester Utd,2.0,3.0,0,Mark Clattenburg,Manchester Utd,Chelsea,dff435ca-59d2-5706-8d49-d5ec3a5d1580,15dd1127-1120-5288-8523-8d3181c2ddd1,fa94cef9-56ad-5d10-8e1a-53941381c05a,Chelsea,Manchester Utd,Chelsea_Manchester Utd,Chelsea_Manchester Utd_2012
+2012,36,Manchester Utd,0.0,0.0,Chelsea,0.0,1.0,0,Howard Webb,Chelsea,Manchester Utd,3fdc9273-3fd9-5c8f-8ba1-f6a39c82ed81,15dd1127-1120-5288-8523-8d3181c2ddd1,fa94cef9-56ad-5d10-8e1a-53941381c05a,Manchester Utd,Chelsea,Chelsea_Manchester Utd,Chelsea_Manchester Utd_2012

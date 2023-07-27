@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+1996,4,Derby County,0.0,0.0,Manchester Utd,1.0,1.0,0,Mike Reed,draw,draw,f23808b5-8cf8-5805-afe5-fec1dbc7ddce,065fc3b9-fc56-55b4-978b-fcb2e177e82e,9886e6ce-996f-5576-8df8-39606edc8b5d,Derby County,Manchester Utd,Derby County_Manchester Utd,Derby County_Manchester Utd_1996
+1996,33,Manchester Utd,0.0,0.0,Derby County,2.0,3.0,0,David Elleray,Derby County,Manchester Utd,80fa1356-4f9d-567e-8be5-63c16deebaa8,065fc3b9-fc56-55b4-978b-fcb2e177e82e,9886e6ce-996f-5576-8df8-39606edc8b5d,Manchester Utd,Derby County,Derby County_Manchester Utd,Derby County_Manchester Utd_1996

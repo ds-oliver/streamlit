@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2009,16,Bolton,0.0,0.0,Manchester City,3.0,3.0,0,Mark Clattenburg,draw,draw,39face62-0193-5a9c-a2cc-643875491347,a2c8a8b2-65ab-573f-804d-fb31c8333403,c3c70880-85a2-5b38-9064-f9715e1e9560,Bolton,Manchester City,Bolton_Manchester City,Bolton_Manchester City_2009
+2009,26,Manchester City,0.0,0.0,Bolton,2.0,0.0,0,Mike Jones,Manchester City,Bolton,31ba02a3-b373-50c7-b496-ce6530ad195a,a2c8a8b2-65ab-573f-804d-fb31c8333403,c3c70880-85a2-5b38-9064-f9715e1e9560,Manchester City,Bolton,Bolton_Manchester City,Bolton_Manchester City_2009

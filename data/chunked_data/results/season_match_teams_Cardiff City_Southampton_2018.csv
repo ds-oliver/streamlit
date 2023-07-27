@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2018,16,Cardiff City,1.5,0.7,Southampton,1.0,0.0,2018-12-08,0,Cardiff City,Southampton,79ae201e-b652-5d0f-8724-1a4fdba2b4f0,cdd839cc-1946-5c20-957d-ccb0e1a3bba8,dfd46a44-adc2-54ea-9d8b-8817218dfc33,Cardiff City,Southampton,Cardiff City_Southampton,Cardiff City_Southampton_2018
+2018,26,Southampton,1.5,0.8,Cardiff City,1.0,2.0,2019-02-09,0,Cardiff City,Southampton,fae1558c-479c-5532-a65d-228f30c60f1a,cdd839cc-1946-5c20-957d-ccb0e1a3bba8,dfd46a44-adc2-54ea-9d8b-8817218dfc33,Southampton,Cardiff City,Cardiff City_Southampton,Cardiff City_Southampton_2018

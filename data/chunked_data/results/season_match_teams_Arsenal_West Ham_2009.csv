@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2009,10,West Ham,0.0,0.0,Arsenal,2.0,2.0,0,Chris Foy,draw,draw,b49a6d38-51e5-5a4e-87c5-d68d244b15e8,08319e3d-6089-5906-9663-6c08b4cd6c3a,6e7a312d-5dfd-534b-8973-001f3b4c6612,West Ham,Arsenal,Arsenal_West Ham,Arsenal_West Ham_2009
+2009,31,Arsenal,0.0,0.0,West Ham,2.0,0.0,0,Martin Atkinson,Arsenal,West Ham,220caa2e-2d27-58d6-8bcb-98f80f2442f3,08319e3d-6089-5906-9663-6c08b4cd6c3a,6e7a312d-5dfd-534b-8973-001f3b4c6612,Arsenal,West Ham,Arsenal_West Ham,Arsenal_West Ham_2009

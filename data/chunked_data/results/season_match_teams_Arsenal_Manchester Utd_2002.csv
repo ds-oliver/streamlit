@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2002,17,Manchester Utd,0.0,0.0,Arsenal,2.0,0.0,0,Dermot Gallagher,Manchester Utd,Arsenal,4d01e843-d214-5870-8066-5e98c70b720e,145708a5-26f6-516b-aee0-962ba59bdbbd,bd8cfd33-2e9c-5092-a71b-4dc4730df034,Manchester Utd,Arsenal,Arsenal_Manchester Utd,Arsenal_Manchester Utd_2002
+2002,35,Arsenal,0.0,0.0,Manchester Utd,2.0,2.0,0,Mark Halsey,draw,draw,1bbb0929-60ff-51d1-bc24-961e8a2b3314,145708a5-26f6-516b-aee0-962ba59bdbbd,bd8cfd33-2e9c-5092-a71b-4dc4730df034,Arsenal,Manchester Utd,Arsenal_Manchester Utd,Arsenal_Manchester Utd_2002

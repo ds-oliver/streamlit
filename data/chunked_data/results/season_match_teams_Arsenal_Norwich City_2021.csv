@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2021,4,Arsenal,2.7,0.7,Norwich City,1.0,0.0,2021-09-11,0,Arsenal,Norwich City,d6b37ec3-9299-54ef-8b45-82e177f4e6f0,562303c1-8c95-52fe-87f2-9e11c107b55a,23df9fc5-895c-5575-af26-a0c0c3b94c14,Arsenal,Norwich City,Arsenal_Norwich City,Arsenal_Norwich City_2021
+2021,19,Norwich City,0.1,2.5,Arsenal,0.0,5.0,2021-12-26,0,Arsenal,Norwich City,888dfaf8-4b56-5fee-ab2e-b0f0d2cc2d23,562303c1-8c95-52fe-87f2-9e11c107b55a,23df9fc5-895c-5575-af26-a0c0c3b94c14,Norwich City,Arsenal,Arsenal_Norwich City,Arsenal_Norwich City_2021

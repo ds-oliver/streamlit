@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2012,4,Aston Villa,0.0,0.0,Swansea City,2.0,0.0,0,Lee Mason,Aston Villa,Swansea City,5b5464e8-988e-55e1-8624-a0de39d6a326,7f5b0652-88ef-533a-8197-8c15062c9dc5,1d4a3fcf-f94c-503b-84bd-11946b8aecf4,Aston Villa,Swansea City,Aston Villa_Swansea City,Aston Villa_Swansea City_2012
+2012,21,Swansea City,0.0,0.0,Aston Villa,2.0,2.0,0,Mark Halsey,draw,draw,e7bbce2d-f0f5-5141-aa58-0369e52bb3e5,7f5b0652-88ef-533a-8197-8c15062c9dc5,1d4a3fcf-f94c-503b-84bd-11946b8aecf4,Swansea City,Aston Villa,Aston Villa_Swansea City,Aston Villa_Swansea City_2012

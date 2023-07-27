@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2018,3,Arsenal,1.8,1.1,West Ham,3.0,1.0,2018-08-25,0,Arsenal,West Ham,5cc0b9f5-fe78-55d7-b252-8fc083ac1d9c,08319e3d-6089-5906-9663-6c08b4cd6c3a,985d7578-be58-543e-8ee7-9e428713ebd7,Arsenal,West Ham,Arsenal_West Ham,Arsenal_West Ham_2018
+2018,22,West Ham,0.6,0.7,Arsenal,1.0,0.0,2019-01-12,0,West Ham,Arsenal,15ea8d39-be67-53a2-a250-c91c1260c88c,08319e3d-6089-5906-9663-6c08b4cd6c3a,985d7578-be58-543e-8ee7-9e428713ebd7,West Ham,Arsenal,Arsenal_West Ham,Arsenal_West Ham_2018

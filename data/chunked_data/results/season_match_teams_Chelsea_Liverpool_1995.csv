@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+1995,21,Chelsea,0.0,0.0,Liverpool,2.0,2.0,0,Keith Burge,draw,draw,0fdab0e1-4ede-54de-b921-6acf8f7c3430,69ac041e-3516-5d16-bb75-b88c501bc86c,6d66a2ab-10d3-56fb-998d-4f23d9be7ced,Chelsea,Liverpool,Chelsea_Liverpool,Chelsea_Liverpool_1995
+1995,31,Liverpool,0.0,0.0,Chelsea,2.0,0.0,0,Steve Dunn,Liverpool,Chelsea,9a81159c-93d2-50d6-9932-f1a7655ed00b,69ac041e-3516-5d16-bb75-b88c501bc86c,6d66a2ab-10d3-56fb-998d-4f23d9be7ced,Liverpool,Chelsea,Chelsea_Liverpool,Chelsea_Liverpool_1995

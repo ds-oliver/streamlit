@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2006,18,West Ham,0.0,0.0,Manchester Utd,1.0,0.0,0,Phil Dowd,West Ham,Manchester Utd,07a844f2-de2b-577b-a7db-ca30977911f2,7ab9ba9f-6fed-51be-8b8f-b8c54699bf3f,78579a94-8964-5b24-b2ad-07426e473ed6,West Ham,Manchester Utd,Manchester Utd_West Ham,Manchester Utd_West Ham_2006
+2006,38,Manchester Utd,0.0,0.0,West Ham,0.0,1.0,0,Martin Atkinson,West Ham,Manchester Utd,1e80427d-0daf-5a19-b904-aa008767d01c,7ab9ba9f-6fed-51be-8b8f-b8c54699bf3f,78579a94-8964-5b24-b2ad-07426e473ed6,Manchester Utd,West Ham,Manchester Utd_West Ham,Manchester Utd_West Ham_2006

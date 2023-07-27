@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2005,9,Liverpool,0.0,0.0,Blackburn,1.0,0.0,0,Mark Halsey,Liverpool,Blackburn,f94ec15f-2211-5a83-87ad-ec2c7ce2d40b,ce09f1f4-0a20-5a07-92a9-76fa0c6fa7f2,615f2dc3-57c5-52b3-8899-605e89a9d546,Liverpool,Blackburn,Blackburn_Liverpool,Blackburn_Liverpool_2005
+2005,34,Blackburn,0.0,0.0,Liverpool,0.0,1.0,0,Alan Wiley,Liverpool,Blackburn,c00cca1d-3a68-5c19-baeb-37533c99b8f6,ce09f1f4-0a20-5a07-92a9-76fa0c6fa7f2,615f2dc3-57c5-52b3-8899-605e89a9d546,Blackburn,Liverpool,Blackburn_Liverpool,Blackburn_Liverpool_2005

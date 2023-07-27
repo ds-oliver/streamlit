@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+1993,15,Chelsea,0.0,0.0,Arsenal,0.0,2.0,0,Philip Don,Arsenal,Chelsea,0ca77a72-7a68-5950-8495-34235de0cfa1,2c8116f3-1ca3-585b-8495-a8fcd582a466,0d7e4746-d77e-5373-8613-92ceb94a0d2e,Chelsea,Arsenal,Arsenal_Chelsea,Arsenal_Chelsea_1993
+1993,39,Arsenal,0.0,0.0,Chelsea,1.0,0.0,0,Alan Wilkie,Arsenal,Chelsea,37c89e2a-af78-5aba-9633-4feb322218e0,2c8116f3-1ca3-585b-8495-a8fcd582a466,0d7e4746-d77e-5373-8613-92ceb94a0d2e,Arsenal,Chelsea,Arsenal_Chelsea,Arsenal_Chelsea_1993

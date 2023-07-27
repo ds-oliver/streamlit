@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+1992,14,Crystal Palace,0.0,0.0,Arsenal,1.0,2.0,0,Vic Callow,Arsenal,Crystal Palace,a6b507ae-b43d-502f-9504-cfbb74b1e3a6,0b982c5a-391b-5c5a-a87b-b269e795d42c,ed6f111f-fd5a-5119-b59a-e221213fe009,Crystal Palace,Arsenal,Arsenal_Crystal Palace,Arsenal_Crystal Palace_1992
+1992,42,Arsenal,0.0,0.0,Crystal Palace,3.0,0.0,0,Keith Burge,Arsenal,Crystal Palace,305ce8be-0821-52d8-bd34-599d9cc2b029,0b982c5a-391b-5c5a-a87b-b269e795d42c,ed6f111f-fd5a-5119-b59a-e221213fe009,Arsenal,Crystal Palace,Arsenal_Crystal Palace,Arsenal_Crystal Palace_1992

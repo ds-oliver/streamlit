@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2009,8,Manchester Utd,0.0,0.0,Sunderland,2.0,2.0,0,Alan Wiley,draw,draw,ce94e3ba-72d5-50b3-a789-f7ca5cc2d493,76f06bd6-af47-59b0-828f-f45feec4cf32,fd6e6a55-81bf-552c-8e87-72491b692f24,Manchester Utd,Sunderland,Manchester Utd_Sunderland,Manchester Utd_Sunderland_2009
+2009,37,Sunderland,0.0,0.0,Manchester Utd,0.0,1.0,0,Stephen Bennett,Manchester Utd,Sunderland,fe66b8ec-1bca-5a76-ac92-5725f08dfb12,76f06bd6-af47-59b0-828f-f45feec4cf32,fd6e6a55-81bf-552c-8e87-72491b692f24,Sunderland,Manchester Utd,Manchester Utd_Sunderland,Manchester Utd_Sunderland_2009

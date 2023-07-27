@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2005,19,Manchester City,0.0,0.0,Chelsea,0.0,1.0,0,Uriah Rennie,Chelsea,Manchester City,bcb34d58-c7b6-56a3-a38e-06ac312c7336,85feaa5f-216f-5a82-8d71-5ae1b9de9f33,4dfddf7f-cbd7-5ce9-bfef-b9171a7223ac,Manchester City,Chelsea,Chelsea_Manchester City,Chelsea_Manchester City_2005
+2005,31,Chelsea,0.0,0.0,Manchester City,2.0,0.0,0,Rob Styles,Chelsea,Manchester City,38d587c9-7bae-5169-a51b-44c30da09699,85feaa5f-216f-5a82-8d71-5ae1b9de9f33,4dfddf7f-cbd7-5ce9-bfef-b9171a7223ac,Chelsea,Manchester City,Chelsea_Manchester City,Chelsea_Manchester City_2005

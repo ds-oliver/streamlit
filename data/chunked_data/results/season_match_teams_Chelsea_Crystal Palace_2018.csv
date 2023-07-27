@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2018,11,Chelsea,1.7,0.4,Crystal Palace,3.0,1.0,2018-11-04,0,Chelsea,Crystal Palace,934059d8-69be-5568-9358-6ec6e3cc3681,fb13bb64-8df9-5b5c-b626-6efb9f3628dc,63aa92d0-76a5-5018-a31f-e70b02376116,Chelsea,Crystal Palace,Chelsea_Crystal Palace,Chelsea_Crystal Palace_2018
+2018,20,Crystal Palace,0.2,0.9,Chelsea,0.0,1.0,2018-12-30,0,Chelsea,Crystal Palace,a5014760-ddc0-5704-9b64-940e432e8b67,fb13bb64-8df9-5b5c-b626-6efb9f3628dc,63aa92d0-76a5-5018-a31f-e70b02376116,Crystal Palace,Chelsea,Chelsea_Crystal Palace,Chelsea_Crystal Palace_2018

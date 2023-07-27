@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2010,8,Bolton,0.0,0.0,Stoke City,2.0,1.0,0,Peter Walton,Bolton,Stoke City,8369d059-e846-57b1-a600-95102ff0046b,9bae93a8-4ea6-5499-bb7b-aa3ca12338d4,abb70c25-8e9a-5b4f-b2b3-c374758d7eb8,Bolton,Stoke City,Bolton_Stoke City,Bolton_Stoke City_2010
+2010,23,Stoke City,0.0,0.0,Bolton,2.0,0.0,0,Michael Oliver,Stoke City,Bolton,180899a9-e92b-522c-a3cf-65415d047315,9bae93a8-4ea6-5499-bb7b-aa3ca12338d4,abb70c25-8e9a-5b4f-b2b3-c374758d7eb8,Stoke City,Bolton,Bolton_Stoke City,Bolton_Stoke City_2010

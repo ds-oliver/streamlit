@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2002,11,Liverpool,0.0,0.0,Tottenham,2.0,1.0,0,Mike Riley,Liverpool,Tottenham,1733a3f9-c02c-58a4-92c4-f90ba9c9e0fb,6b4436bc-1c6f-5b26-94f5-113bce14583d,291b7302-d825-53d2-8880-6d4257956598,Liverpool,Tottenham,Liverpool_Tottenham,Liverpool_Tottenham_2002
+2002,30,Tottenham,0.0,0.0,Liverpool,2.0,3.0,0,Uriah Rennie,Liverpool,Tottenham,2d4f64be-8067-5767-99cd-df5fd0d30ae1,6b4436bc-1c6f-5b26-94f5-113bce14583d,291b7302-d825-53d2-8880-6d4257956598,Tottenham,Liverpool,Liverpool_Tottenham,Liverpool_Tottenham_2002

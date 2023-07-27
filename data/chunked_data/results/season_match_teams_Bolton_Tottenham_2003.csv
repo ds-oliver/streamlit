@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2003,11,Tottenham,0.0,0.0,Bolton,0.0,1.0,0,Uriah Rennie,Bolton,Tottenham,50d8df6d-e56b-56c9-b0dd-ad288a3403f6,b308bd66-1da0-57e1-bb05-1e2d0290ec60,43c3d615-1115-59cf-8a2c-199626716e1f,Tottenham,Bolton,Bolton_Tottenham,Bolton_Tottenham_2003
+2003,34,Bolton,0.0,0.0,Tottenham,2.0,0.0,0,Jeff Winter,Bolton,Tottenham,e71faadc-7b17-5bd7-9979-3f7c45146437,b308bd66-1da0-57e1-bb05-1e2d0290ec60,43c3d615-1115-59cf-8a2c-199626716e1f,Bolton,Tottenham,Bolton_Tottenham,Bolton_Tottenham_2003

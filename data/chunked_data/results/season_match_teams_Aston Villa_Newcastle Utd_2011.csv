@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2011,5,Aston Villa,0.0,0.0,Newcastle Utd,1.0,1.0,0,Neil Swarbrick,draw,draw,0407bba4-3aea-52b5-a60d-e0b54d7044f4,1743232e-32be-50c8-b499-a9eaae9af563,e245af22-b8b0-558c-b518-5d6e8bef8784,Aston Villa,Newcastle Utd,Aston Villa_Newcastle Utd,Aston Villa_Newcastle Utd_2011
+2011,24,Newcastle Utd,0.0,0.0,Aston Villa,2.0,1.0,0,Mark Halsey,Newcastle Utd,Aston Villa,7ec3f5cf-90d6-5846-9053-3bf390fd63e2,1743232e-32be-50c8-b499-a9eaae9af563,e245af22-b8b0-558c-b518-5d6e8bef8784,Newcastle Utd,Aston Villa,Aston Villa_Newcastle Utd,Aston Villa_Newcastle Utd_2011

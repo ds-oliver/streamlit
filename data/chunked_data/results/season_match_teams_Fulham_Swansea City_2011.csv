@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2011,15,Swansea City,0.0,0.0,Fulham,2.0,0.0,0,Jon Moss,Swansea City,Fulham,71d1d5dd-b9d3-53eb-a998-01dcc4aa4c62,df149a63-e07c-56d5-bcb9-5204bef7b48f,25c52478-f9b5-5a1e-9708-da222b166102,Swansea City,Fulham,Fulham_Swansea City,Fulham_Swansea City_2011
+2011,29,Fulham,0.0,0.0,Swansea City,0.0,3.0,0,Mark Halsey,Swansea City,Fulham,9393c587-fc58-551c-a3b3-387d6398beb7,df149a63-e07c-56d5-bcb9-5204bef7b48f,25c52478-f9b5-5a1e-9708-da222b166102,Fulham,Swansea City,Fulham_Swansea City,Fulham_Swansea City_2011

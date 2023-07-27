@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2021,3,Aston Villa,0.7,0.9,Brentford,1.0,1.0,2021-08-28,0,draw,draw,ff9cf679-9d3f-50ad-b5fe-50c45fb96d94,fb37fcef-8299-5551-8a0e-0da9b99add86,4558e9df-9400-565e-a91f-8d720dd47236,Aston Villa,Brentford,Aston Villa_Brentford,Aston Villa_Brentford_2021
+2021,21,Brentford,0.6,0.8,Aston Villa,2.0,1.0,2022-01-02,0,Brentford,Aston Villa,1a5bbee7-8928-5efe-9a89-5fb50663985c,fb37fcef-8299-5551-8a0e-0da9b99add86,4558e9df-9400-565e-a91f-8d720dd47236,Brentford,Aston Villa,Aston Villa_Brentford,Aston Villa_Brentford_2021

@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2000,17,Bradford City,0.0,0.0,Tottenham,3.0,3.0,0,Neale Barry,draw,draw,7d68f124-8f1d-5ea1-8610-266cec1b089c,ee4930f6-7f84-5760-a75f-20edcf44faf5,ee846a0a-44f4-5c54-9cc1-73b3a4012210,Bradford City,Tottenham,Bradford City_Tottenham,Bradford City_Tottenham_2000
+2000,32,Tottenham,0.0,0.0,Bradford City,2.0,1.0,0,Stephen Bennett,Tottenham,Bradford City,7528ebbc-caf5-5fda-a509-95959e9607a5,ee4930f6-7f84-5760-a75f-20edcf44faf5,ee846a0a-44f4-5c54-9cc1-73b3a4012210,Tottenham,Bradford City,Bradford City_Tottenham,Bradford City_Tottenham_2000

@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2002,10,Charlton Ath,0.0,0.0,Middlesbrough,1.0,0.0,0,Neale Barry,Charlton Ath,Middlesbrough,7979cd30-4a53-5cf5-871d-b4e8eb97ed47,aa6972d7-2663-5300-95d2-e54e1cab0709,49523ef0-adf2-50cd-bc64-35b5c06a33de,Charlton Ath,Middlesbrough,Charlton Ath_Middlesbrough,Charlton Ath_Middlesbrough_2002
+2002,31,Middlesbrough,0.0,0.0,Charlton Ath,1.0,1.0,0,Mike Dean,draw,draw,110a2a7b-a2d3-5f15-8028-f4dba564fd8d,aa6972d7-2663-5300-95d2-e54e1cab0709,49523ef0-adf2-50cd-bc64-35b5c06a33de,Middlesbrough,Charlton Ath,Charlton Ath_Middlesbrough,Charlton Ath_Middlesbrough_2002

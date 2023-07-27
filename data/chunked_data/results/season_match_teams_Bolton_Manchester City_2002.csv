@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2002,16,Manchester City,0.0,0.0,Bolton,2.0,0.0,0,Jeff Winter,Manchester City,Bolton,e0d94707-0b09-547f-9bf0-27cb0f48e7a2,a2c8a8b2-65ab-573f-804d-fb31c8333403,3b3b073b-fdc9-5250-aa75-da1be9a196c8,Manchester City,Bolton,Bolton_Manchester City,Bolton_Manchester City_2002
+2002,32,Bolton,0.0,0.0,Manchester City,2.0,0.0,0,Clive Wilkes,Bolton,Manchester City,bce36973-3a60-530a-ae39-5b65769e1363,a2c8a8b2-65ab-573f-804d-fb31c8333403,3b3b073b-fdc9-5250-aa75-da1be9a196c8,Bolton,Manchester City,Bolton_Manchester City,Bolton_Manchester City_2002

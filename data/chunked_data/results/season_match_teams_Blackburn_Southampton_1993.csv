@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+1993,15,Blackburn,0.0,0.0,Southampton,2.0,0.0,0,Keith Cooper,Blackburn,Southampton,aa77fb1c-4287-582f-9e52-a6bfe7fe6c52,ae7ff4d1-423c-5f00-8ca3-67ddbea27a66,9f755cc4-1641-504b-b22b-ebb4b70f6387,Blackburn,Southampton,Blackburn_Southampton,Blackburn_Southampton_1993
+1993,39,Southampton,0.0,0.0,Blackburn,3.0,1.0,0,Joe Worrall,Southampton,Blackburn,9ecc65d4-11dc-5169-886b-31ca7accda3f,ae7ff4d1-423c-5f00-8ca3-67ddbea27a66,9f755cc4-1641-504b-b22b-ebb4b70f6387,Southampton,Blackburn,Blackburn_Southampton,Blackburn_Southampton_1993

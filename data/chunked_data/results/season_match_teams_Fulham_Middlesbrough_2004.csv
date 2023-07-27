@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2004,3,Fulham,0.0,0.0,Middlesbrough,0.0,2.0,0,Dermot Gallagher,Middlesbrough,Fulham,7483b28b-c3c8-52bd-96b0-4d0ce49fc6e7,2dc110b5-fccc-5a85-972e-f1ce80a03d0b,82ca657a-8b9a-5e75-ba00-d185067b4a23,Fulham,Middlesbrough,Fulham_Middlesbrough,Fulham_Middlesbrough_2004
+2004,34,Middlesbrough,0.0,0.0,Fulham,1.0,1.0,0,Peter Walton,draw,draw,b88c8bf5-3ac7-50e4-96b7-10f7da2b53bf,2dc110b5-fccc-5a85-972e-f1ce80a03d0b,82ca657a-8b9a-5e75-ba00-d185067b4a23,Middlesbrough,Fulham,Fulham_Middlesbrough,Fulham_Middlesbrough_2004

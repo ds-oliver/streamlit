@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2015,4,Aston Villa,0.0,0.0,Sunderland,2.0,2.0,0,Robert Madley,draw,draw,2688d89c-855c-5b2c-a575-f7bab6ddda70,b8fc8294-0cd2-5789-924b-60f3007261c7,a73de842-1bd3-5746-b589-6e0a89880673,Aston Villa,Sunderland,Aston Villa_Sunderland,Aston Villa_Sunderland_2015
+2015,20,Sunderland,0.0,0.0,Aston Villa,3.0,1.0,0,Craig Pawson,Sunderland,Aston Villa,f5040001-a0e6-5e81-9fd3-6c4464b58064,b8fc8294-0cd2-5789-924b-60f3007261c7,a73de842-1bd3-5746-b589-6e0a89880673,Sunderland,Aston Villa,Aston Villa_Sunderland,Aston Villa_Sunderland_2015

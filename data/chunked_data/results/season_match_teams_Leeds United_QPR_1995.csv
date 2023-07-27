@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+1995,6,Leeds United,0.0,0.0,QPR,1.0,3.0,0,Stephen Lodge,QPR,Leeds United,0582c156-d2ef-55cd-aaaf-7156335a804d,419b9608-c816-547b-b96d-377a685191d5,7484dcc1-7cd0-5d5e-a35a-f8d02268ec6d,Leeds United,QPR,Leeds United_QPR,Leeds United_QPR_1995
+1995,28,QPR,0.0,0.0,Leeds United,1.0,2.0,0,Graham Poll,Leeds United,QPR,66747285-f1b9-51bb-aefe-c27baabac55b,419b9608-c816-547b-b96d-377a685191d5,7484dcc1-7cd0-5d5e-a35a-f8d02268ec6d,QPR,Leeds United,Leeds United_QPR,Leeds United_QPR_1995

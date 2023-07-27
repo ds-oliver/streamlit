@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+1995,2,Sheffield Weds,0.0,0.0,Blackburn,2.0,1.0,0,Paul Danson,Sheffield Weds,Blackburn,afe4e403-9bbe-5c14-8155-a68efd78e304,5138a2a3-61ee-56f0-b32c-19e7358079fd,0a0115de-948d-55ce-b093-227e9294e63e,Sheffield Weds,Blackburn,Blackburn_Sheffield Weds,Blackburn_Sheffield Weds_1995
+1995,24,Blackburn,0.0,0.0,Sheffield Weds,3.0,0.0,0,Gary Willard,Blackburn,Sheffield Weds,3573a753-4921-5103-b9b8-15622486eef2,5138a2a3-61ee-56f0-b32c-19e7358079fd,0a0115de-948d-55ce-b093-227e9294e63e,Blackburn,Sheffield Weds,Blackburn_Sheffield Weds,Blackburn_Sheffield Weds_1995

@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2007,12,West Ham,0.0,0.0,Bolton,1.0,1.0,0,Peter Walton,draw,draw,1f7cc4d8-ee43-561b-9db8-4763aa28490a,23756d10-dbd3-59a3-b1cc-50e8c04c7332,cf807494-34c6-5255-92e5-95340aab8da7,West Ham,Bolton,Bolton_West Ham,Bolton_West Ham_2007
+2007,34,Bolton,0.0,0.0,West Ham,1.0,0.0,0,Peter Walton,Bolton,West Ham,1a377048-408e-5abf-8760-65e5a8607f2d,23756d10-dbd3-59a3-b1cc-50e8c04c7332,cf807494-34c6-5255-92e5-95340aab8da7,Bolton,West Ham,Bolton_West Ham,Bolton_West Ham_2007

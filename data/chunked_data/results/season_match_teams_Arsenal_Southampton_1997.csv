@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+1997,3,Southampton,0.0,0.0,Arsenal,1.0,3.0,0,David Elleray,Arsenal,Southampton,1785ff58-d645-5404-bb35-8a10c10b6fdd,981b4a5b-67e1-503f-953b-6ccdd279460a,60d00acb-f849-591f-81d9-f340ae29b629,Southampton,Arsenal,Arsenal_Southampton,Arsenal_Southampton_1997
+1997,24,Arsenal,0.0,0.0,Southampton,3.0,0.0,0,Peter Jones,Arsenal,Southampton,aafd1647-a183-5951-b205-fc4aca01fd39,981b4a5b-67e1-503f-953b-6ccdd279460a,60d00acb-f849-591f-81d9-f340ae29b629,Arsenal,Southampton,Arsenal_Southampton,Arsenal_Southampton_1997

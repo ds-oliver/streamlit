@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2007,1,Chelsea,0.0,0.0,Birmingham City,3.0,2.0,0,Stephen Bennett,Chelsea,Birmingham City,41ef876a-b18b-5110-91eb-16157180f88a,5f80892b-befb-5da2-971e-91e044702388,806de776-73a2-5d81-877e-1056e8faea0d,Chelsea,Birmingham City,Birmingham City_Chelsea,Birmingham City_Chelsea_2007
+2007,23,Birmingham City,0.0,0.0,Chelsea,0.0,1.0,0,Rob Styles,Chelsea,Birmingham City,bfac625a-24c0-57ac-955c-e20cf567618d,5f80892b-befb-5da2-971e-91e044702388,806de776-73a2-5d81-877e-1056e8faea0d,Birmingham City,Chelsea,Birmingham City_Chelsea,Birmingham City_Chelsea_2007

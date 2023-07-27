@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2022,19,Leeds United,1.6,1.4,West Ham,2.0,2.0,2023-01-04,0,draw,draw,010ffe1b-e787-5491-b223-6fc2437765e6,33fd6485-6773-5b61-b272-5e4ec240036e,bb76a934-8214-5758-aac4-867323d1b455,Leeds United,West Ham,Leeds United_West Ham,Leeds United_West Ham_2022
+2022,37,West Ham,2.1,0.9,Leeds United,3.0,1.0,2023-05-21,0,West Ham,Leeds United,5e2d5d9e-e4ee-5738-b6be-b9b0de5bbfe8,33fd6485-6773-5b61-b272-5e4ec240036e,bb76a934-8214-5758-aac4-867323d1b455,West Ham,Leeds United,Leeds United_West Ham,Leeds United_West Ham_2022

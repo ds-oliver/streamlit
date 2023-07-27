@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2003,12,Charlton Ath,0.0,0.0,Fulham,3.0,1.0,0,Andy D'Urso,Charlton Ath,Fulham,3e8ba630-28d1-5184-8f7b-e2abe2ce5f6e,27a85f69-42e3-50b5-a825-1e780de55737,ab578c76-de55-55cb-92da-c90e4c3b1c3c,Charlton Ath,Fulham,Charlton Ath_Fulham,Charlton Ath_Fulham_2003
+2003,35,Fulham,0.0,0.0,Charlton Ath,2.0,0.0,0,Matt Messias,Fulham,Charlton Ath,36b74a26-3981-57eb-9ef9-4353e773af62,27a85f69-42e3-50b5-a825-1e780de55737,ab578c76-de55-55cb-92da-c90e4c3b1c3c,Fulham,Charlton Ath,Charlton Ath_Fulham,Charlton Ath_Fulham_2003

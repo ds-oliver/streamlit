@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2005,8,Blackburn,0.0,0.0,West Brom,2.0,0.0,0,Uriah Rennie,Blackburn,West Brom,4b82630d-1083-5146-8275-46e2a77d5e92,787a7b7f-3d20-5df0-aea0-e856c98cb42f,7cb4b2ff-6e88-5330-9032-fd1ffe051713,Blackburn,West Brom,Blackburn_West Brom,Blackburn_West Brom_2005
+2005,25,West Brom,0.0,0.0,Blackburn,2.0,0.0,0,Chris Foy,West Brom,Blackburn,676d0c7e-822e-5b4c-87a5-11b38054824f,787a7b7f-3d20-5df0-aea0-e856c98cb42f,7cb4b2ff-6e88-5330-9032-fd1ffe051713,West Brom,Blackburn,Blackburn_West Brom,Blackburn_West Brom_2005

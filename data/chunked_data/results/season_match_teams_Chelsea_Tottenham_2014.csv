@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2014,14,Chelsea,0.0,0.0,Tottenham,3.0,0.0,0,Mike Dean,Chelsea,Tottenham,68f0a2f8-197c-5aeb-a780-80216cbaeb13,611a4d26-18ae-59ff-9821-b9c0919763e0,49d9afb4-8216-5045-928e-934a13395c2e,Chelsea,Tottenham,Chelsea_Tottenham,Chelsea_Tottenham_2014
+2014,20,Tottenham,0.0,0.0,Chelsea,5.0,3.0,0,Philip Dowd,Tottenham,Chelsea,264d067e-5e17-50ef-8e2f-49968b2903e2,611a4d26-18ae-59ff-9821-b9c0919763e0,49d9afb4-8216-5045-928e-934a13395c2e,Tottenham,Chelsea,Chelsea_Tottenham,Chelsea_Tottenham_2014

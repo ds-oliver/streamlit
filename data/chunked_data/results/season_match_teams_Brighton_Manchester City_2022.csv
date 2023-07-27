@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2022,13,Manchester City,1.6,0.5,Brighton,3.0,1.0,2022-10-22,0,Manchester City,Brighton,c847bef1-6cfd-5a72-9069-336bdef3470a,e8fa4e81-d01b-54b2-9fc4-4478c66abf5b,bad0e34b-9337-5dea-a586-e8c2830f2a1b,Manchester City,Brighton,Brighton_Manchester City,Brighton_Manchester City_2022
+2022,32,Brighton,2.2,1.8,Manchester City,1.0,1.0,2023-05-24,0,draw,draw,fc9a866f-d167-5d98-8b1a-fd5fc305437a,e8fa4e81-d01b-54b2-9fc4-4478c66abf5b,bad0e34b-9337-5dea-a586-e8c2830f2a1b,Brighton,Manchester City,Brighton_Manchester City,Brighton_Manchester City_2022

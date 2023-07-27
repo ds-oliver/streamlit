@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+1997,1,Barnsley,0.0,0.0,West Ham,1.0,2.0,0,Alan Wilkie,West Ham,Barnsley,dfce80dd-a303-5e1d-bf88-0ea2ddffba8c,d971c465-ffb4-59df-91a6-01122c038864,83a06dd9-691d-5c98-a8d5-1f103740c0e6,Barnsley,West Ham,Barnsley_West Ham,Barnsley_West Ham_1997
+1997,22,West Ham,0.0,0.0,Barnsley,6.0,0.0,0,Neale Barry,West Ham,Barnsley,b5ffb71a-6e6d-51e2-ae35-e791259447d2,d971c465-ffb4-59df-91a6-01122c038864,83a06dd9-691d-5c98-a8d5-1f103740c0e6,West Ham,Barnsley,Barnsley_West Ham,Barnsley_West Ham_1997

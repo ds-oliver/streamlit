@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2020,5,Tottenham,1.7,1.9,West Ham,3.0,3.0,2020-10-18,0,draw,draw,779122b0-da5b-51f9-971e-1612d0aedb1d,2ed2d456-cf0d-59c4-ac06-2fd3203ded61,39876f27-c16e-5bab-a093-72cf881407f1,Tottenham,West Ham,Tottenham_West Ham,Tottenham_West Ham_2020
+2020,25,West Ham,1.1,1.1,Tottenham,2.0,1.0,2021-02-21,0,West Ham,Tottenham,60519b56-ebe7-5804-9b5d-bf1db4bf65cd,2ed2d456-cf0d-59c4-ac06-2fd3203ded61,39876f27-c16e-5bab-a093-72cf881407f1,West Ham,Tottenham,Tottenham_West Ham,Tottenham_West Ham_2020

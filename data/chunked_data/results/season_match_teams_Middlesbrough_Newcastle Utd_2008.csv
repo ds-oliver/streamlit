@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2008,15,Middlesbrough,0.0,0.0,Newcastle Utd,0.0,0.0,0,Alan Wiley,draw,draw,e4874525-3fdf-5a8a-b7a2-d8e237f11db2,2fbd0923-5db7-5f97-8c22-26fd7b0de3d7,f974cbbe-67b8-5104-bedb-4774e1b30976,Middlesbrough,Newcastle Utd,Middlesbrough_Newcastle Utd,Middlesbrough_Newcastle Utd_2008
+2008,36,Newcastle Utd,0.0,0.0,Middlesbrough,3.0,1.0,0,Mike Dean,Newcastle Utd,Middlesbrough,4dad1bc6-fae9-56c0-a171-fe55ef203ec4,2fbd0923-5db7-5f97-8c22-26fd7b0de3d7,f974cbbe-67b8-5104-bedb-4774e1b30976,Newcastle Utd,Middlesbrough,Middlesbrough_Newcastle Utd,Middlesbrough_Newcastle Utd_2008

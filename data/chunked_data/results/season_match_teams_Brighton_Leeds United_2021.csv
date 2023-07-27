@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2021,13,Brighton,2.1,0.6,Leeds United,0.0,0.0,2021-11-27,0,draw,draw,8d1600b8-8a94-5c50-9478-428cbf46fcf1,fc73a428-e359-5dc3-9034-b01def6616df,52641e00-66eb-5bcc-a59b-3b09b90fef3d,Brighton,Leeds United,Brighton_Leeds United,Brighton_Leeds United_2021
+2021,37,Leeds United,1.6,2.2,Brighton,1.0,1.0,2022-05-15,0,draw,draw,593edced-c0d9-5e18-bbbb-59312d941e38,fc73a428-e359-5dc3-9034-b01def6616df,52641e00-66eb-5bcc-a59b-3b09b90fef3d,Leeds United,Brighton,Brighton_Leeds United,Brighton_Leeds United_2021

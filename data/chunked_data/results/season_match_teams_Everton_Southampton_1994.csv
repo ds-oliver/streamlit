@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+1994,9,Southampton,0.0,0.0,Everton,2.0,0.0,0,Brian Hill,Southampton,Everton,64895419-7334-5245-bf96-4cab97d2ff97,071acb8a-d862-5f0d-9e68-4f6fc92a713f,f40a5e71-2daf-513b-ab95-4d02e6eb8fae,Southampton,Everton,Everton_Southampton,Everton_Southampton_1994
+1994,41,Everton,0.0,0.0,Southampton,0.0,0.0,0,Terence Holbrook,draw,draw,63e0c2ab-ef28-5354-9b17-4485831571f0,071acb8a-d862-5f0d-9e68-4f6fc92a713f,f40a5e71-2daf-513b-ab95-4d02e6eb8fae,Everton,Southampton,Everton_Southampton,Everton_Southampton_1994

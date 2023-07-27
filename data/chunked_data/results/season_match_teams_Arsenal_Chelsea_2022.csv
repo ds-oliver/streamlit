@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2022,15,Chelsea,0.3,2.1,Arsenal,0.0,1.0,2022-11-06,0,Arsenal,Chelsea,2369a7f6-a334-5458-a31c-3039c2be050e,2c8116f3-1ca3-585b-8495-a8fcd582a466,c3223415-3d93-5bb4-8c7e-caa065928968,Chelsea,Arsenal,Arsenal_Chelsea,Arsenal_Chelsea_2022
+2022,34,Arsenal,1.7,0.8,Chelsea,3.0,1.0,2023-05-02,0,Arsenal,Chelsea,6ed7e7d3-e6d9-58c6-ad2e-4e79ab0e9829,2c8116f3-1ca3-585b-8495-a8fcd582a466,c3223415-3d93-5bb4-8c7e-caa065928968,Arsenal,Chelsea,Arsenal_Chelsea,Arsenal_Chelsea_2022

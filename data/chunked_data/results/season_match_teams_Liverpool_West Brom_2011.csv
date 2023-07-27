@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2011,10,West Brom,0.0,0.0,Liverpool,0.0,2.0,0,Lee Mason,Liverpool,West Brom,5e7dcea2-18a7-59b7-964c-000c81f2099c,1636b03f-d521-59d5-923d-e5eebcb6b9ce,883fa669-f8d0-5b8d-a647-8c8e03198ae2,West Brom,Liverpool,Liverpool_West Brom,Liverpool_West Brom_2011
+2011,35,Liverpool,0.0,0.0,West Brom,0.0,1.0,0,Neil Swarbrick,West Brom,Liverpool,c56564ba-3a8f-5603-af3e-3805ca81c2e1,1636b03f-d521-59d5-923d-e5eebcb6b9ce,883fa669-f8d0-5b8d-a647-8c8e03198ae2,Liverpool,West Brom,Liverpool_West Brom,Liverpool_West Brom_2011

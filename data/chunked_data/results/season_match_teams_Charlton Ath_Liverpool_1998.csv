@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+1998,6,Liverpool,0.0,0.0,Charlton Ath,3.0,3.0,0,Paul Alcock,draw,draw,fed1e3b6-e823-5aad-acb1-d380f48a7deb,0a7711a8-a320-5e15-b3a5-363d24de0732,6745b5b2-b514-5dd4-9340-b48b16447197,Liverpool,Charlton Ath,Charlton Ath_Liverpool,Charlton Ath_Liverpool_1998
+1998,25,Charlton Ath,0.0,0.0,Liverpool,1.0,0.0,0,Mike Reed,Charlton Ath,Liverpool,0c8bbb4e-9a32-527a-b1ac-8032df0340b1,0a7711a8-a320-5e15-b3a5-363d24de0732,6745b5b2-b514-5dd4-9340-b48b16447197,Charlton Ath,Liverpool,Charlton Ath_Liverpool,Charlton Ath_Liverpool_1998

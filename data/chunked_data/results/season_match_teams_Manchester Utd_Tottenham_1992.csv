@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+1992,9,Tottenham,0.0,0.0,Manchester Utd,1.0,1.0,0,Ron Groves,draw,draw,02aa90db-bd68-5416-aa47-7d195fc54c22,80f8c88c-386e-559f-9cb3-21647c9618f0,5166bdee-6354-5902-ae37-f26239fa094d,Tottenham,Manchester Utd,Manchester Utd_Tottenham,Manchester Utd_Tottenham_1992
+1992,23,Manchester Utd,0.0,0.0,Tottenham,4.0,1.0,0,Mike Peck,Manchester Utd,Tottenham,79abebd4-baa0-5b06-be3d-d37cac2dee61,80f8c88c-386e-559f-9cb3-21647c9618f0,5166bdee-6354-5902-ae37-f26239fa094d,Manchester Utd,Tottenham,Manchester Utd_Tottenham,Manchester Utd_Tottenham_1992

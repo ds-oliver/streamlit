@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2010,9,West Brom,0.0,0.0,Fulham,2.0,1.0,0,Kevin Friend,West Brom,Fulham,fd01c5aa-0c23-56f5-82c3-21892bc90f39,a4837af4-dedd-58c4-972c-4d67329aedf9,0a004f7a-0e86-5d51-be72-211b73afc8f0,West Brom,Fulham,Fulham_West Brom,Fulham_West Brom_2010
+2010,22,Fulham,0.0,0.0,West Brom,3.0,0.0,0,Martin Atkinson,Fulham,West Brom,67e35ac1-0fe8-5007-ab92-cf843e1dae48,a4837af4-dedd-58c4-972c-4d67329aedf9,0a004f7a-0e86-5d51-be72-211b73afc8f0,Fulham,West Brom,Fulham_West Brom,Fulham_West Brom_2010

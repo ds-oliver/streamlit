@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2000,7,Derby County,0.0,0.0,Leeds United,1.0,1.0,0,Barry Knight,draw,draw,36c9d827-bc9a-5c8e-bbd5-2d54756c1fdb,22f5c90a-003c-5bc7-8b5f-84ab456f7342,b60c770d-f843-59e7-af75-76f8b95dc139,Derby County,Leeds United,Derby County_Leeds United,Derby County_Leeds United_2000
+2000,27,Leeds United,0.0,0.0,Derby County,0.0,0.0,0,Jeff Winter,draw,draw,97a2833d-edd6-5a39-8ccd-634af52dee94,22f5c90a-003c-5bc7-8b5f-84ab456f7342,b60c770d-f843-59e7-af75-76f8b95dc139,Leeds United,Derby County,Derby County_Leeds United,Derby County_Leeds United_2000

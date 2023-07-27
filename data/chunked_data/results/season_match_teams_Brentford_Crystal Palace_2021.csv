@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2021,2,Crystal Palace,0.5,0.9,Brentford,0.0,0.0,2021-08-21,0,draw,draw,ecf1c640-d48d-5349-941b-62881593d901,cf8627e7-0c2a-5bb2-9690-335a32ae216b,f2cbbdfb-1a2b-553e-8d76-ed02a48d6f76,Crystal Palace,Brentford,Brentford_Crystal Palace,Brentford_Crystal Palace_2021
+2021,25,Brentford,1.6,0.3,Crystal Palace,0.0,0.0,2022-02-12,0,draw,draw,7f79fff2-2e4a-594d-b296-81edd8ab4ae2,cf8627e7-0c2a-5bb2-9690-335a32ae216b,f2cbbdfb-1a2b-553e-8d76-ed02a48d6f76,Brentford,Crystal Palace,Brentford_Crystal Palace,Brentford_Crystal Palace_2021

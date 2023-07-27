@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2006,3,Aston Villa,0.0,0.0,Newcastle Utd,2.0,0.0,0,Howard Webb,Aston Villa,Newcastle Utd,30827e79-8158-537b-9e5a-3cd745923ee0,1743232e-32be-50c8-b499-a9eaae9af563,a03cc4cb-5eaf-5651-bb2b-7155fbc39074,Aston Villa,Newcastle Utd,Aston Villa_Newcastle Utd,Aston Villa_Newcastle Utd_2006
+2006,25,Newcastle Utd,0.0,0.0,Aston Villa,3.0,1.0,0,Howard Webb,Newcastle Utd,Aston Villa,091dbb85-7e10-5a0b-b8b9-5ed08c9202da,1743232e-32be-50c8-b499-a9eaae9af563,a03cc4cb-5eaf-5651-bb2b-7155fbc39074,Newcastle Utd,Aston Villa,Aston Villa_Newcastle Utd,Aston Villa_Newcastle Utd_2006

@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+1993,11,Arsenal,0.0,0.0,Manchester City,0.0,0.0,0,Roger Milford,draw,draw,d2ee164a-c8c0-56fb-9ed7-ecdf3982338c,25337d08-ca6f-50f3-8143-3551ce8ab95c,e87259bd-c775-5ff2-bc89-da155c0ec773,Arsenal,Manchester City,Arsenal_Manchester City,Arsenal_Manchester City_1993
+1993,26,Manchester City,0.0,0.0,Arsenal,0.0,0.0,0,David Allison,draw,draw,c1e91fcd-b7ac-5ab9-9848-bb875cc019a7,25337d08-ca6f-50f3-8143-3551ce8ab95c,e87259bd-c775-5ff2-bc89-da155c0ec773,Manchester City,Arsenal,Arsenal_Manchester City,Arsenal_Manchester City_1993

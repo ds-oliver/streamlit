@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+1997,21,Newcastle Utd,0.0,0.0,Liverpool,1.0,2.0,0,Gerald Ashby,Liverpool,Newcastle Utd,e2be1137-639b-557d-9e60-08a020090cb9,40adc14d-36a2-5012-af99-394a435711e3,f37eb642-1719-5a82-b13b-3096bdf3b414,Newcastle Utd,Liverpool,Liverpool_Newcastle Utd,Liverpool_Newcastle Utd_1997
+1997,5,Liverpool,0.0,0.0,Newcastle Utd,1.0,0.0,0,Graham Barber,Liverpool,Newcastle Utd,8f8aa41d-ef92-5c5e-b291-ae5ff97fe00c,40adc14d-36a2-5012-af99-394a435711e3,f37eb642-1719-5a82-b13b-3096bdf3b414,Liverpool,Newcastle Utd,Liverpool_Newcastle Utd,Liverpool_Newcastle Utd_1997

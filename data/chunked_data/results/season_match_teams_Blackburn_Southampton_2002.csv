@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2002,13,Southampton,0.0,0.0,Blackburn,1.0,1.0,0,Alan Wiley,draw,draw,47ee74ab-812e-5b92-a4ab-079a4bcb7123,ae7ff4d1-423c-5f00-8ca3-67ddbea27a66,e144a0bf-6326-5a59-9764-93ed4a0209cc,Southampton,Blackburn,Blackburn_Southampton,Blackburn_Southampton_2002
+2002,27,Blackburn,0.0,0.0,Southampton,1.0,0.0,0,Mike Riley,Blackburn,Southampton,34f05833-e798-52bd-9254-3adeff233c78,ae7ff4d1-423c-5f00-8ca3-67ddbea27a66,e144a0bf-6326-5a59-9764-93ed4a0209cc,Blackburn,Southampton,Blackburn_Southampton,Blackburn_Southampton_2002

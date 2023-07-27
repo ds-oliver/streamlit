@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2017,10,Burnley,0.9,0.5,Newcastle Utd,1.0,0.0,2017-10-30,0,Burnley,Newcastle Utd,56d21b49-a699-5580-aaa6-136aa5b2a35e,c03a4146-57c3-5f26-a4b7-836cb6222823,f65e6043-0805-5790-ac0f-b9a81b56982e,Burnley,Newcastle Utd,Burnley_Newcastle Utd,Burnley_Newcastle Utd_2017
+2017,25,Newcastle Utd,2.2,1.0,Burnley,1.0,1.0,2018-01-31,0,draw,draw,ba221825-2584-5973-be35-707fce73432b,c03a4146-57c3-5f26-a4b7-836cb6222823,f65e6043-0805-5790-ac0f-b9a81b56982e,Newcastle Utd,Burnley,Burnley_Newcastle Utd,Burnley_Newcastle Utd_2017

@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2002,11,Bolton,0.0,0.0,Sunderland,1.0,1.0,0,Eddie Wolstenholme,draw,draw,ad06e33c-21a1-540a-8d35-c2549f120c9c,c855a7e1-8490-58e0-a57a-802c8abc31d7,81133234-4738-5f69-adff-4739af96adea,Bolton,Sunderland,Bolton_Sunderland,Bolton_Sunderland_2002
+2002,30,Sunderland,0.0,0.0,Bolton,0.0,2.0,0,Jeff Winter,Bolton,Sunderland,1e636b41-4731-575c-85fe-db7aa058d2a2,c855a7e1-8490-58e0-a57a-802c8abc31d7,81133234-4738-5f69-adff-4739af96adea,Sunderland,Bolton,Bolton_Sunderland,Bolton_Sunderland_2002

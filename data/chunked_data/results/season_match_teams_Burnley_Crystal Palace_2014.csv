@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2014,4,Crystal Palace,0.0,0.0,Burnley,0.0,0.0,0,Mike Dean,draw,draw,9e9c0ed0-35e8-5aec-9c47-c0a0c9c8edbe,1d504f2f-ef04-5598-823f-c9eb4a5bece9,36a6c88e-df78-5501-af3f-7e66c5450169,Crystal Palace,Burnley,Burnley_Crystal Palace,Burnley_Crystal Palace_2014
+2014,22,Burnley,0.0,0.0,Crystal Palace,2.0,3.0,0,Philip Dowd,Crystal Palace,Burnley,9f2acb6b-b662-5091-bb8e-998b04470172,1d504f2f-ef04-5598-823f-c9eb4a5bece9,36a6c88e-df78-5501-af3f-7e66c5450169,Burnley,Crystal Palace,Burnley_Crystal Palace,Burnley_Crystal Palace_2014

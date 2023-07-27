@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2005,10,Blackburn,0.0,0.0,Birmingham City,2.0,0.0,0,Barry Knight,Blackburn,Birmingham City,e3307b51-c4a4-5541-91da-3ff2c0af926f,199ddd05-f4ad-56fb-8745-a525f221f271,1b511e8a-8f1a-57f4-a992-47696cf2688f,Blackburn,Birmingham City,Birmingham City_Blackburn,Birmingham City_Blackburn_2005
+2005,35,Birmingham City,0.0,0.0,Blackburn,2.0,1.0,0,Uriah Rennie,Birmingham City,Blackburn,f630598b-4f75-554b-a8b2-d2656998ddbd,199ddd05-f4ad-56fb-8745-a525f221f271,1b511e8a-8f1a-57f4-a992-47696cf2688f,Birmingham City,Blackburn,Birmingham City_Blackburn,Birmingham City_Blackburn_2005

@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2009,18,Fulham,0.0,0.0,Manchester Utd,3.0,0.0,0,Howard Webb,Fulham,Manchester Utd,c8fb9b8b-8ecf-5d1b-bc4e-74329ca79646,6da486d4-d926-54da-aa97-99aa8fb4a3af,052d3252-a57f-5a08-a525-1ea716e39834,Fulham,Manchester Utd,Fulham_Manchester Utd,Fulham_Manchester Utd_2009
+2009,30,Manchester Utd,0.0,0.0,Fulham,3.0,0.0,0,Mike Jones,Manchester Utd,Fulham,9738a9bb-eadb-5117-b5f0-6324e6a74d13,6da486d4-d926-54da-aa97-99aa8fb4a3af,052d3252-a57f-5a08-a525-1ea716e39834,Manchester Utd,Fulham,Fulham_Manchester Utd,Fulham_Manchester Utd_2009

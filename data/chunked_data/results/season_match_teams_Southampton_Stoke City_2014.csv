@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2014,9,Southampton,0.0,0.0,Stoke City,1.0,0.0,0,Jonathan Moss,Southampton,Stoke City,cd054d51-a573-510e-9c25-4caa497e5bd7,32a3caac-5a4f-5bbf-835c-84979f7940e9,2eeae062-a149-5e33-b303-6b0d9437c009,Southampton,Stoke City,Southampton_Stoke City,Southampton_Stoke City_2014
+2014,33,Stoke City,0.0,0.0,Southampton,2.0,1.0,0,Mark Clattenburg,Stoke City,Southampton,4651d517-4d65-519d-a37e-53a12ebba02f,32a3caac-5a4f-5bbf-835c-84979f7940e9,2eeae062-a149-5e33-b303-6b0d9437c009,Stoke City,Southampton,Southampton_Stoke City,Southampton_Stoke City_2014

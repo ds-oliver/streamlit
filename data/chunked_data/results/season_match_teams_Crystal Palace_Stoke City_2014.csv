@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2014,16,Crystal Palace,0.0,0.0,Stoke City,1.0,1.0,0,Kevin Friend,draw,draw,a07ff080-caf9-5494-a271-8e1726dd9a87,c94693e5-2bbb-52ea-bc3a-2e59118aa777,6ebb9158-113d-51ab-be20-ed4aa821dd37,Crystal Palace,Stoke City,Crystal Palace_Stoke City,Crystal Palace_Stoke City_2014
+2014,30,Stoke City,0.0,0.0,Crystal Palace,1.0,2.0,0,Andre Marriner,Crystal Palace,Stoke City,02ee80cf-6ccb-587e-8af6-3ff812ba030e,c94693e5-2bbb-52ea-bc3a-2e59118aa777,6ebb9158-113d-51ab-be20-ed4aa821dd37,Stoke City,Crystal Palace,Crystal Palace_Stoke City,Crystal Palace_Stoke City_2014

@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2012,20,Reading,0.0,0.0,West Ham,1.0,0.0,0,Michael Oliver,Reading,West Ham,fa1bff5a-e03c-5100-bac2-06117a841033,310e9e0c-6544-5467-8531-23e65bd1d086,8aa5a5b0-f8a9-5253-a12f-6937dbd8ddbf,Reading,West Ham,Reading_West Ham,Reading_West Ham_2012
+2012,38,West Ham,0.0,0.0,Reading,4.0,2.0,0,Mike Dean,West Ham,Reading,76ecedee-c0ed-5d36-825c-a9388f666829,310e9e0c-6544-5467-8531-23e65bd1d086,8aa5a5b0-f8a9-5253-a12f-6937dbd8ddbf,West Ham,Reading,Reading_West Ham,Reading_West Ham_2012

@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2001,10,Fulham,0.0,0.0,Ipswich Town,1.0,1.0,0,Mike Riley,draw,draw,63aa19c7-fc37-536e-b257-529c0c08c1e3,dbefcc6a-c51a-5c4d-a959-59abb130c03f,72a29869-6085-5690-a8bd-3442ab90d19b,Fulham,Ipswich Town,Fulham_Ipswich Town,Fulham_Ipswich Town_2001
+2001,24,Ipswich Town,0.0,0.0,Fulham,1.0,0.0,0,Alan Wiley,Ipswich Town,Fulham,be5cfe28-8382-594a-9938-f1c5dd696823,dbefcc6a-c51a-5c4d-a959-59abb130c03f,72a29869-6085-5690-a8bd-3442ab90d19b,Ipswich Town,Fulham,Fulham_Ipswich Town,Fulham_Ipswich Town_2001

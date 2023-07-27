@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2007,22,Sunderland,0.0,0.0,Portsmouth,2.0,0.0,0,Chris Foy,Sunderland,Portsmouth,7874728b-6ff0-504a-a611-cd2a22b19f0d,b7f93441-37b6-5ca3-9e46-40ee3e7a8b2c,aecafe2f-36e4-568e-869a-47be5fe51a3a,Sunderland,Portsmouth,Portsmouth_Sunderland,Portsmouth_Sunderland_2007
+2007,27,Portsmouth,0.0,0.0,Sunderland,1.0,0.0,0,Phil Dowd,Portsmouth,Sunderland,0f591bec-f723-54c6-8bc8-5b06f00c3c01,b7f93441-37b6-5ca3-9e46-40ee3e7a8b2c,aecafe2f-36e4-568e-869a-47be5fe51a3a,Portsmouth,Sunderland,Portsmouth_Sunderland,Portsmouth_Sunderland_2007

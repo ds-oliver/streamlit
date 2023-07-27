@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+1997,11,Leeds United,0.0,0.0,Newcastle Utd,4.0,1.0,0,David Elleray,Leeds United,Newcastle Utd,fed6012d-7ca9-5a9a-9b17-5f9752694250,6672f801-50fa-5893-b2bc-c64ab7f65152,2d40a3f0-9fb6-57ad-a786-d30696a0640c,Leeds United,Newcastle Utd,Leeds United_Newcastle Utd,Leeds United_Newcastle Utd_1997
+1997,27,Newcastle Utd,0.0,0.0,Leeds United,1.0,1.0,0,Gary Willard,draw,draw,5d2b699a-d5fb-5594-bfe1-3be9f933d0e4,6672f801-50fa-5893-b2bc-c64ab7f65152,2d40a3f0-9fb6-57ad-a786-d30696a0640c,Newcastle Utd,Leeds United,Leeds United_Newcastle Utd,Leeds United_Newcastle Utd_1997

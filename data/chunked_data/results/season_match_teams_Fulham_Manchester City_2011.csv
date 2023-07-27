@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2011,5,Fulham,0.0,0.0,Manchester City,2.0,2.0,0,Mark Clattenburg,draw,draw,ff215c2c-76b1-5856-b401-2b98ac97f280,53cfdbf5-fea9-5517-b785-4b0a9cf60891,9073ddae-2472-52a2-b5e3-c4e4dcedf49d,Fulham,Manchester City,Fulham_Manchester City,Fulham_Manchester City_2011
+2011,24,Manchester City,0.0,0.0,Fulham,3.0,0.0,0,Mike Dean,Manchester City,Fulham,1698e7fe-54b4-553f-8db7-4d3dd78c895c,53cfdbf5-fea9-5517-b785-4b0a9cf60891,9073ddae-2472-52a2-b5e3-c4e4dcedf49d,Manchester City,Fulham,Fulham_Manchester City,Fulham_Manchester City_2011

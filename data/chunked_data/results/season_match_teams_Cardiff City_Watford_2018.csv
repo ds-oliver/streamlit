@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2018,17,Watford,1.4,0.9,Cardiff City,3.0,2.0,2018-12-15,0,Watford,Cardiff City,eb58955c-65ef-5dab-8ae0-0805e6904e67,f4d1a038-0fc2-5952-90b5-11f623dd4d15,928b9841-a9d6-5637-9c3c-ceeed117d9f3,Watford,Cardiff City,Cardiff City_Watford,Cardiff City_Watford_2018
+2018,27,Cardiff City,2.0,2.1,Watford,1.0,5.0,2019-02-22,0,Watford,Cardiff City,e2e7b0c9-9f4c-534f-9330-b1ceb7782e91,f4d1a038-0fc2-5952-90b5-11f623dd4d15,928b9841-a9d6-5637-9c3c-ceeed117d9f3,Cardiff City,Watford,Cardiff City_Watford,Cardiff City_Watford_2018

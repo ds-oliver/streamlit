@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2008,20,West Ham,0.0,0.0,Stoke City,2.0,1.0,0,Mike Jones,West Ham,Stoke City,20dcfd45-881a-57c7-ba5e-3c62c526a4fa,d7d271da-9c11-5ac4-9de2-9f04a05bb649,6b0d2da1-e280-5f4c-bf93-94a4903fd6a7,West Ham,Stoke City,Stoke City_West Ham,Stoke City_West Ham_2008
+2008,35,Stoke City,0.0,0.0,West Ham,0.0,1.0,0,Peter Walton,West Ham,Stoke City,7dc189e7-7791-5bd3-8db9-c20e3128c230,d7d271da-9c11-5ac4-9de2-9f04a05bb649,6b0d2da1-e280-5f4c-bf93-94a4903fd6a7,Stoke City,West Ham,Stoke City_West Ham,Stoke City_West Ham_2008

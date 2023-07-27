@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2022,17,Aston Villa,1.4,2.7,Liverpool,1.0,3.0,2022-12-26,0,Liverpool,Aston Villa,8c233364-7731-5820-8168-7af5f5bec7c6,47286672-2c0d-5b86-ab18-8a24ec9b4536,7de8299c-0c46-5d6d-bc8c-8d0ae9e43f98,Aston Villa,Liverpool,Aston Villa_Liverpool,Aston Villa_Liverpool_2022
+2022,37,Liverpool,0.7,1.3,Aston Villa,1.0,1.0,2023-05-20,0,draw,draw,0a8d944e-ec1b-58ea-bb9a-49685fb703b5,47286672-2c0d-5b86-ab18-8a24ec9b4536,7de8299c-0c46-5d6d-bc8c-8d0ae9e43f98,Liverpool,Aston Villa,Aston Villa_Liverpool,Aston Villa_Liverpool_2022

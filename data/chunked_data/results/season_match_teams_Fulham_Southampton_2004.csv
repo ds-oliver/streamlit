@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2004,7,Fulham,0.0,0.0,Southampton,1.0,0.0,0,Graham Poll,Fulham,Southampton,a550a883-9c47-5f9b-8920-24b1ba23c8a3,94fb7c25-682c-54b2-b5f5-021c2996927c,2913b1b1-c1c5-5155-a511-47b8e693bb2d,Fulham,Southampton,Fulham_Southampton,Fulham_Southampton_2004
+2004,22,Southampton,0.0,0.0,Fulham,3.0,3.0,0,Graham Poll,draw,draw,8f41f952-d0c1-54ac-adc1-4ed3291a8fc7,94fb7c25-682c-54b2-b5f5-021c2996927c,2913b1b1-c1c5-5155-a511-47b8e693bb2d,Southampton,Fulham,Fulham_Southampton,Fulham_Southampton_2004

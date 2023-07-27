@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2011,10,Swansea City,0.0,0.0,Bolton,3.0,1.0,0,Mark Clattenburg,Swansea City,Bolton,2a37a362-de21-5fb6-aba9-738b76944ffe,75bbbe1d-0250-561a-a9c3-b8532b5585e4,e9d2bc13-3c8e-5ee0-b950-9375ed55bbb1,Swansea City,Bolton,Bolton_Swansea City,Bolton_Swansea City_2011
+2011,35,Bolton,0.0,0.0,Swansea City,1.0,1.0,0,Phil Dowd,draw,draw,685d6857-59a4-5176-96b5-70993ae02147,75bbbe1d-0250-561a-a9c3-b8532b5585e4,e9d2bc13-3c8e-5ee0-b950-9375ed55bbb1,Bolton,Swansea City,Bolton_Swansea City,Bolton_Swansea City_2011

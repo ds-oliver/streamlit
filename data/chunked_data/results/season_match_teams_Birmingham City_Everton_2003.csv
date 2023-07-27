@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2003,19,Everton,0.0,0.0,Birmingham City,1.0,0.0,0,Rob Styles,Everton,Birmingham City,79868653-156e-548c-acb2-bbd422bd6b53,ce35b8f0-ec86-5a19-909c-3ca18cb9b6eb,06d2c038-858a-50d1-8c58-86c38fe8ea3c,Everton,Birmingham City,Birmingham City_Everton,Birmingham City_Everton_2003
+2003,25,Birmingham City,0.0,0.0,Everton,3.0,0.0,0,Mark Halsey,Birmingham City,Everton,18b74afc-56df-52ce-baa5-00cf58b33acb,ce35b8f0-ec86-5a19-909c-3ca18cb9b6eb,06d2c038-858a-50d1-8c58-86c38fe8ea3c,Birmingham City,Everton,Birmingham City_Everton,Birmingham City_Everton_2003

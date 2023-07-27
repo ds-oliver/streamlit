@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+1993,24,Manchester Utd,0.0,0.0,Leeds United,0.0,0.0,0,David Elleray,draw,draw,780e9297-27e1-57d4-a52e-cd80066c9e55,da1b900b-153e-5b32-b828-29a6faa4ae63,1ef41b7b-965a-5929-99b4-17d5ff354a36,Manchester Utd,Leeds United,Leeds United_Manchester Utd,Leeds United_Manchester Utd_1993
+1993,38,Leeds United,0.0,0.0,Manchester Utd,0.0,2.0,0,Philip Don,Manchester Utd,Leeds United,a1bdc991-5fce-5670-b226-4179f6d099b4,da1b900b-153e-5b32-b828-29a6faa4ae63,1ef41b7b-965a-5929-99b4-17d5ff354a36,Leeds United,Manchester Utd,Leeds United_Manchester Utd,Leeds United_Manchester Utd_1993

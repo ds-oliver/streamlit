@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2022,17,Chelsea,1.8,0.5,Bournemouth,2.0,0.0,2022-12-27,0,Chelsea,Bournemouth,2adc83c9-9201-5b74-b302-60be442b364b,1fbac7cf-ca27-5564-aa68-081120710c0d,555f09cc-f9cd-546a-9b2c-7be4c1fb2837,Chelsea,Bournemouth,Bournemouth_Chelsea,Bournemouth_Chelsea_2022
+2022,35,Bournemouth,1.2,1.3,Chelsea,1.0,3.0,2023-05-06,0,Chelsea,Bournemouth,39e5bd98-14e8-53a0-a34d-fbbcdc9cbdfe,1fbac7cf-ca27-5564-aa68-081120710c0d,555f09cc-f9cd-546a-9b2c-7be4c1fb2837,Bournemouth,Chelsea,Bournemouth_Chelsea,Bournemouth_Chelsea_2022

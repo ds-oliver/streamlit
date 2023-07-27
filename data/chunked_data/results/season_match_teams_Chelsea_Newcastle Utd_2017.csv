@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2017,15,Chelsea,3.2,0.6,Newcastle Utd,3.0,1.0,2017-12-02,0,Chelsea,Newcastle Utd,d0aedc9c-3ef5-53c1-adf4-870a37d463b9,685aa728-3f47-588a-91e7-100c9cd9b719,41162d9d-c23c-5c58-84b0-a1e2f7e56bae,Chelsea,Newcastle Utd,Chelsea_Newcastle Utd,Chelsea_Newcastle Utd_2017
+2017,38,Newcastle Utd,2.2,1.0,Chelsea,3.0,0.0,2018-05-13,0,Newcastle Utd,Chelsea,9c0ba341-77ed-5019-9e31-359bb586151b,685aa728-3f47-588a-91e7-100c9cd9b719,41162d9d-c23c-5c58-84b0-a1e2f7e56bae,Newcastle Utd,Chelsea,Chelsea_Newcastle Utd,Chelsea_Newcastle Utd_2017

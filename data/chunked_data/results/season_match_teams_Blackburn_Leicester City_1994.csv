@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+1994,2,Blackburn,0.0,0.0,Leicester City,3.0,0.0,0,Keith Burge,Blackburn,Leicester City,71540322-1a3c-50b9-8273-e964371c194d,f7d96405-c831-57b9-99e5-16e1e24185bb,71015ab0-29dc-516a-901f-c223fe2ad5ec,Blackburn,Leicester City,Blackburn_Leicester City,Blackburn_Leicester City_1994
+1994,19,Leicester City,0.0,0.0,Blackburn,0.0,0.0,0,Philip Don,draw,draw,56c9b016-1820-50aa-9e42-9d4b09390352,f7d96405-c831-57b9-99e5-16e1e24185bb,71015ab0-29dc-516a-901f-c223fe2ad5ec,Leicester City,Blackburn,Blackburn_Leicester City,Blackburn_Leicester City_1994

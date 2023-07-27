@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+1993,22,Everton,0.0,0.0,Sheffield Weds,0.0,2.0,0,Roger Dilkes,Sheffield Weds,Everton,a7b70e93-975a-5b5a-93ab-431bc933ce95,8eb19cd5-3bd6-5fa7-93d3-44d7905ac843,61061b46-74ee-5432-8426-1cf73173cb7d,Everton,Sheffield Weds,Everton_Sheffield Weds,Everton_Sheffield Weds_1993
+1993,36,Sheffield Weds,0.0,0.0,Everton,5.0,1.0,0,Gerald Ashby,Sheffield Weds,Everton,6ffd71e9-c109-5b6a-a2bf-11102b4ed499,8eb19cd5-3bd6-5fa7-93d3-44d7905ac843,61061b46-74ee-5432-8426-1cf73173cb7d,Sheffield Weds,Everton,Everton_Sheffield Weds,Everton_Sheffield Weds_1993

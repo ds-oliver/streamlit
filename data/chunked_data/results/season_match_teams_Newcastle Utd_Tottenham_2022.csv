@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2022,13,Tottenham,1.6,1.2,Newcastle Utd,1.0,2.0,2022-10-23,0,Newcastle Utd,Tottenham,9dbf7ac3-f87c-54aa-9a72-4e1773417b4d,de683406-6efd-5c2a-a388-fd2bbd65c593,ad1501b3-da06-55a2-b206-b95275f0d081,Tottenham,Newcastle Utd,Newcastle Utd_Tottenham,Newcastle Utd_Tottenham_2022
+2022,32,Newcastle Utd,3.7,1.0,Tottenham,6.0,1.0,2023-04-23,0,Newcastle Utd,Tottenham,de6e7b7b-2554-539c-9f8e-aea7513188e5,de683406-6efd-5c2a-a388-fd2bbd65c593,ad1501b3-da06-55a2-b206-b95275f0d081,Newcastle Utd,Tottenham,Newcastle Utd_Tottenham,Newcastle Utd_Tottenham_2022

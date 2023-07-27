@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2020,8,West Brom,0.8,1.9,Tottenham,0.0,1.0,2020-11-08,0,Tottenham,West Brom,0034cb3b-ec32-52cc-a91e-7f5796b49288,be557923-47f2-5dec-869b-0782ce22f3f6,85caed40-e682-5738-977e-3e090e791a93,West Brom,Tottenham,Tottenham_West Brom,Tottenham_West Brom_2020
+2020,23,Tottenham,1.5,0.6,West Brom,2.0,0.0,2021-02-07,0,Tottenham,West Brom,59de058f-0d43-5951-ba7e-1bcf5508d896,be557923-47f2-5dec-869b-0782ce22f3f6,85caed40-e682-5738-977e-3e090e791a93,Tottenham,West Brom,Tottenham_West Brom,Tottenham_West Brom_2020

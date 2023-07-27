@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+1995,2,Tottenham,0.0,0.0,Aston Villa,0.0,1.0,0,Steve Dunn,Aston Villa,Tottenham,24b23f29-982e-5d38-9f5b-1632cb2e8244,bb98ec52-2d59-54f5-afaa-ecc766ae1c45,a74169da-c52d-56fe-a546-3e708ae47e24,Tottenham,Aston Villa,Aston Villa_Tottenham,Aston Villa_Tottenham_1995
+1995,24,Aston Villa,0.0,0.0,Tottenham,2.0,1.0,0,Graham Poll,Aston Villa,Tottenham,97dc2692-5e9a-5a32-a0e6-713e42f2bde4,bb98ec52-2d59-54f5-afaa-ecc766ae1c45,a74169da-c52d-56fe-a546-3e708ae47e24,Aston Villa,Tottenham,Aston Villa_Tottenham,Aston Villa_Tottenham_1995

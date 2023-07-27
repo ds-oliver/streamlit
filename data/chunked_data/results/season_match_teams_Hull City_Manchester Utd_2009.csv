@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2009,19,Hull City,0.0,0.0,Manchester Utd,1.0,3.0,0,Alan Wiley,Manchester Utd,Hull City,f3047a1c-74c4-5278-830f-7ac8d765e95c,6340a6c5-e657-52f7-b251-f2aa2fbaf520,25619691-4963-5edf-b010-6a681723eb65,Hull City,Manchester Utd,Hull City_Manchester Utd,Hull City_Manchester Utd_2009
+2009,23,Manchester Utd,0.0,0.0,Hull City,4.0,0.0,0,Stephen Bennett,Manchester Utd,Hull City,d2b30dc1-4473-5b6a-8253-8b16b0c0da18,6340a6c5-e657-52f7-b251-f2aa2fbaf520,25619691-4963-5edf-b010-6a681723eb65,Manchester Utd,Hull City,Hull City_Manchester Utd,Hull City_Manchester Utd_2009

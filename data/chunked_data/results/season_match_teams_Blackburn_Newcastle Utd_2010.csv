@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2010,12,Newcastle Utd,0.0,0.0,Blackburn,1.0,2.0,0,Mike Jones,Blackburn,Newcastle Utd,ae0048f7-eb2c-56ec-9937-3a8cbd4b0bcc,b6572346-b946-57a0-b7df-8ad9dcc50212,2bd8de67-256a-5d6a-92ca-23976efcf9df,Newcastle Utd,Blackburn,Blackburn_Newcastle Utd,Blackburn_Newcastle Utd_2010
+2010,27,Blackburn,0.0,0.0,Newcastle Utd,0.0,0.0,0,Stuart Attwell,draw,draw,2a8ab831-8457-533c-a7b5-0909b83efe82,b6572346-b946-57a0-b7df-8ad9dcc50212,2bd8de67-256a-5d6a-92ca-23976efcf9df,Blackburn,Newcastle Utd,Blackburn_Newcastle Utd,Blackburn_Newcastle Utd_2010

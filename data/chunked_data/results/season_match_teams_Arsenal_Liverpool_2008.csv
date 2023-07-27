@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2008,18,Arsenal,0.0,0.0,Liverpool,1.0,1.0,0,Howard Webb,draw,draw,577d3e09-30a1-514b-97a8-596ecc099e5f,19772de6-75df-5209-aa5e-032dd6af055f,e22f20e6-5ca8-55b3-9de4-f04ebf9c7728,Arsenal,Liverpool,Arsenal_Liverpool,Arsenal_Liverpool_2008
+2008,33,Liverpool,0.0,0.0,Arsenal,4.0,4.0,0,Howard Webb,draw,draw,c9c5ed53-2855-5241-905a-10d8329f6047,19772de6-75df-5209-aa5e-032dd6af055f,e22f20e6-5ca8-55b3-9de4-f04ebf9c7728,Liverpool,Arsenal,Arsenal_Liverpool,Arsenal_Liverpool_2008

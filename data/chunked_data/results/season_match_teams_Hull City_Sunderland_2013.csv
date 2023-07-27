@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2013,10,Hull City,0.0,0.0,Sunderland,1.0,0.0,0,Andre Marriner,Hull City,Sunderland,e27a488f-3b96-5b2b-af7c-1c9249feae78,77cefd04-929f-586b-b57c-46693d90320f,4f77a4dc-1385-5d42-86aa-62937f80b732,Hull City,Sunderland,Hull City_Sunderland,Hull City_Sunderland_2013
+2013,25,Sunderland,0.0,0.0,Hull City,0.0,2.0,0,Mike Jones,Hull City,Sunderland,ada18450-1168-5aa9-a296-3d38440fbeb4,77cefd04-929f-586b-b57c-46693d90320f,4f77a4dc-1385-5d42-86aa-62937f80b732,Sunderland,Hull City,Hull City_Sunderland,Hull City_Sunderland_2013

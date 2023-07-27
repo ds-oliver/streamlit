@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+1992,12,Nott'ham Forest,0.0,0.0,Arsenal,0.0,1.0,0,Joe Worrall,Arsenal,Nott'ham Forest,afd7eb40-f7af-5c23-a2c1-86d9bdcbca20,3db1f2d3-8ec2-5719-8e12-e8c6fe7e187b,46a1e707-e8d5-5b4d-965d-8f0c73a9f497,Nott'ham Forest,Arsenal,Arsenal_Nott'ham Forest,Arsenal_Nott'ham Forest_1992
+1992,32,Arsenal,0.0,0.0,Nott'ham Forest,1.0,1.0,0,Martin Bodenham,draw,draw,39d4e8be-4dc6-50f7-b516-321436c5a45d,3db1f2d3-8ec2-5719-8e12-e8c6fe7e187b,46a1e707-e8d5-5b4d-965d-8f0c73a9f497,Arsenal,Nott'ham Forest,Arsenal_Nott'ham Forest,Arsenal_Nott'ham Forest_1992

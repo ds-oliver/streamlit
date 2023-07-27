@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+1995,19,Tottenham,0.0,0.0,Bolton,2.0,2.0,0,Paul Danson,draw,draw,e0cee654-c185-5a09-9b2a-3ef948bdbf27,b308bd66-1da0-57e1-bb05-1e2d0290ec60,7c80b588-7105-5917-9daa-226ac86ec37e,Tottenham,Bolton,Bolton_Tottenham,Bolton_Tottenham_1995
+1995,30,Bolton,0.0,0.0,Tottenham,2.0,3.0,0,Steve Dunn,Tottenham,Bolton,033fd3bf-5396-58a9-9f8e-f22ad91c29b8,b308bd66-1da0-57e1-bb05-1e2d0290ec60,7c80b588-7105-5917-9daa-226ac86ec37e,Bolton,Tottenham,Bolton_Tottenham,Bolton_Tottenham_1995

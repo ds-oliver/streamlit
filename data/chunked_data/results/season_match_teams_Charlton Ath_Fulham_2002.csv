@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2002,9,Fulham,0.0,0.0,Charlton Ath,1.0,0.0,0,Jeff Winter,Fulham,Charlton Ath,a76c0408-4202-521e-8a62-23063392ab41,27a85f69-42e3-50b5-a825-1e780de55737,63e59cb6-1a7a-5781-802e-1dcf2bd18edb,Fulham,Charlton Ath,Charlton Ath_Fulham,Charlton Ath_Fulham_2002
+2002,38,Charlton Ath,0.0,0.0,Fulham,0.0,1.0,0,Dermot Gallagher,Fulham,Charlton Ath,2569d1b6-a375-5ccb-b67b-ae8246a097d6,27a85f69-42e3-50b5-a825-1e780de55737,63e59cb6-1a7a-5781-802e-1dcf2bd18edb,Charlton Ath,Fulham,Charlton Ath_Fulham,Charlton Ath_Fulham_2002

@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+1998,14,Aston Villa,0.0,0.0,Liverpool,2.0,4.0,0,Peter Jones,Liverpool,Aston Villa,8b298f6e-cf23-5d7d-b02f-0ddb14db226b,47286672-2c0d-5b86-ab18-8a24ec9b4536,c3c7a84a-3470-515d-b5b1-fc93d3f09833,Aston Villa,Liverpool,Aston Villa_Liverpool,Aston Villa_Liverpool_1998
+1998,34,Liverpool,0.0,0.0,Aston Villa,0.0,1.0,0,Jeff Winter,Aston Villa,Liverpool,3e1c1f6d-c196-583b-bd6e-61892d305d6c,47286672-2c0d-5b86-ab18-8a24ec9b4536,c3c7a84a-3470-515d-b5b1-fc93d3f09833,Liverpool,Aston Villa,Aston Villa_Liverpool,Aston Villa_Liverpool_1998

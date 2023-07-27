@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2011,15,Manchester Utd,0.0,0.0,Wolves,4.0,1.0,0,Michael Oliver,Manchester Utd,Wolves,d92c663d-7bf3-56ec-99b2-718cc20310e5,ecc70283-012c-5b32-a136-bf2751660095,96abb103-be3d-504e-9a02-fd45e0b3a060,Manchester Utd,Wolves,Manchester Utd_Wolves,Manchester Utd_Wolves_2011
+2011,29,Wolves,0.0,0.0,Manchester Utd,0.0,5.0,0,Anthony Taylor,Manchester Utd,Wolves,d13418be-b2ce-59ec-b2ee-f794ad548d53,ecc70283-012c-5b32-a136-bf2751660095,96abb103-be3d-504e-9a02-fd45e0b3a060,Wolves,Manchester Utd,Manchester Utd_Wolves,Manchester Utd_Wolves_2011

@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2012,7,Wigan Athletic,0.0,0.0,Everton,2.0,2.0,0,Kevin Friend,draw,draw,f21e44e7-574d-5e52-b73b-081e1de6602d,91e1cffd-afaa-566d-9643-df197b235912,328e65f2-3d72-5e07-a93f-cb4b61becb0c,Wigan Athletic,Everton,Everton_Wigan Athletic,Everton_Wigan Athletic_2012
+2012,19,Everton,0.0,0.0,Wigan Athletic,2.0,1.0,0,Lee Mason,Everton,Wigan Athletic,340bfc5f-ce4a-554b-a326-061f279d1817,91e1cffd-afaa-566d-9643-df197b235912,328e65f2-3d72-5e07-a93f-cb4b61becb0c,Everton,Wigan Athletic,Everton_Wigan Athletic,Everton_Wigan Athletic_2012

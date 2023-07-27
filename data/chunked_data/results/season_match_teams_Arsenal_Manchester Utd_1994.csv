@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+1994,16,Arsenal,0.0,0.0,Manchester Utd,0.0,0.0,0,Kelvin Morton,draw,draw,60b074ea-0db0-5983-a3dd-2b09f035e6a9,145708a5-26f6-516b-aee0-962ba59bdbbd,88e44741-f2c4-580b-a80f-6b1932482970,Arsenal,Manchester Utd,Arsenal_Manchester Utd,Arsenal_Manchester Utd_1994
+1994,29,Manchester Utd,0.0,0.0,Arsenal,3.0,0.0,0,Keith Cooper,Manchester Utd,Arsenal,c9f3ec86-dec5-5f9a-ab19-e6f2aca05074,145708a5-26f6-516b-aee0-962ba59bdbbd,88e44741-f2c4-580b-a80f-6b1932482970,Manchester Utd,Arsenal,Arsenal_Manchester Utd,Arsenal_Manchester Utd_1994

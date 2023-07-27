@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2020,18,Leeds United,1.3,0.9,Southampton,3.0,0.0,2021-02-23,0,Leeds United,Southampton,b72fe987-2297-5bd4-b30c-bbb9025cba79,ef1a9f8c-b4f6-5793-b36a-a6e6b6cfdcfe,a108f95e-27f1-5530-b599-95f6ff9c5c12,Leeds United,Southampton,Leeds United_Southampton,Leeds United_Southampton_2020
+2020,37,Southampton,1.6,1.7,Leeds United,0.0,2.0,2021-05-18,0,Leeds United,Southampton,42a74bf2-5b4b-51c3-a91e-8400a484b6a9,ef1a9f8c-b4f6-5793-b36a-a6e6b6cfdcfe,a108f95e-27f1-5530-b599-95f6ff9c5c12,Southampton,Leeds United,Leeds United_Southampton,Leeds United_Southampton_2020

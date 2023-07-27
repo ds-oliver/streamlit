@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2005,19,West Ham,0.0,0.0,Wigan Athletic,0.0,2.0,0,Stephen Bennett,Wigan Athletic,West Ham,90d7b436-e17f-5feb-97b5-bf874376a9e5,966aa076-9136-579e-a4a4-a7194219c5bb,05c48b09-9495-549e-b038-45e7f0aa28fd,West Ham,Wigan Athletic,West Ham_Wigan Athletic,West Ham_Wigan Athletic_2005
+2005,31,Wigan Athletic,0.0,0.0,West Ham,1.0,2.0,0,Dermot Gallagher,West Ham,Wigan Athletic,4ebc7121-2796-563c-9aa2-e965069f1704,966aa076-9136-579e-a4a4-a7194219c5bb,05c48b09-9495-549e-b038-45e7f0aa28fd,Wigan Athletic,West Ham,West Ham_Wigan Athletic,West Ham_Wigan Athletic_2005

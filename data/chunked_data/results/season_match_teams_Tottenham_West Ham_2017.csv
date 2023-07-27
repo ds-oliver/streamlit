@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2017,6,West Ham,0.6,1.2,Tottenham,2.0,3.0,2017-09-23,0,Tottenham,West Ham,84d82c1d-b41b-5f9f-a2cf-b5acffcf53cb,2ed2d456-cf0d-59c4-ac06-2fd3203ded61,4ff7cf66-4cc5-557d-823c-ad6b5d0db4d8,West Ham,Tottenham,Tottenham_West Ham,Tottenham_West Ham_2017
+2017,21,Tottenham,1.8,0.5,West Ham,1.0,1.0,2018-01-04,0,draw,draw,4f436665-05dd-59eb-aaa6-42e8566aef76,2ed2d456-cf0d-59c4-ac06-2fd3203ded61,4ff7cf66-4cc5-557d-823c-ad6b5d0db4d8,Tottenham,West Ham,Tottenham_West Ham,Tottenham_West Ham_2017

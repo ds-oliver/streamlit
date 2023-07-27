@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2019,20,Arsenal,0.5,1.4,Chelsea,1.0,2.0,2019-12-29,0,Chelsea,Arsenal,85aeca24-5f24-5082-ac97-72fe4cd5de50,2c8116f3-1ca3-585b-8495-a8fcd582a466,5df37745-4109-5209-8ed0-4fb24b202abb,Arsenal,Chelsea,Arsenal_Chelsea,Arsenal_Chelsea_2019
+2019,24,Chelsea,2.9,0.4,Arsenal,2.0,2.0,2020-01-21,0,draw,draw,c009a2f9-1349-59e6-af55-b7304ff1b7d1,2c8116f3-1ca3-585b-8495-a8fcd582a466,5df37745-4109-5209-8ed0-4fb24b202abb,Chelsea,Arsenal,Arsenal_Chelsea,Arsenal_Chelsea_2019

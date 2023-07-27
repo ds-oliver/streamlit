@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2009,11,Fulham,0.0,0.0,Liverpool,3.0,1.0,0,Lee Mason,Fulham,Liverpool,dab0f595-d33c-5902-acbf-07b7a9b98cef,cde19b55-32e4-572a-9b0d-272170e70fb6,0494eb3e-be05-57a0-a145-e74c27d31777,Fulham,Liverpool,Fulham_Liverpool,Fulham_Liverpool_2009
+2009,34,Liverpool,0.0,0.0,Fulham,0.0,0.0,0,Andre Marriner,draw,draw,d466b3f6-4e85-5780-9681-ad5010a06556,cde19b55-32e4-572a-9b0d-272170e70fb6,0494eb3e-be05-57a0-a145-e74c27d31777,Liverpool,Fulham,Fulham_Liverpool,Fulham_Liverpool_2009

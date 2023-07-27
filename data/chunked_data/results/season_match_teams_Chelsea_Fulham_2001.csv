@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2001,8,Fulham,0.0,0.0,Chelsea,1.0,1.0,0,Graham Poll,draw,draw,425e7b04-3e20-5baa-8ba4-bde5311a3d2a,4e26d9d5-e485-5a81-89cc-54f401fd5f3c,fb9cff75-dd4b-564d-8c77-f464e85ce13d,Fulham,Chelsea,Chelsea_Fulham,Chelsea_Fulham_2001
+2001,29,Chelsea,0.0,0.0,Fulham,3.0,2.0,0,Peter Jones,Chelsea,Fulham,257839ae-5a32-556a-942a-af6da2ad3612,4e26d9d5-e485-5a81-89cc-54f401fd5f3c,fb9cff75-dd4b-564d-8c77-f464e85ce13d,Chelsea,Fulham,Chelsea_Fulham,Chelsea_Fulham_2001

@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+1998,5,West Ham,0.0,0.0,Liverpool,2.0,1.0,0,Jeff Winter,West Ham,Liverpool,04ac7394-23a8-53f2-a23c-e7d04481ebcf,6a1c93ca-93e5-5213-8209-7240e803465d,2f20b3ae-17c5-51ec-bb08-a07e423c0727,West Ham,Liverpool,Liverpool_West Ham,Liverpool_West Ham_1998
+1998,26,Liverpool,0.0,0.0,West Ham,2.0,2.0,0,Neale Barry,draw,draw,967f78ae-9e2a-57c5-9a73-349b69ef065e,6a1c93ca-93e5-5213-8209-7240e803465d,2f20b3ae-17c5-51ec-bb08-a07e423c0727,Liverpool,West Ham,Liverpool_West Ham,Liverpool_West Ham_1998

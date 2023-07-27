@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2001,3,Bolton,0.0,0.0,Liverpool,2.0,1.0,0,Graham Poll,Bolton,Liverpool,3f294072-1506-5f21-9ad0-9b28a79d0bff,fc69fbcd-6de6-5b5a-bafa-cd0d872f1453,3e756ad4-e2e7-5999-8ce4-a5c2d3b63655,Bolton,Liverpool,Bolton_Liverpool,Bolton_Liverpool_2001
+2001,21,Liverpool,0.0,0.0,Bolton,1.0,1.0,0,Clive Wilkes,draw,draw,c9dc1033-eaa7-511e-81e2-b4c03422b2bc,fc69fbcd-6de6-5b5a-bafa-cd0d872f1453,3e756ad4-e2e7-5999-8ce4-a5c2d3b63655,Liverpool,Bolton,Bolton_Liverpool,Bolton_Liverpool_2001

@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2012,10,Manchester Utd,0.0,0.0,Arsenal,2.0,1.0,0,Mike Dean,Manchester Utd,Arsenal,64279323-3031-5312-a881-be6ec7a94c7e,145708a5-26f6-516b-aee0-962ba59bdbbd,14be590a-63e6-5713-8073-9f034389e77a,Manchester Utd,Arsenal,Arsenal_Manchester Utd,Arsenal_Manchester Utd_2012
+2012,35,Arsenal,0.0,0.0,Manchester Utd,1.0,1.0,0,Phil Dowd,draw,draw,42fb3d78-19eb-55f7-8dce-9e912cfae31d,145708a5-26f6-516b-aee0-962ba59bdbbd,14be590a-63e6-5713-8073-9f034389e77a,Arsenal,Manchester Utd,Arsenal_Manchester Utd,Arsenal_Manchester Utd_2012

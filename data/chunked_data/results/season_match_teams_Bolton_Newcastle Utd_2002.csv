@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2002,20,Bolton,0.0,0.0,Newcastle Utd,4.0,3.0,0,Uriah Rennie,Bolton,Newcastle Utd,856dd94a-1908-5269-8123-704715b99ec4,50eb2f7b-9020-5643-993a-f47297c65e63,48fcd61b-3d5d-5814-aed7-61d9f04e84c8,Bolton,Newcastle Utd,Bolton_Newcastle Utd,Bolton_Newcastle Utd_2002
+2002,3,Newcastle Utd,0.0,0.0,Bolton,1.0,0.0,0,Phil Dowd,Newcastle Utd,Bolton,6894ffc4-3513-5554-a064-76f0fc047206,50eb2f7b-9020-5643-993a-f47297c65e63,48fcd61b-3d5d-5814-aed7-61d9f04e84c8,Newcastle Utd,Bolton,Bolton_Newcastle Utd,Bolton_Newcastle Utd_2002

@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2021,15,Wolves,0.1,2.7,Liverpool,0.0,1.0,2021-12-04,0,Liverpool,Wolves,e3274fa1-5718-5c1a-a58c-0e862f94d189,c93ae0e1-694f-59e1-9f2c-4ff33b4bbe1e,4ed34a20-13d1-54c8-8c3a-4c32c243281d,Wolves,Liverpool,Liverpool_Wolves,Liverpool_Wolves_2021
+2021,38,Liverpool,2.7,1.3,Wolves,3.0,1.0,2022-05-22,0,Liverpool,Wolves,fa277122-0acc-5446-8282-7e4d4308e904,c93ae0e1-694f-59e1-9f2c-4ff33b4bbe1e,4ed34a20-13d1-54c8-8c3a-4c32c243281d,Liverpool,Wolves,Liverpool_Wolves,Liverpool_Wolves_2021

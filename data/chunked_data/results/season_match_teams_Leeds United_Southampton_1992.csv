@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+1992,9,Southampton,0.0,0.0,Leeds United,1.0,1.0,0,Alf Buksh,draw,draw,9f060467-d859-5319-9524-73a2e1ce4ff3,ef1a9f8c-b4f6-5793-b36a-a6e6b6cfdcfe,2d63bdd2-c3f4-564c-95f4-980144beca43,Southampton,Leeds United,Leeds United_Southampton,Leeds United_Southampton_1992
+1992,23,Leeds United,0.0,0.0,Southampton,2.0,1.0,0,Ron Groves,Leeds United,Southampton,bf4ab8dd-cfc3-5507-8562-bbf39cb6e889,ef1a9f8c-b4f6-5793-b36a-a6e6b6cfdcfe,2d63bdd2-c3f4-564c-95f4-980144beca43,Leeds United,Southampton,Leeds United_Southampton,Leeds United_Southampton_1992

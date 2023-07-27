@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2000,9,Ipswich Town,0.0,0.0,West Ham,1.0,1.0,0,Neale Barry,draw,draw,67b16b47-ce8e-51c1-81a0-48a4d61a7ca2,c579c7bd-169b-5c86-a446-2202608d66c9,85bafc50-8f3e-5dcf-bf40-444626a79039,Ipswich Town,West Ham,Ipswich Town_West Ham,Ipswich Town_West Ham_2000
+2000,30,West Ham,0.0,0.0,Ipswich Town,0.0,1.0,0,Mike Dean,Ipswich Town,West Ham,bee92374-c28f-5abe-9402-b255b06a5323,c579c7bd-169b-5c86-a446-2202608d66c9,85bafc50-8f3e-5dcf-bf40-444626a79039,West Ham,Ipswich Town,Ipswich Town_West Ham,Ipswich Town_West Ham_2000

@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2015,16,West Ham,0.0,0.0,Stoke City,0.0,0.0,0,Andre Marriner,draw,draw,deb05e74-8f89-58b1-90ef-8b2bfdf4ee78,d7d271da-9c11-5ac4-9de2-9f04a05bb649,c407b55a-1a6d-5081-a4e0-889e3fe6b1be,West Ham,Stoke City,Stoke City_West Ham,Stoke City_West Ham_2015
+2015,38,Stoke City,0.0,0.0,West Ham,2.0,1.0,0,Mike Jones,Stoke City,West Ham,a9478b71-4543-5e3f-a885-7df2c288b8ef,d7d271da-9c11-5ac4-9de2-9f04a05bb649,c407b55a-1a6d-5081-a4e0-889e3fe6b1be,Stoke City,West Ham,Stoke City_West Ham,Stoke City_West Ham_2015

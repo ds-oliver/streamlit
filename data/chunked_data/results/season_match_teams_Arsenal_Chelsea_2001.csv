@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,winning_team,losing_team,match_id,matchup_merge_key,season_merge_key,team,opponent,match_teams,season_match_teams
+2001,4,Chelsea,0.0,0.0,Arsenal,1.0,1.0,0,Mike Riley,draw,draw,83a44ff9-774d-558e-94cb-33b539bfc6cc,2c8116f3-1ca3-585b-8495-a8fcd582a466,22a972c7-0095-53f7-84a8-0acf083c66be,Chelsea,Arsenal,Arsenal_Chelsea,Arsenal_Chelsea_2001
+2001,19,Arsenal,0.0,0.0,Chelsea,2.0,1.0,0,Graham Barber,Arsenal,Chelsea,c4981514-44cd-5e41-887c-a6d221622a96,2c8116f3-1ca3-585b-8495-a8fcd582a466,22a972c7-0095-53f7-84a8-0acf083c66be,Arsenal,Chelsea,Arsenal_Chelsea,Arsenal_Chelsea_2001
