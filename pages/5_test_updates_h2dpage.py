@@ -110,18 +110,6 @@ def get_top_players(team, player_df, stat, top=5):
 
 @st.cache_data
 def get_teams_stats(df, team1, team2):
-    """
-    Get the stats for two teams for a specific matchup_merge_key.
-
-    Parameters:
-    df (DataFrame): The DataFrame to get the stats from.
-    team1 (str): The first team to get stats for.
-    team2 (str): The second team to get stats for.
-
-    Returns:
-    dict, dict: Two dictionaries with the statistics for the two teams.
-    """
-    # Initialize stats dictionaries
     stats_team1 = {
         'total_games': 0,
         'total_wins': 0,
@@ -143,7 +131,6 @@ def get_teams_stats(df, team1, team2):
         'Clean Sheets': 0
     }
 
-    # Filter df for games with team1 and team2
     df_filtered = df[(df['home_team'].isin([team1, team2])) & (df['away_team'].isin([team1, team2]))]
 
     for index, row in df_filtered.iterrows():
@@ -153,28 +140,46 @@ def get_teams_stats(df, team1, team2):
             stats_team1['total_goals_conceded'] += row['away_score']
             stats_team1['xG For'] += row['home_xg']
             stats_team1['xG Against'] += row['away_xg']
-            if row['away_score'] == 0:
-                stats_team1['Clean Sheets'] += 1
+            stats_team1['Clean Sheets'] += 1 if row['away_score'] == 0 else 0
             if row['winning_team'] == team1:
                 stats_team1['total_wins'] += 1
-            elif row['winning_team'] == 'draw':
-                continue
-            else:
+            elif row['losing_team'] == team1:
                 stats_team1['total_losses'] += 1
-                
+
+        if row['away_team'] == team1:
+            stats_team1['total_games'] += 1
+            stats_team1['total_goals_scored'] += row['away_score']
+            stats_team1['total_goals_conceded'] += row['home_score']
+            stats_team1['xG For'] += row['away_xg']
+            stats_team1['xG Against'] += row['home_xg']
+            stats_team1['Clean Sheets'] += 1 if row['home_score'] == 0 else 0
+            if row['winning_team'] == team1:
+                stats_team1['total_wins'] += 1
+            elif row['losing_team'] == team1:
+                stats_team1['total_losses'] += 1
+
         if row['home_team'] == team2:
             stats_team2['total_games'] += 1
             stats_team2['total_goals_scored'] += row['home_score']
             stats_team2['total_goals_conceded'] += row['away_score']
             stats_team2['xG For'] += row['home_xg']
             stats_team2['xG Against'] += row['away_xg']
-            if row['away_score'] == 0:
-                stats_team2['Clean Sheets'] += 1
+            stats_team2['Clean Sheets'] += 1 if row['away_score'] == 0 else 0
             if row['winning_team'] == team2:
                 stats_team2['total_wins'] += 1
-            elif row['winning_team'] == 'draw':
-                continue
-            else:
+            elif row['losing_team'] == team2:
+                stats_team2['total_losses'] += 1
+
+        if row['away_team'] == team2:
+            stats_team2['total_games'] += 1
+            stats_team2['total_goals_scored'] += row['away_score']
+            stats_team2['total_goals_conceded'] += row['home_score']
+            stats_team2['xG For'] += row['away_xg']
+            stats_team2['xG Against'] += row['home_xg']
+            stats_team2['Clean Sheets'] += 1 if row['home_score'] == 0 else 0
+            if row['winning_team'] == team2:
+                stats_team2['total_wins'] += 1
+            elif row['losing_team'] == team2:
                 stats_team2['total_losses'] += 1
 
     return stats_team1, stats_team2
