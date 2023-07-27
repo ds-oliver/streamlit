@@ -77,7 +77,7 @@ def clean_dataframes(df):
 
     return df
 
-@st.cache_data(allow_output_mutation=True)
+@st.cache_data
 def get_top_players(team, player_df, stat, top=5):
     """
     Get the top players from a team for a given statistic.
@@ -108,7 +108,7 @@ def get_top_players(team, player_df, stat, top=5):
 
 
 
-@st.cache_data(allow_output_mutation=True)
+@st.cache_data
 def get_teams_stats(df, team1, team2):
     """
     Get the stats for two teams for a specific matchup_merge_key.
