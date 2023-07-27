@@ -203,18 +203,19 @@ def get_teams_stats(df, team1, team2):
     return stats_team1, stats_team2
 
 def show_head2head_analysis(df_all_seasons, player_df):
-    # Create a list of teams
-    team_list = sorted(df_all_seasons['home_team'].unique().tolist())
 
     st.info('Select season(s) you want to compare. \nNote: Default is the most recent season')
 
     # create a multiselect for seasons to select one or many seasons but it should default to the most recent season
-    season_selection = st.multiselect('Select Season(s)', sorted(df_all_seasons['season'].unique().tolist()), default=sorted(df_all_seasons['season'].unique().tolist())[-1])
+    season_selection = st.multiselect('Select Season(s)', sorted(df_all_seasons['season'].unique().tolist()), default=reversed(sorted(df_all_seasons['season'].unique().tolist())[-1]))
 
     # Filter the DataFrame based on the season(s) selected
     df_filtered = df_all_seasons[df_all_seasons['season'].isin(season_selection)]
 
     st.info('Select the teams you want to compare')
+
+    # Create a list of teams
+    team_list = sorted(df_all_seasons['home_team'].unique().tolist())
 
     # Create two selectboxes for the two teams
     team_selection1 = st.selectbox('Select Primary Team', team_list)
