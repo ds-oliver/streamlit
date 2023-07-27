@@ -237,13 +237,13 @@ def show_head2head_analysis(df_all_seasons, player_df):
     # Display the DataFrame
     st.dataframe(df_stats)
 
-    stat_list = [col for col in player_df.columns if (player_df[col].dtype == 'float64' or player_df[col].dtype == 'int64')]
-
-    default_stats = ['npxg', 'sca', 'gca']
-    default_stats = [stat for stat in default_stats if stat in stat_list]
-
-    # Let the user select a stat
-    selected_stats = st.multiselect('Select player stat', stat_list, default=default_stats)
+    # Update the get_top_players function with selected team and stats
+    for stat in selected_stats:
+        top_players_matchup, top_players_season = get_top_players(team_selection1, player_df, stat)
+        st.write(f'Top players for {team_selection1} in matchup based on {stat}')
+        st.dataframe(top_players_matchup)
+        st.write(f'Top players for {team_selection1} in season based on {stat}')
+        st.dataframe(top_players_season)    
 
     # If no stat is selected, use the default stats
     if not selected_stats:
