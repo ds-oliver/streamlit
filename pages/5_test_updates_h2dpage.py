@@ -4,7 +4,7 @@ import numpy as np
 import re
 import uuid
 
-@st.cache_data
+# @st.cache_data
 def load_player_data():
     player_df = pd.read_csv('data/all_seasons_combined_df_2023-07-25_12-50-09.csv')
     player_df = player_df.apply(lambda x: x.fillna(0) if x.dtype.kind in 'biufc' else x.fillna('None'))
@@ -12,10 +12,16 @@ def load_player_data():
     player_df = player_df.drop(drop_cols, axis=1)
     return player_df
 
-@st.cache_data
+# @st.cache_data
 def process_player_data(player_df):
     player_df['year'] = player_df['season'].str[:4]
     player_df = player_df.rename(columns={'season': 'season_long', 'year': 'season', 'position_1': 'position'})
+    
+    # create match_teams column from team and opponent where we sort the team and opponent alphabetically and join with _
+    player_df['match_teams'] = player_df.apply(lambda row: '_'.join(sorted([row['team'], row['opponent']])), axis=1).strip() 
+
+    # create season_match_teams column from match_teams and season
+    player_df['season_match_teams'] = player_df['match_teams'] + '_' + player_df['season'].astype(str)
 
     conditions = [
         (player_df['home'] == True),
@@ -34,7 +40,6 @@ def process_player_data(player_df):
     # create season_merge_key which is sorted home_team + away_team + season
     player_df['season_merge_key'] = player_df.apply(lambda row: '_'.join(sorted([row['home_team'], row['away_team']] + [row['season']])), axis=1)
 
-
     # player_df['season_merge_key'] = player_df['matchup_merge_key'] + player_df['season']
 
     player_df['season_gameweek'] = player_df['season'] + '_' + player_df['gameweek'].astype(str)
@@ -43,7 +48,7 @@ def process_player_data(player_df):
 
     return player_df
 
-@st.cache_data
+# @st.cache_data
 def clean_dataframes(df):
     """Description: This function cleans the dataframes by removing unnecessary columns, reordering columns, creating new columns and renaming columns.
     
@@ -72,12 +77,25 @@ def clean_dataframes(df):
     df['matchup_merge_key'] = df[['home_team', 'away_team']].applymap(str).apply(lambda x: ''.join(x), axis=1).apply(lambda x: uuid.uuid5(uuid.NAMESPACE_DNS, x))
     df['season_merge_key'] = df[['home_team', 'away_team', 'season']].applymap(str).apply(lambda x: ''.join(x), axis=1).apply(lambda x: uuid.uuid5(uuid.NAMESPACE_DNS, x))
 
-    # ifna() 0
+    # create team and opponent columns from home_team and away_team
+    df['team'] = df['home_team']
+    df['opponent'] = df['away_team']
+
+    # create match_teams column from team and opponent where we sort the team and opponent alphabetically and join with _
+    df['match_teams'] = df.apply(lambda row: '_'.join(sorted([row['team'], row['opponent']])), axis=1).strip() 
+
+    # create season_match_teams column from match_teams and season
+    df['season_match_teams'] = df['match_teams'] + '_' + df['season'].astype(str)
+
+    # df['match_teams'] = df['team'] + '_' + df['opponent']
+
+    # fillna() 0
+
     df = df.fillna(0)
 
     return df
 
-@st.cache_data
+# @st.cache_data
 def get_top_players(team, player_df, stat, top=5):
     """
     Get the top players from a team for a given statistic.
@@ -108,7 +126,7 @@ def get_top_players(team, player_df, stat, top=5):
 
 
 
-@st.cache_data
+# @st.cache_data
 def get_teams_stats(df, team1, team2):
     stats_team1 = {
         'total_games': 0,
