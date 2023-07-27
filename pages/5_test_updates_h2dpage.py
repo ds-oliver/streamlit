@@ -4,6 +4,7 @@ import numpy as np
 import re
 import uuid
 
+@st.cache
 def load_player_data():
     player_df = pd.read_csv('data/all_seasons_combined_df_2023-07-25_12-50-09.csv')
     player_df = player_df.apply(lambda x: x.fillna(0) if x.dtype.kind in 'biufc' else x.fillna('None'))
@@ -11,6 +12,7 @@ def load_player_data():
     player_df = player_df.drop(drop_cols, axis=1)
     return player_df
 
+@st.cache
 def process_player_data(player_df):
     player_df['year'] = player_df['season'].str[:4]
     player_df = player_df.rename(columns={'season': 'season_long', 'year': 'season', 'position_1': 'position'})
@@ -41,6 +43,7 @@ def process_player_data(player_df):
 
     return player_df
 
+@st.cache
 def clean_dataframes(df):
     """Description: This function cleans the dataframes by removing unnecessary columns, reordering columns, creating new columns and renaming columns.
     
@@ -74,6 +77,7 @@ def clean_dataframes(df):
 
     return df
 
+@st.cache(allow_output_mutation=True)
 def get_top_players(team, player_df, stat, top=5):
     """
     Get the top players from a team for a given statistic.
@@ -104,7 +108,7 @@ def get_top_players(team, player_df, stat, top=5):
 
 
 
-
+@st.cache(allow_output_mutation=True)
 def get_teams_stats(df, team1, team2):
     """
     Get the stats for two teams for a specific matchup_merge_key.
@@ -221,7 +225,6 @@ def show_head2head_analysis(df_all_seasons, player_df):
         st.dataframe(top5_team1)
         st.subheader(f'Top 5 {team_selection2} players by {stat}:')
         st.dataframe(top5_team2)
-
 
 def main():
     # Load and process player data
