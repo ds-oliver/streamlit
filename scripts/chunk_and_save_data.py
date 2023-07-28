@@ -303,6 +303,20 @@ def save_as_dbs(players_dataframe, results_dataframe, db_path=DB_PATH):
     results_dataframe.to_sql('results', sqlite3.connect(os.path.join(db_path, 'results.db')), if_exists='replace', index=False)
 
 def load_data_from_db(db_path=DB_PATH):
+    """
+    Loads data from SQLite3 databases
+
+    Args:
+        db_path (str): directory to save SQLite3 db files
+
+    Returns:
+        players_df (DataFrame): dataframe of players data
+        results_df (DataFrame): dataframe of results data
+    """
+
+    cursor = conn_players.cursor()
+    cursor.execute("SELECT name FROM sqlite_master WHERE type='table';")
+    print(cursor.fetchall())
     # Load data from SQLite databases
     conn_players = sqlite3.connect(os.path.join(db_path, 'players.db'))
     players_df = pd.read_sql_query("SELECT * FROM players", conn_players)
