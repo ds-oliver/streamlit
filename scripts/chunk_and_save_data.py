@@ -15,7 +15,7 @@ from log_it import set_up_logs, log_start_of_script, log_end_of_script, log_star
 # Constants
 DATA_TO_LOAD_PATH = 'data/chunked_data/original_results_players_data/'
 CSV_PATH = 'data/chunked_data/csv_files/'
-DB_PATH = 'data/chunked_data/db_files/'
+DB_PATH = 'data/data_out/db_files'
 FINAL_CSVS_PATH = 'data/data_out/csv_files/'
 FINAL_DBS_PATH = 'data/data_out/db_files/'
 LEFT_MERGE_CSV_FILENAME = 'left_merge_df.csv'
