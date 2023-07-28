@@ -461,7 +461,7 @@ def main():
         save_as_csvs_start_time = log_start_of_function('save_as_csvs')
 
         save_as_csvs(left_merge_players_dict, left_merge_players_df, CSV_PATH, FINAL_CSVS_PATH)
-        save_as_csvs(only_results_dict, all_results_df, CSV_PATH, FINAL_CSVS_PATH)
+        save_as_csvs(only_results_dict, only_results_df, CSV_PATH, FINAL_CSVS_PATH)
         print(f"Dictionaries saved as CSVs.\n--- {round((time.time() - start_time) / 60, 2)} minutes, ({round(time.time() - start_time, 2)} seconds) have elapsed since the start ---")
 
         # log the end of the save_as_csvs function
