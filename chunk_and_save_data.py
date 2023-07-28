@@ -97,7 +97,10 @@ def test_database(db_path):
     return True
 
 # set up logs
-set_up_logs()
+log_file_path = set_up_logs()
+
+# log start of script
+script_start_time, script_end_time = log_start_of_script(log_file_path)
 
 LIST_OF_CSVS = ['players_all_seasons_data', 'df_2017_2018', 'df_2018_2019', 'df_2019_2020', 'df_2020_2021', 'df_2021_2022', 'df_2022_2023', 'df_1992_2016']
 
@@ -314,6 +317,9 @@ def clean_duplicate_columns(merged_df):
 
 def main():
     
+    # log start of main() function
+    main_function_start_time = log_start_of_function('main()')
+    
     # time the execution of the script
     start_time = time.time()
 
@@ -342,10 +348,10 @@ def main():
         all_results_df = pd.concat(dict_of_dfs.values(), axis=0)
 
         # Clean the dataframes
-        start_time = log_start_of_function('clean_results')
+        clean_results_start_time = log_start_of_function('clean_results')
         all_results_df = clean_results(all_results_df)
         players_df = clean_players(players_df)
-        log_end_of_function('clean_results', start_time)
+        log_end_of_function('clean_results', clean_results_start_time)
 
         only_results_df = all_results_df.copy()
 
@@ -355,9 +361,9 @@ def main():
 
         # merge on index
         print(f"Merging the dataframes...")
-        log_start_of_function('merge')
+        merge_start_of_function = log_start_of_function('merge')
         left_merge_players_df = players_df.merge(all_results_df, left_index=True, right_index=True, how='left')
-        log_end_of_function('merge')
+        log_end_of_function('merge', merge_start_of_function)
         print(f"Merge complete.")
         print(f"--- {time.time() - start_time} seconds ---")
 
@@ -367,29 +373,57 @@ def main():
 
         # rename match_teams_x to match_teams and season_match_teams_x to season_match_teams
         left_merge_players_df.rename(columns={'match_teams_x': 'match_teams', 'season_match_teams_x': 'season_match_teams'}, inplace=True)    
+
+        # log the start of the clean_duplicate_columns function
+        clean_duplicate_columns_start_time = log_start_of_function('clean_duplicate_columns')
         left_merge_players_df = clean_duplicate_columns(left_merge_players_df)
+        log_end_of_function('clean_duplicate_columns', clean_duplicate_columns_start_time)
 
         # Cut the dataframes into smaller ones
         # print fstring
         print(f"Chunking the dataframes...")
+
+        # log the start of the cut_df function
+        cut_df_start_time = log_start_of_function('cut_df')
+
         left_merge_players_dict = cut_df(left_merge_players_df, ['match_teams', 'season_match_teams'])
         only_results_dict = cut_df(all_results_df, ['match_teams', 'season_match_teams'])
         print(f"Chunking complete.\n--- {time.time() - start_time} seconds ---")
 
+        # log the end of the cut_df function
+        log_end_of_function('cut_df', cut_df_start_time)
+
         # Calculate per90 stats for each dataframe in the players_df_dict
         print(f"Calculating per90 stats...")
+        # log the start of the calculate_per90s function
+        calculate_per90s_start_time = log_start_of_function('calculate_per90s')
         left_merge_players_dict = calculate_per90s(left_merge_players_dict)
         print(f"Per90 stats calculated.\n--- {time.time() - start_time} seconds ---")
+        # log the end of the calculate_per90s function
+        log_end_of_function('calculate_per90s', calculate_per90s_start_time)
 
         # Save the dataframes
         print(f"Saving the Dictionaries saved as CSVs...")
+
+        # log the start of the save_as_csvs function
+        save_as_csvs_start_time = log_start_of_function('save_as_csvs')
+
         save_as_csvs(left_merge_players_dict, left_merge_players_df, CSV_PATH, FINAL_CSVS_PATH)
         save_as_csvs(only_results_dict, all_results_df, CSV_PATH, FINAL_CSVS_PATH)
         print(f"Dictionaries saved as CSVs.\n--- {time.time() - start_time} seconds ---")
 
+        # log the end of the save_as_csvs function
+        log_end_of_function('save_as_csvs', save_as_csvs_start_time)
+
         print(f"Saving the Dataframes saved as Databases...")
+
+        # log the start of the save_as_dbs function
+        save_as_dbs_start_time = log_start_of_function('save_as_dbs')
         save_as_dbs(left_merge_players_df, only_results_df, FINAL_DBS_PATH)
         print(f"Dataframes saved as Databases.\n--- {time.time() - start_time} seconds ---")
+
+        # log the end of the save_as_dbs function
+        log_end_of_function('save_as_dbs', save_as_dbs_start_time)
 
         print(f"Dictionaries saved as CSVs & Dataframes saved as Databases saved.\n--- {time.time() - start_time} seconds ---")
         
@@ -398,6 +432,9 @@ def main():
 
     # Print the execution time
     print(f"Script executed in {time.time() - start_time} seconds.")
+
+    # log end of main() function
+    log_end_of_function('main()', main_function_start_time)
 
     return left_merge_players_df, only_results_df
 
@@ -410,4 +447,5 @@ if __name__ == "__main__":
     print(left_merge_players_df.isnull().sum())
     print(left_merge_players_df['matchup_merge_key'].nunique())
     print(left_merge_players_df['matchup_merge_key'].value_counts())
+    
 

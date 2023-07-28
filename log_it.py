@@ -63,7 +63,7 @@ def log_start_of_function(function_name):
         # Log the start of the function
         logging.info("Function {} started".format(function_name))
 
-    return function_start_time, function_end_time
+    return function_start_time
 
 # Log the end of the function
 def log_end_of_function(function_name, function_start_time):
