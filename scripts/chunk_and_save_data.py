@@ -611,7 +611,7 @@ def main():
         # log the start of the save_as_csvs function
         save_as_csvs_start_time = log_start_of_function('save_as_csvs')
 
-        save_as_csvs(left_merge_players_dict, left_merge_players_df, PLAYERS_CHUNKED_CSVS_PATH, FINAL_CSVS_PATH, is_players=True)
+        save_as_csvs(left_merge_players_dict, left_merge_players_df, PLAYERS_CHUNKED_CSVS_PATH, FINAL_CSVS_PATH, is_players_df=True)
         save_as_csvs(only_results_dict, only_results_df, RESULTS_CHUNKED_CSVS_PATH, FINAL_CSVS_PATH)
         print(f"Dictionaries saved as CSVs.\n--- {round((time.time() - start_time) / 60, 2)} minutes, ({round(time.time() - start_time, 2)} seconds) have elapsed since the start ---")
 
