@@ -138,12 +138,16 @@ def clean_results(results_df):
 
     results_df['team'] = results_df['home_team']
     results_df['opponent'] = results_df['away_team']
-    results_df['match_teams'] = ['_'.join(sorted(map(str, row))) for row in zip(results_df['team'], results_df['opponent'])].astype(str)
+    results_df['match_teams'] = ['_'.join(sorted(map(str, row))) for row in zip(results_df['team'], results_df['opponent'])]
     results_df['season_match_teams'] = results_df['match_teams'] + '_' + results_df['season'].astype(str)
 
     # strip whitespace from match_teams column and season_match_teams column
     results_df['match_teams'] = results_df['match_teams'].str.replace(' ', '_')
     results_df['season_match_teams'] = results_df['season_match_teams'].replace(' ', '_')
+
+    # convert to string
+    results_df['match_teams'] = results_df['match_teams'].astype(str)
+    results_df['season_match_teams'] = results_df['season_match_teams'].astype(str)
 
     results_df = results_df.fillna(0)
     return results_df
