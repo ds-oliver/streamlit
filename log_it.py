@@ -111,7 +111,7 @@ def log_end_of_script(script_name, script_start_time):
     # log time elapsed
     time_elapsed = script_end_time - script_start_time
     # Log the start of the script, use this format --- {round((time.time() - start_time) / 60, 2)} minutes, ({round(time.time() - start_time, 2)} seconds) have elapsed since the start --- to log time elapsed in minutes and seconds to log how long the script took to run and how long the app has been running
-    logging.info(f"Script {script_name} started, ({round((time.time() - script_start_time) / 60, 2)} minutes, ({round(time.time() - script_start_time, 2)} seconds) have elapsed since the start)"
+    logging.info(f"Script {script_name} started, ({round((time.time() - script_start_time) / 60, 2)} minutes, ({round(time.time() - script_start_time, 2)} seconds) have elapsed since the start)")
 
 # log dataframe details
 def log_dataframe_details(dataframe_name, dataframe):
