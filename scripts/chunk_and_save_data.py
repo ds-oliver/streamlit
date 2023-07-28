@@ -18,9 +18,9 @@ from log_it import set_up_logs, log_start_of_script, log_end_of_script, log_star
 # Constants
 DATA_TO_LOAD_PATH = 'data/chunked_data/original_results_players_data/'
 CSV_PATH = 'data/chunked_data/csv_files/'
-DB_PATH = 'data/data_out/db_files'
+# DB_PATH = 'data/data_out/db_files'
 FINAL_CSVS_PATH = 'data/data_out/csv_files/'
-FINAL_DBS_PATH = 'data/data_out/db_files/'
+DB_PATH = "/Users/hogan/Library/CloudStorage/Dropbox/Mac/Documents/GitHub/streamlit/data/data_out/db_files"
 LEFT_MERGE_CSV_FILENAME = 'left_merge_df.csv'
 ONLY_RESULTS_CSV_FILENAME = 'only_results_df.csv'
 
@@ -365,12 +365,12 @@ def main():
     os.makedirs(DATA_TO_LOAD_PATH, exist_ok=True)
 
     # Create final database directory if it doesn't exist
-    os.makedirs(FINAL_DBS_PATH, exist_ok=True)
+    os.makedirs(DB_PATH, exist_ok=True)
     # Call load_data() function
     dict_of_dfs = load_data(DATA_TO_LOAD_PATH)
 
     # Create SQLite connection
-    conn = sqlite3.connect(FINAL_DBS_PATH + LEFT_MERGE_DB_FILENAME)
+    conn = sqlite3.connect(DB_PATH + LEFT_MERGE_DB_FILENAME)
     print(f"Opened database successfully")
     print(f"--- {round((time.time() - start_time) / 60, 2)} minutes, ({round(time.time() - start_time, 2)} seconds) have elapsed since the start ---")
 
@@ -489,7 +489,7 @@ def main():
         # log the start of the save_as_dbs function
         save_as_dbs_start_time = log_start_of_function('save_as_dbs')
 
-        save_as_dbs(left_merge_players_df, only_results_df, FINAL_DBS_PATH)
+        save_as_dbs(left_merge_players_df, only_results_df, DB_PATH)
 
         print(f"Dataframes saved as Databases.\n--- {round((time.time() - start_time) / 60, 2)} minutes, ({round(time.time() - start_time, 2)} seconds) ---")
 

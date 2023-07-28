@@ -10,5 +10,5 @@ sys.path.append('/Users/hogan/Library/CloudStorage/Dropbox/Mac/Documents/GitHub/
 
 from chunk_and_save_data import load_data_from_db
 
-data = load_data_from_db()
-st.write(data)
+players_df, results_df = load_data_from_db()
+st.write(players_df)
