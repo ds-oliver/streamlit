@@ -317,11 +317,11 @@ def load_data_from_db(db_path=DB_PATH):
         results_df (DataFrame): dataframe of results data
     """
 
+    # Load data from SQLite databases
+    conn_players = sqlite3.connect(os.path.join(db_path, 'players.db'))
     cursor = conn_players.cursor()
     cursor.execute("SELECT name FROM sqlite_master WHERE type='table';")
     print(cursor.fetchall())
-    # Load data from SQLite databases
-    conn_players = sqlite3.connect(os.path.join(db_path, 'players.db'))
     players_df = pd.read_sql_query("SELECT * FROM players", conn_players)
 
     conn_results = sqlite3.connect(os.path.join(db_path, 'results.db'))
