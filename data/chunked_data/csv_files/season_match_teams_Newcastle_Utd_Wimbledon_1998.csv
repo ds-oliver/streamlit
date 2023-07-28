@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
+1998,15,Newcastle Utd,0.0,0.0,Wimbledon,3.0,1.0,0,Uriah Rennie,0,0,0,0,2664,Newcastle Utd,Wimbledon,ca3e2820-d33c-56ae-96b5-57406ef6e18e,7283bf28-6bdd-51eb-b0d1-aeffafc466db,Newcastle Utd,Wimbledon,Newcastle Utd_Wimbledon,Newcastle Utd_Wimbledon_1998
+1998,35,Wimbledon,0.0,0.0,Newcastle Utd,1.0,1.0,0,Peter Jones,0,0,0,0,2866,draw,draw,d47d535a-7986-5cf5-952a-f74a3ef6c958,7283bf28-6bdd-51eb-b0d1-aeffafc466db,Wimbledon,Newcastle Utd,Newcastle Utd_Wimbledon,Newcastle Utd_Wimbledon_1998

@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
+2020,14,Chelsea,2.0,0.4,West Ham,3.0,0.0,2020-12-21,Chris Kavanagh,Stamford Bridge,Mon,20:00,0,149,Chelsea,West Ham,d9c6ea55-5721-5bbf-b812-810029ecb966,a7d1514e-a44f-5b8c-a098-bef0720ae1ee,Chelsea,West Ham,Chelsea_West Ham,Chelsea_West Ham_2020
+2020,33,West Ham,0.4,2.5,Chelsea,0.0,1.0,2021-04-24,Chris Kavanagh,London Stadium,Sat,17:30,0,372,Chelsea,West Ham,4d4b337f-7df7-5ce6-b8a1-cc760f7a4647,a7d1514e-a44f-5b8c-a098-bef0720ae1ee,West Ham,Chelsea,Chelsea_West Ham,Chelsea_West Ham_2020

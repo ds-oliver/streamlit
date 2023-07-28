@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
+2009,8,Bolton,0.0,0.0,Tottenham,2.0,2.0,0,Mike Jones,0,0,0,0,6773,draw,draw,41c9dd7e-9450-59a2-8486-bbad15191625,b0df5892-4963-589b-ab6d-9ce3340b0774,Bolton,Tottenham,Bolton_Tottenham,Bolton_Tottenham_2009
+2009,37,Tottenham,0.0,0.0,Bolton,1.0,0.0,0,Chris Foy,0,0,0,0,7068,Tottenham,Bolton,99a85860-ad66-52ad-98ca-8fc81e1817df,b0df5892-4963-589b-ab6d-9ce3340b0774,Tottenham,Bolton,Bolton_Tottenham,Bolton_Tottenham_2009

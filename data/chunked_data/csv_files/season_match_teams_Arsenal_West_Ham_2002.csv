@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
+2002,2,West Ham,0.0,0.0,Arsenal,2.0,2.0,0,Neale Barry,0,0,0,0,4059,draw,draw,d18c50ac-caeb-5ac9-840b-d1fd34db5222,172fb21f-8610-5dd9-9fe1-5c3c517a4da2,West Ham,Arsenal,Arsenal_West Ham,Arsenal_West Ham_2002
+2002,24,Arsenal,0.0,0.0,West Ham,3.0,1.0,0,Mike Dean,0,0,0,0,4282,Arsenal,West Ham,803d063f-639c-556c-91e2-279aa9d64f41,172fb21f-8610-5dd9-9fe1-5c3c517a4da2,Arsenal,West Ham,Arsenal_West Ham,Arsenal_West Ham_2002

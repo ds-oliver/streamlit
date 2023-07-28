@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
+2003,2,Chelsea,0.0,0.0,Leicester City,2.0,1.0,0,Rob Styles,0,0,0,0,4440,Chelsea,Leicester City,aab93c9f-f403-5d91-8630-3b67a93a938a,423da7bb-1ff6-541f-a59e-cc506a3d3d4c,Chelsea,Leicester City,Chelsea_Leicester City,Chelsea_Leicester City_2003
+2003,21,Leicester City,0.0,0.0,Chelsea,0.0,4.0,0,Uriah Rennie,0,0,0,0,4632,Chelsea,Leicester City,d16b1062-32c3-565a-b195-1a45a60d7292,423da7bb-1ff6-541f-a59e-cc506a3d3d4c,Leicester City,Chelsea,Chelsea_Leicester City,Chelsea_Leicester City_2003

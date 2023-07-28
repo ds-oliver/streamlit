@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
+2014,19,Liverpool,0.0,0.0,Swansea City,4.0,1.0,0,Andre Marriner,0,0,0,0,8795,Liverpool,Swansea City,0f87f1db-0d6a-595b-a942-6fac6713e64c,6f661084-7c56-511b-a3cf-f37c51f7c17d,Liverpool,Swansea City,Liverpool_Swansea City,Liverpool_Swansea City_2014
+2014,29,Swansea City,0.0,0.0,Liverpool,0.0,1.0,0,Roger East,0,0,0,0,8894,Liverpool,Swansea City,171ecdb7-304f-54d7-a506-4a21f1dce59d,6f661084-7c56-511b-a3cf-f37c51f7c17d,Swansea City,Liverpool,Liverpool_Swansea City,Liverpool_Swansea City_2014

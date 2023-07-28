@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
+1997,1,Leeds United,0.0,0.0,Arsenal,1.0,1.0,0,Dermot Gallagher,0,0,0,0,2151,draw,draw,2078037e-e84f-5ca4-9295-1f0b0c66cd69,8281dfb0-c2a1-5ea1-9a6c-26de5c8b87f2,Leeds United,Arsenal,Arsenal_Leeds United,Arsenal_Leeds United_1997
+1997,22,Arsenal,0.0,0.0,Leeds United,2.0,1.0,0,Gerald Ashby,0,0,0,0,2362,Arsenal,Leeds United,133ae698-f97f-5471-9ad5-536c3908abb7,8281dfb0-c2a1-5ea1-9a6c-26de5c8b87f2,Arsenal,Leeds United,Arsenal_Leeds United,Arsenal_Leeds United_1997

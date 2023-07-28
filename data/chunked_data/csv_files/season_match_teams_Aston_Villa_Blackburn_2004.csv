@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
+2004,8,Blackburn,0.0,0.0,Aston Villa,2.0,2.0,0,Peter Walton,0,0,0,0,4880,draw,draw,52d09328-a22c-5fe7-8916-2471ed22e43e,cdba9bec-0e12-5093-98fe-5a0558878a92,Blackburn,Aston Villa,Aston Villa_Blackburn,Aston Villa_Blackburn_2004
+2004,21,Aston Villa,0.0,0.0,Blackburn,1.0,0.0,0,Howard Webb,0,0,0,0,5013,Aston Villa,Blackburn,e70ec8c0-a38f-55a9-835b-bd30504399ca,cdba9bec-0e12-5093-98fe-5a0558878a92,Aston Villa,Blackburn,Aston Villa_Blackburn,Aston Villa_Blackburn_2004

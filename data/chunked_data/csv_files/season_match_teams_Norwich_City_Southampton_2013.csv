@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
+2013,3,Norwich City,0.0,0.0,Southampton,1.0,0.0,0,Howard Webb,0,0,0,0,8248,Norwich City,Southampton,104be493-eb79-5f33-a33f-94df30711dc7,c493d0e9-6856-5c4e-8eb5-33e134df7cb2,Norwich City,Southampton,Norwich City_Southampton,Norwich City_Southampton_2013
+2013,30,Southampton,0.0,0.0,Norwich City,4.0,2.0,0,Kevin Friend,0,0,0,0,8510,Southampton,Norwich City,8076dfa1-af79-5f63-a934-07243d53cfad,c493d0e9-6856-5c4e-8eb5-33e134df7cb2,Southampton,Norwich City,Norwich City_Southampton,Norwich City_Southampton_2013

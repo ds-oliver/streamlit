@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
+1994,11,Arsenal,0.0,0.0,Coventry City,2.0,1.0,0,Alan Wilkie,0,0,0,0,1042,Arsenal,Coventry City,e0a1336c-ed0c-5b5a-a345-cd76f4cdee00,6d8ccd75-0e62-519a-a8d7-7a0f79d01659,Arsenal,Coventry City,Arsenal_Coventry City,Arsenal_Coventry City_1994
+1994,25,Coventry City,0.0,0.0,Arsenal,0.0,1.0,0,Joe Worrall,0,0,0,0,1186,Arsenal,Coventry City,3df64481-db53-5e43-bd5f-f9743a54de46,6d8ccd75-0e62-519a-a8d7-7a0f79d01659,Coventry City,Arsenal,Arsenal_Coventry City,Arsenal_Coventry City_1994

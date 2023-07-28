@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
+2014,8,Southampton,0.0,0.0,Sunderland,8.0,0.0,0,Andre Marriner,0,0,0,0,8681,Southampton,Sunderland,b0d5e9cf-72c8-5eba-bfd7-16630c32d8a1,14dffa24-545c-5e62-ba13-3a7d6e3268d8,Southampton,Sunderland,Southampton_Sunderland,Southampton_Sunderland_2014
+2014,35,Sunderland,0.0,0.0,Southampton,2.0,1.0,0,Mike Jones,0,0,0,0,8947,Sunderland,Southampton,96e86338-0c31-59d2-958f-53f5896528ba,14dffa24-545c-5e62-ba13-3a7d6e3268d8,Sunderland,Southampton,Southampton_Sunderland,Southampton_Sunderland_2014

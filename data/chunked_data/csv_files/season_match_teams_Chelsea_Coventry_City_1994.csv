@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
+1994,14,Chelsea,0.0,0.0,Coventry City,2.0,2.0,0,Stephen Lodge,0,0,0,0,1070,draw,draw,a5063ae2-00ae-5d76-8a5a-53e0c58fde4a,b522c7e9-693d-511b-942b-5060ebd5c8a7,Chelsea,Coventry City,Chelsea_Coventry City,Chelsea_Coventry City_1994
+1994,27,Coventry City,0.0,0.0,Chelsea,2.0,2.0,0,Robbie Hart,0,0,0,0,1210,draw,draw,0aa0e5c6-feca-541f-99c7-ef1a17e91931,b522c7e9-693d-511b-942b-5060ebd5c8a7,Coventry City,Chelsea,Chelsea_Coventry City,Chelsea_Coventry City_1994

@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
+2008,17,Tottenham,0.0,0.0,Manchester Utd,0.0,0.0,0,Mike Dean,0,0,0,0,6489,draw,draw,36bb6885-7911-5efc-a083-5309c77ee7ac,c6b3556e-0110-5e27-a778-86f88f7bd6b5,Tottenham,Manchester Utd,Manchester Utd_Tottenham,Manchester Utd_Tottenham_2008
+2008,34,Manchester Utd,0.0,0.0,Tottenham,5.0,2.0,0,Howard Webb,0,0,0,0,6657,Manchester Utd,Tottenham,4c7f53dd-ccd7-510c-8d74-d39a039c7b02,c6b3556e-0110-5e27-a778-86f88f7bd6b5,Manchester Utd,Tottenham,Manchester Utd_Tottenham,Manchester Utd_Tottenham_2008

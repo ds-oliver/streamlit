@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
+2011,4,Wolves,0.0,0.0,Tottenham,0.0,2.0,0,Peter Walton,0,0,0,0,7500,Tottenham,Wolves,049e794b-22cf-537a-b7db-8b0289f00c55,a1166009-2979-58cd-b515-62eb23948912,Wolves,Tottenham,Tottenham_Wolves,Tottenham_Wolves_2011
+2011,21,Tottenham,0.0,0.0,Wolves,1.0,1.0,0,Mike Jones,0,0,0,0,7667,draw,draw,c10cd22e-6b81-56fd-9deb-86dabe2e13cf,a1166009-2979-58cd-b515-62eb23948912,Tottenham,Wolves,Tottenham_Wolves,Tottenham_Wolves_2011

@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
+2008,17,Chelsea,0.0,0.0,West Ham,1.0,1.0,0,Mike Riley,0,0,0,0,6494,draw,draw,803762dc-899d-53e4-9b7c-ffd2772172a6,d13f3c99-e668-559d-b354-aa7321d4190a,Chelsea,West Ham,Chelsea_West Ham,Chelsea_West Ham_2008
+2008,34,West Ham,0.0,0.0,Chelsea,0.0,1.0,0,Mike Dean,0,0,0,0,6658,Chelsea,West Ham,7eb9215e-cacd-520f-8e62-f5d03cfe95c6,d13f3c99-e668-559d-b354-aa7321d4190a,West Ham,Chelsea,Chelsea_West Ham,Chelsea_West Ham_2008

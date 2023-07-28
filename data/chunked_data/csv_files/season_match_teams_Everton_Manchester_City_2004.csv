@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
+2004,5,Manchester City,0.0,0.0,Everton,0.0,1.0,0,Stephen Bennett,0,0,0,0,4849,Everton,Manchester City,8e3b10a0-b591-5d91-aac5-0a0c0224f7f6,9b1d92f7-7105-576e-b1d6-837a92e78e83,Manchester City,Everton,Everton_Manchester City,Everton_Manchester City_2004
+2004,19,Everton,0.0,0.0,Manchester City,2.0,1.0,0,Phil Dowd,0,0,0,0,4994,Everton,Manchester City,81ef8433-a05a-5eb3-8f16-1699a6b17774,9b1d92f7-7105-576e-b1d6-837a92e78e83,Everton,Manchester City,Everton_Manchester City,Everton_Manchester City_2004

@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
+1992,6,Aston Villa,0.0,0.0,Chelsea,1.0,3.0,0,Peter Foakes,0,0,0,0,59,Chelsea,Aston Villa,b4dda613-9fcf-54de-9701-8feccccc39e1,9e2e0f00-fd90-532c-94b9-43874ffbf58a,Aston Villa,Chelsea,Aston Villa_Chelsea,Aston Villa_Chelsea_1992
+1992,29,Chelsea,0.0,0.0,Aston Villa,0.0,1.0,0,Mike Peck,0,0,0,0,301,Aston Villa,Chelsea,6b426b84-388e-5ead-94b2-157917d55cf1,9e2e0f00-fd90-532c-94b9-43874ffbf58a,Chelsea,Aston Villa,Aston Villa_Chelsea,Aston Villa_Chelsea_1992

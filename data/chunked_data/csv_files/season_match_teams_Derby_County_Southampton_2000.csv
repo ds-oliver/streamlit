@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
+2000,1,Derby County,0.0,0.0,Southampton,2.0,2.0,0,Andy D'Urso,0,0,0,0,3291,draw,draw,6317869a-774b-5e78-81f8-69601750d93d,878060d4-71a8-5762-9149-3e86c0c6dd5a,Derby County,Southampton,Derby County_Southampton,Derby County_Southampton_2000
+2000,21,Southampton,0.0,0.0,Derby County,1.0,0.0,0,Andy D'Urso,0,0,0,0,3486,Southampton,Derby County,3f921aff-94bb-5a43-82ba-64910f7f6b96,878060d4-71a8-5762-9149-3e86c0c6dd5a,Southampton,Derby County,Derby County_Southampton,Derby County_Southampton_2000

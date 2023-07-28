@@ -1,0 +1,11 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
+1993,5,West Ham,0.0,0.0,QPR,0.0,4.0,0,Vic Callow,0,0,0,0,513,QPR,West Ham,9e2582f0-02b4-5f7d-bbd7-5c8d743b9cd2,fa2f851f-9858-5475-bde2-2be54bf3e4e8,West Ham,QPR,QPR_West Ham,QPR_West Ham_1993
+1993,30,QPR,0.0,0.0,West Ham,0.0,0.0,0,Roger Dilkes,0,0,0,0,908,draw,draw,41122df4-4875-5672-9b81-5e701034093d,fa2f851f-9858-5475-bde2-2be54bf3e4e8,QPR,West Ham,QPR_West Ham,QPR_West Ham_1993
+1994,17,QPR,0.0,0.0,West Ham,2.0,1.0,0,Philip Don,0,0,0,0,1109,QPR,West Ham,410ddfd6-37ea-5eeb-92c0-30997d734a87,15c5b4f1-2b02-5c9a-b3bf-4dfe38fd7c03,QPR,West Ham,QPR_West Ham,QPR_West Ham_1994
+1994,30,West Ham,0.0,0.0,QPR,0.0,0.0,0,Gary Willard,0,0,0,0,1356,draw,draw,2a92e04f-9384-530d-b36f-7c6ae30f0cea,15c5b4f1-2b02-5c9a-b3bf-4dfe38fd7c03,West Ham,QPR,QPR_West Ham,QPR_West Ham_1994
+1995,15,West Ham,0.0,0.0,QPR,1.0,0.0,0,Paul Alcock,0,0,0,0,1525,West Ham,QPR,3e8d1111-66f0-557f-8626-abc0bbad5115,36f26415-ff8a-558f-b43a-c017a1816fc3,West Ham,QPR,QPR_West Ham,QPR_West Ham_1995
+1995,37,QPR,0.0,0.0,West Ham,3.0,0.0,0,Gary Willard,0,0,0,0,1744,QPR,West Ham,63431489-f064-5c92-b74b-57b12d6b2884,36f26415-ff8a-558f-b43a-c017a1816fc3,QPR,West Ham,QPR_West Ham,QPR_West Ham_1995
+2012,6,QPR,0.0,0.0,West Ham,1.0,2.0,0,Mark Clattenburg,0,0,0,0,7904,West Ham,QPR,0d320d32-8332-53c9-86a7-f0818c65abf9,1e857668-36e7-5d1d-95a3-4610d93f093b,QPR,West Ham,QPR_West Ham,QPR_West Ham_2012
+2012,23,West Ham,0.0,0.0,QPR,1.0,1.0,0,Howard Webb,0,0,0,0,8069,draw,draw,d9631ee0-7441-5ba1-959b-0de07f661ca2,1e857668-36e7-5d1d-95a3-4610d93f093b,West Ham,QPR,QPR_West Ham,QPR_West Ham_2012
+2014,7,West Ham,0.0,0.0,QPR,2.0,0.0,0,Anthony Taylor,0,0,0,0,8675,West Ham,QPR,0509c5fc-aba9-525c-8a52-4df9db369be5,6a98c563-ce0a-57fe-a544-8ea33ab415bb,West Ham,QPR,QPR_West Ham,QPR_West Ham_2014
+2014,34,QPR,0.0,0.0,West Ham,0.0,0.0,0,Mike Jones,0,0,0,0,8936,draw,draw,8899268a-75eb-541c-8503-f0c9dc6a8060,6a98c563-ce0a-57fe-a544-8ea33ab415bb,QPR,West Ham,QPR_West Ham,QPR_West Ham_2014

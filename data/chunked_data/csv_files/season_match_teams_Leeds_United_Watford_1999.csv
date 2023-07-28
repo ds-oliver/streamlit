@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
+1999,10,Watford,0.0,0.0,Leeds United,1.0,2.0,0,Andy D'Urso,0,0,0,0,2996,Leeds United,Watford,2129cef9-6775-5248-b9ce-27a20191e476,237612e2-bf22-5185-87a0-cd3f3fca0356,Watford,Leeds United,Leeds United_Watford,Leeds United_Watford_1999
+1999,35,Leeds United,0.0,0.0,Watford,3.0,1.0,0,Paul Alcock,0,0,0,0,3264,Leeds United,Watford,7628b749-ba49-5a5c-8996-67ed05f8dc10,237612e2-bf22-5185-87a0-cd3f3fca0356,Leeds United,Watford,Leeds United_Watford,Leeds United_Watford_1999

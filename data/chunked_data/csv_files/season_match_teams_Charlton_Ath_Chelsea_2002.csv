@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
+2002,1,Charlton Ath,0.0,0.0,Chelsea,2.0,3.0,0,Graham Barber,0,0,0,0,4050,Chelsea,Charlton Ath,e0758848-fd2a-5dec-8f58-3cb6895927cb,4148fbf5-50d3-539f-8c08-fbac324bcd88,Charlton Ath,Chelsea,Charlton Ath_Chelsea,Charlton Ath_Chelsea_2002
+2002,23,Chelsea,0.0,0.0,Charlton Ath,4.0,1.0,0,Mike Dean,0,0,0,0,4264,Chelsea,Charlton Ath,7e4271c5-f375-51f6-be39-2336212ae8da,4148fbf5-50d3-539f-8c08-fbac324bcd88,Chelsea,Charlton Ath,Charlton Ath_Chelsea,Charlton Ath_Chelsea_2002

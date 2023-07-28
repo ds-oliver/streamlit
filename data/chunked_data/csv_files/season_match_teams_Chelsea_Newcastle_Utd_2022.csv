@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
+2022,16,Newcastle Utd,1.0,0.3,Chelsea,1.0,0.0,2022-11-12,Robert Jones,St James' Park,Sat,17:30,"52,264",156,Newcastle Utd,Chelsea,3923bc76-7276-579d-875e-c677f14147ec,d7f31810-2dd3-5ae2-830a-ba42416de5d7,Newcastle Utd,Chelsea,Chelsea_Newcastle Utd,Chelsea_Newcastle Utd_2022
+2022,38,Chelsea,2.2,1.7,Newcastle Utd,1.0,1.0,2023-05-28,Jarred Gillett,Stamford Bridge,Sun,16:30,"40,130",421,draw,draw,86f3130a-dc7e-5e02-a8b0-6c469481bcab,d7f31810-2dd3-5ae2-830a-ba42416de5d7,Chelsea,Newcastle Utd,Chelsea_Newcastle Utd,Chelsea_Newcastle Utd_2022

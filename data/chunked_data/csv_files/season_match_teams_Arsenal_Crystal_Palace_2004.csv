@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
+2004,12,Crystal Palace,0.0,0.0,Arsenal,1.0,1.0,0,Mike Dean,0,0,0,0,4917,draw,draw,5a85108f-ca1b-5169-a3cb-5dce7586e319,f5238c83-219e-59fc-ac4a-0962c262d5b1,Crystal Palace,Arsenal,Arsenal_Crystal Palace,Arsenal_Crystal Palace_2004
+2004,27,Arsenal,0.0,0.0,Crystal Palace,5.0,1.0,0,Rob Styles,0,0,0,0,5072,Arsenal,Crystal Palace,e4d794a4-e793-5295-8570-2130291126cf,f5238c83-219e-59fc-ac4a-0962c262d5b1,Arsenal,Crystal Palace,Arsenal_Crystal Palace,Arsenal_Crystal Palace_2004

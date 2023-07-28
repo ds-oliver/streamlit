@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
+2011,10,Norwich City,0.0,0.0,Blackburn,3.0,3.0,0,Anthony Taylor,0,0,0,0,7561,draw,draw,117f9996-a5d2-536c-9fe2-8b971f01fa3f,6cc8c2b5-07ee-5793-b1fc-265ec4426d11,Norwich City,Blackburn,Blackburn_Norwich City,Blackburn_Norwich City_2011
+2011,35,Blackburn,0.0,0.0,Norwich City,2.0,0.0,0,Kevin Friend,0,0,0,0,7807,Blackburn,Norwich City,794a55bf-44a7-5c57-8972-030f8bfc94b6,6cc8c2b5-07ee-5793-b1fc-265ec4426d11,Blackburn,Norwich City,Blackburn_Norwich City,Blackburn_Norwich City_2011

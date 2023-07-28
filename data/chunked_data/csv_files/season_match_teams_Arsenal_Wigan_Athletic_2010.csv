@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
+2010,20,Wigan Athletic,0.0,0.0,Arsenal,2.0,2.0,0,Lee Probert,0,0,0,0,7275,draw,draw,786bc2f4-acbe-591e-b79b-8cd7a15386d4,d2f971c6-ab6b-5adc-b39e-213fad11235c,Wigan Athletic,Arsenal,Arsenal_Wigan Athletic,Arsenal_Wigan Athletic_2010
+2010,24,Arsenal,0.0,0.0,Wigan Athletic,3.0,0.0,0,Kevin Friend,0,0,0,0,7311,Arsenal,Wigan Athletic,9b2d68b3-b2f8-5e77-ab76-b94f9cf945de,d2f971c6-ab6b-5adc-b39e-213fad11235c,Arsenal,Wigan Athletic,Arsenal_Wigan Athletic,Arsenal_Wigan Athletic_2010

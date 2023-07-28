@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
+1998,8,Wimbledon,0.0,0.0,Everton,1.0,2.0,0,Paul Alcock,0,0,0,0,2601,Everton,Wimbledon,cb216c97-1877-5171-a127-c576c7f6ed86,de2b7210-59d5-5389-bbf3-7c6d787def89,Wimbledon,Everton,Everton_Wimbledon,Everton_Wimbledon_1998
+1998,27,Everton,0.0,0.0,Wimbledon,1.0,1.0,0,Neale Barry,0,0,0,0,2786,draw,draw,0572dc2c-a9f8-54a8-878e-c6149ebb566a,de2b7210-59d5-5389-bbf3-7c6d787def89,Everton,Wimbledon,Everton_Wimbledon,Everton_Wimbledon_1998

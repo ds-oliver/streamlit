@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
+1995,13,Sheffield Weds,0.0,0.0,Manchester City,1.0,1.0,0,Graham Poll,0,0,0,0,1507,draw,draw,289f2521-a93e-56ff-b622-259270bc9ada,4c3657ff-f11f-5c23-aafa-c0dbd2043e83,Sheffield Weds,Manchester City,Manchester City_Sheffield Weds,Manchester City_Sheffield Weds_1995
+1995,36,Manchester City,0.0,0.0,Sheffield Weds,1.0,0.0,0,Robbie Hart,0,0,0,0,1730,Manchester City,Sheffield Weds,39d11885-ceb4-56ef-82c5-51213fe4f99f,4c3657ff-f11f-5c23-aafa-c0dbd2043e83,Manchester City,Sheffield Weds,Manchester City_Sheffield Weds,Manchester City_Sheffield Weds_1995

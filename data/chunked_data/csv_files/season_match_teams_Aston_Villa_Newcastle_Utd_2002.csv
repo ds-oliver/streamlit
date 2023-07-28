@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
+2002,17,Aston Villa,0.0,0.0,Newcastle Utd,0.0,1.0,0,Stephen Bennett,0,0,0,0,4212,Newcastle Utd,Aston Villa,6739f1de-627b-5671-bbf3-4a05dda830c4,1d67a9c1-668a-5cd1-befd-63fb733bdc8f,Aston Villa,Newcastle Utd,Aston Villa_Newcastle Utd,Aston Villa_Newcastle Utd_2002
+2002,35,Newcastle Utd,0.0,0.0,Aston Villa,1.0,1.0,0,Jeff Winter,0,0,0,0,4390,draw,draw,fd1da749-de14-56d4-b0c6-07d4f242aa51,1d67a9c1-668a-5cd1-befd-63fb733bdc8f,Newcastle Utd,Aston Villa,Aston Villa_Newcastle Utd,Aston Villa_Newcastle Utd_2002

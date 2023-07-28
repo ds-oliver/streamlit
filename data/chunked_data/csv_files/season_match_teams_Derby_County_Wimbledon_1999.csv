@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
+1999,7,Wimbledon,0.0,0.0,Derby County,2.0,2.0,0,Alan Wiley,0,0,0,0,2969,draw,draw,4ac14954-1550-543d-967b-1faf044c9fa0,6efe745e-2403-5741-bd12-d12c05ff6236,Wimbledon,Derby County,Derby County_Wimbledon,Derby County_Wimbledon_1999
+1999,27,Derby County,0.0,0.0,Wimbledon,4.0,0.0,0,Andy D'Urso,0,0,0,0,3165,Derby County,Wimbledon,6171f8bd-42db-550e-9601-5444c260aac2,6efe745e-2403-5741-bd12-d12c05ff6236,Derby County,Wimbledon,Derby County_Wimbledon,Derby County_Wimbledon_1999

@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
+2001,6,Manchester Utd,0.0,0.0,Derby County,5.0,0.0,0,Mark Halsey,0,0,0,0,3821,Manchester Utd,Derby County,45929f48-9988-569b-8571-cfcf90e8a80f,007669c5-400e-5954-99c4-68c6eccf21fc,Manchester Utd,Derby County,Derby County_Manchester Utd,Derby County_Manchester Utd_2001
+2001,28,Derby County,0.0,0.0,Manchester Utd,2.0,2.0,0,Steve Dunn,0,0,0,0,3943,draw,draw,11d8704b-851a-50f4-ae2b-87c740945011,007669c5-400e-5954-99c4-68c6eccf21fc,Derby County,Manchester Utd,Derby County_Manchester Utd,Derby County_Manchester Utd_2001

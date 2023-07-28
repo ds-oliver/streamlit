@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
+2013,10,Newcastle Utd,0.0,0.0,Chelsea,2.0,0.0,0,Lee Mason,0,0,0,0,8321,Newcastle Utd,Chelsea,e83b5090-e309-5683-987b-fce750d9a72c,b65b9af9-0631-5d87-b35f-3a493ed0ec22,Newcastle Utd,Chelsea,Chelsea_Newcastle Utd,Chelsea_Newcastle Utd_2013
+2013,25,Chelsea,0.0,0.0,Newcastle Utd,3.0,0.0,0,Howard Webb,0,0,0,0,8469,Chelsea,Newcastle Utd,2298ecb5-8887-5551-b381-4287183e4ced,b65b9af9-0631-5d87-b35f-3a493ed0ec22,Chelsea,Newcastle Utd,Chelsea_Newcastle Utd,Chelsea_Newcastle Utd_2013

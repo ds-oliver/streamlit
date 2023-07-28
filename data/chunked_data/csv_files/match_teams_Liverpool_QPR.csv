@@ -1,0 +1,15 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
+1992,16,QPR,0.0,0.0,Liverpool,0.0,1.0,0,Roger Milford,0,0,0,0,175,Liverpool,QPR,748102f5-f623-50c0-ad75-2189cde473b0,2fef6b9c-9ef2-5126-a001-48add05c0639,QPR,Liverpool,Liverpool_QPR,Liverpool_QPR_1992
+1992,33,Liverpool,0.0,0.0,QPR,1.0,0.0,0,Keith Burge,0,0,0,0,346,Liverpool,QPR,ba780462-0617-575a-ac20-b09f9c936048,2fef6b9c-9ef2-5126-a001-48add05c0639,Liverpool,QPR,Liverpool_QPR,Liverpool_QPR_1992
+1993,2,QPR,0.0,0.0,Liverpool,1.0,3.0,0,Paul Durkin,0,0,0,0,478,Liverpool,QPR,23dfe027-b1c9-541f-89d4-f6461eef1401,18853cf2-e04b-5e73-b618-de862fd53a2c,QPR,Liverpool,Liverpool_QPR,Liverpool_QPR_1993
+1993,19,Liverpool,0.0,0.0,QPR,3.0,2.0,0,Vic Callow,0,0,0,0,663,Liverpool,QPR,e787e9d6-321a-578e-a534-9737d1de19fd,18853cf2-e04b-5e73-b618-de862fd53a2c,Liverpool,QPR,Liverpool_QPR,Liverpool_QPR_1993
+1994,13,QPR,0.0,0.0,Liverpool,2.0,1.0,0,Terence Holbrook,0,0,0,0,1055,QPR,Liverpool,bc080a06-0a00-50f5-a8e7-1a780ce43ddb,8142d73c-7132-5073-b1d9-2d970f18911e,QPR,Liverpool,Liverpool_QPR,Liverpool_QPR_1994
+1994,28,Liverpool,0.0,0.0,QPR,1.0,1.0,0,Dermot Gallagher,0,0,0,0,1219,draw,draw,c08a04b2-a116-5927-84dc-03fc8741fd85,8142d73c-7132-5073-b1d9-2d970f18911e,Liverpool,QPR,Liverpool_QPR,Liverpool_QPR_1994
+1995,4,Liverpool,0.0,0.0,QPR,1.0,0.0,0,Steve Dunn,0,0,0,0,1423,Liverpool,QPR,2f240592-d004-5116-99e6-7ac0fb732c1f,4dd8bbfd-75bf-545a-ac50-0ab2d96dd0ef,Liverpool,QPR,Liverpool_QPR,Liverpool_QPR_1995
+1995,26,QPR,0.0,0.0,Liverpool,1.0,2.0,0,Dermot Gallagher,0,0,0,0,1641,Liverpool,QPR,fc621b0e-0c00-59c3-b506-59e24053c3fe,4dd8bbfd-75bf-545a-ac50-0ab2d96dd0ef,QPR,Liverpool,Liverpool_QPR,Liverpool_QPR_1995
+2011,15,Liverpool,0.0,0.0,QPR,1.0,0.0,0,Lee Mason,0,0,0,0,7607,Liverpool,QPR,61213aa4-263b-5169-97d8-2af154a8d618,db9c02c0-2ce0-583a-b2ed-5a5e7ca1041f,Liverpool,QPR,Liverpool_QPR,Liverpool_QPR_2011
+2011,29,QPR,0.0,0.0,Liverpool,3.0,2.0,0,Howard Webb,0,0,0,0,7754,QPR,Liverpool,8dd12ce3-0898-55ce-819a-d8094975a5e5,db9c02c0-2ce0-583a-b2ed-5a5e7ca1041f,QPR,Liverpool,Liverpool_QPR,Liverpool_QPR_2011
+2012,20,QPR,0.0,0.0,Liverpool,0.0,3.0,0,Anthony Taylor,0,0,0,0,8043,Liverpool,QPR,3d570261-53cd-5162-bf6b-dea419969904,606ee4c9-063c-5d38-b03f-1b7ef6f29f3a,QPR,Liverpool,Liverpool_QPR,Liverpool_QPR_2012
+2012,38,Liverpool,0.0,0.0,QPR,1.0,0.0,0,Martin Atkinson,0,0,0,0,8220,Liverpool,QPR,3834c9b5-2e62-53e0-b857-48036f7a803c,606ee4c9-063c-5d38-b03f-1b7ef6f29f3a,Liverpool,QPR,Liverpool_QPR,Liverpool_QPR_2012
+2014,8,QPR,0.0,0.0,Liverpool,2.0,3.0,0,Philip Dowd,0,0,0,0,8683,Liverpool,QPR,9aae4e9c-aef0-579b-af60-1885a7c1a90f,9690cdc9-f6e2-5999-a300-fe21f51e72ba,QPR,Liverpool,Liverpool_QPR,Liverpool_QPR_2014
+2014,35,Liverpool,0.0,0.0,QPR,2.0,1.0,0,Martin Atkinson,0,0,0,0,8946,Liverpool,QPR,2d7d6cd0-c19c-57d3-864f-4c11ff97e906,9690cdc9-f6e2-5999-a300-fe21f51e72ba,Liverpool,QPR,Liverpool_QPR,Liverpool_QPR_2014

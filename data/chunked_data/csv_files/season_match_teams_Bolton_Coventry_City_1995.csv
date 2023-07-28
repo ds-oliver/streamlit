@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
+1995,21,Bolton,0.0,0.0,Coventry City,1.0,2.0,0,Alan Wilkie,0,0,0,0,1587,Coventry City,Bolton,74c8e760-9e59-5957-af0e-010a13b79f9c,da020ae7-b883-5121-9bcd-df4e653590e0,Bolton,Coventry City,Bolton_Coventry City,Bolton_Coventry City_1995
+1995,31,Coventry City,0.0,0.0,Bolton,0.0,2.0,0,Keith Burge,0,0,0,0,1678,Bolton,Coventry City,d410c9dc-4567-539a-a578-60b36e65d93d,da020ae7-b883-5121-9bcd-df4e653590e0,Coventry City,Bolton,Bolton_Coventry City,Bolton_Coventry City_1995

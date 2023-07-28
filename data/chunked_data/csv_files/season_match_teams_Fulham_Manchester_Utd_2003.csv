@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
+2003,10,Manchester Utd,0.0,0.0,Fulham,1.0,3.0,0,Mike Riley,0,0,0,0,4517,Fulham,Manchester Utd,e36d948d-3839-5352-9b9f-aa33e1b12e73,c8caecd4-41b8-5a99-9413-f5b932ae2c6a,Manchester Utd,Fulham,Fulham_Manchester Utd,Fulham_Manchester Utd_2003
+2003,27,Fulham,0.0,0.0,Manchester Utd,1.0,1.0,0,Alan Wiley,0,0,0,0,4688,draw,draw,804bb7fe-a429-5573-83b1-76bb7ac7fdea,c8caecd4-41b8-5a99-9413-f5b932ae2c6a,Fulham,Manchester Utd,Fulham_Manchester Utd,Fulham_Manchester Utd_2003

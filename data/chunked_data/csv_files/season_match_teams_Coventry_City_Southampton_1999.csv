@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
+1999,1,Coventry City,0.0,0.0,Southampton,0.0,1.0,0,Peter Jones,0,0,0,0,2912,Southampton,Coventry City,e57aaa69-8bb5-511a-83f3-c4b99c780fd9,5cf27a7d-f106-5da8-9271-9055d46a6379,Coventry City,Southampton,Coventry City_Southampton,Coventry City_Southampton_1999
+1999,17,Southampton,0.0,0.0,Coventry City,0.0,0.0,0,Jeff Winter,0,0,0,0,3063,draw,draw,66896571-2ac4-5ffb-a356-c4fc3102b087,5cf27a7d-f106-5da8-9271-9055d46a6379,Southampton,Coventry City,Coventry City_Southampton,Coventry City_Southampton_1999

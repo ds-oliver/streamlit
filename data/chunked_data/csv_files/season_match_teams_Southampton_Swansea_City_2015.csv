@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
+2015,7,Southampton,0.0,0.0,Swansea City,3.0,1.0,0,Roger East,0,0,0,0,9050,Southampton,Swansea City,7ef0cee0-a410-5dda-9e6e-4e4488c8a5bb,8fc26958-00f4-521d-8763-bceb8e26023e,Southampton,Swansea City,Southampton_Swansea City,Southampton_Swansea City_2015
+2015,26,Swansea City,0.0,0.0,Southampton,0.0,1.0,0,Jonathan Moss,0,0,0,0,9237,Southampton,Swansea City,40b64d4e-5c64-5ccf-8fc6-7c960a5e7a93,8fc26958-00f4-521d-8763-bceb8e26023e,Swansea City,Southampton,Southampton_Swansea City,Southampton_Swansea City_2015

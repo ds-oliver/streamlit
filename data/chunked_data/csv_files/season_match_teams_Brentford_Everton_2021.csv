@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
+2021,13,Brentford,1.2,1.0,Everton,1.0,0.0,2021-11-28,Darren England,Brentford Community Stadium,Sun,14:00,"16,957",137,Brentford,Everton,e4aedd1e-cb55-5808-b75d-4f4a688c82c6,2c4d1286-f3d8-5f74-be8d-4564f5d71925,Brentford,Everton,Brentford_Everton,Brentford_Everton_2021
+2021,37,Everton,2.1,1.4,Brentford,2.0,3.0,2022-05-15,Michael Oliver,Goodison Park,Sun,16:30,"38,819",428,Brentford,Everton,04b2bbe6-0a07-5d3a-93a7-03126dc3427c,2c4d1286-f3d8-5f74-be8d-4564f5d71925,Everton,Brentford,Brentford_Everton,Brentford_Everton_2021

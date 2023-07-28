@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
+2001,14,Bolton,0.0,0.0,Fulham,0.0,0.0,0,Mike Dean,0,0,0,0,3789,draw,draw,cf826b28-24d0-5b09-b9be-5f80dda65f66,f10c7b12-dbc9-5792-92f5-17edf5bfcb2f,Bolton,Fulham,Bolton_Fulham,Bolton_Fulham_2001
+2001,35,Fulham,0.0,0.0,Bolton,3.0,0.0,0,Paul Durkin,0,0,0,0,4021,Fulham,Bolton,e636544f-b525-50ee-bac7-6f02b371d7d2,f10c7b12-dbc9-5792-92f5-17edf5bfcb2f,Fulham,Bolton,Bolton_Fulham,Bolton_Fulham_2001

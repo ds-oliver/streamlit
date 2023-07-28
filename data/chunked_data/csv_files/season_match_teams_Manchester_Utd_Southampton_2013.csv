@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
+2013,8,Manchester Utd,0.0,0.0,Southampton,1.0,1.0,0,Mike Jones,0,0,0,0,8303,draw,draw,06bee41d-9efb-5a4d-81c1-380a866ec0c0,63b86ffa-add3-500a-9298-e30484ae3c79,Manchester Utd,Southampton,Manchester Utd_Southampton,Manchester Utd_Southampton_2013
+2013,38,Southampton,0.0,0.0,Manchester Utd,1.0,1.0,0,Mike Dean,0,0,0,0,8596,draw,draw,7f1ad698-2450-53d7-baa9-2000a854609a,63b86ffa-add3-500a-9298-e30484ae3c79,Southampton,Manchester Utd,Manchester Utd_Southampton,Manchester Utd_Southampton_2013

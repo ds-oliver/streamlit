@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
+2015,13,Southampton,0.0,0.0,Stoke City,0.0,1.0,0,Lee Mason,0,0,0,0,9109,Stoke City,Southampton,a2b506eb-589b-5a34-bde7-92cf23049d2b,a9d87569-f010-5567-9012-ad86c9609132,Southampton,Stoke City,Southampton_Stoke City,Southampton_Stoke City_2015
+2015,30,Stoke City,0.0,0.0,Southampton,1.0,2.0,0,Lee Mason,0,0,0,0,9276,Southampton,Stoke City,b6013b03-18fb-55a1-b295-ae0dded510a4,a9d87569-f010-5567-9012-ad86c9609132,Stoke City,Southampton,Southampton_Stoke City,Southampton_Stoke City_2015

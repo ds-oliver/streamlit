@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
+2006,14,Bolton,0.0,0.0,Arsenal,3.0,1.0,0,Mike Dean,0,0,0,0,5697,Bolton,Arsenal,4d8daa9d-747b-59a6-96f3-f563161d97b0,06b24805-50f9-5c21-8073-1d328eb30db7,Bolton,Arsenal,Arsenal_Bolton,Arsenal_Bolton_2006
+2006,34,Arsenal,0.0,0.0,Bolton,2.0,1.0,0,Rob Styles,0,0,0,0,5895,Arsenal,Bolton,d070f02b-ecce-5d07-b103-f8a94cd66bee,06b24805-50f9-5c21-8073-1d328eb30db7,Arsenal,Bolton,Arsenal_Bolton,Arsenal_Bolton_2006

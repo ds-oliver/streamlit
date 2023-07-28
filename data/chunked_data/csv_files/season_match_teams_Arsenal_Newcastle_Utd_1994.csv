@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
+1994,6,Arsenal,0.0,0.0,Newcastle Utd,2.0,3.0,0,Terence Holbrook,0,0,0,0,988,Newcastle Utd,Arsenal,967b8020-9413-5949-ba57-2d7ba70415ff,4743d389-54eb-546f-9790-aef6c95294fa,Arsenal,Newcastle Utd,Arsenal_Newcastle Utd,Arsenal_Newcastle Utd_1994
+1994,35,Newcastle Utd,0.0,0.0,Arsenal,1.0,0.0,0,Gary Willard,0,0,0,0,1286,Newcastle Utd,Arsenal,3c5f423b-3882-5368-b598-b7a85140611e,4743d389-54eb-546f-9790-aef6c95294fa,Newcastle Utd,Arsenal,Arsenal_Newcastle Utd,Arsenal_Newcastle Utd_1994

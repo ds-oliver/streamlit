@@ -1,0 +1,15 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
+1992,11,QPR,0.0,0.0,Tottenham,4.0,1.0,0,Joe Worrall,0,0,0,0,118,QPR,Tottenham,1e6812ad-93fe-5d88-8af6-2ba7c94e6f5d,054db51a-ae49-5594-8c1a-200f1a29f326,QPR,Tottenham,QPR_Tottenham,QPR_Tottenham_1992
+1992,31,Tottenham,0.0,0.0,QPR,3.0,2.0,0,David Elleray,0,0,0,0,322,Tottenham,QPR,d46089d3-4743-5fa8-860d-41d2f29080f8,054db51a-ae49-5594-8c1a-200f1a29f326,Tottenham,QPR,QPR_Tottenham,QPR_Tottenham_1992
+1993,17,QPR,0.0,0.0,Tottenham,1.0,1.0,0,David Elleray,0,0,0,0,640,draw,draw,b776aecb-2e66-51a4-862b-73e67621a9a2,c0df5040-47d5-50a8-86d9-56178bdeb72e,QPR,Tottenham,QPR_Tottenham,QPR_Tottenham_1993
+1993,42,Tottenham,0.0,0.0,QPR,1.0,2.0,0,Alan Gunn,0,0,0,0,919,QPR,Tottenham,aa780181-c2d6-51f9-a636-8391f47c2aa3,c0df5040-47d5-50a8-86d9-56178bdeb72e,Tottenham,QPR,QPR_Tottenham,QPR_Tottenham_1993
+1994,9,Tottenham,0.0,0.0,QPR,1.0,1.0,0,Roger Dilkes,0,0,0,0,1016,draw,draw,184e5ec5-9e71-5b14-a34c-b4620be7571c,b890d7b9-61fb-57c3-b142-f695ea2e2f55,Tottenham,QPR,QPR_Tottenham,QPR_Tottenham_1994
+1994,41,QPR,0.0,0.0,Tottenham,2.0,1.0,0,Graham Poll,0,0,0,0,1363,QPR,Tottenham,a3141ad3-8743-5ac3-8195-12b7260af7e9,b890d7b9-61fb-57c3-b142-f695ea2e2f55,QPR,Tottenham,QPR_Tottenham,QPR_Tottenham_1994
+1995,7,QPR,0.0,0.0,Tottenham,2.0,3.0,0,David Elleray,0,0,0,0,1455,Tottenham,QPR,ed8222f6-816e-5111-bd92-1fd7f90b088f,15cd0cf9-0084-5fbb-85f8-0ac19dcf00f4,QPR,Tottenham,QPR_Tottenham,QPR_Tottenham_1995
+1995,17,Tottenham,0.0,0.0,QPR,1.0,0.0,0,Keith Cooper,0,0,0,0,1547,Tottenham,QPR,1708e04d-0c56-5b13-9939-95fbc75cd563,15cd0cf9-0084-5fbb-85f8-0ac19dcf00f4,Tottenham,QPR,QPR_Tottenham,QPR_Tottenham_1995
+2011,10,Tottenham,0.0,0.0,QPR,3.0,1.0,0,Howard Webb,0,0,0,0,7563,Tottenham,QPR,a2f22e7a-f41f-5b3f-82b0-ce7744db91e7,9b3cb9f4-3305-56ad-859c-c86e8999f059,Tottenham,QPR,QPR_Tottenham,QPR_Tottenham_2011
+2011,35,QPR,0.0,0.0,Tottenham,1.0,0.0,0,Mark Clattenburg,0,0,0,0,7801,QPR,Tottenham,a02be2c9-0e0c-53df-af6e-7b4a6e266654,9b3cb9f4-3305-56ad-859c-c86e8999f059,QPR,Tottenham,QPR_Tottenham,QPR_Tottenham_2011
+2012,5,Tottenham,0.0,0.0,QPR,2.0,1.0,0,Phil Dowd,0,0,0,0,7893,Tottenham,QPR,4d58ae47-656e-5e59-a845-3f25d3a1dbea,9bd9594d-4fc0-5901-b2b8-5ec73fe87503,Tottenham,QPR,QPR_Tottenham,QPR_Tottenham_2012
+2012,22,QPR,0.0,0.0,Tottenham,0.0,0.0,0,Lee Probert,0,0,0,0,8060,draw,draw,371bc7d0-6d08-5b73-9911-148989f851cf,9bd9594d-4fc0-5901-b2b8-5ec73fe87503,QPR,Tottenham,QPR_Tottenham,QPR_Tottenham_2012
+2014,2,Tottenham,0.0,0.0,QPR,4.0,0.0,0,Anthony Taylor,0,0,0,0,8622,Tottenham,QPR,55270f37-64d8-50bf-a8c4-846022de3775,35679878-775d-5267-93d6-b49483145520,Tottenham,QPR,QPR_Tottenham,QPR_Tottenham_2014
+2014,27,QPR,0.0,0.0,Tottenham,1.0,2.0,0,Craig Pawson,0,0,0,0,8884,Tottenham,QPR,3ea96ccd-85f6-5b2d-b05f-10b10e83d181,35679878-775d-5267-93d6-b49483145520,QPR,Tottenham,QPR_Tottenham,QPR_Tottenham_2014

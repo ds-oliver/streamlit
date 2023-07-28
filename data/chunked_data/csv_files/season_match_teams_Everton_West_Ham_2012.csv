@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
+2012,18,West Ham,0.0,0.0,Everton,1.0,2.0,0,Anthony Taylor,0,0,0,0,8019,Everton,West Ham,ae6dea52-780f-522c-956c-4ce86b815421,6e8882e9-ec18-5b39-a934-15e918bc5fde,West Ham,Everton,Everton_West Ham,Everton_West Ham_2012
+2012,37,Everton,0.0,0.0,West Ham,2.0,0.0,0,Phil Dowd,0,0,0,0,8212,Everton,West Ham,7e819832-7bfa-504b-997e-df7b897f12df,6e8882e9-ec18-5b39-a934-15e918bc5fde,Everton,West Ham,Everton_West Ham,Everton_West Ham_2012

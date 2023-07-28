@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
+2006,10,Watford,0.0,0.0,Tottenham,0.0,0.0,0,Uriah Rennie,0,0,0,0,5660,draw,draw,c99c0e03-0d7e-5790-ab39-94a814ddbddf,b5699ac1-b0d6-5f8a-9f04-de7b02844a42,Watford,Tottenham,Tottenham_Watford,Tottenham_Watford_2006
+2006,30,Tottenham,0.0,0.0,Watford,3.0,1.0,0,Mark Halsey,0,0,0,0,5855,Tottenham,Watford,5ab3dcd9-dd9f-5d2c-b07f-8fa4aa8e46c7,b5699ac1-b0d6-5f8a-9f04-de7b02844a42,Tottenham,Watford,Tottenham_Watford,Tottenham_Watford_2006

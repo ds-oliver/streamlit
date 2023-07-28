@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
+2015,17,Everton,0.0,0.0,Leicester City,2.0,3.0,0,Jonathan Moss,0,0,0,0,9149,Leicester City,Everton,9d641ad6-43e8-5565-9c9c-c253a746f155,b9539f25-16e1-57a4-92f6-c2d45338dbc6,Everton,Leicester City,Everton_Leicester City,Everton_Leicester City_2015
+2015,37,Leicester City,0.0,0.0,Everton,3.0,1.0,0,Andre Marriner,0,0,0,0,9348,Leicester City,Everton,78f7e381-ebd9-52d1-8c18-65b0705c830c,b9539f25-16e1-57a4-92f6-c2d45338dbc6,Leicester City,Everton,Everton_Leicester City,Everton_Leicester City_2015

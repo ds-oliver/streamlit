@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
+2022,4,Brentford,2.1,1.1,Everton,1.0,1.0,2022-08-27,John Brooks,Brentford Community Stadium,Sat,15:00,"17,009",37,draw,draw,95b475f6-65fa-5bf7-ac8d-2557bd31858b,a86bc9c8-626d-5777-9b99-f0cd0fade9a9,Brentford,Everton,Brentford_Everton,Brentford_Everton_2022
+2022,27,Everton,1.0,2.0,Brentford,1.0,0.0,2023-03-11,Simon Hooper,Goodison Park,Sat,15:00,"39,274",283,Everton,Brentford,6fad07c9-5359-5e7b-be12-c454076eec3d,a86bc9c8-626d-5777-9b99-f0cd0fade9a9,Everton,Brentford,Brentford_Everton,Brentford_Everton_2022

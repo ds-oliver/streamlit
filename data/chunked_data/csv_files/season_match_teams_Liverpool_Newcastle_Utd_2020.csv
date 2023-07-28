@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
+2020,16,Newcastle Utd,0.5,1.4,Liverpool,0.0,0.0,2020-12-30,Paul Tierney,St. James' Park,Wed,20:00,0,169,draw,draw,8186c49b-8e7d-589d-bbcd-633099264ba8,ddf48a0b-7f98-5738-be83-67089e25e829,Newcastle Utd,Liverpool,Liverpool_Newcastle Utd,Liverpool_Newcastle Utd_2020
+2020,33,Liverpool,2.4,1.0,Newcastle Utd,1.0,1.0,2021-04-24,Andre Marriner,Anfield,Sat,12:30,0,371,draw,draw,4b14b87e-a46a-569f-bdc6-60fd8495f950,ddf48a0b-7f98-5738-be83-67089e25e829,Liverpool,Newcastle Utd,Liverpool_Newcastle Utd,Liverpool_Newcastle Utd_2020

@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
+1994,12,Everton,0.0,0.0,Arsenal,1.0,1.0,0,Keith Burge,0,0,0,0,1053,draw,draw,1ba7d5de-09c9-52be-a696-64ee7b2237f5,68cb05ce-ba0b-5fe0-a86b-ed0ba02b90a4,Everton,Arsenal,Arsenal_Everton,Arsenal_Everton_1994
+1994,24,Arsenal,0.0,0.0,Everton,1.0,1.0,0,Robbie Hart,0,0,0,0,1180,draw,draw,c3345fd1-1322-5322-a255-167b94833530,68cb05ce-ba0b-5fe0-a86b-ed0ba02b90a4,Arsenal,Everton,Arsenal_Everton,Arsenal_Everton_1994

@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
+2003,16,Arsenal,0.0,0.0,Blackburn,1.0,0.0,0,Andy D'Urso,0,0,0,0,4583,Arsenal,Blackburn,7fa36db6-fb9b-5fac-923c-c41477cb7ea7,139a12dc-c455-5dfc-a3fb-12d1afa7f823,Arsenal,Blackburn,Arsenal_Blackburn,Arsenal_Blackburn_2003
+2003,28,Blackburn,0.0,0.0,Arsenal,0.0,2.0,0,Alan Wiley,0,0,0,0,4697,Arsenal,Blackburn,8d8cdbd4-ea75-54a1-a029-6425fc7480a4,139a12dc-c455-5dfc-a3fb-12d1afa7f823,Blackburn,Arsenal,Arsenal_Blackburn,Arsenal_Blackburn_2003

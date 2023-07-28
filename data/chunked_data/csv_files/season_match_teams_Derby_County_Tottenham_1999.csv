@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
+1999,11,Derby County,0.0,0.0,Tottenham,0.0,1.0,0,Paul Durkin,0,0,0,0,3004,Tottenham,Derby County,5761a473-e329-5740-857a-0d55a1ef8b6a,796ecc64-1925-5d6b-98f1-f3c78891a6ed,Derby County,Tottenham,Derby County_Tottenham,Derby County_Tottenham_1999
+1999,36,Tottenham,0.0,0.0,Derby County,1.0,1.0,0,Neale Barry,0,0,0,0,3255,draw,draw,2b1d026f-1fbf-5d3e-a24e-1a8a79bc7362,796ecc64-1925-5d6b-98f1-f3c78891a6ed,Tottenham,Derby County,Derby County_Tottenham,Derby County_Tottenham_1999

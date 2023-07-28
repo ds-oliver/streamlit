@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
+2012,16,Everton,0.0,0.0,Tottenham,2.0,1.0,0,Lee Mason,0,0,0,0,8002,Everton,Tottenham,38d3a193-0435-5c0b-a1f7-5a4f0c9d3a0d,0411523d-e872-57f6-b6e9-b41f74e292b6,Everton,Tottenham,Everton_Tottenham,Everton_Tottenham_2012
+2012,32,Tottenham,0.0,0.0,Everton,2.0,2.0,0,Andre Marriner,0,0,0,0,8160,draw,draw,d2341e7b-26a8-5c83-b410-e28fa0a87594,0411523d-e872-57f6-b6e9-b41f74e292b6,Tottenham,Everton,Everton_Tottenham,Everton_Tottenham_2012

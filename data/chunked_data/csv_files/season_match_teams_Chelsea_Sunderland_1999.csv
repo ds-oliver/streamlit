@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
+1999,1,Chelsea,0.0,0.0,Sunderland,4.0,0.0,0,Mike Riley,0,0,0,0,2911,Chelsea,Sunderland,e4726534-d55d-55d3-8b30-f226917de59c,0efbfda4-570a-5db1-805c-507632bcf432,Chelsea,Sunderland,Chelsea_Sunderland,Chelsea_Sunderland_1999
+1999,17,Sunderland,0.0,0.0,Chelsea,4.0,1.0,0,Steve Dunn,0,0,0,0,3062,Sunderland,Chelsea,4ae36685-1063-59ea-8cc0-fbe2d1bacb79,0efbfda4-570a-5db1-805c-507632bcf432,Sunderland,Chelsea,Chelsea_Sunderland,Chelsea_Sunderland_1999

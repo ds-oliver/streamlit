@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
+2013,17,Southampton,0.0,0.0,Tottenham,2.0,3.0,0,Chris Foy,0,0,0,0,8393,Tottenham,Southampton,43fc0652-c534-530e-86ce-e11c735c76eb,85213e4b-b8f4-545a-bc63-ecb9410bd458,Southampton,Tottenham,Southampton_Tottenham,Southampton_Tottenham_2013
+2013,31,Tottenham,0.0,0.0,Southampton,3.0,2.0,0,Anthony Taylor,0,0,0,0,8525,Tottenham,Southampton,247143b0-a75c-5b1f-a51d-2cb1be61399a,85213e4b-b8f4-545a-bc63-ecb9410bd458,Tottenham,Southampton,Southampton_Tottenham,Southampton_Tottenham_2013

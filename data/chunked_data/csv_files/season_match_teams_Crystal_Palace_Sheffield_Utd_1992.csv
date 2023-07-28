@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
+1992,18,Crystal Palace,0.0,0.0,Sheffield Utd,2.0,0.0,0,Howard King,0,0,0,0,190,Crystal Palace,Sheffield Utd,1085632a-df42-5866-a689-e2845092b821,1995f9d9-9db4-5b53-b0c1-592f352a7e2d,Crystal Palace,Sheffield Utd,Crystal Palace_Sheffield Utd,Crystal Palace_Sheffield Utd_1992
+1992,35,Sheffield Utd,0.0,0.0,Crystal Palace,0.0,1.0,0,John Martin,0,0,0,0,367,Crystal Palace,Sheffield Utd,83c8bf90-395b-5466-a874-8a83d768e86d,1995f9d9-9db4-5b53-b0c1-592f352a7e2d,Sheffield Utd,Crystal Palace,Crystal Palace_Sheffield Utd,Crystal Palace_Sheffield Utd_1992

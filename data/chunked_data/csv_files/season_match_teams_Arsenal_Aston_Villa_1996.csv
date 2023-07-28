@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
+1996,5,Aston Villa,0.0,0.0,Arsenal,2.0,2.0,0,Mike Riley,0,0,0,0,1813,draw,draw,f7f1b7bc-615d-56e4-9e35-76e0d7b62a50,7c949f86-5101-540a-bdfc-d8233d4cf621,Aston Villa,Arsenal,Arsenal_Aston Villa,Arsenal_Aston Villa_1996
+1996,20,Arsenal,0.0,0.0,Aston Villa,2.0,2.0,0,Jeff Winter,0,0,0,0,1955,draw,draw,00a6b2de-3d52-5fc1-bd1f-77c76945861c,7c949f86-5101-540a-bdfc-d8233d4cf621,Arsenal,Aston Villa,Arsenal_Aston Villa,Arsenal_Aston Villa_1996

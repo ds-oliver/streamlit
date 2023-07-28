@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
+2002,9,Aston Villa,0.0,0.0,Leeds United,0.0,0.0,0,Mark Halsey,0,0,0,0,4132,draw,draw,3a56c181-6013-5693-bbf3-63d413a84fce,5d3777cc-3cad-5969-985c-33ef4a744989,Aston Villa,Leeds United,Aston Villa_Leeds United,Aston Villa_Leeds United_2002
+2002,38,Leeds United,0.0,0.0,Aston Villa,3.0,1.0,0,Mark Halsey,0,0,0,0,4419,Leeds United,Aston Villa,91be1306-6d45-5d47-885c-e188e23d1258,5d3777cc-3cad-5969-985c-33ef4a744989,Leeds United,Aston Villa,Aston Villa_Leeds United,Aston Villa_Leeds United_2002

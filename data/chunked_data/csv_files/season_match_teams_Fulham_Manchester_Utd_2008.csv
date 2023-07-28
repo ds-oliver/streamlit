@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
+2008,3,Manchester Utd,0.0,0.0,Fulham,3.0,0.0,0,Andre Marriner,0,0,0,0,6574,Manchester Utd,Fulham,964fda71-788b-5ca1-b93c-d3f02a778395,cca16c00-ab0d-5b71-b953-232584972fc5,Manchester Utd,Fulham,Fulham_Manchester Utd,Fulham_Manchester Utd_2008
+2008,30,Fulham,0.0,0.0,Manchester Utd,2.0,0.0,0,Phil Dowd,0,0,0,0,6615,Fulham,Manchester Utd,c9294224-1ada-51a9-ab23-ecf05712b68f,cca16c00-ab0d-5b71-b953-232584972fc5,Fulham,Manchester Utd,Fulham_Manchester Utd,Fulham_Manchester Utd_2008

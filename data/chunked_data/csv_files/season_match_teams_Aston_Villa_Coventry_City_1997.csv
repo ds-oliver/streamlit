@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
+1997,17,Aston Villa,0.0,0.0,Coventry City,3.0,0.0,0,Graham Barber,0,0,0,0,2311,Aston Villa,Coventry City,84f478b4-aed8-5a46-9bc3-16bfbf2ecb48,c483a67e-b757-5fb7-92ac-dfbb23132101,Aston Villa,Coventry City,Aston Villa_Coventry City,Aston Villa_Coventry City_1997
+1997,33,Coventry City,0.0,0.0,Aston Villa,1.0,2.0,0,Dermot Gallagher,0,0,0,0,2471,Aston Villa,Coventry City,d0a1a9f5-7c81-5d97-a36b-4c697c6a254c,c483a67e-b757-5fb7-92ac-dfbb23132101,Coventry City,Aston Villa,Aston Villa_Coventry City,Aston Villa_Coventry City_1997

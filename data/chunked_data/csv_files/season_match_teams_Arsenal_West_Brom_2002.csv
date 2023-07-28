@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
+2002,3,Arsenal,0.0,0.0,West Brom,5.0,2.0,0,Paul Durkin,0,0,0,0,4066,Arsenal,West Brom,f50cff21-a031-5a98-8cd7-b04550f8e64f,aaf910db-f53e-53c1-ab50-85b29785c6f1,Arsenal,West Brom,Arsenal_West Brom,Arsenal_West Brom_2002
+2002,20,West Brom,0.0,0.0,Arsenal,1.0,2.0,0,Graham Poll,0,0,0,0,4238,Arsenal,West Brom,90ded864-a82d-5256-8aec-7c615e125c9e,aaf910db-f53e-53c1-ab50-85b29785c6f1,West Brom,Arsenal,Arsenal_West Brom,Arsenal_West Brom_2002

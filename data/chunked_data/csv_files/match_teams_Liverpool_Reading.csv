@@ -1,0 +1,7 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
+2006,11,Liverpool,0.0,0.0,Reading,2.0,0.0,0,Uriah Rennie,0,0,0,0,5671,Liverpool,Reading,619d1cf0-98b7-53ca-9273-c49981f04090,55f28fae-3b4b-58d9-add0-83eb97645a5f,Liverpool,Reading,Liverpool_Reading,Liverpool_Reading_2006
+2006,32,Reading,0.0,0.0,Liverpool,1.0,2.0,0,Peter Walton,0,0,0,0,5878,Liverpool,Reading,6375ca9c-94cb-56e9-97c5-170327c211a1,55f28fae-3b4b-58d9-add0-83eb97645a5f,Reading,Liverpool,Liverpool_Reading,Liverpool_Reading_2006
+2007,16,Reading,0.0,0.0,Liverpool,3.0,1.0,0,Andre Marriner,0,0,0,0,6099,Reading,Liverpool,a0d63d49-ead4-5da0-ba4b-08ecbd387ec5,9ecd142a-9d0f-502d-beb9-18d869cbab72,Reading,Liverpool,Liverpool_Reading,Liverpool_Reading_2007
+2007,30,Liverpool,0.0,0.0,Reading,2.0,1.0,0,Andre Marriner,0,0,0,0,6238,Liverpool,Reading,d14bce64-387e-51ce-9120-6118d941eb3c,9ecd142a-9d0f-502d-beb9-18d869cbab72,Liverpool,Reading,Liverpool_Reading,Liverpool_Reading_2007
+2012,8,Liverpool,0.0,0.0,Reading,1.0,0.0,0,Roger East,0,0,0,0,7918,Liverpool,Reading,f30681db-0463-591c-97a9-18e17c39a7e3,be98dab9-778f-5dc9-8992-c92139dd6e7b,Liverpool,Reading,Liverpool_Reading,Liverpool_Reading_2012
+2012,33,Reading,0.0,0.0,Liverpool,0.0,0.0,0,Mark Clattenburg,0,0,0,0,8162,draw,draw,b6d62cbc-691c-513a-b796-7c3d30c27f68,be98dab9-778f-5dc9-8992-c92139dd6e7b,Reading,Liverpool,Liverpool_Reading,Liverpool_Reading_2012

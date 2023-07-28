@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
+2001,13,Charlton Ath,0.0,0.0,West Ham,4.0,4.0,0,Alan Wiley,0,0,0,0,3788,draw,draw,1d48ab01-2308-5c98-8d76-3a0da29b4797,6acd4b9f-06b2-5db0-a5ed-7bb18a8bd24e,Charlton Ath,West Ham,Charlton Ath_West Ham,Charlton Ath_West Ham_2001
+2001,34,West Ham,0.0,0.0,Charlton Ath,2.0,0.0,0,Mike Riley,0,0,0,0,4000,West Ham,Charlton Ath,3414d643-d344-5a71-9009-d852ab3c86bf,6acd4b9f-06b2-5db0-a5ed-7bb18a8bd24e,West Ham,Charlton Ath,Charlton Ath_West Ham,Charlton Ath_West Ham_2001

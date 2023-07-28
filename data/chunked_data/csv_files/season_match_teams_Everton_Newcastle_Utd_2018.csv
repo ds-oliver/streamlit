@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
+2018,15,Everton,1.8,1.5,Newcastle Utd,1.0,1.0,2018-12-05,Lee Mason,Goodison Park,Wed,19:45,"39,350",161,draw,draw,2aecf610-cb65-561f-9cd2-69b18f9642b4,e647a654-f8b8-5687-9d8c-a752c5749f66,Everton,Newcastle Utd,Everton_Newcastle Utd,Everton_Newcastle Utd_2018
+2018,30,Newcastle Utd,2.4,1.1,Everton,3.0,2.0,2019-03-09,Lee Mason,St. James' Park,Sat,15:00,"52,242",320,Newcastle Utd,Everton,3876b63c-e894-549c-8fd0-7799d67cce31,e647a654-f8b8-5687-9d8c-a752c5749f66,Newcastle Utd,Everton,Everton_Newcastle Utd,Everton_Newcastle Utd_2018

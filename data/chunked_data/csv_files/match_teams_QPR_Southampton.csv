@@ -1,0 +1,13 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
+1992,2,QPR,0.0,0.0,Southampton,3.0,1.0,0,Ray Bigger,0,0,0,0,16,QPR,Southampton,47d528c6-bcf7-584d-b0b4-e3253a91540b,d09ee3e8-19a2-5c13-98aa-1a5040dfd298,QPR,Southampton,QPR_Southampton,QPR_Southampton_1992
+1992,8,Southampton,0.0,0.0,QPR,1.0,2.0,0,Alan Gunn,0,0,0,0,81,QPR,Southampton,083e7e45-ef43-5944-9406-63fc484f69e8,d09ee3e8-19a2-5c13-98aa-1a5040dfd298,Southampton,QPR,QPR_Southampton,QPR_Southampton_1992
+1993,3,QPR,0.0,0.0,Southampton,2.0,1.0,0,Roger Dilkes,0,0,0,0,487,QPR,Southampton,d46eba71-4717-5d28-b406-2d7e6eeb5c1d,741a3139-9f88-5e3d-a6dc-5d83d54ab3f3,QPR,Southampton,QPR_Southampton,QPR_Southampton_1993
+1993,20,Southampton,0.0,0.0,QPR,0.0,1.0,0,Keren Barratt,0,0,0,0,669,QPR,Southampton,18a6d05f-01e9-58f6-8fcc-c30aba9dab14,741a3139-9f88-5e3d-a6dc-5d83d54ab3f3,Southampton,QPR,QPR_Southampton,QPR_Southampton_1993
+1994,21,QPR,0.0,0.0,Southampton,2.0,2.0,0,Keith Cooper,0,0,0,0,1148,draw,draw,b1706d5d-95b6-59a7-858c-c1740a236212,6cacfff3-de9f-58d8-a27a-bf31d5e7839a,QPR,Southampton,QPR_Southampton,QPR_Southampton_1994
+1994,38,Southampton,0.0,0.0,QPR,2.0,1.0,0,Peter Jones,0,0,0,0,1326,Southampton,QPR,24c0e934-48fe-566b-9241-4e6a63f76b4f,6cacfff3-de9f-58d8-a27a-bf31d5e7839a,Southampton,QPR,QPR_Southampton,QPR_Southampton_1994
+1995,12,Southampton,0.0,0.0,QPR,2.0,0.0,0,Roger Dilkes,0,0,0,0,1496,Southampton,QPR,a4447dce-4c12-587d-a501-03029eff8700,bbee6146-37e0-5938-85f9-dae89bba9b8c,Southampton,QPR,QPR_Southampton,QPR_Southampton_1995
+1995,33,QPR,0.0,0.0,Southampton,3.0,0.0,0,Peter Jones,0,0,0,0,1701,QPR,Southampton,3a7c03bd-2a7a-5a55-a35d-3b099b47b567,bbee6146-37e0-5938-85f9-dae89bba9b8c,QPR,Southampton,QPR_Southampton,QPR_Southampton_1995
+2012,12,QPR,0.0,0.0,Southampton,1.0,3.0,0,Mike Dean,0,0,0,0,7960,Southampton,QPR,9ccd5edc-a477-53b1-902c-0261ed94c327,34458c6a-4a02-5381-9343-8ca87d88484a,QPR,Southampton,QPR_Southampton,QPR_Southampton_2012
+2012,28,Southampton,0.0,0.0,QPR,1.0,2.0,0,Howard Webb,0,0,0,0,8119,QPR,Southampton,9783b676-8748-55ac-9e2d-6560ab8eb312,34458c6a-4a02-5381-9343-8ca87d88484a,Southampton,QPR,QPR_Southampton,QPR_Southampton_2012
+2014,6,Southampton,0.0,0.0,QPR,2.0,1.0,0,Mark Clattenburg,0,0,0,0,8662,Southampton,QPR,7f7a83f2-c23c-5937-9f01-ac4b4b5c46af,9d67fa6d-1a87-555a-ad57-8d2d3d726647,Southampton,QPR,QPR_Southampton,QPR_Southampton_2014
+2014,24,QPR,0.0,0.0,Southampton,0.0,1.0,0,Roger East,0,0,0,0,8838,Southampton,QPR,df6b194a-d39f-5cb1-bb73-62209f60ff6a,9d67fa6d-1a87-555a-ad57-8d2d3d726647,QPR,Southampton,QPR_Southampton,QPR_Southampton_2014

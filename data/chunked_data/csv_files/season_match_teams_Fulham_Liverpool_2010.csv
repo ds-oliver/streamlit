@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
+2010,18,Liverpool,0.0,0.0,Fulham,1.0,0.0,0,Lee Probert,0,0,0,0,7319,Liverpool,Fulham,6cd1ae8b-b724-53b4-9e0b-cddd90568478,67e16d11-739d-521e-89f6-76425162e833,Liverpool,Fulham,Fulham_Liverpool,Fulham_Liverpool_2010
+2010,36,Fulham,0.0,0.0,Liverpool,2.0,5.0,0,Lee Mason,0,0,0,0,7444,Liverpool,Fulham,8c0c10d3-38da-57a3-9141-ffce87d70237,67e16d11-739d-521e-89f6-76425162e833,Fulham,Liverpool,Fulham_Liverpool,Fulham_Liverpool_2010

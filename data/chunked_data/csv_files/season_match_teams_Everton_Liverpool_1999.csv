@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
+1999,9,Liverpool,0.0,0.0,Everton,0.0,1.0,0,Mike Riley,0,0,0,0,2991,Everton,Liverpool,282d41fe-e625-5e57-bbd5-6b0ea477db8e,7b120862-a66b-58c4-9e9b-f9f6eee90d62,Liverpool,Everton,Everton_Liverpool,Everton_Liverpool_1999
+1999,34,Everton,0.0,0.0,Liverpool,0.0,0.0,0,Graham Poll,0,0,0,0,3239,draw,draw,a9346d4c-fafa-5c95-9bf0-2272ffd718a0,7b120862-a66b-58c4-9e9b-f9f6eee90d62,Everton,Liverpool,Everton_Liverpool,Everton_Liverpool_1999

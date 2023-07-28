@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
+2003,3,Arsenal,0.0,0.0,Aston Villa,2.0,0.0,0,Mike Dean,0,0,0,0,4452,Arsenal,Aston Villa,45803309-1c98-58d9-909e-7ec70da137ff,1f5fe7c5-7166-57ec-b8d1-a82877db2c42,Arsenal,Aston Villa,Arsenal_Aston Villa,Arsenal_Aston Villa_2003
+2003,22,Aston Villa,0.0,0.0,Arsenal,0.0,2.0,0,Mark Halsey,0,0,0,0,4641,Arsenal,Aston Villa,ee04402e-136b-59ab-b933-4f7ef7425e03,1f5fe7c5-7166-57ec-b8d1-a82877db2c42,Aston Villa,Arsenal,Arsenal_Aston Villa,Arsenal_Aston Villa_2003

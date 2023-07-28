@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
+2001,13,Tottenham,0.0,0.0,Arsenal,1.0,1.0,0,Jeff Winter,0,0,0,0,3781,draw,draw,c7e666dc-6a85-52bf-a49e-fd97a84a29ee,bcb67fc3-1794-5f95-a0b3-fb661644901a,Tottenham,Arsenal,Arsenal_Tottenham,Arsenal_Tottenham_2001
+2001,34,Arsenal,0.0,0.0,Tottenham,2.0,1.0,0,Mark Halsey,0,0,0,0,3994,Arsenal,Tottenham,94021898-1c4a-5e02-b607-c8083168b6dc,bcb67fc3-1794-5f95-a0b3-fb661644901a,Arsenal,Tottenham,Arsenal_Tottenham,Arsenal_Tottenham_2001

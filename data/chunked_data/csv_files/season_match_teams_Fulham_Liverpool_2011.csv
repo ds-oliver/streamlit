@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
+2011,14,Fulham,0.0,0.0,Liverpool,1.0,0.0,0,Kevin Friend,0,0,0,0,7604,Fulham,Liverpool,08d68f0f-5c0a-5c7e-855f-8cb86630310b,45539aa6-dab4-52a7-82da-30562f118129,Fulham,Liverpool,Fulham_Liverpool,Fulham_Liverpool_2011
+2011,34,Liverpool,0.0,0.0,Fulham,0.0,1.0,0,Lee Probert,0,0,0,0,7822,Fulham,Liverpool,bb3dedf5-139f-533a-9aa2-13f75f2f4d3e,45539aa6-dab4-52a7-82da-30562f118129,Liverpool,Fulham,Fulham_Liverpool,Fulham_Liverpool_2011

@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
+2001,3,West Ham,0.0,0.0,Leeds United,0.0,0.0,0,Paul Durkin,0,0,0,0,3686,draw,draw,baa3a89a-1d6b-5bc4-84f5-6d7a634cccc7,f986a319-4996-5528-8d71-355cf57d1ac7,West Ham,Leeds United,Leeds United_West Ham,Leeds United_West Ham_2001
+2001,21,Leeds United,0.0,0.0,West Ham,3.0,0.0,0,Steve Dunn,0,0,0,0,3866,Leeds United,West Ham,859ea947-b835-5b0f-994a-2f78a48c64c0,f986a319-4996-5528-8d71-355cf57d1ac7,Leeds United,West Ham,Leeds United_West Ham,Leeds United_West Ham_2001

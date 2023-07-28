@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
+2017,12,Crystal Palace,2.0,1.8,Everton,2.0,2.0,2017-11-18,Anthony Taylor,Selhurst Park,Sat,15:00,"25,526",126,draw,draw,8c85037b-bc3c-5929-bde3-6e534509be06,c2dc7cb2-4f2f-5ea5-af15-b9194112e4e7,Crystal Palace,Everton,Crystal Palace_Everton,Crystal Palace_Everton_2017
+2017,27,Everton,1.5,1.5,Crystal Palace,3.0,1.0,2018-02-10,Jonathan Moss,Goodison Park,Sat,15:00,"39,139",288,Everton,Crystal Palace,8b817bec-9078-5c87-8c9a-d37578289a4f,c2dc7cb2-4f2f-5ea5-af15-b9194112e4e7,Everton,Crystal Palace,Crystal Palace_Everton,Crystal Palace_Everton_2017

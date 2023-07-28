@@ -1,0 +1,9 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
+1992,4,Coventry City,0.0,0.0,QPR,0.0,1.0,0,Ray Bigger,0,0,0,0,42,QPR,Coventry City,dcb72c86-17d6-5054-bedd-e7024ea75e44,f396fb7c-84c3-5f08-bf0e-af535d1f56a5,Coventry City,QPR,Coventry City_QPR,Coventry City_QPR_1992
+1992,30,QPR,0.0,0.0,Coventry City,2.0,0.0,0,Paul Durkin,0,0,0,0,311,QPR,Coventry City,1f59885b-4927-5ad2-9014-c5eff01e766b,f396fb7c-84c3-5f08-bf0e-af535d1f56a5,QPR,Coventry City,Coventry City_QPR,Coventry City_QPR_1992
+1993,12,QPR,0.0,0.0,Coventry City,5.0,1.0,0,Gerald Ashby,0,0,0,0,591,QPR,Coventry City,13a320cc-f3ed-5373-b4aa-e0d276d93fe7,bdeb921e-0409-5de1-9583-9b45d408b254,QPR,Coventry City,Coventry City_QPR,Coventry City_QPR_1993
+1993,27,Coventry City,0.0,0.0,QPR,0.0,1.0,0,Alan Wilkie,0,0,0,0,745,QPR,Coventry City,6f9dd3fa-1a42-5030-9640-14918430e4c5,bdeb921e-0409-5de1-9583-9b45d408b254,Coventry City,QPR,Coventry City_QPR,Coventry City_QPR_1993
+1994,5,QPR,0.0,0.0,Coventry City,2.0,2.0,0,Joe Worrall,0,0,0,0,967,draw,draw,406ee7dc-3695-59d1-8a42-d98427f67502,afc1b6d0-6371-59ec-819b-8fd99e045578,QPR,Coventry City,Coventry City_QPR,Coventry City_QPR_1994
+1994,36,Coventry City,0.0,0.0,QPR,0.0,1.0,0,Paul Danson,0,0,0,0,1297,QPR,Coventry City,bce6f2b4-51ad-5b97-9b0b-229b57f1f21a,afc1b6d0-6371-59ec-819b-8fd99e045578,Coventry City,QPR,Coventry City_QPR,Coventry City_QPR_1994
+1995,13,QPR,0.0,0.0,Coventry City,1.0,1.0,0,Martin Bodenham,0,0,0,0,1516,draw,draw,f981bd2c-d4a7-5796-9252-a1cc8bf2ca5d,b2da8d7c-3d19-5dd5-bf41-309bd9a71043,QPR,Coventry City,Coventry City_QPR,Coventry City_QPR_1995
+1995,36,Coventry City,0.0,0.0,QPR,1.0,0.0,0,Keith Cooper,0,0,0,0,1733,Coventry City,QPR,25df3187-c51b-560a-ade0-5b65d647bbf1,b2da8d7c-3d19-5dd5-bf41-309bd9a71043,Coventry City,QPR,Coventry City_QPR,Coventry City_QPR_1995

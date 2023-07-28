@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
+1995,10,Middlesbrough,0.0,0.0,QPR,1.0,0.0,0,Mike Reed,0,0,0,0,1481,Middlesbrough,QPR,e680931c-7eed-5fce-8042-67cb740eb83f,7c199d2e-9344-53f4-b1d4-6fec52356a2e,Middlesbrough,QPR,Middlesbrough_QPR,Middlesbrough_QPR_1995
+1995,16,QPR,0.0,0.0,Middlesbrough,1.0,1.0,0,Paul Durkin,0,0,0,0,1542,draw,draw,9962aba6-d43a-589f-aee7-d98d303a0efb,7c199d2e-9344-53f4-b1d4-6fec52356a2e,QPR,Middlesbrough,Middlesbrough_QPR,Middlesbrough_QPR_1995

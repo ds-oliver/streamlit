@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
+2002,8,Tottenham,0.0,0.0,Middlesbrough,0.0,3.0,0,Graham Poll,0,0,0,0,4120,Middlesbrough,Tottenham,e1384ffd-46b9-5fd8-812a-ef379448f6e0,23330a6b-ca46-5f52-9125-b3cb6a4f5e02,Tottenham,Middlesbrough,Middlesbrough_Tottenham,Middlesbrough_Tottenham_2002
+2002,37,Middlesbrough,0.0,0.0,Tottenham,5.0,1.0,0,Uriah Rennie,0,0,0,0,4408,Middlesbrough,Tottenham,1087ba60-bd14-5b6d-a5f7-4aeb51e49cb9,23330a6b-ca46-5f52-9125-b3cb6a4f5e02,Middlesbrough,Tottenham,Middlesbrough_Tottenham,Middlesbrough_Tottenham_2002

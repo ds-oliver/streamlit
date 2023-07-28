@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
+1993,14,Arsenal,0.0,0.0,Aston Villa,1.0,2.0,0,Martin Bodenham,0,0,0,0,606,Aston Villa,Arsenal,c6d36101-2975-5b5a-bf12-4140dd0b94aa,c4bb8f9d-1ab2-5ea5-93a3-6a6818337103,Arsenal,Aston Villa,Arsenal_Aston Villa,Arsenal_Aston Villa_1993
+1993,40,Aston Villa,0.0,0.0,Arsenal,1.0,2.0,0,Keith Cooper,0,0,0,0,885,Arsenal,Aston Villa,a10f32e5-32e5-5863-8ffe-8fb8bcc92dc0,c4bb8f9d-1ab2-5ea5-93a3-6a6818337103,Aston Villa,Arsenal,Arsenal_Aston Villa,Arsenal_Aston Villa_1993

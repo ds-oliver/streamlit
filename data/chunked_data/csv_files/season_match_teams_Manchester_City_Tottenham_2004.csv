@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
+2004,17,Manchester City,0.0,0.0,Tottenham,0.0,1.0,0,Dermot Gallagher,0,0,0,0,4968,Tottenham,Manchester City,a50920b0-9219-50b7-95ce-f6ab7c0acf5b,8f0bd2b4-777e-5f8b-b485-719680c4ae27,Manchester City,Tottenham,Manchester City_Tottenham,Manchester City_Tottenham_2004
+2004,30,Tottenham,0.0,0.0,Manchester City,2.0,1.0,0,Barry Knight,0,0,0,0,5101,Tottenham,Manchester City,9a92ba57-9121-5961-9d60-d69d5210cd26,8f0bd2b4-777e-5f8b-b485-719680c4ae27,Tottenham,Manchester City,Manchester City_Tottenham,Manchester City_Tottenham_2004

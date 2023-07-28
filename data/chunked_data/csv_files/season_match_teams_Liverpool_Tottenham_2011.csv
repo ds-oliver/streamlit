@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
+2011,5,Tottenham,0.0,0.0,Liverpool,4.0,0.0,0,Mike Jones,0,0,0,0,7513,Tottenham,Liverpool,67247f33-edc6-549b-84bf-8e490dae8199,46a0ef30-287d-53ea-8dee-15af8d181293,Tottenham,Liverpool,Liverpool_Tottenham,Liverpool_Tottenham_2011
+2011,24,Liverpool,0.0,0.0,Tottenham,0.0,0.0,0,Michael Oliver,0,0,0,0,7705,draw,draw,5c072567-0f74-51cb-8440-8d6c35602e54,46a0ef30-287d-53ea-8dee-15af8d181293,Liverpool,Tottenham,Liverpool_Tottenham,Liverpool_Tottenham_2011

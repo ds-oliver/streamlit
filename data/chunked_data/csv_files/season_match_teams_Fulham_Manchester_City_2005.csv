@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
+2005,12,Fulham,0.0,0.0,Manchester City,2.0,1.0,0,Rob Styles,0,0,0,0,5295,Fulham,Manchester City,64d12686-0937-5a77-bb0d-a255fe7634ce,b06713f0-ccbe-51f8-b38b-3a547772b7e1,Fulham,Manchester City,Fulham_Manchester City,Fulham_Manchester City_2005
+2005,37,Manchester City,0.0,0.0,Fulham,1.0,2.0,0,Peter Walton,0,0,0,0,5547,Fulham,Manchester City,85bd69c1-4e0c-58a9-bb14-bb4a7c19c954,b06713f0-ccbe-51f8-b38b-3a547772b7e1,Manchester City,Fulham,Fulham_Manchester City,Fulham_Manchester City_2005

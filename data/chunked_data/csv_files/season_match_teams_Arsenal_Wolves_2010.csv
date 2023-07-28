@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
+2010,12,Wolves,0.0,0.0,Arsenal,0.0,2.0,0,Mark Halsey,0,0,0,0,7200,Arsenal,Wolves,367f1412-e449-5804-bb72-458e5f17337e,cd5e68d7-eb17-579f-ab1a-e2b695589b05,Wolves,Arsenal,Arsenal_Wolves,Arsenal_Wolves_2010
+2010,27,Arsenal,0.0,0.0,Wolves,2.0,0.0,0,Chris Foy,0,0,0,0,7341,Arsenal,Wolves,8015acaa-f363-5fb8-b3ca-238cba70e640,cd5e68d7-eb17-579f-ab1a-e2b695589b05,Arsenal,Wolves,Arsenal_Wolves,Arsenal_Wolves_2010

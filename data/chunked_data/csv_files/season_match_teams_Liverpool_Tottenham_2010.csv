@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
+2010,15,Tottenham,0.0,0.0,Liverpool,2.0,1.0,0,Martin Atkinson,0,0,0,0,7235,Tottenham,Liverpool,cf4ee021-335b-52ce-8a91-e946522e9861,068ec668-a12f-571c-bec7-da88eac62a06,Tottenham,Liverpool,Liverpool_Tottenham,Liverpool_Tottenham_2010
+2010,37,Liverpool,0.0,0.0,Tottenham,0.0,2.0,0,Howard Webb,0,0,0,0,7451,Tottenham,Liverpool,a61398bf-57c1-55e3-b964-74475dcef32b,068ec668-a12f-571c-bec7-da88eac62a06,Liverpool,Tottenham,Liverpool_Tottenham,Liverpool_Tottenham_2010

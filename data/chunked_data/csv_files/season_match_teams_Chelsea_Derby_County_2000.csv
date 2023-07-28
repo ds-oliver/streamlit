@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
+2000,17,Chelsea,0.0,0.0,Derby County,4.0,1.0,0,Paul Taylor,0,0,0,0,3452,Chelsea,Derby County,5072dbaa-e1cb-555c-87c0-44d8bbd3a56a,444f78d6-69ce-5f80-969a-ec61ea65b1bb,Chelsea,Derby County,Chelsea_Derby County,Chelsea_Derby County_2000
+2000,32,Derby County,0.0,0.0,Chelsea,0.0,4.0,0,Stephen Lodge,0,0,0,0,3594,Chelsea,Derby County,84bf20e0-0707-5f8d-aad4-2dc7a3fadc93,444f78d6-69ce-5f80-969a-ec61ea65b1bb,Derby County,Chelsea,Chelsea_Derby County,Chelsea_Derby County_2000

@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
+2000,16,Liverpool,0.0,0.0,Charlton Ath,3.0,0.0,0,Rob Styles,0,0,0,0,3442,Liverpool,Charlton Ath,5e9ec457-defa-5104-b1b5-9535a8cd6b00,c5fe80fc-9a62-5696-b05f-4d8d29272b47,Liverpool,Charlton Ath,Charlton Ath_Liverpool,Charlton Ath_Liverpool_2000
+2000,38,Charlton Ath,0.0,0.0,Liverpool,0.0,4.0,0,Graham Barber,0,0,0,0,3659,Liverpool,Charlton Ath,2ba26d55-6c37-5023-b226-87f9d7ffd24b,c5fe80fc-9a62-5696-b05f-4d8d29272b47,Charlton Ath,Liverpool,Charlton Ath_Liverpool,Charlton Ath_Liverpool_2000

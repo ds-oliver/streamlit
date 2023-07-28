@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
+2002,12,Fulham,0.0,0.0,Arsenal,0.0,1.0,0,Jeff Winter,0,0,0,0,4163,Arsenal,Fulham,7aff6cde-8954-5bbc-83bd-6a38b2940d6b,26cad640-97a9-5a09-ba13-802568f48fc6,Fulham,Arsenal,Arsenal_Fulham,Arsenal_Fulham_2002
+2002,26,Arsenal,0.0,0.0,Fulham,2.0,1.0,0,Eddie Wolstenholme,0,0,0,0,4295,Arsenal,Fulham,28fe32bc-8c32-5e31-accf-6de6edd47a25,26cad640-97a9-5a09-ba13-802568f48fc6,Arsenal,Fulham,Arsenal_Fulham,Arsenal_Fulham_2002

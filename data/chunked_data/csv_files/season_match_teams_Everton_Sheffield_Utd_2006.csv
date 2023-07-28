@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
+2006,9,Everton,0.0,0.0,Sheffield Utd,2.0,0.0,0,Dermot Gallagher,0,0,0,0,5648,Everton,Sheffield Utd,aaea1654-7907-5d4a-bb9c-a82fae21c023,cbe5bc20-c55e-53ed-9be2-c44bc7a941a7,Everton,Sheffield Utd,Everton_Sheffield Utd,Everton_Sheffield Utd_2006
+2006,29,Sheffield Utd,0.0,0.0,Everton,1.0,1.0,0,Mike Riley,0,0,0,0,5850,draw,draw,d4fcd4d6-1ba5-5526-a33d-cd00fd51f3e8,cbe5bc20-c55e-53ed-9be2-c44bc7a941a7,Sheffield Utd,Everton,Everton_Sheffield Utd,Everton_Sheffield Utd_2006

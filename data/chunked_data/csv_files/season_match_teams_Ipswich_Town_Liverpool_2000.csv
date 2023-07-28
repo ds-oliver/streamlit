@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
+2000,17,Liverpool,0.0,0.0,Ipswich Town,0.0,1.0,0,Alan Wiley,0,0,0,0,3453,Ipswich Town,Liverpool,d08ce2c4-bfbc-5044-b42d-168756cbc6cb,42b8cf03-17d2-5e16-a159-3848b8d395dc,Liverpool,Ipswich Town,Ipswich Town_Liverpool,Ipswich Town_Liverpool_2000
+2000,32,Ipswich Town,0.0,0.0,Liverpool,1.0,1.0,0,Steve Dunn,0,0,0,0,3599,draw,draw,17b7bb96-5dc7-5ede-8119-539a51449487,42b8cf03-17d2-5e16-a159-3848b8d395dc,Ipswich Town,Liverpool,Ipswich Town_Liverpool,Ipswich Town_Liverpool_2000

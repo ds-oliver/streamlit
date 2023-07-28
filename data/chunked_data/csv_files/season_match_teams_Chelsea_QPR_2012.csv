@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
+2012,4,QPR,0.0,0.0,Chelsea,0.0,0.0,0,Andre Marriner,0,0,0,0,7877,draw,draw,59a8c2e5-2f24-55ac-ac8c-624823f9e3b2,fdc4c17d-2d02-5ec7-b602-95f5e44e7a41,QPR,Chelsea,Chelsea_QPR,Chelsea_QPR_2012
+2012,21,Chelsea,0.0,0.0,QPR,0.0,1.0,0,Lee Mason,0,0,0,0,8053,QPR,Chelsea,da79e253-51eb-514e-bcd8-185593db03fa,fdc4c17d-2d02-5ec7-b602-95f5e44e7a41,Chelsea,QPR,Chelsea_QPR,Chelsea_QPR_2012

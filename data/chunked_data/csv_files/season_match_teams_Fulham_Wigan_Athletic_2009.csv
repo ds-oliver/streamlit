@@ -1,0 +1,3 @@
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
+2009,12,Wigan Athletic,0.0,0.0,Fulham,1.0,1.0,0,Phil Dowd,0,0,0,0,6819,draw,draw,d33ade6b-9adb-5842-9816-37568656cfdd,05d79bcb-bcf0-594b-9418-4744fb55cef6,Wigan Athletic,Fulham,Fulham_Wigan Athletic,Fulham_Wigan Athletic_2009
+2009,33,Fulham,0.0,0.0,Wigan Athletic,2.0,1.0,0,Mark Clattenburg,0,0,0,0,7030,Fulham,Wigan Athletic,62c4cefb-2b98-5b4f-9459-36760f89c5b6,05d79bcb-bcf0-594b-9418-4744fb55cef6,Fulham,Wigan Athletic,Fulham_Wigan Athletic,Fulham_Wigan Athletic_2009
