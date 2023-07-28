@@ -10,18 +10,8 @@ sys.path.append('/Users/hogan/Library/CloudStorage/Dropbox/Mac/Documents/GitHub/
 
 from chunk_and_save_data import load_data_from_db
 
-@st.cache
-def call_load_data_function():
-    """
-    This function loads the data from the db.
-    """
-    # Load the data from the db
-    players_table, results_table = load_data_from_db()
-
-    return players_table, results_table
-
 # Load the data from the db
-players_table, results_table = call_load_data_function()
+players_table, results_table = load_data_from_db()
 
 st.write(results_table)
 

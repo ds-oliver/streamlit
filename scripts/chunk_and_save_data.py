@@ -16,17 +16,17 @@ sys.path.append('/Users/hogan/Library/CloudStorage/Dropbox/Mac/Documents/GitHub/
 from log_it import set_up_logs, log_start_of_script, log_end_of_script, log_start_of_function, log_end_of_function, log_start_of_app, log_end_of_app, log_dataframe_details, log_specific_info_message
 
 # Constants
-DATA_TO_LOAD_PATH = 'data/chunked_data/original_results_players_data/'
-CSV_PATH = 'data/chunked_data/csv_files/'
+DATA_IN_PATH = 'data/data_in/original_results_players_data/'
+CHUNKED_CSVS_PATH = 'data/data_out/csv_files/chunked_data/'
 # DB_PATH = 'data/data_out/db_files'
 FINAL_CSVS_PATH = 'data/data_out/csv_files/'
-DB_PATH = "/Users/hogan/Library/CloudStorage/Dropbox/Mac/Documents/GitHub/streamlit/data/data_out/db_files"
-LEFT_MERGE_CSV_FILENAME = 'left_merge_df.csv'
-ONLY_RESULTS_CSV_FILENAME = 'only_results_df.csv'
+DB_PATH = "/Users/hogan/Library/CloudStorage/Dropbox/Mac/Documents/GitHub/streamlit/data/data_out/db_files/"
 
 # Generate a timestamp string
 timestamp_str = datetime.datetime.now().strftime("%Y%m%d-%H%M%S")
 
+LEFT_MERGE_CSV_FILENAME = f'left_merge_df_{timestamp_str}.csv'
+ONLY_RESULTS_CSV_FILENAME = f'only_results_df_{timestamp_str}.csv'
 # Create new database filenames with the timestamp
 LEFT_MERGE_DB_FILENAME = f'left_merge_table_{timestamp_str}.db'
 ONLY_RESULTS_DB_FILENAME = f'only_results_table_{timestamp_str}.db'
@@ -110,9 +110,9 @@ script_start_time, script_end_time = log_start_of_script(log_file_path)
 
 LIST_OF_CSVS = ['players_all_seasons_data', 'df_2017_2018', 'df_2018_2019', 'df_2019_2020', 'df_2020_2021', 'df_2021_2022', 'df_2022_2023', 'df_1992_2016']
 
-def load_data(data_to_load_path=DATA_TO_LOAD_PATH):
+def load_data(data_in_path=DATA_IN_PATH):
     list_of_csvs = LIST_OF_CSVS
-    list_of_files = [data_to_load_path + csv + '.csv' for csv in list_of_csvs]
+    list_of_files = [data_in_path + csv + '.csv' for csv in list_of_csvs]
 
     dict_of_dfs = {csv: pd.read_csv(file) for csv, file in zip(list_of_csvs, list_of_files)}
 
@@ -253,7 +253,7 @@ def calculate_per90s(df_dict):
 
     return df_dict
 
-def save_as_csvs(df_dict, dataframe, csv_path=CSV_PATH, final_csvs_path=FINAL_CSVS_PATH):  
+def save_as_csvs(df_dict, dataframe, chunked_csvs_path=CHUNKED_CSVS_PATH, final_csvs_path=FINAL_CSVS_PATH):  
     """
     Summary: 
         saves each df in df_dict as a csv file and as a SQLite3 db file
@@ -268,7 +268,7 @@ def save_as_csvs(df_dict, dataframe, csv_path=CSV_PATH, final_csvs_path=FINAL_CS
         None
     """
     # Ensure directory for CSV files exists
-    os.makedirs(csv_path, exist_ok=True)
+    os.makedirs(chunked_csvs_path, exist_ok=True)
     os.makedirs(final_csvs_path, exist_ok=True)
 
     # save df as a csv file
@@ -283,13 +283,13 @@ def save_as_csvs(df_dict, dataframe, csv_path=CSV_PATH, final_csvs_path=FINAL_CS
         key = str(key).replace(" ", "_")  
 
         # Save as a csv file
-        csv_file_path = os.path.join(csv_path, f"{key}.csv")
-        df.to_csv(csv_file_path, index=False)
+        csv_file_path = os.path.join(chunked_csvs_path, f"{key}.csv")
+        df.to_csv(chunked_csvs_path, index=False)
 
 
 # def function to access these dataframes from save_as_csvs(df_dict, dataframe, csv_path=CSV_PATH, final_csvs_path=FINAL_CSVS_PATH) for analysis of specific matchups and players
 
-def load_data_from_csvs(csv_path=CSV_PATH):
+def load_data_from_csvs(chunked_csvs_path=CHUNKED_CSVS_PATH):
     """
     Summary: 
         loads data from csv files into a dictionary of dataframes
@@ -301,15 +301,15 @@ def load_data_from_csvs(csv_path=CSV_PATH):
         dict: dictionary of dataframes
     """
     # Ensure directory for CSV files exists
-    os.makedirs(csv_path, exist_ok=True)
+    os.makedirs(chunked_csvs_path, exist_ok=True)
 
     # Create an empty dictionary to store dataframes
     df_dict = {}
 
     # Iterate over each file in the directory
-    for file in os.listdir(csv_path):
+    for file in os.listdir(chunked_csvs_path):
         # Load the CSV file into a dataframe
-        df = pd.read_csv(os.path.join(csv_path, file))
+        df = pd.read_csv(os.path.join(chunked_csvs_path, file))
 
         # Convert the filename to a key and save the dataframe into the dictionary
         key = file.replace(".csv", "")
@@ -317,8 +317,6 @@ def load_data_from_csvs(csv_path=CSV_PATH):
 
     return df_dict
 
-
-    
 
 def save_as_dbs(players_dataframe, results_dataframe, db_path=DB_PATH):  
     """
@@ -544,8 +542,8 @@ def main():
         # log the start of the save_as_csvs function
         save_as_csvs_start_time = log_start_of_function('save_as_csvs')
 
-        save_as_csvs(left_merge_players_dict, left_merge_players_df, CSV_PATH, FINAL_CSVS_PATH)
-        save_as_csvs(only_results_dict, only_results_df, CSV_PATH, FINAL_CSVS_PATH)
+        save_as_csvs(left_merge_players_dict, left_merge_players_df, CHUNKED_CSVS_PATH, FINAL_CSVS_PATH)
+        save_as_csvs(only_results_dict, only_results_df, CHUNKED_CSVS_PATH, FINAL_CSVS_PATH)
         print(f"Dictionaries saved as CSVs.\n--- {round((time.time() - start_time) / 60, 2)} minutes, ({round(time.time() - start_time, 2)} seconds) have elapsed since the start ---")
 
         # log the end of the save_as_csvs function
