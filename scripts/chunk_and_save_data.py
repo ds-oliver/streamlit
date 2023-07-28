@@ -16,13 +16,30 @@ sys.path.append('/Users/hogan/Library/CloudStorage/Dropbox/Mac/Documents/GitHub/
 from log_it import set_up_logs, log_start_of_script, log_end_of_script, log_start_of_function, log_end_of_function, log_start_of_app, log_end_of_app, log_dataframe_details, log_specific_info_message
 
 # Constants
-DATA_IN_PATH = 'data/data_in/original_results_players_data/'
+DATA_IN_PATH = '/Users/hogan/Library/CloudStorage/Dropbox/Mac/Documents/GitHub/streamlit/data/data_in/original_results_players_data/'
 PLAYERS_CHUNKED_CSVS_PATH = 'data/data_out/csv_files/chunked_data/players/'
 RESULTS_CHUNKED_CSVS_PATH = 'data/data_out/csv_files/chunked_data/results/'
 
 # DB_PATH = 'data/data_out/db_files'
 FINAL_CSVS_PATH = 'data/data_out/csv_files/'
 DB_PATH = "/Users/hogan/Library/CloudStorage/Dropbox/Mac/Documents/GitHub/streamlit/data/data_out/db_files/"
+
+# make directory if it doesn't exist
+if not os.path.exists(DB_PATH):
+    os.makedirs(DB_PATH)
+
+# make directory if it doesn't exist
+if not os.path.exists(FINAL_CSVS_PATH):
+    os.makedirs(FINAL_CSVS_PATH)
+
+# make directory if it doesn't exist
+if not os.path.exists(PLAYERS_CHUNKED_CSVS_PATH):
+    os.makedirs(PLAYERS_CHUNKED_CSVS_PATH)
+
+# make directory if it doesn't exist
+if not os.path.exists(RESULTS_CHUNKED_CSVS_PATH):
+    os.makedirs(RESULTS_CHUNKED_CSVS_PATH)
+
 
 # Generate a timestamp string
 timestamp_str = datetime.datetime.now().strftime("%Y%m%d-%H%M%S")
