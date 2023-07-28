@@ -500,5 +500,5 @@ if __name__ == "__main__":
     print(left_merge_players_df.describe())
     print(left_merge_players_df.isnull().sum())
     print(left_merge_players_df['match_teams'].nunique())
-    print(left_merge_players_df['seasons_match_teams'].value_counts())
+    print(left_merge_players_df['season_match_teams'].value_counts())
 
