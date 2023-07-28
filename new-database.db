@@ -1,5 +1,0 @@
-SELECT *
-FROM database.db
-WHERE id = 1
-;
-
