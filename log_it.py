@@ -84,7 +84,7 @@ def log_end_of_function(function_name, function_start_time, app_start_time):
     time_elapsed = function_end_time - function_start_time
     # Log the end of the function
     # use this format --- {round((time.time() - start_time) / 60, 2)} minutes, ({round(time.time() - start_time, 2)} seconds) have elapsed since the start --- to log time elapsed in minutes and seconds to log how long the function took to run and how long the app has been running
-    logging.info(f"Function {function_name} completed in {round(time_elapsed.total_seconds(), 2)} seconds, ({round((time.time() - app_start_time) / 60, 2)} minutes, ({round(time.time() - app_start_time, 2)} seconds) have elapsed since the start)")
+    logging.info(f"Function {function_name} ended, ({round((time.time() - function_start_time) / 60, 2)} minutes, ({round(time.time() - function_start_time, 2)} seconds) have elapsed since the start)")
 
 # Log the start of the script
 def log_start_of_script(script_name):
