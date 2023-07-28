@@ -69,54 +69,54 @@ warnings.filterwarnings("ignore", message=".*is private.*", category=Deprecation
 warnings.filterwarnings("ignore", message=".*is private.*", category=FutureWarning)
 warnings.filterwarnings("ignore", message="DataFrame is highly fragmented.*", category=UserWarning)
 
-def test_database(db_path):
-    """
-    Tests the SQLite database by checking whether the connection can be established,
-    whether specific tables exist, and whether data can be fetched from those tables.
-    """
-    conn = None
-    try:
-        # Connect to the database
-        conn = sqlite3.connect(db_path + ONLY_RESULTS_DB_FILENAME)
+# def test_database(db_path):
+#     """
+#     Tests the SQLite database by checking whether the connection can be established,
+#     whether specific tables exist, and whether data can be fetched from those tables.
+#     """
+#     conn = None
+#     try:
+#         # Connect to the database
+#         conn = sqlite3.connect(db_path + ONLY_RESULTS_DB_FILENAME)
 
-        # Create a cursor
-        cur = conn.cursor()
+#         # Create a cursor
+#         cur = conn.cursor()
 
-        # Execute a SELECT statement to fetch data from the database
-        cur.execute("SELECT name FROM sqlite_master WHERE type='table';")
-        tables = cur.fetchall()
+#         # Execute a SELECT statement to fetch data from the database
+#         cur.execute("SELECT name FROM sqlite_master WHERE type='table';")
+#         tables = cur.fetchall()
 
-        # Check if tables exist
-        if len(tables) == 0:
-            print("There are no tables in the database. Something might have gone wrong.")
-            return False
+#         # Check if tables exist
+#         if len(tables) == 0:
+#             print("There are no tables in the database. Something might have gone wrong.")
+#             return False
 
-        # Fetch data from each table and check if it can be fetched
-        for table in tables:
-            try:
-                cur.execute(f"SELECT * FROM {table[0]} LIMIT 5;")
-                rows = cur.fetchall()
-                if len(rows) == 0:
-                    print(f"No data can be fetched from the table '{table[0]}'. Something might have gone wrong.")
-                    return False
-                else:
-                    print(f"Data successfully fetched from the table '{table[0]}'.")
+#         # Fetch data from each table and check if it can be fetched
+#         for table in tables:
+#             try:
+#                 cur.execute(f"SELECT * FROM {table[0]} LIMIT 5;")
+#                 rows = cur.fetchall()
+#                 if len(rows) == 0:
+#                     print(f"No data can be fetched from the table '{table[0]}'. Something might have gone wrong.")
+#                     return False
+#                 else:
+#                     print(f"Data successfully fetched from the table '{table[0]}'.")
 
-            except sqlite3.Error as e:
-                print(f"An error occurred when trying to fetch data from the table '{table[0]}': {e}")
-                return False
+#             except sqlite3.Error as e:
+#                 print(f"An error occurred when trying to fetch data from the table '{table[0]}': {e}")
+#                 return False
 
-        print("The database seems to be operational.")
+#         print("The database seems to be operational.")
 
-    except sqlite3.Error as e:
-        print(f"An error occurred when trying to connect to the database: {e}")
-        return False
+#     except sqlite3.Error as e:
+#         print(f"An error occurred when trying to connect to the database: {e}")
+#         return False
 
-    finally:
-        if conn:
-            conn.close()
+#     finally:
+#         if conn:
+#             conn.close()
 
-    return True
+#     return True
 
 # set up logs
 log_file_path = set_up_logs()
