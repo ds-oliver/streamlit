@@ -54,14 +54,13 @@ def log_start_of_function(function_name):
     """
     This function logs the start of the function.
     """
-    if function_start_time is not None and function_end_time is not None:
-        function_start_time = None
-        function_end_time = None
-    else:
-        # log start time
-        function_start_time = datetime.datetime.now()
-        # Log the start of the function
-        logging.info("Function {} started".format(function_name))
+    function_start_time = None
+    function_end_time = None
+
+    # log start time
+    function_start_time = datetime.datetime.now()
+    # Log the start of the function
+    logging.info("Function {} started".format(function_name))
 
     return function_start_time
 
