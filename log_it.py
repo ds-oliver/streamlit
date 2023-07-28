@@ -33,7 +33,7 @@ def log_start_of_app(log_file_path):
     # Log the start of the app
     logging.info("Streamlit app started")
 
-    return app_start_time, app_end_time
+    return app_start_time
 
 # Log the end of the app
 def log_end_of_app(log_file_path, app_start_time):
@@ -47,7 +47,8 @@ def log_end_of_app(log_file_path, app_start_time):
 
     # log time elapsed
     time_elapsed = app_end_time - app_start_time
-    logging.info("Time elapsed: {}".format(time_elapsed))
+    # use this format --- {round((time.time() - start_time) / 60, 2)} minutes, ({round(time.time() - start_time, 2)} seconds) have elapsed since the start --- to log time elapsed in minutes and seconds
+    logging.info(f"{round(time_elapsed.total_seconds(), 2)} seconds have elapsed since the start")
 
 # Log the start of the function
 def log_start_of_function(function_name):
@@ -55,7 +56,6 @@ def log_start_of_function(function_name):
     This function logs the start of the function.
     """
     function_start_time = None
-    function_end_time = None
 
     # log start time
     function_start_time = datetime.datetime.now()
@@ -64,17 +64,27 @@ def log_start_of_function(function_name):
 
     return function_start_time
 
+def log_function_is_still_running(function_name, function_start_time):
+    """
+    This function logs that the function is still running every 2.5 minutes.
+    """
+    # Log that the function is still running every 2.5 minutes
+    if (datetime.datetime.now() - function_start_time).total_seconds() % 150 == 0:
+        logging.info(f"Function {function_name} is still running")
+
 # Log the end of the function
-def log_end_of_function(function_name, function_start_time):
+def log_end_of_function(function_name, function_start_time, app_start_time):
     """
     This function logs the end of the function.
     """
+    function_end_time = None
     # log end time
     function_end_time = datetime.datetime.now()
     # log time elapsed
     time_elapsed = function_end_time - function_start_time
     # Log the end of the function
-    logging.info("Function {} ended".format(function_name))
+    # use this format --- {round((time.time() - start_time) / 60, 2)} minutes, ({round(time.time() - start_time, 2)} seconds) have elapsed since the start --- to log time elapsed in minutes and seconds to log how long the function took to run and how long the app has been running
+    logging.info(f"Function {function_name} completed in {round(time_elapsed.total_seconds(), 2)} seconds, ({round((time.time() - app_start_time) / 60, 2)} minutes, ({round(time.time() - app_start_time, 2)} seconds) have elapsed since the start)")
 
 # Log the start of the script
 def log_start_of_script(script_name):
@@ -100,5 +110,19 @@ def log_end_of_script(script_name, script_start_time):
 
     # log time elapsed
     time_elapsed = script_end_time - script_start_time
-    # Log the end of the script
-    logging.info("Script {} ended".format(script_name))
+    # Log the start of the script, use this format --- {round((time.time() - start_time) / 60, 2)} minutes, ({round(time.time() - start_time, 2)} seconds) have elapsed since the start --- to log time elapsed in minutes and seconds to log how long the script took to run and how long the app has been running
+    logging.info(f"Script {script_name} started, ({round((time.time() - script_start_time) / 60, 2)} minutes, ({round(time.time() - script_start_time, 2)} seconds) have elapsed since the start)"
+
+# log dataframe details
+def log_dataframe_details(dataframe_name, dataframe):
+    """
+    This function logs the dataframe details.
+    """
+    logging.info(f"Dataframe {dataframe_name} has {dataframe.shape[0]} rows and {dataframe.shape[1]} columns\ncolumns: {dataframe.columns}\nhead:\n{dataframe.head()}\ntail:\n{dataframe.tail()}\nunique seasons:\n{dataframe.season.unique()}")
+
+# log specific info message
+def log_specific_info_message(message):
+    """
+    This function logs a specific info message.
+    """
+    logging.info(message)

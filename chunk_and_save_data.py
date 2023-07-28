@@ -10,7 +10,7 @@ import warnings
 import time
 import datetime
 
-from log_it import set_up_logs, log_start_of_script, log_end_of_script, log_start_of_function, log_end_of_function, log_start_of_app, log_end_of_app
+from log_it import set_up_logs, log_start_of_script, log_end_of_script, log_start_of_function, log_end_of_function, log_start_of_app, log_end_of_app, log_dataframe_details, log_specific_info_message
 
 # Constants
 DATA_TO_LOAD_PATH = 'data/chunked_data/original_results_players_data/'
@@ -127,19 +127,23 @@ def clean_results(results_df):
     results_df['winning_team'] = np.where(results_df['home_score'] > results_df['away_score'], results_df['home_team'], np.where(results_df['home_score'] < results_df['away_score'], results_df['away_team'], 'draw'))
     results_df['losing_team'] = np.where(results_df['home_score'] < results_df['away_score'], results_df['home_team'], np.where(results_df['home_score'] > results_df['away_score'], results_df['away_team'], 'draw'))
 
-    results_df['match_id'] = [uuid.uuid5(uuid.NAMESPACE_DNS, ''.join(map(str, row))) for row in zip(results_df['home_team'], results_df['away_team'], results_df['season'])]
-    results_df['matchup_merge_key'] = [uuid.uuid5(uuid.NAMESPACE_DNS, ''.join(sorted(map(str, row)))) for row in zip(results_df['home_team'], results_df['away_team'])]
-    results_df['season_merge_key'] = [uuid.uuid5(uuid.NAMESPACE_DNS, ''.join(sorted(map(str, row)))) for row in zip(results_df['home_team'], results_df['away_team'], results_df['season'])]
+    # results_df['match_id'] = [uuid.uuid5(uuid.NAMESPACE_DNS, ''.join(map(str, row))) for row in zip(results_df['home_team'], results_df['away_team'], results_df['season'])]
+    # results_df['matchup_merge_key'] = [uuid.uuid5(uuid.NAMESPACE_DNS, ''.join(sorted(map(str, row)))) for row in zip(results_df['home_team'], results_df['away_team'])]
+    # results_df['season_merge_key'] = [uuid.uuid5(uuid.NAMESPACE_DNS, ''.join(sorted(map(str, row)))) for row in zip(results_df['home_team'], results_df['away_team'], results_df['season'])]
 
-    # convert uuids to strings
-    results_df['match_id'] = results_df['match_id'].astype(str)
-    results_df['matchup_merge_key'] = results_df['matchup_merge_key'].astype(str)
-    results_df['season_merge_key'] = results_df['season_merge_key'].astype(str)
+    # # convert uuids to strings
+    # results_df['match_id'] = results_df['match_id'].astype(str)
+    # results_df['matchup_merge_key'] = results_df['matchup_merge_key'].astype(str)
+    # results_df['season_merge_key'] = results_df['season_merge_key'].astype(str)
 
     results_df['team'] = results_df['home_team']
     results_df['opponent'] = results_df['away_team']
-    results_df['match_teams'] = ['_'.join(sorted(map(str, row))) for row in zip(results_df['team'], results_df['opponent'])]
+    results_df['match_teams'] = ['_'.join(sorted(map(str, row))) for row in zip(results_df['team'], results_df['opponent'])].astype(str)
     results_df['season_match_teams'] = results_df['match_teams'] + '_' + results_df['season'].astype(str)
+
+    # strip whitespace from match_teams column and season_match_teams column
+    results_df['match_teams'] = results_df['match_teams'].str.replace(' ', '_')
+    results_df['season_match_teams'] = results_df['season_match_teams'].replace(' ', '_')
 
     results_df = results_df.fillna(0)
     return results_df
@@ -174,13 +178,23 @@ def clean_players(players_df):
     players_df['home_team'] = np.select(conditions, choices_team)
     players_df['away_team'] = np.select(conditions, choices_opponent)
 
-    # Create matchup_merge_key and season_merge_key columns
-    players_df['matchup_merge_key'] = players_df.apply(lambda row: uuid.uuid5(uuid.NAMESPACE_DNS, ''.join(sorted([row['home_team'], row['away_team']]))) , axis=1)
-    players_df['season_merge_key'] = players_df.apply(lambda row: uuid.uuid5(uuid.NAMESPACE_DNS, ''.join(sorted([row['home_team'], row['away_team'], str(row['season'])]))) , axis=1)
+    # Create matchup_merge_key and season_merge_key columns that are unique numeric identifiers for each matchup and season
+    # players_df['matchup_merge_key'] = [uuid.uuid5(uuid.NAMESPACE_DNS, ''.join(sorted(map(str, row)))) for row in zip(players_df['home_team'], players_df['away_team'])]
+    # players_df['season_merge_key'] = [uuid.uuid5(uuid.NAMESPACE_DNS, ''.join(sorted(map(str, row)))) for row in zip(players_df['home_team'], players_df['away_team'], players_df['season'])]
+    # explain the above code
+    # numeric identifiers are created by hashing the sorted string of the home_team, away_team, and season
+
+    # make sure there is no whitespace in match_teams and season_match_teams
+    players_df['match_teams'] = players_df['match_teams'].str.replace(' ', '_')
+    players_df['season_match_teams'] = players_df['season_match_teams'].str.replace(' ', '_')
+
+    # convert to string
+    players_df['match_teams'] = players_df['match_teams'].astype(str)
+    players_df['season_match_teams'] = players_df['season_match_teams'].astype(str)
 
     # convert uuids to strings
-    players_df['matchup_merge_key'] = players_df['matchup_merge_key'].astype(str)
-    players_df['season_merge_key'] = players_df['season_merge_key'].astype(str)
+    # players_df['matchup_merge_key'] = players_df['matchup_merge_key'].astype(str)
+    # players_df['season_merge_key'] = players_df['season_merge_key'].astype(str)
 
     return players_df
 
@@ -335,7 +349,7 @@ def main():
     conn = sqlite3.connect(FINAL_DBS_PATH + LEFT_MERGE_DB_FILENAME)
     print(f"Opened database successfully")
     print(f"Time elapsed from start: {time.time() - start_time} seconds")
-    print(f"--- {time.time() - start_time} seconds ---")
+    print(f"--- {round((time.time() - start_time) / 60, 2)} minutes, ({round(time.time() - start_time, 2)} seconds) have elapsed since the start ---")
 
     try:
         # players_df is just the all_seasons_combined_df
@@ -345,38 +359,67 @@ def main():
         dict_of_dfs.pop('players_all_seasons_data')
 
         # Concatenate the dataframes in the dictionary vertically
-        all_results_df = pd.concat(dict_of_dfs.values(), axis=0)
+        only_results_df = pd.concat(dict_of_dfs.values(), axis=0)
+
+        # pop df_1992_2016
+        dict_of_dfs.pop('df_1992_2016')
+
+        # create matching results df by concatenating 'df_2017_2018', 'df_2018_2019', 'df_2019_2020', 'df_2020_2021', 'df_2021_2022', 'df_2022_2023'
+        matching_results_df = pd.concat(dict_of_dfs.values(), axis=0)
+        print(f"matching_results_df shape: {matching_results_df.shape}")
 
         # Clean the dataframes
         clean_results_start_time = log_start_of_function('clean_results')
-        all_results_df = clean_results(all_results_df)
+
+        only_results_df = clean_results(only_results_df)
+
+        # log dataframes details
+        log_dataframe_details('only_results_df', only_results_df)      
+
+        matching_results_df = clean_results(matching_results_df)
+        
+        # log dataframes details
+        log_dataframe_details('matching_results_df', matching_results_df)
+
         players_df = clean_players(players_df)
+
+        # log dataframes details
+        log_dataframe_details('players_df', players_df)
+
         log_end_of_function('clean_results', clean_results_start_time)
 
-        only_results_df = all_results_df.copy()
-
         # set the index of the players_df and results_df to the matchup_merge_key column
-        players_df.set_index('matchup_merge_key', inplace=True)
-        all_results_df.set_index('matchup_merge_key', inplace=True)
+        players_df.set_index('match_teams', inplace=True)
+        matching_results_df.set_index('match_teams', inplace=True)
 
         # merge on index
         print(f"Merging the dataframes...")
         merge_start_of_function = log_start_of_function('merge')
-        left_merge_players_df = players_df.merge(all_results_df, left_index=True, right_index=True, how='left')
+
+        left_merge_players_df = players_df.merge(matching_results_df, left_index=True, right_index=True, how='left')
+
+        # log specific message
+        print(f"Merge of players_df and matching_results_df to left_merge_players_df complete. Merged df details below:")
+
+        # log dataframes details
+        log_dataframe_details('left_merge_players_df', left_merge_players_df)
+
         log_end_of_function('merge', merge_start_of_function)
         print(f"Merge complete.")
-        print(f"--- {time.time() - start_time} seconds ---")
+        print(f"--- {round((time.time() - start_time) / 60, 2)} minutes, ({round(time.time() - start_time, 2)} seconds) have elapsed since the start ---")
 
         # reset the index and rename the index column
         left_merge_players_df.reset_index(inplace=True)
-        left_merge_players_df.rename(columns={'index': 'matchup_merge_key'}, inplace=True)
+        left_merge_players_df.rename(columns={'index': 'match_teams'}, inplace=True)
 
         # rename match_teams_x to match_teams and season_match_teams_x to season_match_teams
-        left_merge_players_df.rename(columns={'match_teams_x': 'match_teams', 'season_match_teams_x': 'season_match_teams'}, inplace=True)    
+        left_merge_players_df.rename(columns={'season_match_teams_x': 'season_match_teams'}, inplace=True)
 
         # log the start of the clean_duplicate_columns function
         clean_duplicate_columns_start_time = log_start_of_function('clean_duplicate_columns')
+
         left_merge_players_df = clean_duplicate_columns(left_merge_players_df)
+
         log_end_of_function('clean_duplicate_columns', clean_duplicate_columns_start_time)
 
         # Cut the dataframes into smaller ones
@@ -387,8 +430,8 @@ def main():
         cut_df_start_time = log_start_of_function('cut_df')
 
         left_merge_players_dict = cut_df(left_merge_players_df, ['match_teams', 'season_match_teams'])
-        only_results_dict = cut_df(all_results_df, ['match_teams', 'season_match_teams'])
-        print(f"Chunking complete.\n--- {time.time() - start_time} seconds ---")
+        only_results_dict = cut_df(only_results_df, ['match_teams', 'season_match_teams'])
+        print(f"Chunking complete.\n--- {round((time.time() - start_time) / 60, 2)} minutes, ({round(time.time() - start_time, 2)} seconds) have elapsed since the start ---")
 
         # log the end of the cut_df function
         log_end_of_function('cut_df', cut_df_start_time)
@@ -397,8 +440,11 @@ def main():
         print(f"Calculating per90 stats...")
         # log the start of the calculate_per90s function
         calculate_per90s_start_time = log_start_of_function('calculate_per90s')
+
         left_merge_players_dict = calculate_per90s(left_merge_players_dict)
-        print(f"Per90 stats calculated.\n--- {time.time() - start_time} seconds ---")
+
+        print(f"Per90 stats calculated.\n--- {round((time.time() - start_time) / 60, 2)} minutes, ({round(time.time() - start_time, 2)} seconds) have elapsed since the start ---")
+
         # log the end of the calculate_per90s function
         log_end_of_function('calculate_per90s', calculate_per90s_start_time)
 
@@ -410,22 +456,24 @@ def main():
 
         save_as_csvs(left_merge_players_dict, left_merge_players_df, CSV_PATH, FINAL_CSVS_PATH)
         save_as_csvs(only_results_dict, all_results_df, CSV_PATH, FINAL_CSVS_PATH)
-        print(f"Dictionaries saved as CSVs.\n--- {time.time() - start_time} seconds ---")
+        print(f"Dictionaries saved as CSVs.\n--- {round((time.time() - start_time) / 60, 2)} minutes, ({round(time.time() - start_time, 2)} seconds) have elapsed since the start ---")
 
         # log the end of the save_as_csvs function
         log_end_of_function('save_as_csvs', save_as_csvs_start_time)
 
-        print(f"Saving the Dataframes saved as Databases...")
+        print(f"Saving the Dataframes as Databases...")
 
         # log the start of the save_as_dbs function
         save_as_dbs_start_time = log_start_of_function('save_as_dbs')
+
         save_as_dbs(left_merge_players_df, only_results_df, FINAL_DBS_PATH)
-        print(f"Dataframes saved as Databases.\n--- {time.time() - start_time} seconds ---")
+
+        print(f"Dataframes saved as Databases.\n--- {round((time.time() - start_time) / 60, 2)} minutes, ({round(time.time() - start_time, 2)} seconds) ---")
 
         # log the end of the save_as_dbs function
         log_end_of_function('save_as_dbs', save_as_dbs_start_time)
 
-        print(f"Dictionaries saved as CSVs & Dataframes saved as Databases saved.\n--- {time.time() - start_time} seconds ---")
+        print(f"Dictionaries saved as CSVs & Dataframes saved as Databases saved.\n--- {round((time.time() - start_time) / 60, 2)} minutes, ({round(time.time() - start_time, 2)} seconds) have elapsed since the start ---")
         
     finally:
         conn.close()
@@ -445,7 +493,8 @@ if __name__ == "__main__":
     print(left_merge_players_df.info())
     print(left_merge_players_df.describe())
     print(left_merge_players_df.isnull().sum())
-    print(left_merge_players_df['matchup_merge_key'].nunique())
-    print(left_merge_players_df['matchup_merge_key'].value_counts())
-    
+    print(left_merge_players_df['match_teams'].nunique())
+    print(left_merge_players_df['seasons_match_teams'].value_counts())
+
+
 
