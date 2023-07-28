@@ -506,6 +506,7 @@ def main():
         matching_results_df['home_team'] = matching_results_df['home_team'].astype(str)
         matching_results_df['away_team'] = matching_results_df['away_team'].astype(str)
         matching_results_df['gameweek'] = matching_results_df['gameweek'].astype(str)
+        matching_results_df['season'] = matching_results_df['season'].astype(str)
 
         # We need to process the 'season' column a bit differently, as it requires additional manipulation
         # Remove the suffix from the 'season' column (e.g., '2017-2018' becomes '2017'), then convert to string
@@ -521,6 +522,7 @@ def main():
         players_df['team'] = players_df['team'].astype(str)
         players_df['opponent'] = players_df['opponent'].astype(str)
         players_df['gameweek'] = players_df['gameweek'].astype(str)
+        players_df['season'] = players_df['season'].astype(str)
 
         # We need to process the 'season' column a bit differently, as it requires additional manipulation
         # Remove the suffix from the 'season' column (e.g., '2017-2018' becomes '2017'), then convert to string
