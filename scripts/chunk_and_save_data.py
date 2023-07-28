@@ -287,7 +287,7 @@ def save_as_csvs(df_dict, dataframe, players_chunked_csvs_path=PLAYERS_CHUNKED_C
         None
     """
     # Ensure directory for CSV files exists
-    os.makedirs(chunked_csvs_path, exist_ok=True)
+    os.makedirs(players_chunked_csvs_path, exist_ok=True)
     os.makedirs(final_csvs_path, exist_ok=True)
 
     # save df as a csv file
@@ -302,8 +302,8 @@ def save_as_csvs(df_dict, dataframe, players_chunked_csvs_path=PLAYERS_CHUNKED_C
         key = str(key).replace(" ", "_")  
 
         # Save as a csv file
-        csv_file_path = os.path.join(chunked_csvs_path, f"{key}.csv")
-        df.to_csv(chunked_csvs_path, index=False)
+        csv_file_path = os.path.join(players_chunked_csvs_path, f"{key}.csv")
+        df.to_csv(players_chunked_csvs_path, index=False)
 
 
 # def function to access these dataframes from save_as_csvs(df_dict, dataframe, csv_path=CSV_PATH, final_csvs_path=FINAL_CSVS_PATH) for analysis of specific matchups and players
