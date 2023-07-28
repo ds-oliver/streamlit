@@ -5,17 +5,45 @@ DB_PATH = 'data/chunked_data/db_files/'
 FINAL_CSV_PATH = '/Users/hogan/Library/CloudStorage/Dropbox/Mac/Documents/GitHub/streamlit/data/new_data/csv_files/'
 FINAL_DB_PATH = '/Users/hogan/Library/CloudStorage/Dropbox/Mac/Documents/GitHub/streamlit/data/new_data/db_files/'
 LEFT_MERGE_CSV_FILENAME = 'left_merge_df.csv'
-LEFT_MERGE_DB_FILENAME = 'left_merge_table.db'
 RESULTS_CSV_FILENAME = 'only_results_df.csv'
-RESULTS_DB_FILENAME = 'only_results_table.db'
+
+# Generate a timestamp string
+timestamp_str = datetime.datetime.now().strftime("%Y%m%d-%H%M%S")
+
+# Create new database filenames with the timestamp
+LEFT_MERGE_DB_FILENAME = f'left_merge_table_{timestamp_str}.db'
+RESULTS_DB_FILENAME = f'only_results_table_{timestamp_str}.db'
 
 # Import statements and other dependencies
+import datetime
 import pandas as pd
 import numpy as np
 import uuid
 import glob
 import os
 import sqlite3
+import warnings
+import time
+
+# suppress warnings
+
+warnings.filterwarnings("ignore", message="numpy.ufunc size changed.*", category=RuntimeWarning)
+warnings.filterwarnings("ignore", message="numpy.ndarray size changed.*", category=RuntimeWarning)
+warnings.filterwarnings("ignore", message=".*initial implementation of Parquet.*", category=UserWarning)
+warnings.filterwarnings("ignore", message=".*categorical_column.*", category=UserWarning)
+warnings.filterwarnings("ignore", message=".*defaulting to pandas implementation.*", category=UserWarning)
+warnings.filterwarnings("ignore", message=".*is deprecated and will be removed in a future version.*", category=DeprecationWarning)
+warnings.filterwarnings("ignore", message=".*is deprecated and will be removed in a future version.*", category=FutureWarning)
+warnings.filterwarnings("ignore", message=".*is a deprecated alias for the builtin.*", category=DeprecationWarning)
+warnings.filterwarnings("ignore", message=".*is a deprecated alias for the builtin.*", category=FutureWarning)
+warnings.filterwarnings("ignore", message=".*is deprecated.*", category=DeprecationWarning)
+warnings.filterwarnings("ignore", message=".*is deprecated.*", category=FutureWarning)
+warnings.filterwarnings("ignore", message=".*is deprecated.*", category=UserWarning)
+warnings.filterwarnings("ignore", message=".*is deprecated.*", category=Warning)
+warnings.filterwarnings("ignore", message=".*is private.*", category=DeprecationWarning)
+warnings.filterwarnings("ignore", message=".*is private.*", category=FutureWarning)
+warnings.filterwarnings("ignore", message="DataFrame is highly fragmented.*", category=UserWarning)
+
 
 LIST_OF_CSVS = ['all_seasons_combined_df', 'df_2017_2018', 'df_2018_2019', 'df_2019_2020', 'df_2020_2021', 'df_2021_2022', 'df_2022_2023', 'df_1992_2016']
 
@@ -139,7 +167,7 @@ def calculate_per90s(df_dict):
 
     return df_dict
 
-def save_dfs(df_dict, csv_path=CSV_PATH, db_path=DB_PATH, conn=None):  # Added a connection parameter
+def save_dfs(df_dict, csv_path=CSV_PATH, db_path=DB_PATH, conn=None):  
     """
     Summary: 
         saves each df in df_dict as a csv file and as a SQLite3 db file
@@ -157,10 +185,8 @@ def save_dfs(df_dict, csv_path=CSV_PATH, db_path=DB_PATH, conn=None):  # Added a
     os.makedirs(csv_path, exist_ok=True)
 
     for key, df in df_dict.items():
-        # Convert key to a string if it's not already
-        if not isinstance(key, str):
-            key = str(key)
-            key = key.replace(" ", "_")  # replace spaces in the table name
+        # Convert key to a string and replace spaces with underscores
+        key = str(key).replace(" ", "_")  
 
         # Save as a csv file
         csv_file_path = os.path.join(csv_path, f"{key}.csv")
@@ -168,6 +194,7 @@ def save_dfs(df_dict, csv_path=CSV_PATH, db_path=DB_PATH, conn=None):  # Added a
 
         # Save as a SQLite3 db file
         df.to_sql(key, conn, if_exists='replace', index=False)  # Use the same connection to write into database
+
 
 def clean_duplicate_columns(merged_df):
     """
@@ -192,7 +219,60 @@ def clean_duplicate_columns(merged_df):
 
     return cleaned_df
 
+def test_database(db_path):
+    """
+    Tests the SQLite database by checking whether the connection can be established,
+    whether specific tables exist, and whether data can be fetched from those tables.
+    """
+    conn = None
+    try:
+        # Connect to the database
+        conn = sqlite3.connect(db_path + RESULTS_DB_FILENAME)
+
+        # Create a cursor
+        cur = conn.cursor()
+
+        # Execute a SELECT statement to fetch data from the database
+        cur.execute("SELECT name FROM sqlite_master WHERE type='table';")
+        tables = cur.fetchall()
+
+        # Check if tables exist
+        if len(tables) == 0:
+            print("There are no tables in the database. Something might have gone wrong.")
+            return False
+
+        # Fetch data from each table and check if it can be fetched
+        for table in tables:
+            try:
+                cur.execute(f"SELECT * FROM {table[0]} LIMIT 5;")
+                rows = cur.fetchall()
+                if len(rows) == 0:
+                    print(f"No data can be fetched from the table '{table[0]}'. Something might have gone wrong.")
+                    return False
+                else:
+                    print(f"Data successfully fetched from the table '{table[0]}'.")
+
+            except sqlite3.Error as e:
+                print(f"An error occurred when trying to fetch data from the table '{table[0]}': {e}")
+                return False
+
+        print("The database seems to be operational.")
+
+    except sqlite3.Error as e:
+        print(f"An error occurred when trying to connect to the database: {e}")
+        return False
+
+    finally:
+        if conn:
+            conn.close()
+
+    return True
+
 def main():
+    
+    # time the execution of the script
+    start_time = time.time()
+
     # Create data directory if it doesn't exist
     os.makedirs(DATA_TO_LOAD_PATH, exist_ok=True)
 
@@ -203,6 +283,7 @@ def main():
 
     # Create SQLite connection
     conn = sqlite3.connect(FINAL_DB_PATH + LEFT_MERGE_DB_FILENAME)
+    print(f"--- {time.time() - start_time} seconds ---")
     try:
         # players_df is just the all_seasons_combined_df
         players_df = dict_of_dfs['all_seasons_combined_df']
@@ -224,7 +305,10 @@ def main():
         results_df.set_index('matchup_merge_key', inplace=True)
 
         # merge on index
+        print(f"Merging the dataframes...")
         left_merge_players_df = players_df.merge(results_df, left_index=True, right_index=True, how='left')
+        print(f"Merge complete.")
+        print(f"--- {time.time() - start_time} seconds ---")
 
         # reset the index and rename the index column
         left_merge_players_df.reset_index(inplace=True)
@@ -235,15 +319,22 @@ def main():
         left_merge_players_df = clean_duplicate_columns(left_merge_players_df)
 
         # Cut the dataframes into smaller ones
+        # print fstring
+        print(f"Chunking the dataframes...")
         left_merge_players_dict = cut_df(left_merge_players_df, ['match_teams', 'season_match_teams'])
         only_results_dict = cut_df(results_df, ['match_teams', 'season_match_teams'])
+        print(f"Chunking complete.\n--- {time.time() - start_time} seconds ---")
 
         # Calculate per90 stats for each dataframe in the players_df_dict
+        print(f"Calculating per90 stats...")
         left_merge_players_dict = calculate_per90s(left_merge_players_dict)
+        print(f"Per90 stats calculated.\n--- {time.time() - start_time} seconds ---")
 
         # Save the dataframes
+        print(f"Saving the dataframes...")
         save_dfs(left_merge_players_dict, CSV_PATH, DB_PATH, conn)  # Pass the connection to save_dfs
         save_dfs(only_results_dict, CSV_PATH, DB_PATH, conn)  # Pass the connection to save_dfs
+
 
         # Save final dataframe
         left_merge_players_df.to_csv(FINAL_CSV_PATH + LEFT_MERGE_CSV_FILENAME, index=False)
@@ -251,9 +342,17 @@ def main():
 
         only_results_df.to_csv(FINAL_CSV_PATH + RESULTS_CSV_FILENAME, index=False)
         only_results_df.to_sql('only_results_df', conn, if_exists='replace', index=False)
+
+        print(f"Dataframes saved.\n--- {time.time() - start_time} seconds ---")
+
+        # Test the database
+        test_database(FINAL_DB_PATH + LEFT_MERGE_DB_FILENAME)
         
     finally:
         conn.close()
+
+    # Print the execution time
+    print(f"Script executed in {time.time() - start_time} seconds.")
 
     return left_merge_players_df, only_results_df
 
