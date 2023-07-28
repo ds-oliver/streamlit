@@ -380,7 +380,7 @@ def main():
         only_results_df = clean_results(only_results_df)
 
         # log dataframes details
-        log_dataframe_details('only_results_df', only_results_df, )      
+        log_dataframe_details('only_results_df', only_results_df)      
 
         matching_results_df = clean_results(matching_results_df)
         
@@ -392,7 +392,7 @@ def main():
         # log dataframes details
         log_dataframe_details('players_df', players_df)
 
-        log_end_of_function('clean_results', clean_results_start_time)
+        log_end_of_function('clean_results', clean_results_start_time, app_start_time)
 
         # set the index of the players_df and results_df to the matchup_merge_key column
         players_df.set_index('match_teams', inplace=True)
