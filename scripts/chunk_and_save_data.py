@@ -17,7 +17,9 @@ from log_it import set_up_logs, log_start_of_script, log_end_of_script, log_star
 
 # Constants
 DATA_IN_PATH = 'data/data_in/original_results_players_data/'
-CHUNKED_CSVS_PATH = 'data/data_out/csv_files/chunked_data/'
+PLAYERS_CHUNKED_CSVS_PATH = 'data/data_out/csv_files/chunked_data/players/'
+RESULTS_CHUNKED_CSVS_PATH = 'data/data_out/csv_files/chunked_data/results/'
+
 # DB_PATH = 'data/data_out/db_files'
 FINAL_CSVS_PATH = 'data/data_out/csv_files/'
 DB_PATH = "/Users/hogan/Library/CloudStorage/Dropbox/Mac/Documents/GitHub/streamlit/data/data_out/db_files/"
@@ -289,7 +291,7 @@ def save_as_csvs(df_dict, dataframe, chunked_csvs_path=CHUNKED_CSVS_PATH, final_
 
 # def function to access these dataframes from save_as_csvs(df_dict, dataframe, csv_path=CSV_PATH, final_csvs_path=FINAL_CSVS_PATH) for analysis of specific matchups and players
 
-def load_data_from_csvs(chunked_csvs_path=CHUNKED_CSVS_PATH):
+def load_players_data_from_csvs(players_chunked_csvs_path=PLAYERS_CHUNKED_CSVS_PATH):
     """
     Summary: 
         loads data from csv files into a dictionary of dataframes
@@ -301,15 +303,15 @@ def load_data_from_csvs(chunked_csvs_path=CHUNKED_CSVS_PATH):
         dict: dictionary of dataframes
     """
     # Ensure directory for CSV files exists
-    os.makedirs(chunked_csvs_path, exist_ok=True)
+    os.makedirs(players_chunked_csvs_path, exist_ok=True)
 
     # Create an empty dictionary to store dataframes
     df_dict = {}
 
     # Iterate over each file in the directory
-    for file in os.listdir(chunked_csvs_path):
+    for file in os.listdir(players_chunked_csvs_path):
         # Load the CSV file into a dataframe
-        df = pd.read_csv(os.path.join(chunked_csvs_path, file))
+        df = pd.read_csv(os.path.join(players_chunked_csvs_path, file))
 
         # Convert the filename to a key and save the dataframe into the dictionary
         key = file.replace(".csv", "")
@@ -427,12 +429,12 @@ def main():
     start_time = time.time()
 
     # Create data directory if it doesn't exist
-    os.makedirs(DATA_TO_LOAD_PATH, exist_ok=True)
+    os.makedirs(DATA_IN_PATH, exist_ok=True)
 
     # Create final database directory if it doesn't exist
     os.makedirs(DB_PATH, exist_ok=True)
     # Call load_data() function
-    dict_of_dfs = load_data(DATA_TO_LOAD_PATH)
+    dict_of_dfs = load_data(DATA_IN_PATH)
 
     # Create SQLite connection
     conn = sqlite3.connect(DB_PATH + LEFT_MERGE_DB_FILENAME)
@@ -484,7 +486,18 @@ def main():
         print(f"Merging the dataframes...")
         merge_start_of_function = log_start_of_function('merge')
 
-        left_merge_players_df = players_df.merge(matching_results_df, left_index=True, right_index=True, how='left')
+        # First, we need to make the 'season' column in both dataframes have the same format
+        players_df['season'] = players_df['season'].apply(lambda x: x[:4])
+
+        # Then, create the 'matchup_merge_key' column in both dataframes
+        players_df['matchup_merge_key'] = players_df.apply(lambda row: '_'.join(sorted([row['team'], row['opponent']]) + [str(row['gameweek']), row['season']]), axis=1)
+        matching_results_df['matchup_merge_key'] = matching_results_df.apply(lambda row: '_'.join(sorted([row['home_team'], row['away_team']]) + [str(row['gameweek']), row['season']]), axis=1)
+
+        # Now we can merge the two dataframes on the 'matchup_merge_key' column
+        left_merge_players_df = pd.merge(players_df, matching_results_df, on='matchup_merge_key', how='left')
+
+        # Finally, let's drop the 'matchup_merge_key' column as it is no longer needed
+        left_merge_players_df = left_merge_players_df.drop('matchup_merge_key', axis=1)
 
         # log specific message
         print(f"Merge of players_df and matching_results_df to left_merge_players_df complete. Merged df details below:")
@@ -496,12 +509,12 @@ def main():
         print(f"Merge complete.")
         print(f"--- {round((time.time() - start_time) / 60, 2)} minutes, ({round(time.time() - start_time, 2)} seconds) have elapsed since the start ---")
 
-        # reset the index and rename the index column
-        left_merge_players_df.reset_index(inplace=True)
-        left_merge_players_df.rename(columns={'index': 'match_teams'}, inplace=True)
+        # # reset the index and rename the index column
+        # left_merge_players_df.reset_index(inplace=True)
+        # left_merge_players_df.rename(columns={'index': 'match_teams'}, inplace=True)
 
         # rename match_teams_x to match_teams and season_match_teams_x to season_match_teams
-        left_merge_players_df.rename(columns={'season_match_teams_x': 'season_match_teams'}, inplace=True)
+        left_merge_players_df.rename(columns={'season_match_teams_x': 'season_match_teams', 'match_teams_x': 'match_teams'}, inplace=True)
 
         # log the start of the clean_duplicate_columns function
         clean_duplicate_columns_start_time = log_start_of_function('clean_duplicate_columns')
@@ -542,8 +555,8 @@ def main():
         # log the start of the save_as_csvs function
         save_as_csvs_start_time = log_start_of_function('save_as_csvs')
 
-        save_as_csvs(left_merge_players_dict, left_merge_players_df, CHUNKED_CSVS_PATH, FINAL_CSVS_PATH)
-        save_as_csvs(only_results_dict, only_results_df, CHUNKED_CSVS_PATH, FINAL_CSVS_PATH)
+        save_as_csvs(left_merge_players_dict, left_merge_players_df, PLAYERS_CHUNKED_CSVS_PATH, FINAL_CSVS_PATH)
+        save_as_csvs(only_results_dict, only_results_df, RESULTS_CHUNKED_CSVS_PATH, FINAL_CSVS_PATH)
         print(f"Dictionaries saved as CSVs.\n--- {round((time.time() - start_time) / 60, 2)} minutes, ({round(time.time() - start_time, 2)} seconds) have elapsed since the start ---")
 
         # log the end of the save_as_csvs function
