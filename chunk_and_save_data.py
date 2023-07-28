@@ -99,6 +99,9 @@ def test_database(db_path):
 # set up logs
 log_file_path = set_up_logs()
 
+# log start of app
+app_start_time = log_start_of_app(log_file_path)
+
 # log start of script
 script_start_time, script_end_time = log_start_of_script(log_file_path)
 
@@ -377,7 +380,7 @@ def main():
         only_results_df = clean_results(only_results_df)
 
         # log dataframes details
-        log_dataframe_details('only_results_df', only_results_df)      
+        log_dataframe_details('only_results_df', only_results_df, )      
 
         matching_results_df = clean_results(matching_results_df)
         
@@ -407,7 +410,7 @@ def main():
         # log dataframes details
         log_dataframe_details('left_merge_players_df', left_merge_players_df)
 
-        log_end_of_function('merge', merge_start_of_function)
+        log_end_of_function('merge', merge_start_of_function, app_start_time)
         print(f"Merge complete.")
         print(f"--- {round((time.time() - start_time) / 60, 2)} minutes, ({round(time.time() - start_time, 2)} seconds) have elapsed since the start ---")
 
@@ -423,7 +426,7 @@ def main():
 
         left_merge_players_df = clean_duplicate_columns(left_merge_players_df)
 
-        log_end_of_function('clean_duplicate_columns', clean_duplicate_columns_start_time)
+        log_end_of_function('clean_duplicate_columns', clean_duplicate_columns_start_time, app_start_time)
 
         # Cut the dataframes into smaller ones
         # print fstring
@@ -437,7 +440,7 @@ def main():
         print(f"Chunking complete.\n--- {round((time.time() - start_time) / 60, 2)} minutes, ({round(time.time() - start_time, 2)} seconds) have elapsed since the start ---")
 
         # log the end of the cut_df function
-        log_end_of_function('cut_df', cut_df_start_time)
+        log_end_of_function('cut_df', cut_df_start_time, app_start_time)
 
         # Calculate per90 stats for each dataframe in the players_df_dict
         print(f"Calculating per90 stats...")
@@ -449,7 +452,7 @@ def main():
         print(f"Per90 stats calculated.\n--- {round((time.time() - start_time) / 60, 2)} minutes, ({round(time.time() - start_time, 2)} seconds) have elapsed since the start ---")
 
         # log the end of the calculate_per90s function
-        log_end_of_function('calculate_per90s', calculate_per90s_start_time)
+        log_end_of_function('calculate_per90s', calculate_per90s_start_time, app_start_time)
 
         # Save the dataframes
         print(f"Saving the Dictionaries saved as CSVs...")
@@ -462,7 +465,7 @@ def main():
         print(f"Dictionaries saved as CSVs.\n--- {round((time.time() - start_time) / 60, 2)} minutes, ({round(time.time() - start_time, 2)} seconds) have elapsed since the start ---")
 
         # log the end of the save_as_csvs function
-        log_end_of_function('save_as_csvs', save_as_csvs_start_time)
+        log_end_of_function('save_as_csvs', save_as_csvs_start_time, app_start_time)
 
         print(f"Saving the Dataframes as Databases...")
 
@@ -474,7 +477,7 @@ def main():
         print(f"Dataframes saved as Databases.\n--- {round((time.time() - start_time) / 60, 2)} minutes, ({round(time.time() - start_time, 2)} seconds) ---")
 
         # log the end of the save_as_dbs function
-        log_end_of_function('save_as_dbs', save_as_dbs_start_time)
+        log_end_of_function('save_as_dbs', save_as_dbs_start_time, app_start_time)
 
         print(f"Dictionaries saved as CSVs & Dataframes saved as Databases saved.\n--- {round((time.time() - start_time) / 60, 2)} minutes, ({round(time.time() - start_time, 2)} seconds) have elapsed since the start ---")
         
@@ -485,7 +488,7 @@ def main():
     print(f"Script executed in {time.time() - start_time} seconds.")
 
     # log end of main() function
-    log_end_of_function('main()', main_function_start_time)
+    log_end_of_function('main()', main_function_start_time, app_start_time)
 
     return left_merge_players_df, only_results_df
 
