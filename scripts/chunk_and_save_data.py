@@ -288,9 +288,9 @@ def save_as_csvs(df_dict, dataframe, players_chunked_csvs_path=PLAYERS_CHUNKED_C
         None
     """
     # Ensure directory for CSV files exists
-    os.makedirs(players_chunked_csvs_path, exist_ok=True)
-    os.makedirs(results_chunked_csvs_path, exist_ok=True)
-    os.makedirs(final_csvs_path, exist_ok=True)
+    os.makedirs(os.path.dirname(players_chunked_csvs_path), exist_ok=True)
+    os.makedirs(os.path.dirname(results_chunked_csvs_path), exist_ok=True)
+    os.makedirs(os.path.dirname(final_csvs_path), exist_ok=True)
 
     # save df as a csv file
     # if database has player columns, save as players.csv else save as results.csv
