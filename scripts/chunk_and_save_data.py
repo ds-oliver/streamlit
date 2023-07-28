@@ -495,23 +495,47 @@ def main():
 
         log_end_of_function('clean_results', clean_results_start_time, app_start_time)
 
-        # set the index of the players_df and results_df to the matchup_merge_key column
-        players_df.set_index('match_teams', inplace=True)
-        matching_results_df.set_index('match_teams', inplace=True)
+        # # set the index of the players_df and results_df to the matchup_merge_key column
+        # players_df.set_index('match_teams', inplace=True)
+        # matching_results_df.set_index('match_teams', inplace=True)
+
+        # Drop rows with missing values
+        matching_results_df.dropna(subset=['home_team', 'away_team', 'gameweek', 'season'], inplace=True)
+
+        # Convert all values to string
+        matching_results_df['home_team'] = matching_results_df['home_team'].astype(str)
+        matching_results_df['away_team'] = matching_results_df['away_team'].astype(str)
+        matching_results_df['gameweek'] = matching_results_df['gameweek'].astype(str)
+
+        # We need to process the 'season' column a bit differently, as it requires additional manipulation
+        # Remove the suffix from the 'season' column (e.g., '2017-2018' becomes '2017'), then convert to string
+        matching_results_df['season'] = matching_results_df['season'].str.slice(0, 4)
+
+        # Create the matchup_merge_key
+        matching_results_df['matchup_merge_key'] = matching_results_df.apply(lambda row: '_'.join(sorted([row['home_team'], row['away_team']]) + [row['gameweek'], row['season']]), axis=1)
+
+        # Drop rows with missing values
+        players_df.dropna(subset=['team', 'opponent', 'gameweek', 'season'], inplace=True)
+
+        # Convert all values to string
+        players_df['team'] = players_df['team'].astype(str)
+        players_df['opponent'] = players_df['opponent'].astype(str)
+        players_df['gameweek'] = players_df['gameweek'].astype(str)
+
+        # We need to process the 'season' column a bit differently, as it requires additional manipulation
+        # Remove the suffix from the 'season' column (e.g., '2017-2018' becomes '2017'), then convert to string
+        players_df['season'] = players_df['season'].str.slice(0, 4)
+
+        # Create the matchup_merge_key
+        players_df['matchup_merge_key'] = players_df.apply(lambda row: '_'.join(sorted([row['team'], row['opponent']]) + [row['gameweek'], row['season']]), axis=1)
 
         # merge on index
         print(f"Merging the dataframes...")
         merge_start_of_function = log_start_of_function('merge')
 
-        # First, we need to make the 'season' column in both dataframes have the same format
-        players_df['season'] = players_df['season'].apply(lambda x: x[:4])
-
-        # Then, create the 'matchup_merge_key' column in both dataframes
-        players_df['matchup_merge_key'] = players_df.apply(lambda row: '_'.join(sorted([row['team'], row['opponent']]) + [str(row['gameweek']), row['season']]), axis=1)
-        matching_results_df['matchup_merge_key'] = matching_results_df.apply(lambda row: '_'.join(sorted([row['home_team'], row['away_team']]) + [str(row['gameweek']), row['season']]), axis=1)
-
         # Now we can merge the two dataframes on the 'matchup_merge_key' column
         left_merge_players_df = pd.merge(players_df, matching_results_df, on='matchup_merge_key', how='left')
+
 
         # Finally, let's drop the 'matchup_merge_key' column as it is no longer needed
         left_merge_players_df = left_merge_players_df.drop('matchup_merge_key', axis=1)
