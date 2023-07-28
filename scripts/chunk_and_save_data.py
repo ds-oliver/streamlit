@@ -10,6 +10,9 @@ import warnings
 import time
 import datetime
 
+# At the top of chunk_and_save_data.py
+import sys
+sys.path.append('/Users/hogan/Library/CloudStorage/Dropbox/Mac/Documents/GitHub/streamlit/helper_functions/')
 from log_it import set_up_logs, log_start_of_script, log_end_of_script, log_start_of_function, log_end_of_function, log_start_of_app, log_end_of_app, log_dataframe_details, log_specific_info_message
 
 # Constants
