@@ -1,0 +1,4 @@
+SELECT *
+FROM new.db
+WHERE id = 1
+;

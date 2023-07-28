@@ -1,0 +1,20 @@
+# No .a files
+*.a
+
+# But do track lib.a, even though you're ignoring .a files above
+!lib.a
+
+# Only ignore the TODO file in the current directory, not subdir/TODO
+/TODO
+
+# Ignore all files in the build/ directory
+build/
+
+# Ignore doc/notes.txt, but not doc/server/arch.txt
+doc/*.txt
+
+# Ignore all .pdf files in the doc/ directory and any of its subdirectories
+doc/**/*.pdf
+
+# Ignore SQLite database files
+*.db
