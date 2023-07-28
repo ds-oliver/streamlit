@@ -272,7 +272,7 @@ def calculate_per90s(df_dict):
 
     return df_dict
 
-def save_as_csvs(df_dict, dataframe, chunked_csvs_path=CHUNKED_CSVS_PATH, final_csvs_path=FINAL_CSVS_PATH):  
+def save_as_csvs(df_dict, dataframe, players_chunked_csvs_path=PLAYERS_CHUNKED_CSVS_PATH, final_csvs_path=FINAL_CSVS_PATH):  
     """
     Summary: 
         saves each df in df_dict as a csv file and as a SQLite3 db file
