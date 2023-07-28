@@ -23,16 +23,32 @@ def log_start_of_app(log_file_path):
     """
     This function logs the start of the streamlit app.
     """
+    # log start time
+    start_time = datetime.datetime.now()
     # Log the start of the app
     logging.info("Streamlit app started")
+
+    return start_time
 
 # Log the end of the app
 def log_end_of_app(log_file_path):
     """
     This function logs the end of the streamlit app.
     """
+    # log end time
+    end_time = datetime.datetime.now()
     # Log the end of the app
     logging.info("Streamlit app ended")
+
+    return end_time
+
+def log_time_elapsed(start_time, end_time):
+    """
+    This function logs the time elapsed.
+    """
+    # log time elapsed
+    time_elapsed = end_time - start_time
+    logging.info("Time elapsed: {}".format(time_elapsed))
 
 # Log the start of the function
 def log_start_of_function(function_name):

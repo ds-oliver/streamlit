@@ -10,6 +10,8 @@ import warnings
 import time
 import datetime
 
+from log_it import set_up_logs, log_start_of_script, log_end_of_script, log_start_of_function, log_end_of_function, log_start_of_app, log_end_of_app
+
 # Constants
 DATA_TO_LOAD_PATH = 'data/chunked_data/original_results_players_data/'
 CSV_PATH = 'data/chunked_data/csv_files/'
@@ -94,6 +96,8 @@ def test_database(db_path):
 
     return True
 
+# set up logs
+set_up_logs()
 
 LIST_OF_CSVS = ['players_all_seasons_data', 'df_2017_2018', 'df_2018_2019', 'df_2019_2020', 'df_2020_2021', 'df_2021_2022', 'df_2022_2023', 'df_1992_2016']
 
@@ -338,8 +342,10 @@ def main():
         all_results_df = pd.concat(dict_of_dfs.values(), axis=0)
 
         # Clean the dataframes
+        log_start_of_function('clean_results')
         all_results_df = clean_results(all_results_df)
         players_df = clean_players(players_df)
+        log_end_of_function('clean_results')
 
         only_results_df = all_results_df.copy()
 
@@ -349,7 +355,9 @@ def main():
 
         # merge on index
         print(f"Merging the dataframes...")
+        log_start_of_function('merge')
         left_merge_players_df = players_df.merge(all_results_df, left_index=True, right_index=True, how='left')
+        log_end_of_function('merge')
         print(f"Merge complete.")
         print(f"--- {time.time() - start_time} seconds ---")
 
