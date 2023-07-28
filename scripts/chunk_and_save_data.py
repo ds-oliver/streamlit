@@ -285,6 +285,39 @@ def save_as_csvs(df_dict, dataframe, csv_path=CSV_PATH, final_csvs_path=FINAL_CS
         # Save as a csv file
         csv_file_path = os.path.join(csv_path, f"{key}.csv")
         df.to_csv(csv_file_path, index=False)
+
+
+# def function to access these dataframes from save_as_csvs(df_dict, dataframe, csv_path=CSV_PATH, final_csvs_path=FINAL_CSVS_PATH) for analysis of specific matchups and players
+
+def load_data_from_csvs(csv_path=CSV_PATH):
+    """
+    Summary: 
+        loads data from csv files into a dictionary of dataframes
+
+    Args:
+        csv_path (str): directory to load csv files
+
+    Returns:
+        dict: dictionary of dataframes
+    """
+    # Ensure directory for CSV files exists
+    os.makedirs(csv_path, exist_ok=True)
+
+    # Create an empty dictionary to store dataframes
+    df_dict = {}
+
+    # Iterate over each file in the directory
+    for file in os.listdir(csv_path):
+        # Load the CSV file into a dataframe
+        df = pd.read_csv(os.path.join(csv_path, file))
+
+        # Convert the filename to a key and save the dataframe into the dictionary
+        key = file.replace(".csv", "")
+        df_dict[key] = df
+
+    return df_dict
+
+
     
 
 def save_as_dbs(players_dataframe, results_dataframe, db_path=DB_PATH):  
@@ -322,12 +355,46 @@ def load_data_from_db(db_path=DB_PATH):
     cursor = conn_players.cursor()
     cursor.execute("SELECT name FROM sqlite_master WHERE type='table';")
     print(cursor.fetchall())
-    players_df = pd.read_sql_query("SELECT * FROM players", conn_players)
+    players_table = pd.read_sql_query("SELECT * FROM players", conn_players)
 
     conn_results = sqlite3.connect(os.path.join(db_path, 'results.db'))
-    results_df = pd.read_sql_query("SELECT * FROM results", conn_results)
+    results_table = pd.read_sql_query("SELECT * FROM results", conn_results)
 
-    return players_df, results_df
+    return players_table, results_table
+
+def filter_into_smaller_tables(players_table, results_table):
+    """
+    Summary:
+        filters players_table and results_table into smaller tables based on unique matchup_merge_key values
+
+    Args:
+        players_table (DataFrame): dataframe of players data
+        results_table (DataFrame): dataframe of results data
+
+    Returns:
+        team_specific_players_dict (dict): dictionary of dataframes of players data filtered by team
+        team_specific_results_dict (dict): dictionary of dataframes of results data filtered by team
+        player_specific_players_dict (dict): dictionary of dataframes of players data filtered by player
+    """
+        # Here you need to specify the logic to filter the dataframes based on unique values of `matchup_merge_key`
+    team_specific_players_dict = {}
+    team_specific_results_dict = {}
+    player_specific_players_dict = {}
+
+    # Assuming matchup_merge_key is a column in your dataframes
+    unique_keys = players_table['matchup_merge_key'].unique()
+
+    for key in unique_keys:
+        # Filter players_table for each unique key and store in dictionary
+        team_specific_players_dict[key] = players_table[players_table['matchup_merge_key'] == key]
+
+        # Filter results_table for each unique key and store in dictionary
+        team_specific_results_dict[key] = results_table[results_table['matchup_merge_key'] == key]
+
+        # Filter players_table for each unique player and store in dictionary
+        player_specific_players_dict[key] = players_table[players_table['player'] == key]
+
+    return team_specific_players_dict, team_specific_results_dict, player_specific_players_dict
 
 
 def clean_duplicate_columns(merged_df):
