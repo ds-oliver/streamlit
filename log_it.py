@@ -128,7 +128,7 @@ def log_dataframe_details(dataframe_name, dataframe):
     """
     This function logs the dataframe details.
     """
-    logging.info(f"Dataframe {dataframe_name} has {dataframe.shape[0]} rows and {dataframe.shape[1]} columns\ncolumns: {dataframe.columns}\nhead:\n{dataframe.head()}\ntail:\n{dataframe.tail()}\nunique seasons:\n{dataframe.season.unique()}")
+    logging.info(f"Dataframe {dataframe_name} has {dataframe.shape[0]} rows and {dataframe.shape[1]} columns\ncolumns: {dataframe.columns}\nhead:\n{dataframe.head()}\ntail:\n{dataframe.tail()}\nunique seasons:\n{dataframe['season'].unique()}")
 
 # log specific info message
 def log_specific_info_message(message):
