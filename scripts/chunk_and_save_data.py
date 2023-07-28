@@ -19,6 +19,7 @@ from log_it import set_up_logs, log_start_of_script, log_end_of_script, log_star
 DATA_IN_PATH = '/Users/hogan/Library/CloudStorage/Dropbox/Mac/Documents/GitHub/streamlit/data/data_in/original_results_players_data/'
 PLAYERS_CHUNKED_CSVS_PATH = 'data/data_out/csv_files/chunked_data/players/'
 RESULTS_CHUNKED_CSVS_PATH = 'data/data_out/csv_files/chunked_data/results/'
+CHUNKED_CSVS_PATH = 'data/data_out/csv_files/chunked_data/'
 
 # DB_PATH = 'data/data_out/db_files'
 FINAL_CSVS_PATH = 'data/data_out/csv_files/'
@@ -272,7 +273,7 @@ def calculate_per90s(df_dict):
 
     return df_dict
 
-def save_as_csvs(df_dict, dataframe, players_chunked_csvs_path=PLAYERS_CHUNKED_CSVS_PATH, final_csvs_path=FINAL_CSVS_PATH):  
+def save_as_csvs(df_dict, dataframe, players_chunked_csvs_path=PLAYERS_CHUNKED_CSVS_PATH, results_chunked_csvs_path=RESULTS_CHUNKED_CSVS_PATH, final_csvs_path=FINAL_CSVS_PATH, is_players_df=False):  
     """
     Summary: 
         saves each df in df_dict as a csv file and as a SQLite3 db file
@@ -288,6 +289,7 @@ def save_as_csvs(df_dict, dataframe, players_chunked_csvs_path=PLAYERS_CHUNKED_C
     """
     # Ensure directory for CSV files exists
     os.makedirs(players_chunked_csvs_path, exist_ok=True)
+    os.makedirs(results_chunked_csvs_path, exist_ok=True)
     os.makedirs(final_csvs_path, exist_ok=True)
 
     # save df as a csv file
@@ -297,13 +299,24 @@ def save_as_csvs(df_dict, dataframe, players_chunked_csvs_path=PLAYERS_CHUNKED_C
     else:
         dataframe.to_csv(os.path.join(final_csvs_path, 'results.csv'), index=False)
 
+    
     for key, df in df_dict.items():
-        # Convert key to a string and replace spaces with underscores
-        key = str(key).replace(" ", "_")  
+        if is_players_df:
+            # Convert key to a string and replace spaces with underscores
+            key = str(key).replace(" ", "_")  
 
-        # Save as a csv file
-        csv_file_path = os.path.join(players_chunked_csvs_path, f"{key}.csv")
-        df.to_csv(players_chunked_csvs_path, index=False)
+            # Save as a csv file
+            players_chunked_csvs_path = os.path.join(players_chunked_csvs_path, f"{key}.csv")
+            df.to_csv(players_chunked_csvs_path, index=False)
+
+        else:
+            # Convert key to a string and replace spaces with underscores
+            key = str(key).replace(" ", "_")  
+
+            # Save as a csv file
+            results_chunked_csvs_path = os.path.join(results_chunked_csvs_path, f"{key}.csv")
+            df.to_csv(results_chunked_csvs_path, index=False)
+
 
 
 # def function to access these dataframes from save_as_csvs(df_dict, dataframe, csv_path=CSV_PATH, final_csvs_path=FINAL_CSVS_PATH) for analysis of specific matchups and players
@@ -598,7 +611,7 @@ def main():
         # log the start of the save_as_csvs function
         save_as_csvs_start_time = log_start_of_function('save_as_csvs')
 
-        save_as_csvs(left_merge_players_dict, left_merge_players_df, PLAYERS_CHUNKED_CSVS_PATH, FINAL_CSVS_PATH)
+        save_as_csvs(left_merge_players_dict, left_merge_players_df, PLAYERS_CHUNKED_CSVS_PATH, FINAL_CSVS_PATH, is_players=True)
         save_as_csvs(only_results_dict, only_results_df, RESULTS_CHUNKED_CSVS_PATH, FINAL_CSVS_PATH)
         print(f"Dictionaries saved as CSVs.\n--- {round((time.time() - start_time) / 60, 2)} minutes, ({round(time.time() - start_time, 2)} seconds) have elapsed since the start ---")
 
