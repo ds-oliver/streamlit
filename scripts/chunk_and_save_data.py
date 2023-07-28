@@ -77,7 +77,7 @@ def test_database(db_path):
     conn = None
     try:
         # Connect to the database
-        conn = sqlite3.connect(db_path + RESULTS_DB_FILENAME)
+        conn = sqlite3.connect(db_path + ONLY_RESULTS_DB_FILENAME)
 
         # Create a cursor
         cur = conn.cursor()
