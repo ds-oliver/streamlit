@@ -1,19 +1,19 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
-1992,15,Arsenal,0.0,0.0,Coventry City,3.0,0.0,0,Joe Worrall,0,0,0,0,160,Arsenal,Coventry City,ee4f42a9-0890-543a-b5fc-47109c577bb1,cc54efe7-593b-5443-a7be-fe6cf19a5ba7,Arsenal,Coventry City,Arsenal_Coventry City,Arsenal_Coventry City_1992
-1992,34,Coventry City,0.0,0.0,Arsenal,0.0,2.0,0,David Allison,0,0,0,0,351,Arsenal,Coventry City,1a568149-9425-5bb0-ac09-6b4263b2944e,cc54efe7-593b-5443-a7be-fe6cf19a5ba7,Coventry City,Arsenal,Arsenal_Coventry City,Arsenal_Coventry City_1992
-1993,1,Arsenal,0.0,0.0,Coventry City,0.0,3.0,0,Alan Wilkie,0,0,0,0,471,Coventry City,Arsenal,1cbc6929-4aa2-5256-9c38-0c15755e6185,e0bbd79b-59f6-52cb-9b4e-a93e81f15f1e,Arsenal,Coventry City,Arsenal_Coventry City,Arsenal_Coventry City_1993
-1993,18,Coventry City,0.0,0.0,Arsenal,1.0,0.0,0,Robbie Hart,0,0,0,0,649,Coventry City,Arsenal,4fb3c87b-f9a8-59a6-ae54-2acf6e0c0008,e0bbd79b-59f6-52cb-9b4e-a93e81f15f1e,Coventry City,Arsenal,Arsenal_Coventry City,Arsenal_Coventry City_1993
-1994,11,Arsenal,0.0,0.0,Coventry City,2.0,1.0,0,Alan Wilkie,0,0,0,0,1042,Arsenal,Coventry City,e0a1336c-ed0c-5b5a-a345-cd76f4cdee00,6d8ccd75-0e62-519a-a8d7-7a0f79d01659,Arsenal,Coventry City,Arsenal_Coventry City,Arsenal_Coventry City_1994
-1994,25,Coventry City,0.0,0.0,Arsenal,0.0,1.0,0,Joe Worrall,0,0,0,0,1186,Arsenal,Coventry City,3df64481-db53-5e43-bd5f-f9743a54de46,6d8ccd75-0e62-519a-a8d7-7a0f79d01659,Coventry City,Arsenal,Arsenal_Coventry City,Arsenal_Coventry City_1994
-1995,3,Coventry City,0.0,0.0,Arsenal,0.0,0.0,0,Steve Dunn,0,0,0,0,1407,draw,draw,da2d05a3-3780-5bdc-9dae-b896e747639b,efbfaf73-3c30-5417-a088-a8ce047c4388,Coventry City,Arsenal,Arsenal_Coventry City,Arsenal_Coventry City_1995
-1995,25,Arsenal,0.0,0.0,Coventry City,1.0,1.0,0,Steve Dunn,0,0,0,0,1631,draw,draw,d1e73426-6548-57da-ab92-cc4648d65dc2,efbfaf73-3c30-5417-a088-a8ce047c4388,Arsenal,Coventry City,Arsenal_Coventry City,Arsenal_Coventry City_1995
-1996,10,Arsenal,0.0,0.0,Coventry City,0.0,0.0,0,Peter Jones,0,0,0,0,1856,draw,draw,4e9e0743-e730-5c11-9570-1b44a4bbe1a1,5bc8e610-86e8-522a-9857-0d6a9db556bd,Arsenal,Coventry City,Arsenal_Coventry City,Arsenal_Coventry City_1996
-1996,36,Coventry City,0.0,0.0,Arsenal,1.0,1.0,0,Keith Burge,0,0,0,0,2112,draw,draw,c66a74e8-61b7-5acc-a397-d688ed08b621,5bc8e610-86e8-522a-9857-0d6a9db556bd,Coventry City,Arsenal,Arsenal_Coventry City,Arsenal_Coventry City_1996
-1997,2,Arsenal,0.0,0.0,Coventry City,2.0,0.0,0,Keith Burge,0,0,0,0,2156,Arsenal,Coventry City,348372a6-dca8-5b60-86a9-404ad053efcc,1f11a47d-31f4-540c-8a75-1fea5350b0de,Arsenal,Coventry City,Arsenal_Coventry City,Arsenal_Coventry City_1997
-1997,23,Coventry City,0.0,0.0,Arsenal,2.0,2.0,0,Stephen Lodge,0,0,0,0,2366,draw,draw,8c43d426-219e-5ebd-a932-261a4feb7d4c,1f11a47d-31f4-540c-8a75-1fea5350b0de,Coventry City,Arsenal,Arsenal_Coventry City,Arsenal_Coventry City_1997
-1998,11,Coventry City,0.0,0.0,Arsenal,0.0,1.0,0,Uriah Rennie,0,0,0,0,2629,Arsenal,Coventry City,b0dd4c71-215a-53a6-a1ab-faca863b249a,73447afe-a849-5ab4-95e6-722b725936ed,Coventry City,Arsenal,Arsenal_Coventry City,Arsenal_Coventry City_1998
-1998,30,Arsenal,0.0,0.0,Coventry City,2.0,0.0,0,Paul Alcock,0,0,0,0,2815,Arsenal,Coventry City,78898807-a092-579f-80f5-19673fce1814,73447afe-a849-5ab4-95e6-722b725936ed,Arsenal,Coventry City,Arsenal_Coventry City,Arsenal_Coventry City_1998
-1999,19,Coventry City,0.0,0.0,Arsenal,3.0,2.0,0,Rob Harris,0,0,0,0,3089,Coventry City,Arsenal,8ddb7212-9138-5395-99f3-ad4cdbca88df,33445026-68c0-5bf5-9a9b-51f92e2b8fdf,Coventry City,Arsenal,Arsenal_Coventry City,Arsenal_Coventry City_1999
-1999,30,Arsenal,0.0,0.0,Coventry City,3.0,0.0,0,Barry Knight,0,0,0,0,3205,Arsenal,Coventry City,b569e918-7a86-5353-8500-ddfa9ffc0a70,33445026-68c0-5bf5-9a9b-51f92e2b8fdf,Arsenal,Coventry City,Arsenal_Coventry City,Arsenal_Coventry City_1999
-2000,6,Arsenal,0.0,0.0,Coventry City,2.0,1.0,0,Mike Dean,0,0,0,0,3339,Arsenal,Coventry City,c60aad5e-8373-5bf5-bd5c-199aca1e9294,cc2bfe68-46b0-5939-b314-da1d3a849874,Arsenal,Coventry City,Arsenal_Coventry City,Arsenal_Coventry City_2000
-2000,26,Coventry City,0.0,0.0,Arsenal,0.0,1.0,0,Mike Dean,0,0,0,0,3537,Arsenal,Coventry City,8962265f-17c8-5285-8a14-1369ad56fc79,cc2bfe68-46b0-5939-b314-da1d3a849874,Coventry City,Arsenal,Arsenal_Coventry City,Arsenal_Coventry City_2000
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,team,opponent,match_teams,season_match_teams
+1992,15,Arsenal,0.0,0.0,Coventry City,3.0,0.0,0,Joe Worrall,0,0,0,0,160,Arsenal,Coventry City,Arsenal,Coventry City,Arsenal_Coventry_City,Arsenal_Coventry City_1992
+1992,34,Coventry City,0.0,0.0,Arsenal,0.0,2.0,0,David Allison,0,0,0,0,351,Arsenal,Coventry City,Coventry City,Arsenal,Arsenal_Coventry_City,Arsenal_Coventry City_1992
+1993,1,Arsenal,0.0,0.0,Coventry City,0.0,3.0,0,Alan Wilkie,0,0,0,0,471,Coventry City,Arsenal,Arsenal,Coventry City,Arsenal_Coventry_City,Arsenal_Coventry City_1993
+1993,18,Coventry City,0.0,0.0,Arsenal,1.0,0.0,0,Robbie Hart,0,0,0,0,649,Coventry City,Arsenal,Coventry City,Arsenal,Arsenal_Coventry_City,Arsenal_Coventry City_1993
+1994,11,Arsenal,0.0,0.0,Coventry City,2.0,1.0,0,Alan Wilkie,0,0,0,0,1042,Arsenal,Coventry City,Arsenal,Coventry City,Arsenal_Coventry_City,Arsenal_Coventry City_1994
+1994,25,Coventry City,0.0,0.0,Arsenal,0.0,1.0,0,Joe Worrall,0,0,0,0,1186,Arsenal,Coventry City,Coventry City,Arsenal,Arsenal_Coventry_City,Arsenal_Coventry City_1994
+1995,3,Coventry City,0.0,0.0,Arsenal,0.0,0.0,0,Steve Dunn,0,0,0,0,1407,draw,draw,Coventry City,Arsenal,Arsenal_Coventry_City,Arsenal_Coventry City_1995
+1995,25,Arsenal,0.0,0.0,Coventry City,1.0,1.0,0,Steve Dunn,0,0,0,0,1631,draw,draw,Arsenal,Coventry City,Arsenal_Coventry_City,Arsenal_Coventry City_1995
+1996,10,Arsenal,0.0,0.0,Coventry City,0.0,0.0,0,Peter Jones,0,0,0,0,1856,draw,draw,Arsenal,Coventry City,Arsenal_Coventry_City,Arsenal_Coventry City_1996
+1996,36,Coventry City,0.0,0.0,Arsenal,1.0,1.0,0,Keith Burge,0,0,0,0,2112,draw,draw,Coventry City,Arsenal,Arsenal_Coventry_City,Arsenal_Coventry City_1996
+1997,2,Arsenal,0.0,0.0,Coventry City,2.0,0.0,0,Keith Burge,0,0,0,0,2156,Arsenal,Coventry City,Arsenal,Coventry City,Arsenal_Coventry_City,Arsenal_Coventry City_1997
+1997,23,Coventry City,0.0,0.0,Arsenal,2.0,2.0,0,Stephen Lodge,0,0,0,0,2366,draw,draw,Coventry City,Arsenal,Arsenal_Coventry_City,Arsenal_Coventry City_1997
+1998,11,Coventry City,0.0,0.0,Arsenal,0.0,1.0,0,Uriah Rennie,0,0,0,0,2629,Arsenal,Coventry City,Coventry City,Arsenal,Arsenal_Coventry_City,Arsenal_Coventry City_1998
+1998,30,Arsenal,0.0,0.0,Coventry City,2.0,0.0,0,Paul Alcock,0,0,0,0,2815,Arsenal,Coventry City,Arsenal,Coventry City,Arsenal_Coventry_City,Arsenal_Coventry City_1998
+1999,19,Coventry City,0.0,0.0,Arsenal,3.0,2.0,0,Rob Harris,0,0,0,0,3089,Coventry City,Arsenal,Coventry City,Arsenal,Arsenal_Coventry_City,Arsenal_Coventry City_1999
+1999,30,Arsenal,0.0,0.0,Coventry City,3.0,0.0,0,Barry Knight,0,0,0,0,3205,Arsenal,Coventry City,Arsenal,Coventry City,Arsenal_Coventry_City,Arsenal_Coventry City_1999
+2000,6,Arsenal,0.0,0.0,Coventry City,2.0,1.0,0,Mike Dean,0,0,0,0,3339,Arsenal,Coventry City,Arsenal,Coventry City,Arsenal_Coventry_City,Arsenal_Coventry City_2000
+2000,26,Coventry City,0.0,0.0,Arsenal,0.0,1.0,0,Mike Dean,0,0,0,0,3537,Arsenal,Coventry City,Coventry City,Arsenal,Arsenal_Coventry_City,Arsenal_Coventry City_2000

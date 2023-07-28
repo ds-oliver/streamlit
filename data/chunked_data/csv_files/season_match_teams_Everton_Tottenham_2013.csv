@@ -1,3 +1,3 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
-2013,10,Everton,0.0,0.0,Tottenham,0.0,0.0,0,Kevin Friend,0,0,0,0,8324,draw,draw,d100b1b4-6d5f-5903-9049-12a314d860d3,2b968c9e-bf6d-5f89-8e71-827a2eea916e,Everton,Tottenham,Everton_Tottenham,Everton_Tottenham_2013
-2013,25,Tottenham,0.0,0.0,Everton,1.0,0.0,0,Mark Clattenburg,0,0,0,0,8475,Tottenham,Everton,3f25335d-c708-5650-af40-d47dfad8da60,2b968c9e-bf6d-5f89-8e71-827a2eea916e,Tottenham,Everton,Everton_Tottenham,Everton_Tottenham_2013
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,team,opponent,match_teams,season_match_teams
+2013,10,Everton,0.0,0.0,Tottenham,0.0,0.0,0,Kevin Friend,0,0,0,0,8324,draw,draw,Everton,Tottenham,Everton_Tottenham,Everton_Tottenham_2013
+2013,25,Tottenham,0.0,0.0,Everton,1.0,0.0,0,Mark Clattenburg,0,0,0,0,8475,Tottenham,Everton,Tottenham,Everton,Everton_Tottenham,Everton_Tottenham_2013

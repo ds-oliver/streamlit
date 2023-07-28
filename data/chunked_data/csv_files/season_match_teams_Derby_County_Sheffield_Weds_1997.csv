@@ -1,3 +1,3 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
-1997,8,Sheffield Weds,0.0,0.0,Derby County,2.0,5.0,0,Mike Reed,0,0,0,0,2217,Derby County,Sheffield Weds,0163108c-99fb-5857-98a5-92f188e13d70,64622cd2-fa16-5bdc-91bc-c503897cf52b,Sheffield Weds,Derby County,Derby County_Sheffield Weds,Derby County_Sheffield Weds_1997
-1997,28,Derby County,0.0,0.0,Sheffield Weds,3.0,0.0,0,Alan Wilkie,0,0,0,0,2412,Derby County,Sheffield Weds,2734abd2-c5ea-5de9-a05b-cc0c78957af6,64622cd2-fa16-5bdc-91bc-c503897cf52b,Derby County,Sheffield Weds,Derby County_Sheffield Weds,Derby County_Sheffield Weds_1997
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,team,opponent,match_teams,season_match_teams
+1997,8,Sheffield Weds,0.0,0.0,Derby County,2.0,5.0,0,Mike Reed,0,0,0,0,2217,Derby County,Sheffield Weds,Sheffield Weds,Derby County,Derby_County_Sheffield_Weds,Derby County_Sheffield Weds_1997
+1997,28,Derby County,0.0,0.0,Sheffield Weds,3.0,0.0,0,Alan Wilkie,0,0,0,0,2412,Derby County,Sheffield Weds,Derby County,Sheffield Weds,Derby_County_Sheffield_Weds,Derby County_Sheffield Weds_1997

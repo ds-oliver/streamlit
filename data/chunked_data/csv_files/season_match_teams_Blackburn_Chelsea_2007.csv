@@ -1,3 +1,3 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
-2007,6,Chelsea,0.0,0.0,Blackburn,0.0,0.0,0,Howard Webb,0,0,0,0,5996,draw,draw,b61c43b7-7130-5d6a-9a4d-9ec502b2cce3,cac48b69-acc4-5352-ae55-ac2a5fcd0dbb,Chelsea,Blackburn,Blackburn_Chelsea,Blackburn_Chelsea_2007
-2007,18,Blackburn,0.0,0.0,Chelsea,0.0,1.0,0,Stephen Bennett,0,0,0,0,6123,Chelsea,Blackburn,5a96e489-d39f-5620-b88b-7db0dbe312d7,cac48b69-acc4-5352-ae55-ac2a5fcd0dbb,Blackburn,Chelsea,Blackburn_Chelsea,Blackburn_Chelsea_2007
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,team,opponent,match_teams,season_match_teams
+2007,6,Chelsea,0.0,0.0,Blackburn,0.0,0.0,0,Howard Webb,0,0,0,0,5996,draw,draw,Chelsea,Blackburn,Blackburn_Chelsea,Blackburn_Chelsea_2007
+2007,18,Blackburn,0.0,0.0,Chelsea,0.0,1.0,0,Stephen Bennett,0,0,0,0,6123,Chelsea,Blackburn,Blackburn,Chelsea,Blackburn_Chelsea,Blackburn_Chelsea_2007

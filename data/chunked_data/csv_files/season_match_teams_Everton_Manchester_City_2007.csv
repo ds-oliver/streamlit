@@ -1,3 +1,3 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
-2007,22,Everton,0.0,0.0,Manchester City,1.0,0.0,0,Mark Halsey,0,0,0,0,6160,Everton,Manchester City,61f4917a-0d1f-50eb-a9a1-e97e376ebac8,c61383be-0cae-5d83-957e-04d23ad8d0d7,Everton,Manchester City,Everton_Manchester City,Everton_Manchester City_2007
-2007,27,Manchester City,0.0,0.0,Everton,0.0,2.0,0,Rob Styles,0,0,0,0,6213,Everton,Manchester City,c9826a41-47b2-50dd-b63b-cd17b31a9234,c61383be-0cae-5d83-957e-04d23ad8d0d7,Manchester City,Everton,Everton_Manchester City,Everton_Manchester City_2007
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,team,opponent,match_teams,season_match_teams
+2007,22,Everton,0.0,0.0,Manchester City,1.0,0.0,0,Mark Halsey,0,0,0,0,6160,Everton,Manchester City,Everton,Manchester City,Everton_Manchester_City,Everton_Manchester City_2007
+2007,27,Manchester City,0.0,0.0,Everton,0.0,2.0,0,Rob Styles,0,0,0,0,6213,Everton,Manchester City,Manchester City,Everton,Everton_Manchester_City,Everton_Manchester City_2007

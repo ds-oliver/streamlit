@@ -1,3 +1,3 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
-2001,13,Everton,0.0,0.0,Chelsea,0.0,0.0,0,Mark Halsey,0,0,0,0,3786,draw,draw,12bdb473-0141-5446-9029-2340dd9dad18,8ed4eff6-c6a8-56da-8e5d-8b01996e8cff,Everton,Chelsea,Chelsea_Everton,Chelsea_Everton_2001
-2001,34,Chelsea,0.0,0.0,Everton,3.0,0.0,0,David Elleray,0,0,0,0,3996,Chelsea,Everton,8ce6b071-d236-5bec-a47c-fc9d3c854346,8ed4eff6-c6a8-56da-8e5d-8b01996e8cff,Chelsea,Everton,Chelsea_Everton,Chelsea_Everton_2001
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,team,opponent,match_teams,season_match_teams
+2001,13,Everton,0.0,0.0,Chelsea,0.0,0.0,0,Mark Halsey,0,0,0,0,3786,draw,draw,Everton,Chelsea,Chelsea_Everton,Chelsea_Everton_2001
+2001,34,Chelsea,0.0,0.0,Everton,3.0,0.0,0,David Elleray,0,0,0,0,3996,Chelsea,Everton,Chelsea,Everton,Chelsea_Everton,Chelsea_Everton_2001

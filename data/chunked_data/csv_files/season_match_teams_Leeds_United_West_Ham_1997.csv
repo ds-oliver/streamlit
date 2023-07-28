@@ -1,3 +1,3 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
-1997,15,Leeds United,0.0,0.0,West Ham,3.0,1.0,0,Gerald Ashby,0,0,0,0,2289,Leeds United,West Ham,a6601f8d-6b49-5815-9cd3-551216d0cba2,cd9f729b-e0d5-5149-a6f6-dd40b27a6925,Leeds United,West Ham,Leeds United_West Ham,Leeds United_West Ham_1997
-1997,31,West Ham,0.0,0.0,Leeds United,3.0,0.0,0,Alan Wilkie,0,0,0,0,2449,West Ham,Leeds United,e8f87e8d-3155-573a-bcee-7fb220c92abb,cd9f729b-e0d5-5149-a6f6-dd40b27a6925,West Ham,Leeds United,Leeds United_West Ham,Leeds United_West Ham_1997
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,team,opponent,match_teams,season_match_teams
+1997,15,Leeds United,0.0,0.0,West Ham,3.0,1.0,0,Gerald Ashby,0,0,0,0,2289,Leeds United,West Ham,Leeds United,West Ham,Leeds_United_West_Ham,Leeds United_West Ham_1997
+1997,31,West Ham,0.0,0.0,Leeds United,3.0,0.0,0,Alan Wilkie,0,0,0,0,2449,West Ham,Leeds United,West Ham,Leeds United,Leeds_United_West_Ham,Leeds United_West Ham_1997

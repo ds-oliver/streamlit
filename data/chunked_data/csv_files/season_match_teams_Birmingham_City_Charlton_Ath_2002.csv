@@ -1,3 +1,3 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
-2002,19,Birmingham City,0.0,0.0,Charlton Ath,1.0,1.0,0,Rob Styles,0,0,0,0,4228,draw,draw,589550f1-62df-5cc6-a36c-624569c829be,71a1d856-79b6-5dad-a022-9b93dc653f0b,Birmingham City,Charlton Ath,Birmingham City_Charlton Ath,Birmingham City_Charlton Ath_2002
-2002,34,Charlton Ath,0.0,0.0,Birmingham City,0.0,2.0,0,Neale Barry,0,0,0,0,4380,Birmingham City,Charlton Ath,b0ea2eab-4d2d-5c3b-b624-2a42b3df7a4d,71a1d856-79b6-5dad-a022-9b93dc653f0b,Charlton Ath,Birmingham City,Birmingham City_Charlton Ath,Birmingham City_Charlton Ath_2002
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,team,opponent,match_teams,season_match_teams
+2002,19,Birmingham City,0.0,0.0,Charlton Ath,1.0,1.0,0,Rob Styles,0,0,0,0,4228,draw,draw,Birmingham City,Charlton Ath,Birmingham_City_Charlton_Ath,Birmingham City_Charlton Ath_2002
+2002,34,Charlton Ath,0.0,0.0,Birmingham City,0.0,2.0,0,Neale Barry,0,0,0,0,4380,Birmingham City,Charlton Ath,Charlton Ath,Birmingham City,Birmingham_City_Charlton_Ath,Birmingham City_Charlton Ath_2002

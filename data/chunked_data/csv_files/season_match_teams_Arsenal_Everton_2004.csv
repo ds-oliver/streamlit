@@ -1,3 +1,3 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
-2004,1,Everton,0.0,0.0,Arsenal,1.0,4.0,0,Mike Riley,0,0,0,0,4815,Arsenal,Everton,e176f5f1-cd0c-5b69-8ce9-97b6e4257bac,a3b49739-8db4-5982-99ec-1bb8d1e922a0,Everton,Arsenal,Arsenal_Everton,Arsenal_Everton_2004
-2004,33,Arsenal,0.0,0.0,Everton,7.0,0.0,0,Alan Wiley,0,0,0,0,5175,Arsenal,Everton,b1628085-ca3e-5b0f-aab5-e12d4cf4169e,a3b49739-8db4-5982-99ec-1bb8d1e922a0,Arsenal,Everton,Arsenal_Everton,Arsenal_Everton_2004
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,team,opponent,match_teams,season_match_teams
+2004,1,Everton,0.0,0.0,Arsenal,1.0,4.0,0,Mike Riley,0,0,0,0,4815,Arsenal,Everton,Everton,Arsenal,Arsenal_Everton,Arsenal_Everton_2004
+2004,33,Arsenal,0.0,0.0,Everton,7.0,0.0,0,Alan Wiley,0,0,0,0,5175,Arsenal,Everton,Arsenal,Everton,Arsenal_Everton,Arsenal_Everton_2004

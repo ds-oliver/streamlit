@@ -1,3 +1,3 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
-1998,10,Sheffield Weds,0.0,0.0,Everton,0.0,0.0,0,Jeff Winter,0,0,0,0,2616,draw,draw,cf050c86-7246-551a-9c74-ae656744344c,288a9a42-bfb0-5df0-a103-346e901c462c,Sheffield Weds,Everton,Everton_Sheffield Weds,Everton_Sheffield Weds_1998
-1998,32,Everton,0.0,0.0,Sheffield Weds,1.0,2.0,0,Mike Reed,0,0,0,0,2832,Sheffield Weds,Everton,bb79a800-4238-5401-8b4f-20ac33256c17,288a9a42-bfb0-5df0-a103-346e901c462c,Everton,Sheffield Weds,Everton_Sheffield Weds,Everton_Sheffield Weds_1998
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,team,opponent,match_teams,season_match_teams
+1998,10,Sheffield Weds,0.0,0.0,Everton,0.0,0.0,0,Jeff Winter,0,0,0,0,2616,draw,draw,Sheffield Weds,Everton,Everton_Sheffield_Weds,Everton_Sheffield Weds_1998
+1998,32,Everton,0.0,0.0,Sheffield Weds,1.0,2.0,0,Mike Reed,0,0,0,0,2832,Sheffield Weds,Everton,Everton,Sheffield Weds,Everton_Sheffield_Weds,Everton_Sheffield Weds_1998

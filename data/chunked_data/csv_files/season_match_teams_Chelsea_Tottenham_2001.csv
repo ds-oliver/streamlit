@@ -1,3 +1,3 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
-2001,5,Tottenham,0.0,0.0,Chelsea,2.0,3.0,0,Steve Dunn,0,0,0,0,3708,Chelsea,Tottenham,e9639e61-d450-5987-8a62-a4de0bbaa145,c64d71e0-a982-53b8-a205-390aad0916e6,Tottenham,Chelsea,Chelsea_Tottenham,Chelsea_Tottenham_2001
-2001,27,Chelsea,0.0,0.0,Tottenham,4.0,0.0,0,Alan Wiley,0,0,0,0,3956,Chelsea,Tottenham,48a3052e-7371-5360-a120-67840b39fdfb,c64d71e0-a982-53b8-a205-390aad0916e6,Chelsea,Tottenham,Chelsea_Tottenham,Chelsea_Tottenham_2001
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,team,opponent,match_teams,season_match_teams
+2001,5,Tottenham,0.0,0.0,Chelsea,2.0,3.0,0,Steve Dunn,0,0,0,0,3708,Chelsea,Tottenham,Tottenham,Chelsea,Chelsea_Tottenham,Chelsea_Tottenham_2001
+2001,27,Chelsea,0.0,0.0,Tottenham,4.0,0.0,0,Alan Wiley,0,0,0,0,3956,Chelsea,Tottenham,Chelsea,Tottenham,Chelsea_Tottenham,Chelsea_Tottenham_2001

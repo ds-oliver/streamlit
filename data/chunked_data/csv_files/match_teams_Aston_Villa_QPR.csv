@@ -1,15 +1,15 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
-1992,14,Aston Villa,0.0,0.0,QPR,2.0,0.0,0,Mike Peck,0,0,0,0,152,Aston Villa,QPR,91238f03-d4a4-5569-8efb-91b65eca428f,a78d01e1-5e1a-5f43-be42-c993568a2b74,Aston Villa,QPR,Aston Villa_QPR,Aston Villa_QPR_1992
-1992,42,QPR,0.0,0.0,Aston Villa,2.0,1.0,0,Paul Durkin,0,0,0,0,459,QPR,Aston Villa,bf1f4d5f-55e1-59a9-aded-593e33e2e791,a78d01e1-5e1a-5f43-be42-c993568a2b74,QPR,Aston Villa,Aston Villa_QPR,Aston Villa_QPR_1992
-1993,1,Aston Villa,0.0,0.0,QPR,4.0,1.0,0,Kelvin Morton,0,0,0,0,462,Aston Villa,QPR,751bd4ac-33f9-5dbf-947a-70e7c7d75005,caeb9893-3ef8-5e90-97c5-4568de5d367a,Aston Villa,QPR,Aston Villa_QPR,Aston Villa_QPR_1993
-1993,18,QPR,0.0,0.0,Aston Villa,2.0,2.0,0,Keith Hackett,0,0,0,0,653,draw,draw,948fafb4-7b5d-5a66-b000-0c0b3d71b5c2,caeb9893-3ef8-5e90-97c5-4568de5d367a,QPR,Aston Villa,Aston Villa_QPR,Aston Villa_QPR_1993
-1994,12,QPR,0.0,0.0,Aston Villa,2.0,0.0,0,Robbie Hart,0,0,0,0,1046,QPR,Aston Villa,550918ee-dfb4-5b9b-a846-c18132961230,a630d378-4d70-550c-9bdb-3f242dc1a566,QPR,Aston Villa,Aston Villa_QPR,Aston Villa_QPR_1994
-1994,24,Aston Villa,0.0,0.0,QPR,2.0,1.0,0,Alan Wilkie,0,0,0,0,1175,Aston Villa,QPR,7f078950-64af-5549-b4d2-f63149213362,a630d378-4d70-550c-9bdb-3f242dc1a566,Aston Villa,QPR,Aston Villa_QPR,Aston Villa_QPR_1994
-1995,19,QPR,0.0,0.0,Aston Villa,1.0,0.0,0,Alan Wilkie,0,0,0,0,1570,QPR,Aston Villa,54ab9440-95bc-5b70-83f1-6c772880d486,cabf08ed-70c8-5e48-be2d-81ed16156c82,QPR,Aston Villa,Aston Villa_QPR,Aston Villa_QPR_1995
-1995,30,Aston Villa,0.0,0.0,QPR,4.0,2.0,0,Alan Wilkie,0,0,0,0,1671,Aston Villa,QPR,918e6d14-2182-5828-957c-c54cbc496600,cabf08ed-70c8-5e48-be2d-81ed16156c82,Aston Villa,QPR,Aston Villa_QPR,Aston Villa_QPR_1995
-2011,6,QPR,0.0,0.0,Aston Villa,1.0,1.0,0,Michael Oliver,0,0,0,0,7523,draw,draw,e748d0f1-cf23-53e4-99ad-d50f0a845742,c0fd6624-0994-5135-b5f5-80bd2a1f8ea5,QPR,Aston Villa,Aston Villa_QPR,Aston Villa_QPR_2011
-2011,23,Aston Villa,0.0,0.0,QPR,2.0,2.0,0,Neil Swarbrick,0,0,0,0,7693,draw,draw,53963744-5c59-5a13-9bbe-8a7032d64f2f,c0fd6624-0994-5135-b5f5-80bd2a1f8ea5,Aston Villa,QPR,Aston Villa_QPR,Aston Villa_QPR_2011
-2012,15,QPR,0.0,0.0,Aston Villa,1.0,1.0,0,Howard Webb,0,0,0,0,7989,draw,draw,7768ed2d-175a-54b8-bd2c-dfdc6974a074,90e739d7-e56a-5c52-b3f3-a2acd2c03b01,QPR,Aston Villa,Aston Villa_QPR,Aston Villa_QPR_2012
-2012,30,Aston Villa,0.0,0.0,QPR,3.0,2.0,0,Kevin Friend,0,0,0,0,8133,Aston Villa,QPR,837ef8eb-3bd4-5025-9351-c0d96e05b98e,90e739d7-e56a-5c52-b3f3-a2acd2c03b01,Aston Villa,QPR,Aston Villa_QPR,Aston Villa_QPR_2012
-2014,9,QPR,0.0,0.0,Aston Villa,2.0,0.0,0,Lee Mason,0,0,0,0,8695,QPR,Aston Villa,f745c971-3108-57fb-b601-5997ee6c9ced,921af162-b93c-5f34-818e-fda95b60c4ff,QPR,Aston Villa,Aston Villa_QPR,Aston Villa_QPR_2014
-2014,33,Aston Villa,0.0,0.0,QPR,3.0,3.0,0,Craig Pawson,0,0,0,0,8915,draw,draw,19c163a7-bb06-5309-ae92-e8406699ca26,921af162-b93c-5f34-818e-fda95b60c4ff,Aston Villa,QPR,Aston Villa_QPR,Aston Villa_QPR_2014
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,team,opponent,match_teams,season_match_teams
+1992,14,Aston Villa,0.0,0.0,QPR,2.0,0.0,0,Mike Peck,0,0,0,0,152,Aston Villa,QPR,Aston Villa,QPR,Aston_Villa_QPR,Aston Villa_QPR_1992
+1992,42,QPR,0.0,0.0,Aston Villa,2.0,1.0,0,Paul Durkin,0,0,0,0,459,QPR,Aston Villa,QPR,Aston Villa,Aston_Villa_QPR,Aston Villa_QPR_1992
+1993,1,Aston Villa,0.0,0.0,QPR,4.0,1.0,0,Kelvin Morton,0,0,0,0,462,Aston Villa,QPR,Aston Villa,QPR,Aston_Villa_QPR,Aston Villa_QPR_1993
+1993,18,QPR,0.0,0.0,Aston Villa,2.0,2.0,0,Keith Hackett,0,0,0,0,653,draw,draw,QPR,Aston Villa,Aston_Villa_QPR,Aston Villa_QPR_1993
+1994,12,QPR,0.0,0.0,Aston Villa,2.0,0.0,0,Robbie Hart,0,0,0,0,1046,QPR,Aston Villa,QPR,Aston Villa,Aston_Villa_QPR,Aston Villa_QPR_1994
+1994,24,Aston Villa,0.0,0.0,QPR,2.0,1.0,0,Alan Wilkie,0,0,0,0,1175,Aston Villa,QPR,Aston Villa,QPR,Aston_Villa_QPR,Aston Villa_QPR_1994
+1995,19,QPR,0.0,0.0,Aston Villa,1.0,0.0,0,Alan Wilkie,0,0,0,0,1570,QPR,Aston Villa,QPR,Aston Villa,Aston_Villa_QPR,Aston Villa_QPR_1995
+1995,30,Aston Villa,0.0,0.0,QPR,4.0,2.0,0,Alan Wilkie,0,0,0,0,1671,Aston Villa,QPR,Aston Villa,QPR,Aston_Villa_QPR,Aston Villa_QPR_1995
+2011,6,QPR,0.0,0.0,Aston Villa,1.0,1.0,0,Michael Oliver,0,0,0,0,7523,draw,draw,QPR,Aston Villa,Aston_Villa_QPR,Aston Villa_QPR_2011
+2011,23,Aston Villa,0.0,0.0,QPR,2.0,2.0,0,Neil Swarbrick,0,0,0,0,7693,draw,draw,Aston Villa,QPR,Aston_Villa_QPR,Aston Villa_QPR_2011
+2012,15,QPR,0.0,0.0,Aston Villa,1.0,1.0,0,Howard Webb,0,0,0,0,7989,draw,draw,QPR,Aston Villa,Aston_Villa_QPR,Aston Villa_QPR_2012
+2012,30,Aston Villa,0.0,0.0,QPR,3.0,2.0,0,Kevin Friend,0,0,0,0,8133,Aston Villa,QPR,Aston Villa,QPR,Aston_Villa_QPR,Aston Villa_QPR_2012
+2014,9,QPR,0.0,0.0,Aston Villa,2.0,0.0,0,Lee Mason,0,0,0,0,8695,QPR,Aston Villa,QPR,Aston Villa,Aston_Villa_QPR,Aston Villa_QPR_2014
+2014,33,Aston Villa,0.0,0.0,QPR,3.0,3.0,0,Craig Pawson,0,0,0,0,8915,draw,draw,Aston Villa,QPR,Aston_Villa_QPR,Aston Villa_QPR_2014

@@ -1,3 +1,3 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
-1994,23,Tottenham,0.0,0.0,Arsenal,1.0,0.0,0,Mike Reed,0,0,0,0,1169,Tottenham,Arsenal,11cbcf2b-579b-5cc4-92a9-61b0ae88c513,40be0562-233b-57a4-bf23-c2793e42e8e7,Tottenham,Arsenal,Arsenal_Tottenham,Arsenal_Tottenham_1994
-1994,40,Arsenal,0.0,0.0,Tottenham,1.0,1.0,0,Robbie Hart,0,0,0,0,1349,draw,draw,560cb782-26ed-5bc0-878a-56a2e6efef10,40be0562-233b-57a4-bf23-c2793e42e8e7,Arsenal,Tottenham,Arsenal_Tottenham,Arsenal_Tottenham_1994
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,team,opponent,match_teams,season_match_teams
+1994,23,Tottenham,0.0,0.0,Arsenal,1.0,0.0,0,Mike Reed,0,0,0,0,1169,Tottenham,Arsenal,Tottenham,Arsenal,Arsenal_Tottenham,Arsenal_Tottenham_1994
+1994,40,Arsenal,0.0,0.0,Tottenham,1.0,1.0,0,Robbie Hart,0,0,0,0,1349,draw,draw,Arsenal,Tottenham,Arsenal_Tottenham,Arsenal_Tottenham_1994

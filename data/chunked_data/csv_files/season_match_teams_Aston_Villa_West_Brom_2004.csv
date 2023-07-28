@@ -1,3 +1,3 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
-2004,2,West Brom,0.0,0.0,Aston Villa,1.0,1.0,0,Mark Halsey,0,0,0,0,4825,draw,draw,be975a07-a45f-5a72-b3d3-4ce35b1c9cdb,6da07bfe-440a-5a67-8748-bbeedc0b10fe,West Brom,Aston Villa,Aston Villa_West Brom,Aston Villa_West Brom_2004
-2004,32,Aston Villa,0.0,0.0,West Brom,1.0,1.0,0,Rob Styles,0,0,0,0,5124,draw,draw,4ac1b1a3-4c55-5540-bc39-ccdfe531927b,6da07bfe-440a-5a67-8748-bbeedc0b10fe,Aston Villa,West Brom,Aston Villa_West Brom,Aston Villa_West Brom_2004
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,team,opponent,match_teams,season_match_teams
+2004,2,West Brom,0.0,0.0,Aston Villa,1.0,1.0,0,Mark Halsey,0,0,0,0,4825,draw,draw,West Brom,Aston Villa,Aston_Villa_West_Brom,Aston Villa_West Brom_2004
+2004,32,Aston Villa,0.0,0.0,West Brom,1.0,1.0,0,Rob Styles,0,0,0,0,5124,draw,draw,Aston Villa,West Brom,Aston_Villa_West_Brom,Aston Villa_West Brom_2004

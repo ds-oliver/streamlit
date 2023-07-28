@@ -1,3 +1,3 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
-1994,22,Leeds United,0.0,0.0,Liverpool,0.0,2.0,0,Alan Wilkie,0,0,0,0,1160,Liverpool,Leeds United,1ed4d959-c5f6-5746-a1a7-378e171134c8,2680b786-898f-5076-a546-5ef6313ea77f,Leeds United,Liverpool,Leeds United_Liverpool,Leeds United_Liverpool_1994
-1994,37,Liverpool,0.0,0.0,Leeds United,0.0,1.0,0,Keith Burge,0,0,0,0,1313,Leeds United,Liverpool,e693c6b4-afee-5e3f-83b7-ff57975297a5,2680b786-898f-5076-a546-5ef6313ea77f,Liverpool,Leeds United,Leeds United_Liverpool,Leeds United_Liverpool_1994
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,team,opponent,match_teams,season_match_teams
+1994,22,Leeds United,0.0,0.0,Liverpool,0.0,2.0,0,Alan Wilkie,0,0,0,0,1160,Liverpool,Leeds United,Leeds United,Liverpool,Leeds_United_Liverpool,Leeds United_Liverpool_1994
+1994,37,Liverpool,0.0,0.0,Leeds United,0.0,1.0,0,Keith Burge,0,0,0,0,1313,Leeds United,Liverpool,Liverpool,Leeds United,Leeds_United_Liverpool,Leeds United_Liverpool_1994

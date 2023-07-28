@@ -1,3 +1,3 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
-2011,2,Manchester Utd,0.0,0.0,Tottenham,3.0,0.0,0,Lee Probert,0,0,0,0,7484,Manchester Utd,Tottenham,7acf5017-5459-5b42-ab92-fe3c1f5662ff,09889555-d257-5567-b6a6-a6d1f7786287,Manchester Utd,Tottenham,Manchester Utd_Tottenham,Manchester Utd_Tottenham_2011
-2011,27,Tottenham,0.0,0.0,Manchester Utd,1.0,3.0,0,Martin Atkinson,0,0,0,0,7734,Manchester Utd,Tottenham,75b1bf39-6fa3-52de-b3e2-d26df1842d89,09889555-d257-5567-b6a6-a6d1f7786287,Tottenham,Manchester Utd,Manchester Utd_Tottenham,Manchester Utd_Tottenham_2011
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,team,opponent,match_teams,season_match_teams
+2011,2,Manchester Utd,0.0,0.0,Tottenham,3.0,0.0,0,Lee Probert,0,0,0,0,7484,Manchester Utd,Tottenham,Manchester Utd,Tottenham,Manchester_Utd_Tottenham,Manchester Utd_Tottenham_2011
+2011,27,Tottenham,0.0,0.0,Manchester Utd,1.0,3.0,0,Martin Atkinson,0,0,0,0,7734,Manchester Utd,Tottenham,Tottenham,Manchester Utd,Manchester_Utd_Tottenham,Manchester Utd_Tottenham_2011

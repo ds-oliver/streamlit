@@ -1,3 +1,3 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
-2005,21,West Ham,0.0,0.0,Chelsea,1.0,3.0,0,Chris Foy,0,0,0,0,5382,Chelsea,West Ham,6e512554-f0e3-5acd-a7c1-b59ad511b02f,66bf7a5f-fe14-5203-8e56-a9aaffec4e3d,West Ham,Chelsea,Chelsea_West Ham,Chelsea_West Ham_2005
-2005,33,Chelsea,0.0,0.0,West Ham,4.0,1.0,0,Chris Foy,0,0,0,0,5512,Chelsea,West Ham,5ceff375-e5bb-5c02-97bc-b5150b1fc3ec,66bf7a5f-fe14-5203-8e56-a9aaffec4e3d,Chelsea,West Ham,Chelsea_West Ham,Chelsea_West Ham_2005
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,team,opponent,match_teams,season_match_teams
+2005,21,West Ham,0.0,0.0,Chelsea,1.0,3.0,0,Chris Foy,0,0,0,0,5382,Chelsea,West Ham,West Ham,Chelsea,Chelsea_West_Ham,Chelsea_West Ham_2005
+2005,33,Chelsea,0.0,0.0,West Ham,4.0,1.0,0,Chris Foy,0,0,0,0,5512,Chelsea,West Ham,Chelsea,West Ham,Chelsea_West_Ham,Chelsea_West Ham_2005

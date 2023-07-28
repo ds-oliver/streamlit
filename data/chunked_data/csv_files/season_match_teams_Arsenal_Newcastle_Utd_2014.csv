@@ -1,3 +1,3 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
-2014,16,Arsenal,0.0,0.0,Newcastle Utd,4.0,1.0,0,Lee Mason,0,0,0,0,8762,Arsenal,Newcastle Utd,d49776a8-5a11-575f-a002-26f31c33df2f,8521cbdb-2258-5ff5-859b-6844bf051638,Arsenal,Newcastle Utd,Arsenal_Newcastle Utd,Arsenal_Newcastle Utd_2014
-2014,30,Newcastle Utd,0.0,0.0,Arsenal,1.0,2.0,0,Mike Jones,0,0,0,0,8898,Arsenal,Newcastle Utd,83755dc7-0508-5c6c-b340-1e53842093a1,8521cbdb-2258-5ff5-859b-6844bf051638,Newcastle Utd,Arsenal,Arsenal_Newcastle Utd,Arsenal_Newcastle Utd_2014
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,team,opponent,match_teams,season_match_teams
+2014,16,Arsenal,0.0,0.0,Newcastle Utd,4.0,1.0,0,Lee Mason,0,0,0,0,8762,Arsenal,Newcastle Utd,Arsenal,Newcastle Utd,Arsenal_Newcastle_Utd,Arsenal_Newcastle Utd_2014
+2014,30,Newcastle Utd,0.0,0.0,Arsenal,1.0,2.0,0,Mike Jones,0,0,0,0,8898,Arsenal,Newcastle Utd,Newcastle Utd,Arsenal,Arsenal_Newcastle_Utd,Arsenal_Newcastle Utd_2014

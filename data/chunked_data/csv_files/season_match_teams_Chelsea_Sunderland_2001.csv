@@ -1,3 +1,3 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
-2001,16,Sunderland,0.0,0.0,Chelsea,0.0,0.0,0,Neale Barry,0,0,0,0,3820,draw,draw,b899907a-20c2-528e-b535-75ef49f4791d,a9c9d204-676c-5746-8090-4c5d17446206,Sunderland,Chelsea,Chelsea_Sunderland,Chelsea_Sunderland_2001
-2001,30,Chelsea,0.0,0.0,Sunderland,4.0,0.0,0,Barry Knight,0,0,0,0,3962,Chelsea,Sunderland,96492cfe-7709-54e4-9744-4cbf08d19144,a9c9d204-676c-5746-8090-4c5d17446206,Chelsea,Sunderland,Chelsea_Sunderland,Chelsea_Sunderland_2001
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,team,opponent,match_teams,season_match_teams
+2001,16,Sunderland,0.0,0.0,Chelsea,0.0,0.0,0,Neale Barry,0,0,0,0,3820,draw,draw,Sunderland,Chelsea,Chelsea_Sunderland,Chelsea_Sunderland_2001
+2001,30,Chelsea,0.0,0.0,Sunderland,4.0,0.0,0,Barry Knight,0,0,0,0,3962,Chelsea,Sunderland,Chelsea,Sunderland,Chelsea_Sunderland,Chelsea_Sunderland_2001

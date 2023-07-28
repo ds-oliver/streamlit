@@ -1,3 +1,3 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
-2002,21,Everton,0.0,0.0,Bolton,0.0,0.0,0,Dermot Gallagher,0,0,0,0,4251,draw,draw,b9541ee2-d3ac-52e4-bbae-94f24cd08c45,6a1767f3-56eb-5974-9170-276dce441aaa,Everton,Bolton,Bolton_Everton,Bolton_Everton_2002
-2002,25,Bolton,0.0,0.0,Everton,1.0,2.0,0,Rob Styles,0,0,0,0,4285,Everton,Bolton,c5992ff5-7ce2-5b69-b43d-3a0b44faf465,6a1767f3-56eb-5974-9170-276dce441aaa,Bolton,Everton,Bolton_Everton,Bolton_Everton_2002
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,team,opponent,match_teams,season_match_teams
+2002,21,Everton,0.0,0.0,Bolton,0.0,0.0,0,Dermot Gallagher,0,0,0,0,4251,draw,draw,Everton,Bolton,Bolton_Everton,Bolton_Everton_2002
+2002,25,Bolton,0.0,0.0,Everton,1.0,2.0,0,Rob Styles,0,0,0,0,4285,Everton,Bolton,Bolton,Everton,Bolton_Everton,Bolton_Everton_2002

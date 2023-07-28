@@ -1,5 +1,5 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
-2000,3,Ipswich Town,0.0,0.0,Sunderland,1.0,0.0,0,Graham Poll,0,0,0,0,3305,Ipswich Town,Sunderland,3ebdefc0-029f-573f-81f7-0475f654357d,cfb6531b-8f25-508d-937b-717cf211bffa,Ipswich Town,Sunderland,Ipswich Town_Sunderland,Ipswich Town_Sunderland_2000
-2000,22,Sunderland,0.0,0.0,Ipswich Town,4.0,1.0,0,Neale Barry,0,0,0,0,3494,Sunderland,Ipswich Town,d7d83702-1cf9-567d-adf1-1e5719fa112b,cfb6531b-8f25-508d-937b-717cf211bffa,Sunderland,Ipswich Town,Ipswich Town_Sunderland,Ipswich Town_Sunderland_2000
-2001,1,Sunderland,0.0,0.0,Ipswich Town,1.0,0.0,0,Graham Poll,0,0,0,0,3672,Sunderland,Ipswich Town,57d68c42-0874-51b5-a22a-9b9a09645d6c,2ab54262-ab50-5a30-a78d-f4893bd47c14,Sunderland,Ipswich Town,Ipswich Town_Sunderland,Ipswich Town_Sunderland_2001
-2001,20,Ipswich Town,0.0,0.0,Sunderland,5.0,0.0,0,Graham Poll,0,0,0,0,3858,Ipswich Town,Sunderland,d614bd20-df36-5f17-a865-0714cb8b769f,2ab54262-ab50-5a30-a78d-f4893bd47c14,Ipswich Town,Sunderland,Ipswich Town_Sunderland,Ipswich Town_Sunderland_2001
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,team,opponent,match_teams,season_match_teams
+2000,3,Ipswich Town,0.0,0.0,Sunderland,1.0,0.0,0,Graham Poll,0,0,0,0,3305,Ipswich Town,Sunderland,Ipswich Town,Sunderland,Ipswich_Town_Sunderland,Ipswich Town_Sunderland_2000
+2000,22,Sunderland,0.0,0.0,Ipswich Town,4.0,1.0,0,Neale Barry,0,0,0,0,3494,Sunderland,Ipswich Town,Sunderland,Ipswich Town,Ipswich_Town_Sunderland,Ipswich Town_Sunderland_2000
+2001,1,Sunderland,0.0,0.0,Ipswich Town,1.0,0.0,0,Graham Poll,0,0,0,0,3672,Sunderland,Ipswich Town,Sunderland,Ipswich Town,Ipswich_Town_Sunderland,Ipswich Town_Sunderland_2001
+2001,20,Ipswich Town,0.0,0.0,Sunderland,5.0,0.0,0,Graham Poll,0,0,0,0,3858,Ipswich Town,Sunderland,Ipswich Town,Sunderland,Ipswich_Town_Sunderland,Ipswich Town_Sunderland_2001

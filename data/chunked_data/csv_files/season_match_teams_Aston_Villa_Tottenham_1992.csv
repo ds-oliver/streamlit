@@ -1,3 +1,3 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
-1992,16,Tottenham,0.0,0.0,Aston Villa,0.0,0.0,0,Jim Borrett,0,0,0,0,173,draw,draw,c25c78fc-33f3-5f25-9bf1-d52f01387cee,84e73d39-f09c-5692-b774-2674aadce8c8,Tottenham,Aston Villa,Aston Villa_Tottenham,Aston Villa_Tottenham_1992
-1992,33,Aston Villa,0.0,0.0,Tottenham,0.0,0.0,0,Keith Hackett,0,0,0,0,342,draw,draw,47a0ff13-5c84-5f66-bf55-e234922aa7ea,84e73d39-f09c-5692-b774-2674aadce8c8,Aston Villa,Tottenham,Aston Villa_Tottenham,Aston Villa_Tottenham_1992
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,team,opponent,match_teams,season_match_teams
+1992,16,Tottenham,0.0,0.0,Aston Villa,0.0,0.0,0,Jim Borrett,0,0,0,0,173,draw,draw,Tottenham,Aston Villa,Aston_Villa_Tottenham,Aston Villa_Tottenham_1992
+1992,33,Aston Villa,0.0,0.0,Tottenham,0.0,0.0,0,Keith Hackett,0,0,0,0,342,draw,draw,Aston Villa,Tottenham,Aston_Villa_Tottenham,Aston Villa_Tottenham_1992

@@ -1,3 +1,3 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
-2007,2,Newcastle Utd,0.0,0.0,Arsenal,1.0,1.0,0,Mike Dean,0,0,0,0,6094,draw,draw,7e6b10e6-5d1b-5653-94dc-67fc1c3b1115,2ea79361-aaff-52ba-84cf-9432acf834e7,Newcastle Utd,Arsenal,Arsenal_Newcastle Utd,Arsenal_Newcastle Utd_2007
-2007,24,Arsenal,0.0,0.0,Newcastle Utd,3.0,0.0,0,Mike Riley,0,0,0,0,6176,Arsenal,Newcastle Utd,97704e0b-4df6-5811-a7e5-c59dd8178564,2ea79361-aaff-52ba-84cf-9432acf834e7,Arsenal,Newcastle Utd,Arsenal_Newcastle Utd,Arsenal_Newcastle Utd_2007
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,team,opponent,match_teams,season_match_teams
+2007,2,Newcastle Utd,0.0,0.0,Arsenal,1.0,1.0,0,Mike Dean,0,0,0,0,6094,draw,draw,Newcastle Utd,Arsenal,Arsenal_Newcastle_Utd,Arsenal_Newcastle Utd_2007
+2007,24,Arsenal,0.0,0.0,Newcastle Utd,3.0,0.0,0,Mike Riley,0,0,0,0,6176,Arsenal,Newcastle Utd,Arsenal,Newcastle Utd,Arsenal_Newcastle_Utd,Arsenal_Newcastle Utd_2007

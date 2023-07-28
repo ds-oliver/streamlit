@@ -1,3 +1,3 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
-2003,19,Wolves,0.0,0.0,Leeds United,3.0,1.0,0,Andy D'Urso,0,0,0,0,4609,Wolves,Leeds United,04ca80e2-af8e-58b0-ad43-c2ddd4ae10a2,6d52fec0-8bc3-5933-9f46-b62460b65a82,Wolves,Leeds United,Leeds United_Wolves,Leeds United_Wolves_2003
-2003,25,Leeds United,0.0,0.0,Wolves,4.0,1.0,0,Mike Dean,0,0,0,0,4667,Leeds United,Wolves,7c20bde8-0507-558a-b8f5-0e8e5e86dff2,6d52fec0-8bc3-5933-9f46-b62460b65a82,Leeds United,Wolves,Leeds United_Wolves,Leeds United_Wolves_2003
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,team,opponent,match_teams,season_match_teams
+2003,19,Wolves,0.0,0.0,Leeds United,3.0,1.0,0,Andy D'Urso,0,0,0,0,4609,Wolves,Leeds United,Wolves,Leeds United,Leeds_United_Wolves,Leeds United_Wolves_2003
+2003,25,Leeds United,0.0,0.0,Wolves,4.0,1.0,0,Mike Dean,0,0,0,0,4667,Leeds United,Wolves,Leeds United,Wolves,Leeds_United_Wolves,Leeds United_Wolves_2003

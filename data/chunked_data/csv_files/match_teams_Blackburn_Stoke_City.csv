@@ -1,9 +1,9 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
-2008,18,Blackburn,0.0,0.0,Stoke City,3.0,0.0,0,Peter Walton,0,0,0,0,6497,Blackburn,Stoke City,0535d56c-d32b-5459-ae34-b98d148d2b83,9a35df5e-7f4d-56bd-80f3-16b3528874a3,Blackburn,Stoke City,Blackburn_Stoke City,Blackburn_Stoke City_2008
-2008,33,Stoke City,0.0,0.0,Blackburn,1.0,0.0,0,Howard Webb,0,0,0,0,6645,Stoke City,Blackburn,096e41c2-e1e2-562f-838a-3f27e86c7c29,9a35df5e-7f4d-56bd-80f3-16b3528874a3,Stoke City,Blackburn,Blackburn_Stoke City,Blackburn_Stoke City_2008
-2009,14,Blackburn,0.0,0.0,Stoke City,0.0,0.0,0,Howard Webb,0,0,0,0,6838,draw,draw,d7f817f3-c060-5424-ae9b-727348e46956,a2dac133-ae3b-5482-9120-aaca6ec84d80,Blackburn,Stoke City,Blackburn_Stoke City,Blackburn_Stoke City_2009
-2009,25,Stoke City,0.0,0.0,Blackburn,3.0,0.0,0,Stephen Bennett,0,0,0,0,6938,Stoke City,Blackburn,9ab68aaa-4372-5011-952c-5981f9025243,a2dac133-ae3b-5482-9120-aaca6ec84d80,Stoke City,Blackburn,Blackburn_Stoke City,Blackburn_Stoke City_2009
-2010,7,Stoke City,0.0,0.0,Blackburn,1.0,0.0,0,Howard Webb,0,0,0,0,7150,Stoke City,Blackburn,6e23409f-fe9d-5fdd-9879-21b28e6cd304,b6187d3a-0056-5459-b8fd-79dc4350141e,Stoke City,Blackburn,Blackburn_Stoke City,Blackburn_Stoke City_2010
-2010,19,Blackburn,0.0,0.0,Stoke City,0.0,2.0,0,Mike Jones,0,0,0,0,7261,Stoke City,Blackburn,3c9aedec-4d8b-56c8-bbdf-4cdabc4ddd9c,b6187d3a-0056-5459-b8fd-79dc4350141e,Blackburn,Stoke City,Blackburn_Stoke City,Blackburn_Stoke City_2010
-2011,13,Stoke City,0.0,0.0,Blackburn,3.0,1.0,0,Mark Halsey,0,0,0,0,7587,Stoke City,Blackburn,be79299d-c6b6-561f-8e8b-4e550c12a881,69a89e98-051a-5d7c-b54e-61c0404442f7,Stoke City,Blackburn,Blackburn_Stoke City,Blackburn_Stoke City_2011
-2011,20,Blackburn,0.0,0.0,Stoke City,1.0,2.0,0,Lee Mason,0,0,0,0,7655,Stoke City,Blackburn,fd6cf460-a808-5fe0-8daa-27d843e8e6f2,69a89e98-051a-5d7c-b54e-61c0404442f7,Blackburn,Stoke City,Blackburn_Stoke City,Blackburn_Stoke City_2011
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,team,opponent,match_teams,season_match_teams
+2008,18,Blackburn,0.0,0.0,Stoke City,3.0,0.0,0,Peter Walton,0,0,0,0,6497,Blackburn,Stoke City,Blackburn,Stoke City,Blackburn_Stoke_City,Blackburn_Stoke City_2008
+2008,33,Stoke City,0.0,0.0,Blackburn,1.0,0.0,0,Howard Webb,0,0,0,0,6645,Stoke City,Blackburn,Stoke City,Blackburn,Blackburn_Stoke_City,Blackburn_Stoke City_2008
+2009,14,Blackburn,0.0,0.0,Stoke City,0.0,0.0,0,Howard Webb,0,0,0,0,6838,draw,draw,Blackburn,Stoke City,Blackburn_Stoke_City,Blackburn_Stoke City_2009
+2009,25,Stoke City,0.0,0.0,Blackburn,3.0,0.0,0,Stephen Bennett,0,0,0,0,6938,Stoke City,Blackburn,Stoke City,Blackburn,Blackburn_Stoke_City,Blackburn_Stoke City_2009
+2010,7,Stoke City,0.0,0.0,Blackburn,1.0,0.0,0,Howard Webb,0,0,0,0,7150,Stoke City,Blackburn,Stoke City,Blackburn,Blackburn_Stoke_City,Blackburn_Stoke City_2010
+2010,19,Blackburn,0.0,0.0,Stoke City,0.0,2.0,0,Mike Jones,0,0,0,0,7261,Stoke City,Blackburn,Blackburn,Stoke City,Blackburn_Stoke_City,Blackburn_Stoke City_2010
+2011,13,Stoke City,0.0,0.0,Blackburn,3.0,1.0,0,Mark Halsey,0,0,0,0,7587,Stoke City,Blackburn,Stoke City,Blackburn,Blackburn_Stoke_City,Blackburn_Stoke City_2011
+2011,20,Blackburn,0.0,0.0,Stoke City,1.0,2.0,0,Lee Mason,0,0,0,0,7655,Stoke City,Blackburn,Blackburn,Stoke City,Blackburn_Stoke_City,Blackburn_Stoke City_2011

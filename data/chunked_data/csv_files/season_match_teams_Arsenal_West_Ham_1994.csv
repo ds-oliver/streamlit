@@ -1,3 +1,3 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
-1994,7,West Ham,0.0,0.0,Arsenal,0.0,2.0,0,Keith Cooper,0,0,0,0,998,Arsenal,West Ham,bb4b2a13-1269-5f5a-9777-5b66792b07eb,6c7371fa-3784-5b70-8f90-0f00cb1175d2,West Ham,Arsenal,Arsenal_West Ham,Arsenal_West Ham_1994
-1994,32,Arsenal,0.0,0.0,West Ham,0.0,1.0,0,Brian Hill,0,0,0,0,1255,West Ham,Arsenal,5f88f186-7350-59a0-8328-a3134ee043be,6c7371fa-3784-5b70-8f90-0f00cb1175d2,Arsenal,West Ham,Arsenal_West Ham,Arsenal_West Ham_1994
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,team,opponent,match_teams,season_match_teams
+1994,7,West Ham,0.0,0.0,Arsenal,0.0,2.0,0,Keith Cooper,0,0,0,0,998,Arsenal,West Ham,West Ham,Arsenal,Arsenal_West_Ham,Arsenal_West Ham_1994
+1994,32,Arsenal,0.0,0.0,West Ham,0.0,1.0,0,Brian Hill,0,0,0,0,1255,West Ham,Arsenal,Arsenal,West Ham,Arsenal_West_Ham,Arsenal_West Ham_1994

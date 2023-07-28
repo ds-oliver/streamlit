@@ -1,3 +1,3 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
-2011,5,Swansea City,0.0,0.0,West Brom,3.0,0.0,0,Martin Atkinson,0,0,0,0,7508,Swansea City,West Brom,ec15670a-c5a7-54a2-8b5d-906651d75ef6,53bee3f8-b646-5098-a809-10e1bdbdbcf9,Swansea City,West Brom,Swansea City_West Brom,Swansea City_West Brom_2011
-2011,24,West Brom,0.0,0.0,Swansea City,1.0,2.0,0,Jon Moss,0,0,0,0,7702,Swansea City,West Brom,c864c72f-54b4-5db2-a9de-361689228dcd,53bee3f8-b646-5098-a809-10e1bdbdbcf9,West Brom,Swansea City,Swansea City_West Brom,Swansea City_West Brom_2011
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,team,opponent,match_teams,season_match_teams
+2011,5,Swansea City,0.0,0.0,West Brom,3.0,0.0,0,Martin Atkinson,0,0,0,0,7508,Swansea City,West Brom,Swansea City,West Brom,Swansea_City_West_Brom,Swansea City_West Brom_2011
+2011,24,West Brom,0.0,0.0,Swansea City,1.0,2.0,0,Jon Moss,0,0,0,0,7702,Swansea City,West Brom,West Brom,Swansea City,Swansea_City_West_Brom,Swansea City_West Brom_2011

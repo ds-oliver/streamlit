@@ -1,3 +1,3 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
-1994,1,West Ham,0.0,0.0,Leeds United,0.0,0.0,0,Keith Burge,0,0,0,0,933,draw,draw,0c87fdda-c277-53f9-b4c1-77caa33822e0,647aff50-91c5-55dc-9aec-6c3703f620c9,West Ham,Leeds United,Leeds United_West Ham,Leeds United_West Ham_1994
-1994,18,Leeds United,0.0,0.0,West Ham,2.0,2.0,0,Robbie Hart,0,0,0,0,1119,draw,draw,1d26ea89-7f5c-557b-bf13-8b652847fe2e,647aff50-91c5-55dc-9aec-6c3703f620c9,Leeds United,West Ham,Leeds United_West Ham,Leeds United_West Ham_1994
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,team,opponent,match_teams,season_match_teams
+1994,1,West Ham,0.0,0.0,Leeds United,0.0,0.0,0,Keith Burge,0,0,0,0,933,draw,draw,West Ham,Leeds United,Leeds_United_West_Ham,Leeds United_West Ham_1994
+1994,18,Leeds United,0.0,0.0,West Ham,2.0,2.0,0,Robbie Hart,0,0,0,0,1119,draw,draw,Leeds United,West Ham,Leeds_United_West_Ham,Leeds United_West Ham_1994

@@ -1,3 +1,3 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
-2007,4,Bolton,0.0,0.0,Reading,3.0,0.0,0,Mark Clattenburg,0,0,0,0,5978,Bolton,Reading,39911b3a-69b9-58d5-aef4-39da825bc0f1,cfe8e82e-96a5-5919-b5c7-c144c32fe04f,Bolton,Reading,Bolton_Reading,Bolton_Reading_2007
-2007,25,Reading,0.0,0.0,Bolton,0.0,2.0,0,Phil Dowd,0,0,0,0,6190,Bolton,Reading,17ca2993-033f-5928-a70c-1c3b7224e837,cfe8e82e-96a5-5919-b5c7-c144c32fe04f,Reading,Bolton,Bolton_Reading,Bolton_Reading_2007
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,team,opponent,match_teams,season_match_teams
+2007,4,Bolton,0.0,0.0,Reading,3.0,0.0,0,Mark Clattenburg,0,0,0,0,5978,Bolton,Reading,Bolton,Reading,Bolton_Reading,Bolton_Reading_2007
+2007,25,Reading,0.0,0.0,Bolton,0.0,2.0,0,Phil Dowd,0,0,0,0,6190,Bolton,Reading,Reading,Bolton,Bolton_Reading,Bolton_Reading_2007

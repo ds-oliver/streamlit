@@ -1,3 +1,3 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
-2010,8,Manchester Utd,0.0,0.0,West Brom,2.0,2.0,0,Mike Jones,0,0,0,0,7162,draw,draw,346ded30-51f9-5d9b-b6c9-f1bb0f8f9bde,160956ad-7bf8-5ca8-9da8-a63fea665d5d,Manchester Utd,West Brom,Manchester Utd_West Brom,Manchester Utd_West Brom_2010
-2010,21,West Brom,0.0,0.0,Manchester Utd,1.0,2.0,0,Chris Foy,0,0,0,0,7283,Manchester Utd,West Brom,7143dabc-d573-5597-9136-9e7fc2e13259,160956ad-7bf8-5ca8-9da8-a63fea665d5d,West Brom,Manchester Utd,Manchester Utd_West Brom,Manchester Utd_West Brom_2010
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,team,opponent,match_teams,season_match_teams
+2010,8,Manchester Utd,0.0,0.0,West Brom,2.0,2.0,0,Mike Jones,0,0,0,0,7162,draw,draw,Manchester Utd,West Brom,Manchester_Utd_West_Brom,Manchester Utd_West Brom_2010
+2010,21,West Brom,0.0,0.0,Manchester Utd,1.0,2.0,0,Chris Foy,0,0,0,0,7283,Manchester Utd,West Brom,West Brom,Manchester Utd,Manchester_Utd_West_Brom,Manchester Utd_West Brom_2010

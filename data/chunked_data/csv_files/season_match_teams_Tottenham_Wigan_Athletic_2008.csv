@@ -1,3 +1,3 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
-2008,5,Tottenham,0.0,0.0,Wigan Athletic,0.0,0.0,0,Steve Tanner,0,0,0,0,6370,draw,draw,7e8b6521-08b3-5b8a-bca7-64e8375342ef,c35f6202-f8ef-55f1-bca1-dee189d91322,Tottenham,Wigan Athletic,Tottenham_Wigan Athletic,Tottenham_Wigan Athletic_2008
-2008,21,Wigan Athletic,0.0,0.0,Tottenham,1.0,0.0,0,Andre Marriner,0,0,0,0,6531,Wigan Athletic,Tottenham,84171ec5-1837-56fc-97d1-a0004e1dc942,c35f6202-f8ef-55f1-bca1-dee189d91322,Wigan Athletic,Tottenham,Tottenham_Wigan Athletic,Tottenham_Wigan Athletic_2008
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,team,opponent,match_teams,season_match_teams
+2008,5,Tottenham,0.0,0.0,Wigan Athletic,0.0,0.0,0,Steve Tanner,0,0,0,0,6370,draw,draw,Tottenham,Wigan Athletic,Tottenham_Wigan_Athletic,Tottenham_Wigan Athletic_2008
+2008,21,Wigan Athletic,0.0,0.0,Tottenham,1.0,0.0,0,Andre Marriner,0,0,0,0,6531,Wigan Athletic,Tottenham,Wigan Athletic,Tottenham,Tottenham_Wigan_Athletic,Tottenham_Wigan Athletic_2008

@@ -1,3 +1,3 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
-1995,15,Coventry City,0.0,0.0,Wimbledon,3.0,3.0,0,Robbie Hart,0,0,0,0,1532,draw,draw,d67c0853-bf99-585d-ad75-ec538185a9e4,93af5a13-a288-56d1-b360-2ce5e57ab1a4,Coventry City,Wimbledon,Coventry City_Wimbledon,Coventry City_Wimbledon_1995
-1995,37,Wimbledon,0.0,0.0,Coventry City,0.0,2.0,0,Steve Dunn,0,0,0,0,1743,Coventry City,Wimbledon,572783b5-4d8c-5dce-ae31-4696c5cf0049,93af5a13-a288-56d1-b360-2ce5e57ab1a4,Wimbledon,Coventry City,Coventry City_Wimbledon,Coventry City_Wimbledon_1995
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,team,opponent,match_teams,season_match_teams
+1995,15,Coventry City,0.0,0.0,Wimbledon,3.0,3.0,0,Robbie Hart,0,0,0,0,1532,draw,draw,Coventry City,Wimbledon,Coventry_City_Wimbledon,Coventry City_Wimbledon_1995
+1995,37,Wimbledon,0.0,0.0,Coventry City,0.0,2.0,0,Steve Dunn,0,0,0,0,1743,Coventry City,Wimbledon,Wimbledon,Coventry City,Coventry_City_Wimbledon,Coventry City_Wimbledon_1995

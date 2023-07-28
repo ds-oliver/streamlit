@@ -1,3 +1,3 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
-2001,8,Fulham,0.0,0.0,Chelsea,1.0,1.0,0,Graham Poll,0,0,0,0,3733,draw,draw,425e7b04-3e20-5baa-8ba4-bde5311a3d2a,fb9cff75-dd4b-564d-8c77-f464e85ce13d,Fulham,Chelsea,Chelsea_Fulham,Chelsea_Fulham_2001
-2001,29,Chelsea,0.0,0.0,Fulham,3.0,2.0,0,Peter Jones,0,0,0,0,3953,Chelsea,Fulham,257839ae-5a32-556a-942a-af6da2ad3612,fb9cff75-dd4b-564d-8c77-f464e85ce13d,Chelsea,Fulham,Chelsea_Fulham,Chelsea_Fulham_2001
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,team,opponent,match_teams,season_match_teams
+2001,8,Fulham,0.0,0.0,Chelsea,1.0,1.0,0,Graham Poll,0,0,0,0,3733,draw,draw,Fulham,Chelsea,Chelsea_Fulham,Chelsea_Fulham_2001
+2001,29,Chelsea,0.0,0.0,Fulham,3.0,2.0,0,Peter Jones,0,0,0,0,3953,Chelsea,Fulham,Chelsea,Fulham,Chelsea_Fulham,Chelsea_Fulham_2001

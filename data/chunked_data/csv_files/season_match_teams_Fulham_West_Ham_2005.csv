@@ -1,3 +1,3 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
-2005,6,Fulham,0.0,0.0,West Ham,1.0,2.0,0,Graham Poll,0,0,0,0,5232,West Ham,Fulham,5e76b6d3-9d39-52a7-a7f3-d819e06ef067,3a273038-7dcb-5abd-b6a8-bf47896d1937,Fulham,West Ham,Fulham_West Ham,Fulham_West Ham_2005
-2005,23,West Ham,0.0,0.0,Fulham,2.0,1.0,0,Uriah Rennie,0,0,0,0,5409,West Ham,Fulham,4cccc91d-76e3-579a-be1e-56f2401876ba,3a273038-7dcb-5abd-b6a8-bf47896d1937,West Ham,Fulham,Fulham_West Ham,Fulham_West Ham_2005
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,team,opponent,match_teams,season_match_teams
+2005,6,Fulham,0.0,0.0,West Ham,1.0,2.0,0,Graham Poll,0,0,0,0,5232,West Ham,Fulham,Fulham,West Ham,Fulham_West_Ham,Fulham_West Ham_2005
+2005,23,West Ham,0.0,0.0,Fulham,2.0,1.0,0,Uriah Rennie,0,0,0,0,5409,West Ham,Fulham,West Ham,Fulham,Fulham_West_Ham,Fulham_West Ham_2005

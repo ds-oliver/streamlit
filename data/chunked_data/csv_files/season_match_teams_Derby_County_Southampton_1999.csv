@@ -1,3 +1,3 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
-1999,10,Southampton,0.0,0.0,Derby County,3.0,3.0,0,Graham Poll,0,0,0,0,3001,draw,draw,e2a16f66-bd1b-5a63-8d36-7fd82ef7ae26,a3f3fc37-26f3-54c9-b352-640037ef5214,Southampton,Derby County,Derby County_Southampton,Derby County_Southampton_1999
-1999,35,Derby County,0.0,0.0,Southampton,2.0,0.0,0,Peter Jones,0,0,0,0,3250,Derby County,Southampton,ab0a8cc3-f5bb-5347-a1bf-a4bf5b5b6bf2,a3f3fc37-26f3-54c9-b352-640037ef5214,Derby County,Southampton,Derby County_Southampton,Derby County_Southampton_1999
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,team,opponent,match_teams,season_match_teams
+1999,10,Southampton,0.0,0.0,Derby County,3.0,3.0,0,Graham Poll,0,0,0,0,3001,draw,draw,Southampton,Derby County,Derby_County_Southampton,Derby County_Southampton_1999
+1999,35,Derby County,0.0,0.0,Southampton,2.0,0.0,0,Peter Jones,0,0,0,0,3250,Derby County,Southampton,Derby County,Southampton,Derby_County_Southampton,Derby County_Southampton_1999

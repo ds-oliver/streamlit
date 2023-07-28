@@ -1,3 +1,3 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
-1997,17,Leeds United,0.0,0.0,Everton,0.0,0.0,0,Paul Durkin,0,0,0,0,2304,draw,draw,798960f8-491a-57fc-8b80-a57a209f82e7,420fbbc7-66c8-501f-be27-d732e7c6c3b2,Leeds United,Everton,Everton_Leeds United,Everton_Leeds United_1997
-1997,33,Everton,0.0,0.0,Leeds United,2.0,0.0,0,Uriah Rennie,0,0,0,0,2463,Everton,Leeds United,7e31a9b6-feda-5afb-ad7a-649ae21d93f6,420fbbc7-66c8-501f-be27-d732e7c6c3b2,Everton,Leeds United,Everton_Leeds United,Everton_Leeds United_1997
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,team,opponent,match_teams,season_match_teams
+1997,17,Leeds United,0.0,0.0,Everton,0.0,0.0,0,Paul Durkin,0,0,0,0,2304,draw,draw,Leeds United,Everton,Everton_Leeds_United,Everton_Leeds United_1997
+1997,33,Everton,0.0,0.0,Leeds United,2.0,0.0,0,Uriah Rennie,0,0,0,0,2463,Everton,Leeds United,Everton,Leeds United,Everton_Leeds_United,Everton_Leeds United_1997

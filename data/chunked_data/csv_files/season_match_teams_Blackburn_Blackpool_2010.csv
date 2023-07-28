@@ -1,3 +1,3 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
-2010,6,Blackpool,0.0,0.0,Blackburn,1.0,2.0,0,Mike Dean,0,0,0,0,7137,Blackburn,Blackpool,18c360e7-ce69-51e5-ae18-58833b4e7182,40e02685-b2c1-5433-b382-c11ef4523bf4,Blackpool,Blackburn,Blackburn_Blackpool,Blackburn_Blackpool_2010
-2010,30,Blackburn,0.0,0.0,Blackpool,2.0,2.0,0,Howard Webb,0,0,0,0,7374,draw,draw,2c8b8195-87ac-5324-a595-9bc9dc1269fe,40e02685-b2c1-5433-b382-c11ef4523bf4,Blackburn,Blackpool,Blackburn_Blackpool,Blackburn_Blackpool_2010
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,team,opponent,match_teams,season_match_teams
+2010,6,Blackpool,0.0,0.0,Blackburn,1.0,2.0,0,Mike Dean,0,0,0,0,7137,Blackburn,Blackpool,Blackpool,Blackburn,Blackburn_Blackpool,Blackburn_Blackpool_2010
+2010,30,Blackburn,0.0,0.0,Blackpool,2.0,2.0,0,Howard Webb,0,0,0,0,7374,draw,draw,Blackburn,Blackpool,Blackburn_Blackpool,Blackburn_Blackpool_2010

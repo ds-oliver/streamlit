@@ -1,3 +1,3 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
-1999,5,Sheffield Weds,0.0,0.0,Derby County,0.0,2.0,0,Mike Reed,0,0,0,0,2950,Derby County,Sheffield Weds,963895c2-8fde-53f6-9488-610c3c8e4fd7,6e365a5a-7904-5b78-a63a-08470ca3cc63,Sheffield Weds,Derby County,Derby County_Sheffield Weds,Derby County_Sheffield Weds_1999
-1999,24,Derby County,0.0,0.0,Sheffield Weds,3.0,3.0,0,David Elleray,0,0,0,0,3138,draw,draw,f883fc3b-1567-5088-8e70-51acceac691a,6e365a5a-7904-5b78-a63a-08470ca3cc63,Derby County,Sheffield Weds,Derby County_Sheffield Weds,Derby County_Sheffield Weds_1999
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,team,opponent,match_teams,season_match_teams
+1999,5,Sheffield Weds,0.0,0.0,Derby County,0.0,2.0,0,Mike Reed,0,0,0,0,2950,Derby County,Sheffield Weds,Sheffield Weds,Derby County,Derby_County_Sheffield_Weds,Derby County_Sheffield Weds_1999
+1999,24,Derby County,0.0,0.0,Sheffield Weds,3.0,3.0,0,David Elleray,0,0,0,0,3138,draw,draw,Derby County,Sheffield Weds,Derby_County_Sheffield_Weds,Derby County_Sheffield Weds_1999

@@ -1,3 +1,3 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
-1994,12,Southampton,0.0,0.0,Leeds United,1.0,3.0,0,Rodger Gifford,0,0,0,0,1051,Leeds United,Southampton,a977de25-7cfa-5dc5-ae6e-2e8299c3aaa1,2482719f-6e3b-5915-b016-12392da51776,Southampton,Leeds United,Leeds United_Southampton,Leeds United_Southampton_1994
-1994,24,Leeds United,0.0,0.0,Southampton,0.0,0.0,0,Philip Don,0,0,0,0,1182,draw,draw,f7720ac7-d050-568e-8e86-eafafc894d68,2482719f-6e3b-5915-b016-12392da51776,Leeds United,Southampton,Leeds United_Southampton,Leeds United_Southampton_1994
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,team,opponent,match_teams,season_match_teams
+1994,12,Southampton,0.0,0.0,Leeds United,1.0,3.0,0,Rodger Gifford,0,0,0,0,1051,Leeds United,Southampton,Southampton,Leeds United,Leeds_United_Southampton,Leeds United_Southampton_1994
+1994,24,Leeds United,0.0,0.0,Southampton,0.0,0.0,0,Philip Don,0,0,0,0,1182,draw,draw,Leeds United,Southampton,Leeds_United_Southampton,Leeds United_Southampton_1994

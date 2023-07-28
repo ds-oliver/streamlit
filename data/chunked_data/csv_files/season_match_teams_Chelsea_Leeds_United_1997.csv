@@ -1,3 +1,3 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
-1997,18,Chelsea,0.0,0.0,Leeds United,0.0,0.0,0,Graham Poll,0,0,0,0,2320,draw,draw,0a80e90a-e753-5012-b6b3-0ca54976391d,5351a2a6-bf19-5786-8294-c47cdb59fa00,Chelsea,Leeds United,Chelsea_Leeds United,Chelsea_Leeds United_1997
-1997,34,Leeds United,0.0,0.0,Chelsea,3.0,1.0,0,David Elleray,0,0,0,0,2461,Leeds United,Chelsea,ea7aa0d4-4303-5cc0-a165-c4fc3f47db8e,5351a2a6-bf19-5786-8294-c47cdb59fa00,Leeds United,Chelsea,Chelsea_Leeds United,Chelsea_Leeds United_1997
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,team,opponent,match_teams,season_match_teams
+1997,18,Chelsea,0.0,0.0,Leeds United,0.0,0.0,0,Graham Poll,0,0,0,0,2320,draw,draw,Chelsea,Leeds United,Chelsea_Leeds_United,Chelsea_Leeds United_1997
+1997,34,Leeds United,0.0,0.0,Chelsea,3.0,1.0,0,David Elleray,0,0,0,0,2461,Leeds United,Chelsea,Leeds United,Chelsea,Chelsea_Leeds_United,Chelsea_Leeds United_1997

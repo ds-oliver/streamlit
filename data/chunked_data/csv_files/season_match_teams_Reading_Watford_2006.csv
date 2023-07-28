@@ -1,3 +1,3 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
-2006,17,Watford,0.0,0.0,Reading,0.0,0.0,0,Chris Foy,0,0,0,0,5730,draw,draw,6672603e-5f24-5c79-8183-0f0df7fb42c4,0a386a94-aeae-5cf6-96d7-bd6215bcfe73,Watford,Reading,Reading_Watford,Reading_Watford_2006
-2006,37,Reading,0.0,0.0,Watford,0.0,2.0,0,Dermot Gallagher,0,0,0,0,5929,Watford,Reading,2b541acd-c9d0-5999-a07a-89c29703a7af,0a386a94-aeae-5cf6-96d7-bd6215bcfe73,Reading,Watford,Reading_Watford,Reading_Watford_2006
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,team,opponent,match_teams,season_match_teams
+2006,17,Watford,0.0,0.0,Reading,0.0,0.0,0,Chris Foy,0,0,0,0,5730,draw,draw,Watford,Reading,Reading_Watford,Reading_Watford_2006
+2006,37,Reading,0.0,0.0,Watford,0.0,2.0,0,Dermot Gallagher,0,0,0,0,5929,Watford,Reading,Reading,Watford,Reading_Watford,Reading_Watford_2006

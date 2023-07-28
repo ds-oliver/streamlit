@@ -1,5 +1,5 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
-1999,20,Bradford City,0.0,0.0,Everton,0.0,0.0,0,Uriah Rennie,0,0,0,0,3095,draw,draw,0d696665-f685-5bfd-a82d-e315465a7d7c,c0d35f84-d71a-5d94-8a89-f9edae6f2532,Bradford City,Everton,Bradford City_Everton,Bradford City_Everton_1999
-1999,33,Everton,0.0,0.0,Bradford City,4.0,0.0,0,Paul Alcock,0,0,0,0,3228,Everton,Bradford City,6a3d597c-2881-57ad-947c-b6b789a53beb,c0d35f84-d71a-5d94-8a89-f9edae6f2532,Everton,Bradford City,Bradford City_Everton,Bradford City_Everton_1999
-2000,13,Bradford City,0.0,0.0,Everton,0.0,1.0,0,Rob Harris,0,0,0,0,3412,Everton,Bradford City,741f20df-2530-55ec-85ce-b9bd2e3a4cd0,c3907b4b-fbc9-5e12-adc9-1d03e3e0bb43,Bradford City,Everton,Bradford City_Everton,Bradford City_Everton_2000
-2000,36,Everton,0.0,0.0,Bradford City,2.0,1.0,0,Paul Durkin,0,0,0,0,3633,Everton,Bradford City,5d9f91b3-d10e-5fa4-8e84-6836ad32938e,c3907b4b-fbc9-5e12-adc9-1d03e3e0bb43,Everton,Bradford City,Bradford City_Everton,Bradford City_Everton_2000
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,team,opponent,match_teams,season_match_teams
+1999,20,Bradford City,0.0,0.0,Everton,0.0,0.0,0,Uriah Rennie,0,0,0,0,3095,draw,draw,Bradford City,Everton,Bradford_City_Everton,Bradford City_Everton_1999
+1999,33,Everton,0.0,0.0,Bradford City,4.0,0.0,0,Paul Alcock,0,0,0,0,3228,Everton,Bradford City,Everton,Bradford City,Bradford_City_Everton,Bradford City_Everton_1999
+2000,13,Bradford City,0.0,0.0,Everton,0.0,1.0,0,Rob Harris,0,0,0,0,3412,Everton,Bradford City,Bradford City,Everton,Bradford_City_Everton,Bradford City_Everton_2000
+2000,36,Everton,0.0,0.0,Bradford City,2.0,1.0,0,Paul Durkin,0,0,0,0,3633,Everton,Bradford City,Everton,Bradford City,Bradford_City_Everton,Bradford City_Everton_2000

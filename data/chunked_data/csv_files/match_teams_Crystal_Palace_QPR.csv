@@ -1,7 +1,7 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
-1992,19,QPR,0.0,0.0,Crystal Palace,1.0,3.0,0,Robbie Hart,0,0,0,0,203,Crystal Palace,QPR,26280f25-0b31-5b95-87c4-487e79e7e80f,c123d40f-3fb9-54d7-845d-1240940bd29a,QPR,Crystal Palace,Crystal Palace_QPR,Crystal Palace_QPR_1992
-1992,37,Crystal Palace,0.0,0.0,QPR,1.0,1.0,0,Alan Wilkie,0,0,0,0,382,draw,draw,59ef6ddd-f541-5d90-95d1-876ac378d95f,c123d40f-3fb9-54d7-845d-1240940bd29a,Crystal Palace,QPR,Crystal Palace_QPR,Crystal Palace_QPR_1992
-1994,20,Crystal Palace,0.0,0.0,QPR,0.0,0.0,0,Brian Hill,0,0,0,0,1140,draw,draw,b4ba1ff2-0687-54fb-8f58-f2624f080808,1c3f12d2-37b5-59f1-a65e-51c6771afead,Crystal Palace,QPR,Crystal Palace_QPR,Crystal Palace_QPR_1994
-1994,39,QPR,0.0,0.0,Crystal Palace,0.0,1.0,0,Alan Wilkie,0,0,0,0,1334,Crystal Palace,QPR,b5b91e4b-d918-5fb5-81aa-993f65ed83eb,1c3f12d2-37b5-59f1-a65e-51c6771afead,QPR,Crystal Palace,Crystal Palace_QPR,Crystal Palace_QPR_1994
-2014,19,QPR,0.0,0.0,Crystal Palace,0.0,0.0,0,Mike Jones,0,0,0,0,8788,draw,draw,ea74149d-d78e-5122-bff7-95971c95f3a2,31de72ae-fe95-5cd3-b86c-82a21d401975,QPR,Crystal Palace,Crystal Palace_QPR,Crystal Palace_QPR_2014
-2014,29,Crystal Palace,0.0,0.0,QPR,3.0,1.0,0,Lee Mason,0,0,0,0,8885,Crystal Palace,QPR,4ff5619a-7d93-5348-97dc-ec67f878e472,31de72ae-fe95-5cd3-b86c-82a21d401975,Crystal Palace,QPR,Crystal Palace_QPR,Crystal Palace_QPR_2014
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,team,opponent,match_teams,season_match_teams
+1992,19,QPR,0.0,0.0,Crystal Palace,1.0,3.0,0,Robbie Hart,0,0,0,0,203,Crystal Palace,QPR,QPR,Crystal Palace,Crystal_Palace_QPR,Crystal Palace_QPR_1992
+1992,37,Crystal Palace,0.0,0.0,QPR,1.0,1.0,0,Alan Wilkie,0,0,0,0,382,draw,draw,Crystal Palace,QPR,Crystal_Palace_QPR,Crystal Palace_QPR_1992
+1994,20,Crystal Palace,0.0,0.0,QPR,0.0,0.0,0,Brian Hill,0,0,0,0,1140,draw,draw,Crystal Palace,QPR,Crystal_Palace_QPR,Crystal Palace_QPR_1994
+1994,39,QPR,0.0,0.0,Crystal Palace,0.0,1.0,0,Alan Wilkie,0,0,0,0,1334,Crystal Palace,QPR,QPR,Crystal Palace,Crystal_Palace_QPR,Crystal Palace_QPR_1994
+2014,19,QPR,0.0,0.0,Crystal Palace,0.0,0.0,0,Mike Jones,0,0,0,0,8788,draw,draw,QPR,Crystal Palace,Crystal_Palace_QPR,Crystal Palace_QPR_2014
+2014,29,Crystal Palace,0.0,0.0,QPR,3.0,1.0,0,Lee Mason,0,0,0,0,8885,Crystal Palace,QPR,Crystal Palace,QPR,Crystal_Palace_QPR,Crystal Palace_QPR_2014

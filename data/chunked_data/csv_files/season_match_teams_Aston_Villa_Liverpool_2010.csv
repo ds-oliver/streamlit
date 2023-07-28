@@ -1,3 +1,3 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
-2010,16,Liverpool,0.0,0.0,Aston Villa,3.0,0.0,0,Phil Dowd,0,0,0,0,7244,Liverpool,Aston Villa,cb4046bf-3d5c-5989-b5aa-90b0bcfbc73c,0939b057-741f-5b57-b5e7-319c06732581,Liverpool,Aston Villa,Aston Villa_Liverpool,Aston Villa_Liverpool_2010
-2010,38,Aston Villa,0.0,0.0,Liverpool,1.0,0.0,0,Lee Probert,0,0,0,0,7456,Aston Villa,Liverpool,8f520e5a-ba09-58f8-86bb-c91527392b42,0939b057-741f-5b57-b5e7-319c06732581,Aston Villa,Liverpool,Aston Villa_Liverpool,Aston Villa_Liverpool_2010
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,team,opponent,match_teams,season_match_teams
+2010,16,Liverpool,0.0,0.0,Aston Villa,3.0,0.0,0,Phil Dowd,0,0,0,0,7244,Liverpool,Aston Villa,Liverpool,Aston Villa,Aston_Villa_Liverpool,Aston Villa_Liverpool_2010
+2010,38,Aston Villa,0.0,0.0,Liverpool,1.0,0.0,0,Lee Probert,0,0,0,0,7456,Aston Villa,Liverpool,Aston Villa,Liverpool,Aston_Villa_Liverpool,Aston Villa_Liverpool_2010

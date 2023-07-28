@@ -1,3 +1,3 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
-1996,7,Liverpool,0.0,0.0,Chelsea,5.0,1.0,0,Steve Dunn,0,0,0,0,1829,Liverpool,Chelsea,8f449dbe-88f8-5adc-99aa-6602caa1fd57,db32e47f-505b-5627-a263-f9e1cf7d6340,Liverpool,Chelsea,Chelsea_Liverpool,Chelsea_Liverpool_1996
-1996,21,Chelsea,0.0,0.0,Liverpool,1.0,0.0,0,Stephen Lodge,0,0,0,0,1965,Chelsea,Liverpool,6c5caacf-b512-5759-aca5-d308ce7294a6,db32e47f-505b-5627-a263-f9e1cf7d6340,Chelsea,Liverpool,Chelsea_Liverpool,Chelsea_Liverpool_1996
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,team,opponent,match_teams,season_match_teams
+1996,7,Liverpool,0.0,0.0,Chelsea,5.0,1.0,0,Steve Dunn,0,0,0,0,1829,Liverpool,Chelsea,Liverpool,Chelsea,Chelsea_Liverpool,Chelsea_Liverpool_1996
+1996,21,Chelsea,0.0,0.0,Liverpool,1.0,0.0,0,Stephen Lodge,0,0,0,0,1965,Chelsea,Liverpool,Chelsea,Liverpool,Chelsea_Liverpool,Chelsea_Liverpool_1996

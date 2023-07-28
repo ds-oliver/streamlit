@@ -1,5 +1,5 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
-2006,1,Reading,0.0,0.0,Middlesbrough,3.0,2.0,0,Mark Halsey,0,0,0,0,5568,Reading,Middlesbrough,c52c56ea-4e33-55d3-9e89-fa75c2ba487a,66a21cdd-e763-5a61-892b-c05ca355873b,Reading,Middlesbrough,Middlesbrough_Reading,Middlesbrough_Reading_2006
-2006,28,Middlesbrough,0.0,0.0,Reading,2.0,1.0,0,Mark Halsey,0,0,0,0,5839,Middlesbrough,Reading,fbfe1f3b-122f-5a33-8331-cea5a095a34f,66a21cdd-e763-5a61-892b-c05ca355873b,Middlesbrough,Reading,Middlesbrough_Reading,Middlesbrough_Reading_2006
-2007,15,Reading,0.0,0.0,Middlesbrough,1.0,1.0,0,Alan Wiley,0,0,0,0,6087,draw,draw,06166b04-81fc-5a3c-801b-1c92a41083f2,16bd896d-01fd-542b-9791-77a4d1667539,Reading,Middlesbrough,Middlesbrough_Reading,Middlesbrough_Reading_2007
-2007,28,Middlesbrough,0.0,0.0,Reading,0.0,1.0,0,Howard Webb,0,0,0,0,6221,Reading,Middlesbrough,8981cadc-3329-5145-b8ed-c89adcfc8a24,16bd896d-01fd-542b-9791-77a4d1667539,Middlesbrough,Reading,Middlesbrough_Reading,Middlesbrough_Reading_2007
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,team,opponent,match_teams,season_match_teams
+2006,1,Reading,0.0,0.0,Middlesbrough,3.0,2.0,0,Mark Halsey,0,0,0,0,5568,Reading,Middlesbrough,Reading,Middlesbrough,Middlesbrough_Reading,Middlesbrough_Reading_2006
+2006,28,Middlesbrough,0.0,0.0,Reading,2.0,1.0,0,Mark Halsey,0,0,0,0,5839,Middlesbrough,Reading,Middlesbrough,Reading,Middlesbrough_Reading,Middlesbrough_Reading_2006
+2007,15,Reading,0.0,0.0,Middlesbrough,1.0,1.0,0,Alan Wiley,0,0,0,0,6087,draw,draw,Reading,Middlesbrough,Middlesbrough_Reading,Middlesbrough_Reading_2007
+2007,28,Middlesbrough,0.0,0.0,Reading,0.0,1.0,0,Howard Webb,0,0,0,0,6221,Reading,Middlesbrough,Middlesbrough,Reading,Middlesbrough_Reading,Middlesbrough_Reading_2007

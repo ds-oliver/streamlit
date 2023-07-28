@@ -1,3 +1,3 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
-2003,8,Fulham,0.0,0.0,Leicester City,2.0,0.0,0,Chris Foy,0,0,0,0,4494,Fulham,Leicester City,134931ca-484c-57dd-8037-15fe7b361eed,7ccc51b1-aaee-5713-b35b-2b97ee0e24c8,Fulham,Leicester City,Fulham_Leicester City,Fulham_Leicester City_2003
-2003,32,Leicester City,0.0,0.0,Fulham,0.0,2.0,0,Mark Halsey,0,0,0,0,4739,Fulham,Leicester City,b29d52fb-0eb9-5fd8-a5b1-1ec0c559a8d1,7ccc51b1-aaee-5713-b35b-2b97ee0e24c8,Leicester City,Fulham,Fulham_Leicester City,Fulham_Leicester City_2003
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,team,opponent,match_teams,season_match_teams
+2003,8,Fulham,0.0,0.0,Leicester City,2.0,0.0,0,Chris Foy,0,0,0,0,4494,Fulham,Leicester City,Fulham,Leicester City,Fulham_Leicester_City,Fulham_Leicester City_2003
+2003,32,Leicester City,0.0,0.0,Fulham,0.0,2.0,0,Mark Halsey,0,0,0,0,4739,Fulham,Leicester City,Leicester City,Fulham,Fulham_Leicester_City,Fulham_Leicester City_2003

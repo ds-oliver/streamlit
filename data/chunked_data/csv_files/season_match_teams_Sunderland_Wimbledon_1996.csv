@@ -1,3 +1,3 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
-1996,16,Sunderland,0.0,0.0,Wimbledon,1.0,3.0,0,Keith Burge,0,0,0,0,1926,Wimbledon,Sunderland,58c811fc-7314-53b2-948e-180f8b92bd54,c6c643a1-a0d5-56ce-b024-055af9b5f27c,Sunderland,Wimbledon,Sunderland_Wimbledon,Sunderland_Wimbledon_1996
-1996,38,Wimbledon,0.0,0.0,Sunderland,1.0,0.0,0,Dermot Gallagher,0,0,0,0,2139,Wimbledon,Sunderland,911f85b2-27a7-5898-b39a-45b6a185031e,c6c643a1-a0d5-56ce-b024-055af9b5f27c,Wimbledon,Sunderland,Sunderland_Wimbledon,Sunderland_Wimbledon_1996
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,team,opponent,match_teams,season_match_teams
+1996,16,Sunderland,0.0,0.0,Wimbledon,1.0,3.0,0,Keith Burge,0,0,0,0,1926,Wimbledon,Sunderland,Sunderland,Wimbledon,Sunderland_Wimbledon,Sunderland_Wimbledon_1996
+1996,38,Wimbledon,0.0,0.0,Sunderland,1.0,0.0,0,Dermot Gallagher,0,0,0,0,2139,Wimbledon,Sunderland,Wimbledon,Sunderland,Sunderland_Wimbledon,Sunderland_Wimbledon_1996

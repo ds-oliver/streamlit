@@ -1,3 +1,3 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
-2004,7,Charlton Ath,0.0,0.0,Blackburn,1.0,0.0,0,Steve Dunn,0,0,0,0,4874,Charlton Ath,Blackburn,0630a8f7-c53b-561f-9a1c-8aa4cd2da192,857c5b49-2ea5-5a37-adb0-eea340057537,Charlton Ath,Blackburn,Blackburn_Charlton Ath,Blackburn_Charlton Ath_2004
-2004,22,Blackburn,0.0,0.0,Charlton Ath,1.0,0.0,0,Alan Wiley,0,0,0,0,5018,Blackburn,Charlton Ath,f88e4ac6-2bca-59e4-8ab8-ae1cfc6b3e85,857c5b49-2ea5-5a37-adb0-eea340057537,Blackburn,Charlton Ath,Blackburn_Charlton Ath,Blackburn_Charlton Ath_2004
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,team,opponent,match_teams,season_match_teams
+2004,7,Charlton Ath,0.0,0.0,Blackburn,1.0,0.0,0,Steve Dunn,0,0,0,0,4874,Charlton Ath,Blackburn,Charlton Ath,Blackburn,Blackburn_Charlton_Ath,Blackburn_Charlton Ath_2004
+2004,22,Blackburn,0.0,0.0,Charlton Ath,1.0,0.0,0,Alan Wiley,0,0,0,0,5018,Blackburn,Charlton Ath,Blackburn,Charlton Ath,Blackburn_Charlton_Ath,Blackburn_Charlton Ath_2004

@@ -1,3 +1,3 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
-2013,17,Fulham,0.0,0.0,Manchester City,2.0,4.0,0,Kevin Friend,0,0,0,0,8386,Manchester City,Fulham,0430ce9f-33eb-57ee-90ef-cf1e72bf4593,2ca0a6be-b2a8-55ac-a7c6-352b69d302f4,Fulham,Manchester City,Fulham_Manchester City,Fulham_Manchester City_2013
-2013,31,Manchester City,0.0,0.0,Fulham,5.0,0.0,0,Jon Moss,0,0,0,0,8520,Manchester City,Fulham,dcd09fb8-3fb3-527d-ac78-7ca98ba1cacd,2ca0a6be-b2a8-55ac-a7c6-352b69d302f4,Manchester City,Fulham,Fulham_Manchester City,Fulham_Manchester City_2013
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,team,opponent,match_teams,season_match_teams
+2013,17,Fulham,0.0,0.0,Manchester City,2.0,4.0,0,Kevin Friend,0,0,0,0,8386,Manchester City,Fulham,Fulham,Manchester City,Fulham_Manchester_City,Fulham_Manchester City_2013
+2013,31,Manchester City,0.0,0.0,Fulham,5.0,0.0,0,Jon Moss,0,0,0,0,8520,Manchester City,Fulham,Manchester City,Fulham,Fulham_Manchester_City,Fulham_Manchester City_2013

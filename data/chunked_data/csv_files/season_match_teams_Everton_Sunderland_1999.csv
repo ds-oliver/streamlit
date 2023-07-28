@@ -1,3 +1,3 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
-1999,19,Everton,0.0,0.0,Sunderland,5.0,0.0,0,Stephen Lodge,0,0,0,0,3083,Everton,Sunderland,3b6b6d85-75e7-51f1-ae6d-0564405ede9f,9942afb5-1c0a-58ab-ae97-a8a894982f2a,Everton,Sunderland,Everton_Sunderland,Everton_Sunderland_1999
-1999,30,Sunderland,0.0,0.0,Everton,2.0,1.0,0,Stephen Bennett,0,0,0,0,3197,Sunderland,Everton,bb84ab4e-8691-59d9-b9ee-fad4dca431ee,9942afb5-1c0a-58ab-ae97-a8a894982f2a,Sunderland,Everton,Everton_Sunderland,Everton_Sunderland_1999
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,team,opponent,match_teams,season_match_teams
+1999,19,Everton,0.0,0.0,Sunderland,5.0,0.0,0,Stephen Lodge,0,0,0,0,3083,Everton,Sunderland,Everton,Sunderland,Everton_Sunderland,Everton_Sunderland_1999
+1999,30,Sunderland,0.0,0.0,Everton,2.0,1.0,0,Stephen Bennett,0,0,0,0,3197,Sunderland,Everton,Sunderland,Everton,Everton_Sunderland,Everton_Sunderland_1999

@@ -1,3 +1,3 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
-2000,3,Newcastle Utd,0.0,0.0,Tottenham,2.0,0.0,0,David Elleray,0,0,0,0,3307,Newcastle Utd,Tottenham,d1e4924c-79c1-573b-b35b-1ea7015703f5,0c76226d-970d-5b90-9973-0b7c3ccf7d4c,Newcastle Utd,Tottenham,Newcastle Utd_Tottenham,Newcastle Utd_Tottenham_2000
-2000,22,Tottenham,0.0,0.0,Newcastle Utd,4.0,2.0,0,Stephen Bennett,0,0,0,0,3500,Tottenham,Newcastle Utd,49ee4366-5afc-53a6-b067-71c7bacf7516,0c76226d-970d-5b90-9973-0b7c3ccf7d4c,Tottenham,Newcastle Utd,Newcastle Utd_Tottenham,Newcastle Utd_Tottenham_2000
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,team,opponent,match_teams,season_match_teams
+2000,3,Newcastle Utd,0.0,0.0,Tottenham,2.0,0.0,0,David Elleray,0,0,0,0,3307,Newcastle Utd,Tottenham,Newcastle Utd,Tottenham,Newcastle_Utd_Tottenham,Newcastle Utd_Tottenham_2000
+2000,22,Tottenham,0.0,0.0,Newcastle Utd,4.0,2.0,0,Stephen Bennett,0,0,0,0,3500,Tottenham,Newcastle Utd,Tottenham,Newcastle Utd,Newcastle_Utd_Tottenham,Newcastle Utd_Tottenham_2000

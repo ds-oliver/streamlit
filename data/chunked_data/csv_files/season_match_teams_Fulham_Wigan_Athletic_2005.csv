@@ -1,3 +1,3 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
-2005,11,Wigan Athletic,0.0,0.0,Fulham,1.0,0.0,0,Barry Knight,0,0,0,0,5288,Wigan Athletic,Fulham,d345ad45-ec6d-579d-978e-5f5ce633f4a6,a0e94df9-d3d1-5359-a6e1-594843b78512,Wigan Athletic,Fulham,Fulham_Wigan Athletic,Fulham_Wigan Athletic_2005
-2005,36,Fulham,0.0,0.0,Wigan Athletic,1.0,0.0,0,Rob Styles,0,0,0,0,5538,Fulham,Wigan Athletic,8a1d1d5d-b07e-5933-a6b2-c2b1b0fd98cd,a0e94df9-d3d1-5359-a6e1-594843b78512,Fulham,Wigan Athletic,Fulham_Wigan Athletic,Fulham_Wigan Athletic_2005
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,team,opponent,match_teams,season_match_teams
+2005,11,Wigan Athletic,0.0,0.0,Fulham,1.0,0.0,0,Barry Knight,0,0,0,0,5288,Wigan Athletic,Fulham,Wigan Athletic,Fulham,Fulham_Wigan_Athletic,Fulham_Wigan Athletic_2005
+2005,36,Fulham,0.0,0.0,Wigan Athletic,1.0,0.0,0,Rob Styles,0,0,0,0,5538,Fulham,Wigan Athletic,Fulham,Wigan Athletic,Fulham_Wigan_Athletic,Fulham_Wigan Athletic_2005

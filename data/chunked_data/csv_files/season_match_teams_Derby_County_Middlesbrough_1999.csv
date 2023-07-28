@@ -1,3 +1,3 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
-1999,3,Derby County,0.0,0.0,Middlesbrough,1.0,3.0,0,Stephen Bennett,0,0,0,0,2929,Middlesbrough,Derby County,45afeace-9fd8-5424-9197-74d89e6380bd,4e8024bb-368f-5807-9fb1-2763f830ac25,Derby County,Middlesbrough,Derby County_Middlesbrough,Derby County_Middlesbrough_1999
-1999,22,Middlesbrough,0.0,0.0,Derby County,1.0,4.0,0,Mark Halsey,0,0,0,0,3112,Derby County,Middlesbrough,451c5ae7-df20-55ae-bb17-6480d496f8cf,4e8024bb-368f-5807-9fb1-2763f830ac25,Middlesbrough,Derby County,Derby County_Middlesbrough,Derby County_Middlesbrough_1999
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,team,opponent,match_teams,season_match_teams
+1999,3,Derby County,0.0,0.0,Middlesbrough,1.0,3.0,0,Stephen Bennett,0,0,0,0,2929,Middlesbrough,Derby County,Derby County,Middlesbrough,Derby_County_Middlesbrough,Derby County_Middlesbrough_1999
+1999,22,Middlesbrough,0.0,0.0,Derby County,1.0,4.0,0,Mark Halsey,0,0,0,0,3112,Derby County,Middlesbrough,Middlesbrough,Derby County,Derby_County_Middlesbrough,Derby County_Middlesbrough_1999

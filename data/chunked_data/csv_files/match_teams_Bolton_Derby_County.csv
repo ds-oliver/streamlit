@@ -1,7 +1,7 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
-1997,18,Bolton,0.0,0.0,Derby County,3.0,3.0,0,Uriah Rennie,0,0,0,0,2322,draw,draw,11823385-106f-57ab-a8ba-1042b4a96288,dfd6d402-c25e-5ddb-85f4-7898d31b192a,Bolton,Derby County,Bolton_Derby County,Bolton_Derby County_1997
-1997,34,Derby County,0.0,0.0,Bolton,4.0,0.0,0,Dermot Gallagher,0,0,0,0,2475,Derby County,Bolton,1130cb87-77a1-5d22-bf4e-2cd25583099a,dfd6d402-c25e-5ddb-85f4-7898d31b192a,Derby County,Bolton,Bolton_Derby County,Bolton_Derby County_1997
-2001,16,Derby County,0.0,0.0,Bolton,1.0,0.0,0,Matt Messias,0,0,0,0,3813,Derby County,Bolton,5faab15c-92a9-5c10-ac7b-eb07a3353937,206961b0-8938-5698-b232-0eeb47e29163,Derby County,Bolton,Bolton_Derby County,Bolton_Derby County_2001
-2001,30,Bolton,0.0,0.0,Derby County,1.0,3.0,0,David Elleray,0,0,0,0,3958,Derby County,Bolton,98788fa5-55e6-5078-87f6-8d3302174653,206961b0-8938-5698-b232-0eeb47e29163,Bolton,Derby County,Bolton_Derby County,Bolton_Derby County_2001
-2007,8,Derby County,0.0,0.0,Bolton,1.0,1.0,0,Rob Styles,0,0,0,0,6015,draw,draw,5d207d4e-5046-58b9-9964-11fff8fdfc01,b014b627-6f01-5526-8732-c61b5138917f,Derby County,Bolton,Bolton_Derby County,Bolton_Derby County_2007
-2007,21,Bolton,0.0,0.0,Derby County,1.0,0.0,0,Howard Webb,0,0,0,0,6152,Bolton,Derby County,1f8db028-a67e-5482-be9e-76d54834fc91,b014b627-6f01-5526-8732-c61b5138917f,Bolton,Derby County,Bolton_Derby County,Bolton_Derby County_2007
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,team,opponent,match_teams,season_match_teams
+1997,18,Bolton,0.0,0.0,Derby County,3.0,3.0,0,Uriah Rennie,0,0,0,0,2322,draw,draw,Bolton,Derby County,Bolton_Derby_County,Bolton_Derby County_1997
+1997,34,Derby County,0.0,0.0,Bolton,4.0,0.0,0,Dermot Gallagher,0,0,0,0,2475,Derby County,Bolton,Derby County,Bolton,Bolton_Derby_County,Bolton_Derby County_1997
+2001,16,Derby County,0.0,0.0,Bolton,1.0,0.0,0,Matt Messias,0,0,0,0,3813,Derby County,Bolton,Derby County,Bolton,Bolton_Derby_County,Bolton_Derby County_2001
+2001,30,Bolton,0.0,0.0,Derby County,1.0,3.0,0,David Elleray,0,0,0,0,3958,Derby County,Bolton,Bolton,Derby County,Bolton_Derby_County,Bolton_Derby County_2001
+2007,8,Derby County,0.0,0.0,Bolton,1.0,1.0,0,Rob Styles,0,0,0,0,6015,draw,draw,Derby County,Bolton,Bolton_Derby_County,Bolton_Derby County_2007
+2007,21,Bolton,0.0,0.0,Derby County,1.0,0.0,0,Howard Webb,0,0,0,0,6152,Bolton,Derby County,Bolton,Derby County,Bolton_Derby_County,Bolton_Derby County_2007

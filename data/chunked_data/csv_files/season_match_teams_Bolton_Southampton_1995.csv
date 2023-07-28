@@ -1,3 +1,3 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
-1995,15,Southampton,0.0,0.0,Bolton,1.0,0.0,0,Peter Jones,0,0,0,0,1529,Southampton,Bolton,7b08dd63-8ccc-53b5-8bca-6491984e2898,68dcdf41-cbf3-5075-8fc3-7a95f1d105d0,Southampton,Bolton,Bolton_Southampton,Bolton_Southampton_1995
-1995,37,Bolton,0.0,0.0,Southampton,0.0,1.0,0,Gerald Ashby,0,0,0,0,1747,Southampton,Bolton,ec45cc37-16d4-5976-bc0b-273967ed69dc,68dcdf41-cbf3-5075-8fc3-7a95f1d105d0,Bolton,Southampton,Bolton_Southampton,Bolton_Southampton_1995
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,team,opponent,match_teams,season_match_teams
+1995,15,Southampton,0.0,0.0,Bolton,1.0,0.0,0,Peter Jones,0,0,0,0,1529,Southampton,Bolton,Southampton,Bolton,Bolton_Southampton,Bolton_Southampton_1995
+1995,37,Bolton,0.0,0.0,Southampton,0.0,1.0,0,Gerald Ashby,0,0,0,0,1747,Southampton,Bolton,Bolton,Southampton,Bolton_Southampton,Bolton_Southampton_1995

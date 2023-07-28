@@ -1,3 +1,3 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
-2005,8,Manchester City,0.0,0.0,Everton,2.0,0.0,0,Mark Halsey,0,0,0,0,5257,Manchester City,Everton,942696ef-c1ed-51d9-83e0-27287247d783,6bc82dc9-3834-5ff2-8d77-e6a14642261e,Manchester City,Everton,Everton_Manchester City,Everton_Manchester City_2005
-2005,25,Everton,0.0,0.0,Manchester City,1.0,0.0,0,Andre Marriner,0,0,0,0,5427,Everton,Manchester City,52bca3d6-86e6-5804-a705-7344144b4e4f,6bc82dc9-3834-5ff2-8d77-e6a14642261e,Everton,Manchester City,Everton_Manchester City,Everton_Manchester City_2005
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,team,opponent,match_teams,season_match_teams
+2005,8,Manchester City,0.0,0.0,Everton,2.0,0.0,0,Mark Halsey,0,0,0,0,5257,Manchester City,Everton,Manchester City,Everton,Everton_Manchester_City,Everton_Manchester City_2005
+2005,25,Everton,0.0,0.0,Manchester City,1.0,0.0,0,Andre Marriner,0,0,0,0,5427,Everton,Manchester City,Everton,Manchester City,Everton_Manchester_City,Everton_Manchester City_2005

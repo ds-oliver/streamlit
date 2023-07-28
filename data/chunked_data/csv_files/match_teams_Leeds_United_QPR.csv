@@ -1,9 +1,9 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
-1992,13,QPR,0.0,0.0,Leeds United,2.0,1.0,0,Howard King,0,0,0,0,139,QPR,Leeds United,00b2676f-2e14-5655-ba58-f5e894fcaf11,445830a7-b60d-552b-8ab0-4cbaab8487c2,QPR,Leeds United,Leeds United_QPR,Leeds United_QPR_1992
-1992,41,Leeds United,0.0,0.0,QPR,1.0,1.0,0,Vic Callow,0,0,0,0,437,draw,draw,aea2c5e7-68ca-5097-bdca-10509ad167fc,445830a7-b60d-552b-8ab0-4cbaab8487c2,Leeds United,QPR,Leeds United_QPR,Leeds United_QPR_1992
-1993,23,Leeds United,0.0,0.0,QPR,1.0,1.0,0,Mike Reed,0,0,0,0,707,draw,draw,85642ae5-76eb-59b4-b900-c671a4c338c6,59f073d7-eb9d-56ac-bebe-226ae601a8e3,Leeds United,QPR,Leeds United_QPR,Leeds United_QPR_1993
-1993,37,QPR,0.0,0.0,Leeds United,0.0,4.0,0,Joe Worrall,0,0,0,0,849,Leeds United,QPR,b9a21db8-0bcc-52bf-883a-09f5b53c27e1,59f073d7-eb9d-56ac-bebe-226ae601a8e3,QPR,Leeds United,Leeds United_QPR,Leeds United_QPR_1993
-1994,15,QPR,0.0,0.0,Leeds United,3.0,2.0,0,Martin Bodenham,0,0,0,0,1077,QPR,Leeds United,245fa107-4208-565b-8392-04f41d76c036,123731a4-7333-56bb-a099-adb066e2fea8,QPR,Leeds United,Leeds United_QPR,Leeds United_QPR_1994
-1994,26,Leeds United,0.0,0.0,QPR,4.0,0.0,0,Kelvin Morton,0,0,0,0,1193,Leeds United,QPR,1e052800-b1c4-5c03-986d-18c6192b01df,123731a4-7333-56bb-a099-adb066e2fea8,Leeds United,QPR,Leeds United_QPR,Leeds United_QPR_1994
-1995,6,Leeds United,0.0,0.0,QPR,1.0,3.0,0,Stephen Lodge,0,0,0,0,1439,QPR,Leeds United,0582c156-d2ef-55cd-aaaf-7156335a804d,7484dcc1-7cd0-5d5e-a35a-f8d02268ec6d,Leeds United,QPR,Leeds United_QPR,Leeds United_QPR_1995
-1995,28,QPR,0.0,0.0,Leeds United,1.0,2.0,0,Graham Poll,0,0,0,0,1670,Leeds United,QPR,66747285-f1b9-51bb-aefe-c27baabac55b,7484dcc1-7cd0-5d5e-a35a-f8d02268ec6d,QPR,Leeds United,Leeds United_QPR,Leeds United_QPR_1995
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,team,opponent,match_teams,season_match_teams
+1992,13,QPR,0.0,0.0,Leeds United,2.0,1.0,0,Howard King,0,0,0,0,139,QPR,Leeds United,QPR,Leeds United,Leeds_United_QPR,Leeds United_QPR_1992
+1992,41,Leeds United,0.0,0.0,QPR,1.0,1.0,0,Vic Callow,0,0,0,0,437,draw,draw,Leeds United,QPR,Leeds_United_QPR,Leeds United_QPR_1992
+1993,23,Leeds United,0.0,0.0,QPR,1.0,1.0,0,Mike Reed,0,0,0,0,707,draw,draw,Leeds United,QPR,Leeds_United_QPR,Leeds United_QPR_1993
+1993,37,QPR,0.0,0.0,Leeds United,0.0,4.0,0,Joe Worrall,0,0,0,0,849,Leeds United,QPR,QPR,Leeds United,Leeds_United_QPR,Leeds United_QPR_1993
+1994,15,QPR,0.0,0.0,Leeds United,3.0,2.0,0,Martin Bodenham,0,0,0,0,1077,QPR,Leeds United,QPR,Leeds United,Leeds_United_QPR,Leeds United_QPR_1994
+1994,26,Leeds United,0.0,0.0,QPR,4.0,0.0,0,Kelvin Morton,0,0,0,0,1193,Leeds United,QPR,Leeds United,QPR,Leeds_United_QPR,Leeds United_QPR_1994
+1995,6,Leeds United,0.0,0.0,QPR,1.0,3.0,0,Stephen Lodge,0,0,0,0,1439,QPR,Leeds United,Leeds United,QPR,Leeds_United_QPR,Leeds United_QPR_1995
+1995,28,QPR,0.0,0.0,Leeds United,1.0,2.0,0,Graham Poll,0,0,0,0,1670,Leeds United,QPR,QPR,Leeds United,Leeds_United_QPR,Leeds United_QPR_1995

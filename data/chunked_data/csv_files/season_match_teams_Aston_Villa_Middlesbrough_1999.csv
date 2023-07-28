@@ -1,3 +1,3 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
-1999,6,Aston Villa,0.0,0.0,Middlesbrough,1.0,0.0,0,Mark Halsey,0,0,0,0,2956,Aston Villa,Middlesbrough,540ec112-1ecb-5518-9a44-5d00491a49da,6d70eb88-826a-5022-bdb2-61ba94a3f07b,Aston Villa,Middlesbrough,Aston Villa_Middlesbrough,Aston Villa_Middlesbrough_1999
-1999,25,Middlesbrough,0.0,0.0,Aston Villa,0.0,4.0,0,Alan Wilkie,0,0,0,0,3152,Aston Villa,Middlesbrough,82608738-26d3-5e6b-af0c-771b92f29747,6d70eb88-826a-5022-bdb2-61ba94a3f07b,Middlesbrough,Aston Villa,Aston Villa_Middlesbrough,Aston Villa_Middlesbrough_1999
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,team,opponent,match_teams,season_match_teams
+1999,6,Aston Villa,0.0,0.0,Middlesbrough,1.0,0.0,0,Mark Halsey,0,0,0,0,2956,Aston Villa,Middlesbrough,Aston Villa,Middlesbrough,Aston_Villa_Middlesbrough,Aston Villa_Middlesbrough_1999
+1999,25,Middlesbrough,0.0,0.0,Aston Villa,0.0,4.0,0,Alan Wilkie,0,0,0,0,3152,Aston Villa,Middlesbrough,Middlesbrough,Aston Villa,Aston_Villa_Middlesbrough,Aston Villa_Middlesbrough_1999

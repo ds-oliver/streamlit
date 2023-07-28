@@ -1,21 +1,21 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
-1995,13,Bolton,0.0,0.0,West Ham,0.0,3.0,0,Paul Durkin,0,0,0,0,1510,West Ham,Bolton,62529f1f-c9fc-51ee-8879-7652c9de9ac4,348206b2-0248-5c1d-a747-6d6de8208892,Bolton,West Ham,Bolton_West Ham,Bolton_West Ham_1995
-1995,36,West Ham,0.0,0.0,Bolton,1.0,0.0,0,Alan Wilkie,0,0,0,0,1729,West Ham,Bolton,422321f3-2b5a-54ee-8e96-0673e949cbf4,348206b2-0248-5c1d-a747-6d6de8208892,West Ham,Bolton,Bolton_West Ham,Bolton_West Ham_1995
-1997,11,West Ham,0.0,0.0,Bolton,3.0,0.0,0,Gerald Ashby,0,0,0,0,2244,West Ham,Bolton,14e1a6cd-63ae-578a-ac40-583aed4f87e2,efdd3f19-6f29-597a-8adc-a835183b55df,West Ham,Bolton,Bolton_West Ham,Bolton_West Ham_1997
-1997,27,Bolton,0.0,0.0,West Ham,1.0,1.0,0,Paul Alcock,0,0,0,0,2406,draw,draw,a5172f2e-1dbb-53de-ada7-77f50d2d53df,efdd3f19-6f29-597a-8adc-a835183b55df,Bolton,West Ham,Bolton_West Ham,Bolton_West Ham_1997
-2001,26,Bolton,0.0,0.0,West Ham,1.0,0.0,0,David Pugh,0,0,0,0,3918,Bolton,West Ham,41a82daa-9346-5da4-8610-2df1b7cd8eb0,e6c9615f-ec55-59ed-8f4b-1922533bd348,Bolton,West Ham,Bolton_West Ham,Bolton_West Ham_2001
-2001,38,West Ham,0.0,0.0,Bolton,2.0,1.0,0,Mike Dean,0,0,0,0,4039,West Ham,Bolton,28783cba-3cbd-5f59-ab8b-799d27179e77,e6c9615f-ec55-59ed-8f4b-1922533bd348,West Ham,Bolton,Bolton_West Ham,Bolton_West Ham_2001
-2002,19,West Ham,0.0,0.0,Bolton,1.0,1.0,0,Stephen Bennett,0,0,0,0,4227,draw,draw,6e65974b-c288-5c53-8eb7-7ef661080955,5723d8d4-3621-555a-8217-721f7e82f73f,West Ham,Bolton,Bolton_West Ham,Bolton_West Ham_2002
-2002,34,Bolton,0.0,0.0,West Ham,1.0,0.0,0,Uriah Rennie,0,0,0,0,4377,Bolton,West Ham,79cc6318-cf76-5cdd-ad18-678f89d1c0ec,5723d8d4-3621-555a-8217-721f7e82f73f,Bolton,West Ham,Bolton_West Ham,Bolton_West Ham_2002
-2005,4,West Ham,0.0,0.0,Bolton,1.0,2.0,0,Phil Dowd,0,0,0,0,5215,Bolton,West Ham,36df0a66-565a-5eed-a2a4-6a3af512aff3,c7e381f4-28a1-50b8-ae11-375e15ef1bc1,West Ham,Bolton,Bolton_West Ham,Bolton_West Ham_2005
-2005,29,Bolton,0.0,0.0,West Ham,4.0,1.0,0,Mike Dean,0,0,0,0,5466,Bolton,West Ham,74477843-083c-5bf4-a650-a778d46af5ca,c7e381f4-28a1-50b8-ae11-375e15ef1bc1,Bolton,West Ham,Bolton_West Ham,Bolton_West Ham_2005
-2006,17,Bolton,0.0,0.0,West Ham,4.0,0.0,0,Howard Webb,0,0,0,0,5727,Bolton,West Ham,e09dbb03-d687-530b-b957-814343bde35f,1f132e61-6296-55ed-bc25-02b36a81419c,Bolton,West Ham,Bolton_West Ham,Bolton_West Ham_2006
-2006,37,West Ham,0.0,0.0,Bolton,3.0,1.0,0,Mike Riley,0,0,0,0,5927,West Ham,Bolton,aa93456d-04a9-5232-875b-39038e2c5708,1f132e61-6296-55ed-bc25-02b36a81419c,West Ham,Bolton,Bolton_West Ham,Bolton_West Ham_2006
-2007,12,West Ham,0.0,0.0,Bolton,1.0,1.0,0,Peter Walton,0,0,0,0,6061,draw,draw,1f7cc4d8-ee43-561b-9db8-4763aa28490a,cf807494-34c6-5255-92e5-95340aab8da7,West Ham,Bolton,Bolton_West Ham,Bolton_West Ham_2007
-2007,34,Bolton,0.0,0.0,West Ham,1.0,0.0,0,Peter Walton,0,0,0,0,6279,Bolton,West Ham,1a377048-408e-5abf-8760-65e5a8607f2d,cf807494-34c6-5255-92e5-95340aab8da7,Bolton,West Ham,Bolton_West Ham,Bolton_West Ham_2007
-2008,7,West Ham,0.0,0.0,Bolton,1.0,3.0,0,Mike Dean,0,0,0,0,6393,Bolton,West Ham,9cf03ade-c07d-5817-934d-e03433507f31,9ec5ad8b-4771-57a7-accd-f7a48585d6f6,West Ham,Bolton,Bolton_West Ham,Bolton_West Ham_2008
-2008,26,Bolton,0.0,0.0,West Ham,2.0,1.0,0,Steve Tanner,0,0,0,0,6577,Bolton,West Ham,4f630a5b-94cc-5461-b674-db4e5df66604,9ec5ad8b-4771-57a7-accd-f7a48585d6f6,Bolton,West Ham,Bolton_West Ham,Bolton_West Ham_2008
-2009,17,Bolton,0.0,0.0,West Ham,3.0,1.0,0,Andre Marriner,0,0,0,0,6868,Bolton,West Ham,d8504f16-4fdc-552e-b56b-d39b4c04cab7,77f0bac1-397e-5549-a211-f1fd7df12492,Bolton,West Ham,Bolton_West Ham,Bolton_West Ham_2009
-2009,29,West Ham,0.0,0.0,Bolton,1.0,2.0,0,Lee Probert,0,0,0,0,6979,Bolton,West Ham,c4d87ef9-2245-5f46-b862-ad929afc98cf,77f0bac1-397e-5549-a211-f1fd7df12492,West Ham,Bolton,Bolton_West Ham,Bolton_West Ham_2009
-2010,2,West Ham,0.0,0.0,Bolton,1.0,3.0,0,Andre Marriner,0,0,0,0,7097,Bolton,West Ham,312922a7-02ff-5d55-89c0-f8c1113cfa2a,b0c28406-0cb5-5c7b-8cb7-8f0ddfb2383a,West Ham,Bolton,Bolton_West Ham,Bolton_West Ham_2010
-2010,32,Bolton,0.0,0.0,West Ham,3.0,0.0,0,Lee Probert,0,0,0,0,7397,Bolton,West Ham,294e74a9-1bcb-5924-a456-b4cf3c8d4aa7,b0c28406-0cb5-5c7b-8cb7-8f0ddfb2383a,Bolton,West Ham,Bolton_West Ham,Bolton_West Ham_2010
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,team,opponent,match_teams,season_match_teams
+1995,13,Bolton,0.0,0.0,West Ham,0.0,3.0,0,Paul Durkin,0,0,0,0,1510,West Ham,Bolton,Bolton,West Ham,Bolton_West_Ham,Bolton_West Ham_1995
+1995,36,West Ham,0.0,0.0,Bolton,1.0,0.0,0,Alan Wilkie,0,0,0,0,1729,West Ham,Bolton,West Ham,Bolton,Bolton_West_Ham,Bolton_West Ham_1995
+1997,11,West Ham,0.0,0.0,Bolton,3.0,0.0,0,Gerald Ashby,0,0,0,0,2244,West Ham,Bolton,West Ham,Bolton,Bolton_West_Ham,Bolton_West Ham_1997
+1997,27,Bolton,0.0,0.0,West Ham,1.0,1.0,0,Paul Alcock,0,0,0,0,2406,draw,draw,Bolton,West Ham,Bolton_West_Ham,Bolton_West Ham_1997
+2001,26,Bolton,0.0,0.0,West Ham,1.0,0.0,0,David Pugh,0,0,0,0,3918,Bolton,West Ham,Bolton,West Ham,Bolton_West_Ham,Bolton_West Ham_2001
+2001,38,West Ham,0.0,0.0,Bolton,2.0,1.0,0,Mike Dean,0,0,0,0,4039,West Ham,Bolton,West Ham,Bolton,Bolton_West_Ham,Bolton_West Ham_2001
+2002,19,West Ham,0.0,0.0,Bolton,1.0,1.0,0,Stephen Bennett,0,0,0,0,4227,draw,draw,West Ham,Bolton,Bolton_West_Ham,Bolton_West Ham_2002
+2002,34,Bolton,0.0,0.0,West Ham,1.0,0.0,0,Uriah Rennie,0,0,0,0,4377,Bolton,West Ham,Bolton,West Ham,Bolton_West_Ham,Bolton_West Ham_2002
+2005,4,West Ham,0.0,0.0,Bolton,1.0,2.0,0,Phil Dowd,0,0,0,0,5215,Bolton,West Ham,West Ham,Bolton,Bolton_West_Ham,Bolton_West Ham_2005
+2005,29,Bolton,0.0,0.0,West Ham,4.0,1.0,0,Mike Dean,0,0,0,0,5466,Bolton,West Ham,Bolton,West Ham,Bolton_West_Ham,Bolton_West Ham_2005
+2006,17,Bolton,0.0,0.0,West Ham,4.0,0.0,0,Howard Webb,0,0,0,0,5727,Bolton,West Ham,Bolton,West Ham,Bolton_West_Ham,Bolton_West Ham_2006
+2006,37,West Ham,0.0,0.0,Bolton,3.0,1.0,0,Mike Riley,0,0,0,0,5927,West Ham,Bolton,West Ham,Bolton,Bolton_West_Ham,Bolton_West Ham_2006
+2007,12,West Ham,0.0,0.0,Bolton,1.0,1.0,0,Peter Walton,0,0,0,0,6061,draw,draw,West Ham,Bolton,Bolton_West_Ham,Bolton_West Ham_2007
+2007,34,Bolton,0.0,0.0,West Ham,1.0,0.0,0,Peter Walton,0,0,0,0,6279,Bolton,West Ham,Bolton,West Ham,Bolton_West_Ham,Bolton_West Ham_2007
+2008,7,West Ham,0.0,0.0,Bolton,1.0,3.0,0,Mike Dean,0,0,0,0,6393,Bolton,West Ham,West Ham,Bolton,Bolton_West_Ham,Bolton_West Ham_2008
+2008,26,Bolton,0.0,0.0,West Ham,2.0,1.0,0,Steve Tanner,0,0,0,0,6577,Bolton,West Ham,Bolton,West Ham,Bolton_West_Ham,Bolton_West Ham_2008
+2009,17,Bolton,0.0,0.0,West Ham,3.0,1.0,0,Andre Marriner,0,0,0,0,6868,Bolton,West Ham,Bolton,West Ham,Bolton_West_Ham,Bolton_West Ham_2009
+2009,29,West Ham,0.0,0.0,Bolton,1.0,2.0,0,Lee Probert,0,0,0,0,6979,Bolton,West Ham,West Ham,Bolton,Bolton_West_Ham,Bolton_West Ham_2009
+2010,2,West Ham,0.0,0.0,Bolton,1.0,3.0,0,Andre Marriner,0,0,0,0,7097,Bolton,West Ham,West Ham,Bolton,Bolton_West_Ham,Bolton_West Ham_2010
+2010,32,Bolton,0.0,0.0,West Ham,3.0,0.0,0,Lee Probert,0,0,0,0,7397,Bolton,West Ham,Bolton,West Ham,Bolton_West_Ham,Bolton_West Ham_2010

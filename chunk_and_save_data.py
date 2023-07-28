@@ -299,8 +299,8 @@ def save_as_dbs(players_dataframe, results_dataframe, db_path=DB_PATH):
     os.makedirs(db_path, exist_ok=True)
 
     # Save as a SQLite3 database
-    players_dataframe.to_sql('players', sqlite3.connect(os.path.join(db_path, 'players.db')), index=False)
-    results_dataframe.to_sql('results', sqlite3.connect(os.path.join(db_path, 'results.db')), index=False)
+    players_dataframe.to_sql('players', sqlite3.connect(os.path.join(db_path, 'players.db')), if_exists='replace', index=False)
+    results_dataframe.to_sql('results', sqlite3.connect(os.path.join(db_path, 'results.db')), if_exists='replace', index=False)
 
 def load_data_from_db(db_path=DB_PATH):
     # Load data from SQLite databases

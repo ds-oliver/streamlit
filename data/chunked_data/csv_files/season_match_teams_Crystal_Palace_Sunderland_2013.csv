@@ -1,3 +1,3 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
-2013,3,Crystal Palace,0.0,0.0,Sunderland,3.0,1.0,0,Lee Probert,0,0,0,0,8249,Crystal Palace,Sunderland,61f2034a-fbf6-5154-a1a6-7147e3278354,865776be-64e0-5e10-b170-6e184dba86dd,Crystal Palace,Sunderland,Crystal Palace_Sunderland,Crystal Palace_Sunderland_2013
-2013,30,Sunderland,0.0,0.0,Crystal Palace,0.0,0.0,0,Neil Swarbrick,0,0,0,0,8508,draw,draw,9ea72d8f-ef70-5d46-bf87-798e0c4dfb9a,865776be-64e0-5e10-b170-6e184dba86dd,Sunderland,Crystal Palace,Crystal Palace_Sunderland,Crystal Palace_Sunderland_2013
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,team,opponent,match_teams,season_match_teams
+2013,3,Crystal Palace,0.0,0.0,Sunderland,3.0,1.0,0,Lee Probert,0,0,0,0,8249,Crystal Palace,Sunderland,Crystal Palace,Sunderland,Crystal_Palace_Sunderland,Crystal Palace_Sunderland_2013
+2013,30,Sunderland,0.0,0.0,Crystal Palace,0.0,0.0,0,Neil Swarbrick,0,0,0,0,8508,draw,draw,Sunderland,Crystal Palace,Crystal_Palace_Sunderland,Crystal Palace_Sunderland_2013

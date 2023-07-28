@@ -1,3 +1,3 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
-2012,4,Reading,0.0,0.0,Tottenham,1.0,3.0,0,Howard Webb,0,0,0,0,7883,Tottenham,Reading,ff61343b-72f2-5b2a-8003-ff3785aa751a,b53e490d-a0a4-53eb-bd92-f49ef6060690,Reading,Tottenham,Reading_Tottenham,Reading_Tottenham_2012
-2012,21,Tottenham,0.0,0.0,Reading,3.0,1.0,0,Howard Webb,0,0,0,0,8045,Tottenham,Reading,e8fb97b1-57fc-5ba0-ade2-1cafb232d26c,b53e490d-a0a4-53eb-bd92-f49ef6060690,Tottenham,Reading,Reading_Tottenham,Reading_Tottenham_2012
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,team,opponent,match_teams,season_match_teams
+2012,4,Reading,0.0,0.0,Tottenham,1.0,3.0,0,Howard Webb,0,0,0,0,7883,Tottenham,Reading,Reading,Tottenham,Reading_Tottenham,Reading_Tottenham_2012
+2012,21,Tottenham,0.0,0.0,Reading,3.0,1.0,0,Howard Webb,0,0,0,0,8045,Tottenham,Reading,Tottenham,Reading,Reading_Tottenham,Reading_Tottenham_2012

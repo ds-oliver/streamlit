@@ -1,3 +1,3 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
-2014,10,Crystal Palace,0.0,0.0,Sunderland,1.0,3.0,0,Philip Dowd,0,0,0,0,8705,Sunderland,Crystal Palace,44b0c1c9-40bd-54f2-976d-1871fe026abd,08f6d71e-31ef-565c-8539-18d7bdb5f070,Crystal Palace,Sunderland,Crystal Palace_Sunderland,Crystal Palace_Sunderland_2014
-2014,32,Sunderland,0.0,0.0,Crystal Palace,1.0,4.0,0,Anthony Taylor,0,0,0,0,8921,Crystal Palace,Sunderland,4fdf1bf9-8a9d-5879-8d7c-48a59173d391,08f6d71e-31ef-565c-8539-18d7bdb5f070,Sunderland,Crystal Palace,Crystal Palace_Sunderland,Crystal Palace_Sunderland_2014
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,team,opponent,match_teams,season_match_teams
+2014,10,Crystal Palace,0.0,0.0,Sunderland,1.0,3.0,0,Philip Dowd,0,0,0,0,8705,Sunderland,Crystal Palace,Crystal Palace,Sunderland,Crystal_Palace_Sunderland,Crystal Palace_Sunderland_2014
+2014,32,Sunderland,0.0,0.0,Crystal Palace,1.0,4.0,0,Anthony Taylor,0,0,0,0,8921,Crystal Palace,Sunderland,Sunderland,Crystal Palace,Crystal_Palace_Sunderland,Crystal Palace_Sunderland_2014

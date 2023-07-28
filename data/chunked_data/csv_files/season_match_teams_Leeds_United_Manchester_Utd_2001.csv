@@ -1,3 +1,3 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
-2001,11,Manchester Utd,0.0,0.0,Leeds United,1.0,1.0,0,Dermot Gallagher,0,0,0,0,3759,draw,draw,8e379631-aee4-55a2-8d2c-015ae1740ba8,874a4876-902c-527d-86ba-196594798582,Manchester Utd,Leeds United,Leeds United_Manchester Utd,Leeds United_Manchester Utd_2001
-2001,32,Leeds United,0.0,0.0,Manchester Utd,3.0,4.0,0,David Elleray,0,0,0,0,3977,Manchester Utd,Leeds United,ea9f6112-9bcd-50ee-8a18-a734a8803520,874a4876-902c-527d-86ba-196594798582,Leeds United,Manchester Utd,Leeds United_Manchester Utd,Leeds United_Manchester Utd_2001
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,team,opponent,match_teams,season_match_teams
+2001,11,Manchester Utd,0.0,0.0,Leeds United,1.0,1.0,0,Dermot Gallagher,0,0,0,0,3759,draw,draw,Manchester Utd,Leeds United,Leeds_United_Manchester_Utd,Leeds United_Manchester Utd_2001
+2001,32,Leeds United,0.0,0.0,Manchester Utd,3.0,4.0,0,David Elleray,0,0,0,0,3977,Manchester Utd,Leeds United,Leeds United,Manchester Utd,Leeds_United_Manchester_Utd,Leeds United_Manchester Utd_2001

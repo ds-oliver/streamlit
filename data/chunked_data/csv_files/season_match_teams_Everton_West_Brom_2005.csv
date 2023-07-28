@@ -1,3 +1,3 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
-2005,13,West Brom,0.0,0.0,Everton,4.0,0.0,0,Stephen Bennett,0,0,0,0,5306,West Brom,Everton,58cd2a12-23d6-5c4e-8afc-275a57c3aee7,5552c562-afe9-5101-8d0f-a0cbb67cd34a,West Brom,Everton,Everton_West Brom,Everton_West Brom_2005
-2005,38,Everton,0.0,0.0,West Brom,2.0,2.0,0,Alan Wiley,0,0,0,0,5558,draw,draw,b6ed8882-16c0-53fd-844e-d0b2c3d0d5ac,5552c562-afe9-5101-8d0f-a0cbb67cd34a,Everton,West Brom,Everton_West Brom,Everton_West Brom_2005
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,team,opponent,match_teams,season_match_teams
+2005,13,West Brom,0.0,0.0,Everton,4.0,0.0,0,Stephen Bennett,0,0,0,0,5306,West Brom,Everton,West Brom,Everton,Everton_West_Brom,Everton_West Brom_2005
+2005,38,Everton,0.0,0.0,West Brom,2.0,2.0,0,Alan Wiley,0,0,0,0,5558,draw,draw,Everton,West Brom,Everton_West_Brom,Everton_West Brom_2005

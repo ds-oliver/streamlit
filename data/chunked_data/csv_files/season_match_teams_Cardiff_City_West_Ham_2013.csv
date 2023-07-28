@@ -1,3 +1,3 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
-2013,1,West Ham,0.0,0.0,Cardiff City,2.0,0.0,0,Howard Webb,0,0,0,0,8229,West Ham,Cardiff City,25aa39fe-14df-53a4-941a-4832e5101abf,4f87dc95-a06d-5e5b-8812-73eec565d325,West Ham,Cardiff City,Cardiff City_West Ham,Cardiff City_West Ham_2013
-2013,21,Cardiff City,0.0,0.0,West Ham,0.0,2.0,0,Lee Mason,0,0,0,0,8430,West Ham,Cardiff City,2b3b8be9-92a8-5910-9c2c-432276c94124,4f87dc95-a06d-5e5b-8812-73eec565d325,Cardiff City,West Ham,Cardiff City_West Ham,Cardiff City_West Ham_2013
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,team,opponent,match_teams,season_match_teams
+2013,1,West Ham,0.0,0.0,Cardiff City,2.0,0.0,0,Howard Webb,0,0,0,0,8229,West Ham,Cardiff City,West Ham,Cardiff City,Cardiff_City_West_Ham,Cardiff City_West Ham_2013
+2013,21,Cardiff City,0.0,0.0,West Ham,0.0,2.0,0,Lee Mason,0,0,0,0,8430,West Ham,Cardiff City,Cardiff City,West Ham,Cardiff_City_West_Ham,Cardiff City_West Ham_2013

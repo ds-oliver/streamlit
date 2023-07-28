@@ -1,3 +1,3 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
-2002,7,Manchester Utd,0.0,0.0,Tottenham,1.0,0.0,0,Rob Styles,0,0,0,0,4106,Manchester Utd,Tottenham,f3851094-febf-58fd-862e-9330977798bd,760b8030-2357-5a1f-bfc1-a1ce9a3e8987,Manchester Utd,Tottenham,Manchester Utd_Tottenham,Manchester Utd_Tottenham_2002
-2002,36,Tottenham,0.0,0.0,Manchester Utd,0.0,2.0,0,Jeff Winter,0,0,0,0,4403,Manchester Utd,Tottenham,03fbc8f7-ecce-55a8-b0f8-aca6486ec0bf,760b8030-2357-5a1f-bfc1-a1ce9a3e8987,Tottenham,Manchester Utd,Manchester Utd_Tottenham,Manchester Utd_Tottenham_2002
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,team,opponent,match_teams,season_match_teams
+2002,7,Manchester Utd,0.0,0.0,Tottenham,1.0,0.0,0,Rob Styles,0,0,0,0,4106,Manchester Utd,Tottenham,Manchester Utd,Tottenham,Manchester_Utd_Tottenham,Manchester Utd_Tottenham_2002
+2002,36,Tottenham,0.0,0.0,Manchester Utd,0.0,2.0,0,Jeff Winter,0,0,0,0,4403,Manchester Utd,Tottenham,Tottenham,Manchester Utd,Manchester_Utd_Tottenham,Manchester Utd_Tottenham_2002

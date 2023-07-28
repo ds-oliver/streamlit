@@ -1,25 +1,25 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
-1995,2,Bolton,0.0,0.0,Newcastle Utd,1.0,3.0,0,Keith Burge,0,0,0,0,1397,Newcastle Utd,Bolton,0d5877bd-7b77-5e24-b103-f402df71a475,395078cf-62fc-5e9e-b082-01775658a549,Bolton,Newcastle Utd,Bolton_Newcastle Utd,Bolton_Newcastle Utd_1995
-1995,24,Newcastle Utd,0.0,0.0,Bolton,2.0,1.0,0,Keith Cooper,0,0,0,0,1616,Newcastle Utd,Bolton,bb170d71-f73d-5315-845e-cf3bd26f588e,395078cf-62fc-5e9e-b082-01775658a549,Newcastle Utd,Bolton,Bolton_Newcastle Utd,Bolton_Newcastle Utd_1995
-1997,2,Bolton,0.0,0.0,Newcastle Utd,1.0,0.0,0,Neale Barry,0,0,0,0,2302,Bolton,Newcastle Utd,e82ce49a-297d-5a4f-8370-4ea159220635,babd4f97-1f32-5907-89d8-27874ad2e36a,Bolton,Newcastle Utd,Bolton_Newcastle Utd,Bolton_Newcastle Utd_1997
-1997,23,Newcastle Utd,0.0,0.0,Bolton,2.0,1.0,0,Graham Poll,0,0,0,0,2371,Newcastle Utd,Bolton,7e1bfc2f-207f-59f5-b5a5-c5a0c2f2597f,babd4f97-1f32-5907-89d8-27874ad2e36a,Newcastle Utd,Bolton,Bolton_Newcastle Utd,Bolton_Newcastle Utd_1997
-2001,9,Bolton,0.0,0.0,Newcastle Utd,0.0,4.0,0,Mike Riley,0,0,0,0,3737,Newcastle Utd,Bolton,b673ac2b-c51f-5c5a-985e-ab07f0b7e108,307a2375-aa53-505b-a296-41529a45564d,Bolton,Newcastle Utd,Bolton_Newcastle Utd,Bolton_Newcastle Utd_2001
-2001,25,Newcastle Utd,0.0,0.0,Bolton,3.0,2.0,0,David Elleray,0,0,0,0,3906,Newcastle Utd,Bolton,574a1c1b-f76a-5b31-9e0a-de6b1c77e307,307a2375-aa53-505b-a296-41529a45564d,Newcastle Utd,Bolton,Bolton_Newcastle Utd,Bolton_Newcastle Utd_2001
-2002,20,Bolton,0.0,0.0,Newcastle Utd,4.0,3.0,0,Uriah Rennie,0,0,0,0,4242,Bolton,Newcastle Utd,856dd94a-1908-5269-8123-704715b99ec4,48fcd61b-3d5d-5814-aed7-61d9f04e84c8,Bolton,Newcastle Utd,Bolton_Newcastle Utd,Bolton_Newcastle Utd_2002
-2002,3,Newcastle Utd,0.0,0.0,Bolton,1.0,0.0,0,Phil Dowd,0,0,0,0,4283,Newcastle Utd,Bolton,6894ffc4-3513-5554-a064-76f0fc047206,48fcd61b-3d5d-5814-aed7-61d9f04e84c8,Newcastle Utd,Bolton,Bolton_Newcastle Utd,Bolton_Newcastle Utd_2002
-2003,6,Newcastle Utd,0.0,0.0,Bolton,0.0,0.0,0,Graham Barber,0,0,0,0,4475,draw,draw,da9a7e2e-7f75-5480-b3ab-058bee39bff7,32affb61-63bb-5801-bbf2-bb8e68f03343,Newcastle Utd,Bolton,Bolton_Newcastle Utd,Bolton_Newcastle Utd_2003
-2003,30,Bolton,0.0,0.0,Newcastle Utd,1.0,0.0,0,Mike Dean,0,0,0,0,4723,Bolton,Newcastle Utd,5ba4a8c5-0c2e-5dc4-89be-02f83652719e,32affb61-63bb-5801-bbf2-bb8e68f03343,Bolton,Newcastle Utd,Bolton_Newcastle Utd,Bolton_Newcastle Utd_2003
-2004,11,Bolton,0.0,0.0,Newcastle Utd,2.0,1.0,0,Graham Poll,0,0,0,0,4913,Bolton,Newcastle Utd,5aa51348-938b-5a60-a22f-c767eb26afe1,9493ac18-53ea-5dab-bb07-6dea6390a27b,Bolton,Newcastle Utd,Bolton_Newcastle Utd,Bolton_Newcastle Utd_2004
-2004,28,Newcastle Utd,0.0,0.0,Bolton,2.0,1.0,0,Mike Riley,0,0,0,0,5080,Newcastle Utd,Bolton,5f121df9-d0cb-5b84-b69e-e47a253c3d5b,9493ac18-53ea-5dab-bb07-6dea6390a27b,Newcastle Utd,Bolton,Bolton_Newcastle Utd,Bolton_Newcastle Utd_2004
-2005,3,Bolton,0.0,0.0,Newcastle Utd,2.0,0.0,0,Rob Styles,0,0,0,0,5209,Bolton,Newcastle Utd,8a8c5c7d-eda5-5f0f-8d9d-30e0b294e6fb,e8f4232f-691e-5a63-bb3b-598ac6126440,Bolton,Newcastle Utd,Bolton_Newcastle Utd,Bolton_Newcastle Utd_2005
-2005,28,Newcastle Utd,0.0,0.0,Bolton,3.0,1.0,0,Alan Wiley,0,0,0,0,5455,Newcastle Utd,Bolton,dffcb425-2d58-5a4a-b544-32fc8f3678f1,e8f4232f-691e-5a63-bb3b-598ac6126440,Newcastle Utd,Bolton,Bolton_Newcastle Utd,Bolton_Newcastle Utd_2005
-2006,8,Newcastle Utd,0.0,0.0,Bolton,1.0,2.0,0,Alan Wiley,0,0,0,0,5643,Bolton,Newcastle Utd,a4c41474-be74-50fe-ba61-059a06054a35,65fd09b2-06c3-543d-9630-9c8c5006ab39,Newcastle Utd,Bolton,Bolton_Newcastle Utd,Bolton_Newcastle Utd_2006
-2006,20,Bolton,0.0,0.0,Newcastle Utd,2.0,1.0,0,Howard Webb,0,0,0,0,5755,Bolton,Newcastle Utd,d5e75c9c-d846-50df-88f0-07c16599d973,65fd09b2-06c3-543d-9630-9c8c5006ab39,Bolton,Newcastle Utd,Bolton_Newcastle Utd,Bolton_Newcastle Utd_2006
-2007,1,Bolton,0.0,0.0,Newcastle Utd,1.0,3.0,0,Chris Foy,0,0,0,0,5949,Newcastle Utd,Bolton,2eb9ca0b-09b9-52ab-be84-88bba0a647ed,d68285ba-7bac-5d5e-86a3-90f3d1e056d0,Bolton,Newcastle Utd,Bolton_Newcastle Utd,Bolton_Newcastle Utd_2007
-2007,23,Newcastle Utd,0.0,0.0,Bolton,0.0,0.0,0,Alan Wiley,0,0,0,0,6166,draw,draw,0f9d3af6-7420-595e-bb54-ceb2d143216c,d68285ba-7bac-5d5e-86a3-90f3d1e056d0,Newcastle Utd,Bolton,Bolton_Newcastle Utd,Bolton_Newcastle Utd_2007
-2008,2,Newcastle Utd,0.0,0.0,Bolton,1.0,0.0,0,Stephen Bennett,0,0,0,0,6342,Newcastle Utd,Bolton,180f5fab-6a5a-5fd5-934f-ef79d1c5abdf,512078ae-f929-5af2-9b97-5a97b10f20a2,Newcastle Utd,Bolton,Bolton_Newcastle Utd,Bolton_Newcastle Utd_2008
-2008,27,Bolton,0.0,0.0,Newcastle Utd,1.0,0.0,0,Alan Wiley,0,0,0,0,6591,Bolton,Newcastle Utd,78b4dbc9-334b-5c0b-895e-d8c53fd26e9f,512078ae-f929-5af2-9b97-5a97b10f20a2,Bolton,Newcastle Utd,Bolton_Newcastle Utd,Bolton_Newcastle Utd_2008
-2010,14,Bolton,0.0,0.0,Newcastle Utd,5.0,1.0,0,Howard Webb,0,0,0,0,7220,Bolton,Newcastle Utd,2022d9ea-d665-5f80-8e54-67f480bd74d3,b112bb00-9de8-5b3e-a09d-329da6affaff,Bolton,Newcastle Utd,Bolton_Newcastle Utd,Bolton_Newcastle Utd_2010
-2010,28,Newcastle Utd,0.0,0.0,Bolton,1.0,1.0,0,Chris Foy,0,0,0,0,7357,draw,draw,bb9693f0-8d3c-50a0-9cdc-0a73abf7eaa3,b112bb00-9de8-5b3e-a09d-329da6affaff,Newcastle Utd,Bolton,Bolton_Newcastle Utd,Bolton_Newcastle Utd_2010
-2011,18,Bolton,0.0,0.0,Newcastle Utd,0.0,2.0,0,Peter Walton,0,0,0,0,7639,Newcastle Utd,Bolton,f941327c-f76f-5e91-a5da-8ae89462345d,a7f84a77-ef59-562b-be31-ab9d9fe05e8b,Bolton,Newcastle Utd,Bolton_Newcastle Utd,Bolton_Newcastle Utd_2011
-2011,33,Newcastle Utd,0.0,0.0,Bolton,2.0,0.0,0,Mike Jones,0,0,0,0,7789,Newcastle Utd,Bolton,7a128023-8001-5e77-934b-db4e927c68e1,a7f84a77-ef59-562b-be31-ab9d9fe05e8b,Newcastle Utd,Bolton,Bolton_Newcastle Utd,Bolton_Newcastle Utd_2011
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,team,opponent,match_teams,season_match_teams
+1995,2,Bolton,0.0,0.0,Newcastle Utd,1.0,3.0,0,Keith Burge,0,0,0,0,1397,Newcastle Utd,Bolton,Bolton,Newcastle Utd,Bolton_Newcastle_Utd,Bolton_Newcastle Utd_1995
+1995,24,Newcastle Utd,0.0,0.0,Bolton,2.0,1.0,0,Keith Cooper,0,0,0,0,1616,Newcastle Utd,Bolton,Newcastle Utd,Bolton,Bolton_Newcastle_Utd,Bolton_Newcastle Utd_1995
+1997,2,Bolton,0.0,0.0,Newcastle Utd,1.0,0.0,0,Neale Barry,0,0,0,0,2302,Bolton,Newcastle Utd,Bolton,Newcastle Utd,Bolton_Newcastle_Utd,Bolton_Newcastle Utd_1997
+1997,23,Newcastle Utd,0.0,0.0,Bolton,2.0,1.0,0,Graham Poll,0,0,0,0,2371,Newcastle Utd,Bolton,Newcastle Utd,Bolton,Bolton_Newcastle_Utd,Bolton_Newcastle Utd_1997
+2001,9,Bolton,0.0,0.0,Newcastle Utd,0.0,4.0,0,Mike Riley,0,0,0,0,3737,Newcastle Utd,Bolton,Bolton,Newcastle Utd,Bolton_Newcastle_Utd,Bolton_Newcastle Utd_2001
+2001,25,Newcastle Utd,0.0,0.0,Bolton,3.0,2.0,0,David Elleray,0,0,0,0,3906,Newcastle Utd,Bolton,Newcastle Utd,Bolton,Bolton_Newcastle_Utd,Bolton_Newcastle Utd_2001
+2002,20,Bolton,0.0,0.0,Newcastle Utd,4.0,3.0,0,Uriah Rennie,0,0,0,0,4242,Bolton,Newcastle Utd,Bolton,Newcastle Utd,Bolton_Newcastle_Utd,Bolton_Newcastle Utd_2002
+2002,3,Newcastle Utd,0.0,0.0,Bolton,1.0,0.0,0,Phil Dowd,0,0,0,0,4283,Newcastle Utd,Bolton,Newcastle Utd,Bolton,Bolton_Newcastle_Utd,Bolton_Newcastle Utd_2002
+2003,6,Newcastle Utd,0.0,0.0,Bolton,0.0,0.0,0,Graham Barber,0,0,0,0,4475,draw,draw,Newcastle Utd,Bolton,Bolton_Newcastle_Utd,Bolton_Newcastle Utd_2003
+2003,30,Bolton,0.0,0.0,Newcastle Utd,1.0,0.0,0,Mike Dean,0,0,0,0,4723,Bolton,Newcastle Utd,Bolton,Newcastle Utd,Bolton_Newcastle_Utd,Bolton_Newcastle Utd_2003
+2004,11,Bolton,0.0,0.0,Newcastle Utd,2.0,1.0,0,Graham Poll,0,0,0,0,4913,Bolton,Newcastle Utd,Bolton,Newcastle Utd,Bolton_Newcastle_Utd,Bolton_Newcastle Utd_2004
+2004,28,Newcastle Utd,0.0,0.0,Bolton,2.0,1.0,0,Mike Riley,0,0,0,0,5080,Newcastle Utd,Bolton,Newcastle Utd,Bolton,Bolton_Newcastle_Utd,Bolton_Newcastle Utd_2004
+2005,3,Bolton,0.0,0.0,Newcastle Utd,2.0,0.0,0,Rob Styles,0,0,0,0,5209,Bolton,Newcastle Utd,Bolton,Newcastle Utd,Bolton_Newcastle_Utd,Bolton_Newcastle Utd_2005
+2005,28,Newcastle Utd,0.0,0.0,Bolton,3.0,1.0,0,Alan Wiley,0,0,0,0,5455,Newcastle Utd,Bolton,Newcastle Utd,Bolton,Bolton_Newcastle_Utd,Bolton_Newcastle Utd_2005
+2006,8,Newcastle Utd,0.0,0.0,Bolton,1.0,2.0,0,Alan Wiley,0,0,0,0,5643,Bolton,Newcastle Utd,Newcastle Utd,Bolton,Bolton_Newcastle_Utd,Bolton_Newcastle Utd_2006
+2006,20,Bolton,0.0,0.0,Newcastle Utd,2.0,1.0,0,Howard Webb,0,0,0,0,5755,Bolton,Newcastle Utd,Bolton,Newcastle Utd,Bolton_Newcastle_Utd,Bolton_Newcastle Utd_2006
+2007,1,Bolton,0.0,0.0,Newcastle Utd,1.0,3.0,0,Chris Foy,0,0,0,0,5949,Newcastle Utd,Bolton,Bolton,Newcastle Utd,Bolton_Newcastle_Utd,Bolton_Newcastle Utd_2007
+2007,23,Newcastle Utd,0.0,0.0,Bolton,0.0,0.0,0,Alan Wiley,0,0,0,0,6166,draw,draw,Newcastle Utd,Bolton,Bolton_Newcastle_Utd,Bolton_Newcastle Utd_2007
+2008,2,Newcastle Utd,0.0,0.0,Bolton,1.0,0.0,0,Stephen Bennett,0,0,0,0,6342,Newcastle Utd,Bolton,Newcastle Utd,Bolton,Bolton_Newcastle_Utd,Bolton_Newcastle Utd_2008
+2008,27,Bolton,0.0,0.0,Newcastle Utd,1.0,0.0,0,Alan Wiley,0,0,0,0,6591,Bolton,Newcastle Utd,Bolton,Newcastle Utd,Bolton_Newcastle_Utd,Bolton_Newcastle Utd_2008
+2010,14,Bolton,0.0,0.0,Newcastle Utd,5.0,1.0,0,Howard Webb,0,0,0,0,7220,Bolton,Newcastle Utd,Bolton,Newcastle Utd,Bolton_Newcastle_Utd,Bolton_Newcastle Utd_2010
+2010,28,Newcastle Utd,0.0,0.0,Bolton,1.0,1.0,0,Chris Foy,0,0,0,0,7357,draw,draw,Newcastle Utd,Bolton,Bolton_Newcastle_Utd,Bolton_Newcastle Utd_2010
+2011,18,Bolton,0.0,0.0,Newcastle Utd,0.0,2.0,0,Peter Walton,0,0,0,0,7639,Newcastle Utd,Bolton,Bolton,Newcastle Utd,Bolton_Newcastle_Utd,Bolton_Newcastle Utd_2011
+2011,33,Newcastle Utd,0.0,0.0,Bolton,2.0,0.0,0,Mike Jones,0,0,0,0,7789,Newcastle Utd,Bolton,Newcastle Utd,Bolton,Bolton_Newcastle_Utd,Bolton_Newcastle Utd_2011

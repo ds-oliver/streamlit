@@ -1,3 +1,3 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
-2005,14,Arsenal,0.0,0.0,Blackburn,3.0,0.0,0,Chris Foy,0,0,0,0,5313,Arsenal,Blackburn,0d0faa25-63ad-58cd-8c78-0665b0bf0dde,bf6e21eb-4610-51c2-84d7-5354039f2e92,Arsenal,Blackburn,Arsenal_Blackburn,Arsenal_Blackburn_2005
-2005,27,Blackburn,0.0,0.0,Arsenal,1.0,0.0,0,Uriah Rennie,0,0,0,0,5446,Blackburn,Arsenal,540e33ba-98b8-5e1a-9729-811e513fca11,bf6e21eb-4610-51c2-84d7-5354039f2e92,Blackburn,Arsenal,Arsenal_Blackburn,Arsenal_Blackburn_2005
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,team,opponent,match_teams,season_match_teams
+2005,14,Arsenal,0.0,0.0,Blackburn,3.0,0.0,0,Chris Foy,0,0,0,0,5313,Arsenal,Blackburn,Arsenal,Blackburn,Arsenal_Blackburn,Arsenal_Blackburn_2005
+2005,27,Blackburn,0.0,0.0,Arsenal,1.0,0.0,0,Uriah Rennie,0,0,0,0,5446,Blackburn,Arsenal,Blackburn,Arsenal,Arsenal_Blackburn,Arsenal_Blackburn_2005

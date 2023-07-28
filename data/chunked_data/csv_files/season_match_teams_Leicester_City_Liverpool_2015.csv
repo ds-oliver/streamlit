@@ -1,3 +1,3 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
-2015,18,Liverpool,0.0,0.0,Leicester City,1.0,0.0,0,Martin Atkinson,0,0,0,0,9161,Liverpool,Leicester City,94f1124d-6f19-56fe-8aa1-c200cf0159c2,fa0aba9c-b3cd-50b4-b3d6-93314e7c693c,Liverpool,Leicester City,Leicester City_Liverpool,Leicester City_Liverpool_2015
-2015,24,Leicester City,0.0,0.0,Liverpool,2.0,0.0,0,Andre Marriner,0,0,0,0,9218,Leicester City,Liverpool,5aac81f3-d1dd-5ee0-b044-d23737bd999b,fa0aba9c-b3cd-50b4-b3d6-93314e7c693c,Leicester City,Liverpool,Leicester City_Liverpool,Leicester City_Liverpool_2015
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,team,opponent,match_teams,season_match_teams
+2015,18,Liverpool,0.0,0.0,Leicester City,1.0,0.0,0,Martin Atkinson,0,0,0,0,9161,Liverpool,Leicester City,Liverpool,Leicester City,Leicester_City_Liverpool,Leicester City_Liverpool_2015
+2015,24,Leicester City,0.0,0.0,Liverpool,2.0,0.0,0,Andre Marriner,0,0,0,0,9218,Leicester City,Liverpool,Leicester City,Liverpool,Leicester_City_Liverpool,Leicester City_Liverpool_2015

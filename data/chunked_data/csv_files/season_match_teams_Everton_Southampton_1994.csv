@@ -1,3 +1,3 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
-1994,9,Southampton,0.0,0.0,Everton,2.0,0.0,0,Brian Hill,0,0,0,0,1015,Southampton,Everton,64895419-7334-5245-bf96-4cab97d2ff97,f40a5e71-2daf-513b-ab95-4d02e6eb8fae,Southampton,Everton,Everton_Southampton,Everton_Southampton_1994
-1994,41,Everton,0.0,0.0,Southampton,0.0,0.0,0,Terence Holbrook,0,0,0,0,1362,draw,draw,63e0c2ab-ef28-5354-9b17-4485831571f0,f40a5e71-2daf-513b-ab95-4d02e6eb8fae,Everton,Southampton,Everton_Southampton,Everton_Southampton_1994
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,team,opponent,match_teams,season_match_teams
+1994,9,Southampton,0.0,0.0,Everton,2.0,0.0,0,Brian Hill,0,0,0,0,1015,Southampton,Everton,Southampton,Everton,Everton_Southampton,Everton_Southampton_1994
+1994,41,Everton,0.0,0.0,Southampton,0.0,0.0,0,Terence Holbrook,0,0,0,0,1362,draw,draw,Everton,Southampton,Everton_Southampton,Everton_Southampton_1994

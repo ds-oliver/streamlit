@@ -1,3 +1,3 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
-2006,8,Portsmouth,0.0,0.0,West Ham,2.0,0.0,0,Graham Poll,0,0,0,0,5637,Portsmouth,West Ham,d29e9183-2f78-50e9-b410-909a3a628d63,41b68157-3924-56ee-a865-8e7ff96d526e,Portsmouth,West Ham,Portsmouth_West Ham,Portsmouth_West Ham_2006
-2006,20,West Ham,0.0,0.0,Portsmouth,1.0,2.0,0,Martin Atkinson,0,0,0,0,5758,Portsmouth,West Ham,8ab1cf46-8720-50a7-9130-1a663215af39,41b68157-3924-56ee-a865-8e7ff96d526e,West Ham,Portsmouth,Portsmouth_West Ham,Portsmouth_West Ham_2006
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,team,opponent,match_teams,season_match_teams
+2006,8,Portsmouth,0.0,0.0,West Ham,2.0,0.0,0,Graham Poll,0,0,0,0,5637,Portsmouth,West Ham,Portsmouth,West Ham,Portsmouth_West_Ham,Portsmouth_West Ham_2006
+2006,20,West Ham,0.0,0.0,Portsmouth,1.0,2.0,0,Martin Atkinson,0,0,0,0,5758,Portsmouth,West Ham,West Ham,Portsmouth,Portsmouth_West_Ham,Portsmouth_West Ham_2006

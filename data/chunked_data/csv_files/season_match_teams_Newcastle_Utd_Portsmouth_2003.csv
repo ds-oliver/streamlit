@@ -1,3 +1,3 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
-2003,10,Newcastle Utd,0.0,0.0,Portsmouth,3.0,0.0,0,Paul Durkin,0,0,0,0,4518,Newcastle Utd,Portsmouth,02ac5b90-aa31-5876-9299-ca9652f6695b,eb3b529f-13a7-5c2c-93c6-eaedeabb9b3b,Newcastle Utd,Portsmouth,Newcastle Utd_Portsmouth,Newcastle Utd_Portsmouth_2003
-2003,27,Portsmouth,0.0,0.0,Newcastle Utd,1.0,1.0,0,Andy D'Urso,0,0,0,0,4691,draw,draw,9b062c40-f5c5-5f3e-9abf-485bd1cdea66,eb3b529f-13a7-5c2c-93c6-eaedeabb9b3b,Portsmouth,Newcastle Utd,Newcastle Utd_Portsmouth,Newcastle Utd_Portsmouth_2003
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,team,opponent,match_teams,season_match_teams
+2003,10,Newcastle Utd,0.0,0.0,Portsmouth,3.0,0.0,0,Paul Durkin,0,0,0,0,4518,Newcastle Utd,Portsmouth,Newcastle Utd,Portsmouth,Newcastle_Utd_Portsmouth,Newcastle Utd_Portsmouth_2003
+2003,27,Portsmouth,0.0,0.0,Newcastle Utd,1.0,1.0,0,Andy D'Urso,0,0,0,0,4691,draw,draw,Portsmouth,Newcastle Utd,Newcastle_Utd_Portsmouth,Newcastle Utd_Portsmouth_2003

@@ -1,11 +1,11 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
-1992,21,Arsenal,0.0,0.0,Ipswich Town,0.0,0.0,0,Roger Milford,0,0,0,0,225,draw,draw,edd33a70-ea9a-58e0-886f-bc7e2df386e9,ba9daaad-363b-5222-8049-758821b71665,Arsenal,Ipswich Town,Arsenal_Ipswich Town,Arsenal_Ipswich Town_1992
-1992,38,Ipswich Town,0.0,0.0,Arsenal,1.0,2.0,0,Raymond Lewis,0,0,0,0,399,Arsenal,Ipswich Town,5b4aee1e-4387-5fd7-b67b-3f51e7d7b8f8,ba9daaad-363b-5222-8049-758821b71665,Ipswich Town,Arsenal,Arsenal_Ipswich Town,Arsenal_Ipswich Town_1992
-1993,7,Arsenal,0.0,0.0,Ipswich Town,4.0,0.0,0,Joe Worrall,0,0,0,0,528,Arsenal,Ipswich Town,fdb7a503-e6b4-5f00-9fb4-b007270aef84,f4d7f0ab-ec52-5125-91eb-81d8c2431054,Arsenal,Ipswich Town,Arsenal_Ipswich Town,Arsenal_Ipswich Town_1993
-1993,32,Ipswich Town,0.0,0.0,Arsenal,1.0,5.0,0,Keren Barratt,0,0,0,0,787,Arsenal,Ipswich Town,ce61d2fc-ebd9-593d-804e-02db1ce3a769,f4d7f0ab-ec52-5125-91eb-81d8c2431054,Ipswich Town,Arsenal,Arsenal_Ipswich Town,Arsenal_Ipswich Town_1993
-1994,21,Ipswich Town,0.0,0.0,Arsenal,0.0,2.0,0,Paul Danson,0,0,0,0,1149,Arsenal,Ipswich Town,967d32f5-4b5a-52d5-aa85-ad7b7fb83d51,63368ef5-781d-5c61-8826-0a3f9b1cde25,Ipswich Town,Arsenal,Arsenal_Ipswich Town,Arsenal_Ipswich Town_1994
-1994,38,Arsenal,0.0,0.0,Ipswich Town,4.0,1.0,0,Terence Holbrook,0,0,0,0,1324,Arsenal,Ipswich Town,2bb25efd-0169-5a9e-be60-fa5b3ba31848,63368ef5-781d-5c61-8826-0a3f9b1cde25,Arsenal,Ipswich Town,Arsenal_Ipswich Town,Arsenal_Ipswich Town_1994
-2000,7,Ipswich Town,0.0,0.0,Arsenal,1.0,1.0,0,Paul Durkin,0,0,0,0,3347,draw,draw,7992c262-d261-5a71-a8b4-0a505ee7e5b0,d2cdb91a-eda6-5c52-905b-6bab4dd8e774,Ipswich Town,Arsenal,Arsenal_Ipswich Town,Arsenal_Ipswich Town_2000
-2000,27,Arsenal,0.0,0.0,Ipswich Town,1.0,0.0,0,Rob Harris,0,0,0,0,3543,Arsenal,Ipswich Town,29862498-a991-51bc-9061-7ff914205188,d2cdb91a-eda6-5c52-905b-6bab4dd8e774,Arsenal,Ipswich Town,Arsenal_Ipswich Town,Arsenal_Ipswich Town_2000
-2001,15,Ipswich Town,0.0,0.0,Arsenal,0.0,2.0,0,David Elleray,0,0,0,0,3803,Arsenal,Ipswich Town,4242b252-d392-52ec-a0b6-2b670de47e7e,0128a547-9780-5b41-882f-9622a87639c1,Ipswich Town,Arsenal,Arsenal_Ipswich Town,Arsenal_Ipswich Town_2001
-2001,36,Arsenal,0.0,0.0,Ipswich Town,2.0,0.0,0,Alan Wiley,0,0,0,0,4019,Arsenal,Ipswich Town,8a5d7fb0-e6d5-5bf3-becc-0d3bb46c6fb8,0128a547-9780-5b41-882f-9622a87639c1,Arsenal,Ipswich Town,Arsenal_Ipswich Town,Arsenal_Ipswich Town_2001
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,team,opponent,match_teams,season_match_teams
+1992,21,Arsenal,0.0,0.0,Ipswich Town,0.0,0.0,0,Roger Milford,0,0,0,0,225,draw,draw,Arsenal,Ipswich Town,Arsenal_Ipswich_Town,Arsenal_Ipswich Town_1992
+1992,38,Ipswich Town,0.0,0.0,Arsenal,1.0,2.0,0,Raymond Lewis,0,0,0,0,399,Arsenal,Ipswich Town,Ipswich Town,Arsenal,Arsenal_Ipswich_Town,Arsenal_Ipswich Town_1992
+1993,7,Arsenal,0.0,0.0,Ipswich Town,4.0,0.0,0,Joe Worrall,0,0,0,0,528,Arsenal,Ipswich Town,Arsenal,Ipswich Town,Arsenal_Ipswich_Town,Arsenal_Ipswich Town_1993
+1993,32,Ipswich Town,0.0,0.0,Arsenal,1.0,5.0,0,Keren Barratt,0,0,0,0,787,Arsenal,Ipswich Town,Ipswich Town,Arsenal,Arsenal_Ipswich_Town,Arsenal_Ipswich Town_1993
+1994,21,Ipswich Town,0.0,0.0,Arsenal,0.0,2.0,0,Paul Danson,0,0,0,0,1149,Arsenal,Ipswich Town,Ipswich Town,Arsenal,Arsenal_Ipswich_Town,Arsenal_Ipswich Town_1994
+1994,38,Arsenal,0.0,0.0,Ipswich Town,4.0,1.0,0,Terence Holbrook,0,0,0,0,1324,Arsenal,Ipswich Town,Arsenal,Ipswich Town,Arsenal_Ipswich_Town,Arsenal_Ipswich Town_1994
+2000,7,Ipswich Town,0.0,0.0,Arsenal,1.0,1.0,0,Paul Durkin,0,0,0,0,3347,draw,draw,Ipswich Town,Arsenal,Arsenal_Ipswich_Town,Arsenal_Ipswich Town_2000
+2000,27,Arsenal,0.0,0.0,Ipswich Town,1.0,0.0,0,Rob Harris,0,0,0,0,3543,Arsenal,Ipswich Town,Arsenal,Ipswich Town,Arsenal_Ipswich_Town,Arsenal_Ipswich Town_2000
+2001,15,Ipswich Town,0.0,0.0,Arsenal,0.0,2.0,0,David Elleray,0,0,0,0,3803,Arsenal,Ipswich Town,Ipswich Town,Arsenal,Arsenal_Ipswich_Town,Arsenal_Ipswich Town_2001
+2001,36,Arsenal,0.0,0.0,Ipswich Town,2.0,0.0,0,Alan Wiley,0,0,0,0,4019,Arsenal,Ipswich Town,Arsenal,Ipswich Town,Arsenal_Ipswich_Town,Arsenal_Ipswich Town_2001

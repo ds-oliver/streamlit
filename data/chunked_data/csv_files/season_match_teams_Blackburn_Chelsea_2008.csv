@@ -1,3 +1,3 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
-2008,12,Blackburn,0.0,0.0,Chelsea,0.0,2.0,0,Chris Foy,0,0,0,0,6442,Chelsea,Blackburn,f2a2969d-1797-5584-9fe3-8bb9913cc54c,a11ac201-9e36-5b2a-ab01-dcd9ffefd21e,Blackburn,Chelsea,Blackburn_Chelsea,Blackburn_Chelsea_2008
-2008,37,Chelsea,0.0,0.0,Blackburn,2.0,0.0,0,Rob Styles,0,0,0,0,6694,Chelsea,Blackburn,b73804a7-c559-5971-9cdc-6996ba7e8c64,a11ac201-9e36-5b2a-ab01-dcd9ffefd21e,Chelsea,Blackburn,Blackburn_Chelsea,Blackburn_Chelsea_2008
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,team,opponent,match_teams,season_match_teams
+2008,12,Blackburn,0.0,0.0,Chelsea,0.0,2.0,0,Chris Foy,0,0,0,0,6442,Chelsea,Blackburn,Blackburn,Chelsea,Blackburn_Chelsea,Blackburn_Chelsea_2008
+2008,37,Chelsea,0.0,0.0,Blackburn,2.0,0.0,0,Rob Styles,0,0,0,0,6694,Chelsea,Blackburn,Chelsea,Blackburn,Blackburn_Chelsea,Blackburn_Chelsea_2008

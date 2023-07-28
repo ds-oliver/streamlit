@@ -1,9 +1,9 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
-2008,8,Hull City,0.0,0.0,West Ham,1.0,0.0,0,Chris Foy,0,0,0,0,6402,Hull City,West Ham,57beb5c2-ce89-592f-8df9-be4f81752c7b,b5e8aa85-f680-5089-a51b-2ce899a1e54b,Hull City,West Ham,Hull City_West Ham,Hull City_West Ham_2008
-2008,23,West Ham,0.0,0.0,Hull City,2.0,0.0,0,Howard Webb,0,0,0,0,6550,West Ham,Hull City,25b9ad0a-c5d8-57cb-b1a1-40ccbf4d39d4,b5e8aa85-f680-5089-a51b-2ce899a1e54b,West Ham,Hull City,Hull City_West Ham,Hull City_West Ham_2008
-2009,13,Hull City,0.0,0.0,West Ham,3.0,3.0,0,Mark Clattenburg,0,0,0,0,6827,draw,draw,7b0a0131-bd09-5582-a83e-4e1cdf4d96c4,543f9232-7807-567b-87a7-92bae0bdd093,Hull City,West Ham,Hull City_West Ham,Hull City_West Ham_2009
-2009,27,West Ham,0.0,0.0,Hull City,3.0,0.0,0,Martin Atkinson,0,0,0,0,6964,West Ham,Hull City,2cb7b62d-d72c-50c9-a633-cf79c8f5e69e,543f9232-7807-567b-87a7-92bae0bdd093,West Ham,Hull City,Hull City_West Ham,Hull City_West Ham_2009
-2013,6,Hull City,0.0,0.0,West Ham,1.0,0.0,0,Kevin Friend,0,0,0,0,8280,Hull City,West Ham,605c7b2c-6830-58f6-8f70-7a2fcec079b2,2fa945e7-ef3f-51a8-9e67-b2200f5ca85f,Hull City,West Ham,Hull City_West Ham,Hull City_West Ham_2013
-2013,29,West Ham,0.0,0.0,Hull City,2.0,1.0,0,Mike Dean,0,0,0,0,8530,West Ham,Hull City,9afce49a-6d53-5c54-85fc-e7a090fe659a,2fa945e7-ef3f-51a8-9e67-b2200f5ca85f,West Ham,Hull City,Hull City_West Ham,Hull City_West Ham_2013
-2014,4,Hull City,0.0,0.0,West Ham,2.0,2.0,0,Martin Atkinson,0,0,0,0,8645,draw,draw,ffe4ae21-3743-5d28-bdd6-aed01ce57d77,36b2cc57-bfc0-5650-864f-caa79b84b245,Hull City,West Ham,Hull City_West Ham,Hull City_West Ham_2014
-2014,22,West Ham,0.0,0.0,Hull City,3.0,0.0,0,Martin Atkinson,0,0,0,0,8823,West Ham,Hull City,2412e5de-27df-5c35-ac54-bfba22304b41,36b2cc57-bfc0-5650-864f-caa79b84b245,West Ham,Hull City,Hull City_West Ham,Hull City_West Ham_2014
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,team,opponent,match_teams,season_match_teams
+2008,8,Hull City,0.0,0.0,West Ham,1.0,0.0,0,Chris Foy,0,0,0,0,6402,Hull City,West Ham,Hull City,West Ham,Hull_City_West_Ham,Hull City_West Ham_2008
+2008,23,West Ham,0.0,0.0,Hull City,2.0,0.0,0,Howard Webb,0,0,0,0,6550,West Ham,Hull City,West Ham,Hull City,Hull_City_West_Ham,Hull City_West Ham_2008
+2009,13,Hull City,0.0,0.0,West Ham,3.0,3.0,0,Mark Clattenburg,0,0,0,0,6827,draw,draw,Hull City,West Ham,Hull_City_West_Ham,Hull City_West Ham_2009
+2009,27,West Ham,0.0,0.0,Hull City,3.0,0.0,0,Martin Atkinson,0,0,0,0,6964,West Ham,Hull City,West Ham,Hull City,Hull_City_West_Ham,Hull City_West Ham_2009
+2013,6,Hull City,0.0,0.0,West Ham,1.0,0.0,0,Kevin Friend,0,0,0,0,8280,Hull City,West Ham,Hull City,West Ham,Hull_City_West_Ham,Hull City_West Ham_2013
+2013,29,West Ham,0.0,0.0,Hull City,2.0,1.0,0,Mike Dean,0,0,0,0,8530,West Ham,Hull City,West Ham,Hull City,Hull_City_West_Ham,Hull City_West Ham_2013
+2014,4,Hull City,0.0,0.0,West Ham,2.0,2.0,0,Martin Atkinson,0,0,0,0,8645,draw,draw,Hull City,West Ham,Hull_City_West_Ham,Hull City_West Ham_2014
+2014,22,West Ham,0.0,0.0,Hull City,3.0,0.0,0,Martin Atkinson,0,0,0,0,8823,West Ham,Hull City,West Ham,Hull City,Hull_City_West_Ham,Hull City_West Ham_2014

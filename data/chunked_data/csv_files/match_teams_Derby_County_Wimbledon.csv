@@ -1,9 +1,9 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
-1996,8,Derby County,0.0,0.0,Wimbledon,0.0,2.0,0,Alan Wilkie,0,0,0,0,1839,Wimbledon,Derby County,c560dbec-b5c4-560b-b5c3-70576bed07ef,70704c36-5f86-5174-ba3e-ddd50c18ccb7,Derby County,Wimbledon,Derby County_Wimbledon,Derby County_Wimbledon_1996
-1996,22,Wimbledon,0.0,0.0,Derby County,1.0,1.0,0,Roger Dilkes,0,0,0,0,1979,draw,draw,51a75191-7cd4-59b7-b3c9-a7c0d1af2763,70704c36-5f86-5174-ba3e-ddd50c18ccb7,Wimbledon,Derby County,Derby County_Wimbledon,Derby County_Wimbledon_1996
-1997,2,Derby County,0.0,0.0,Wimbledon,1.0,1.0,0,Uriah Rennie,0,0,0,0,2251,draw,draw,b9f77c2c-7edb-568e-a092-8783c14cb2fc,b916bf51-4ce3-5317-9874-e75c4dc8245b,Derby County,Wimbledon,Derby County_Wimbledon,Derby County_Wimbledon_1997
-1997,23,Wimbledon,0.0,0.0,Derby County,0.0,0.0,0,Peter Jones,0,0,0,0,2364,draw,draw,fcfa6960-f881-53ea-ac64-a7ac19458d62,b916bf51-4ce3-5317-9874-e75c4dc8245b,Wimbledon,Derby County,Derby County_Wimbledon,Derby County_Wimbledon_1997
-1998,2,Derby County,0.0,0.0,Wimbledon,0.0,0.0,0,Jeff Winter,0,0,0,0,2536,draw,draw,f147428d-8fb4-5677-acf1-a2608bad16d7,9b819c99-e410-597a-a714-c15ff400091c,Derby County,Wimbledon,Derby County_Wimbledon,Derby County_Wimbledon_1998
-1998,21,Wimbledon,0.0,0.0,Derby County,2.0,1.0,0,Alan Wilkie,0,0,0,0,2728,Wimbledon,Derby County,8e59b5b6-e9cf-50ea-bbef-8ebbe8f12de9,9b819c99-e410-597a-a714-c15ff400091c,Wimbledon,Derby County,Derby County_Wimbledon,Derby County_Wimbledon_1998
-1999,7,Wimbledon,0.0,0.0,Derby County,2.0,2.0,0,Alan Wiley,0,0,0,0,2969,draw,draw,4ac14954-1550-543d-967b-1faf044c9fa0,6efe745e-2403-5741-bd12-d12c05ff6236,Wimbledon,Derby County,Derby County_Wimbledon,Derby County_Wimbledon_1999
-1999,27,Derby County,0.0,0.0,Wimbledon,4.0,0.0,0,Andy D'Urso,0,0,0,0,3165,Derby County,Wimbledon,6171f8bd-42db-550e-9601-5444c260aac2,6efe745e-2403-5741-bd12-d12c05ff6236,Derby County,Wimbledon,Derby County_Wimbledon,Derby County_Wimbledon_1999
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,team,opponent,match_teams,season_match_teams
+1996,8,Derby County,0.0,0.0,Wimbledon,0.0,2.0,0,Alan Wilkie,0,0,0,0,1839,Wimbledon,Derby County,Derby County,Wimbledon,Derby_County_Wimbledon,Derby County_Wimbledon_1996
+1996,22,Wimbledon,0.0,0.0,Derby County,1.0,1.0,0,Roger Dilkes,0,0,0,0,1979,draw,draw,Wimbledon,Derby County,Derby_County_Wimbledon,Derby County_Wimbledon_1996
+1997,2,Derby County,0.0,0.0,Wimbledon,1.0,1.0,0,Uriah Rennie,0,0,0,0,2251,draw,draw,Derby County,Wimbledon,Derby_County_Wimbledon,Derby County_Wimbledon_1997
+1997,23,Wimbledon,0.0,0.0,Derby County,0.0,0.0,0,Peter Jones,0,0,0,0,2364,draw,draw,Wimbledon,Derby County,Derby_County_Wimbledon,Derby County_Wimbledon_1997
+1998,2,Derby County,0.0,0.0,Wimbledon,0.0,0.0,0,Jeff Winter,0,0,0,0,2536,draw,draw,Derby County,Wimbledon,Derby_County_Wimbledon,Derby County_Wimbledon_1998
+1998,21,Wimbledon,0.0,0.0,Derby County,2.0,1.0,0,Alan Wilkie,0,0,0,0,2728,Wimbledon,Derby County,Wimbledon,Derby County,Derby_County_Wimbledon,Derby County_Wimbledon_1998
+1999,7,Wimbledon,0.0,0.0,Derby County,2.0,2.0,0,Alan Wiley,0,0,0,0,2969,draw,draw,Wimbledon,Derby County,Derby_County_Wimbledon,Derby County_Wimbledon_1999
+1999,27,Derby County,0.0,0.0,Wimbledon,4.0,0.0,0,Andy D'Urso,0,0,0,0,3165,Derby County,Wimbledon,Derby County,Wimbledon,Derby_County_Wimbledon,Derby County_Wimbledon_1999

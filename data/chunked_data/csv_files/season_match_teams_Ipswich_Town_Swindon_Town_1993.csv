@@ -1,3 +1,3 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
-1993,15,Swindon Town,0.0,0.0,Ipswich Town,2.0,2.0,0,Roger Dilkes,0,0,0,0,618,draw,draw,c4c04470-53ff-571c-9e84-5ddad227ca53,06ac72a8-6153-5dab-8715-c81d83957d51,Swindon Town,Ipswich Town,Ipswich Town_Swindon Town,Ipswich Town_Swindon Town_1993
-1993,39,Ipswich Town,0.0,0.0,Swindon Town,1.0,1.0,0,Vic Callow,0,0,0,0,875,draw,draw,0be044e6-4ffa-5ed4-8f83-60a02ccb4fd9,06ac72a8-6153-5dab-8715-c81d83957d51,Ipswich Town,Swindon Town,Ipswich Town_Swindon Town,Ipswich Town_Swindon Town_1993
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,team,opponent,match_teams,season_match_teams
+1993,15,Swindon Town,0.0,0.0,Ipswich Town,2.0,2.0,0,Roger Dilkes,0,0,0,0,618,draw,draw,Swindon Town,Ipswich Town,Ipswich_Town_Swindon_Town,Ipswich Town_Swindon Town_1993
+1993,39,Ipswich Town,0.0,0.0,Swindon Town,1.0,1.0,0,Vic Callow,0,0,0,0,875,draw,draw,Ipswich Town,Swindon Town,Ipswich_Town_Swindon_Town,Ipswich Town_Swindon Town_1993

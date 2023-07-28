@@ -1,3 +1,3 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
-2015,3,Watford,0.0,0.0,Southampton,0.0,0.0,0,Andre Marriner,0,0,0,0,9013,draw,draw,80bdfc2e-d8be-5f62-9b5e-e2068b7108b5,1d18bb4e-fd68-5985-a93d-6cd75b881fa9,Watford,Southampton,Southampton_Watford,Southampton_Watford_2015
-2015,21,Southampton,0.0,0.0,Watford,2.0,0.0,0,Craig Pawson,0,0,0,0,9191,Southampton,Watford,507a6c5a-5247-5630-94f0-a4d5dee60ff2,1d18bb4e-fd68-5985-a93d-6cd75b881fa9,Southampton,Watford,Southampton_Watford,Southampton_Watford_2015
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,team,opponent,match_teams,season_match_teams
+2015,3,Watford,0.0,0.0,Southampton,0.0,0.0,0,Andre Marriner,0,0,0,0,9013,draw,draw,Watford,Southampton,Southampton_Watford,Southampton_Watford_2015
+2015,21,Southampton,0.0,0.0,Watford,2.0,0.0,0,Craig Pawson,0,0,0,0,9191,Southampton,Watford,Southampton,Watford,Southampton_Watford,Southampton_Watford_2015

@@ -1,3 +1,3 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
-2015,7,Stoke City,0.0,0.0,Bournemouth,2.0,1.0,0,Lee Mason,0,0,0,0,9047,Stoke City,Bournemouth,7a306359-2145-58ed-af75-1f67c99a3802,069ff11b-31b9-5f39-8437-64965b0671c1,Stoke City,Bournemouth,Bournemouth_Stoke City,Bournemouth_Stoke City_2015
-2015,26,Bournemouth,0.0,0.0,Stoke City,1.0,3.0,0,Graham Scott,0,0,0,0,9241,Stoke City,Bournemouth,1e51af06-ef42-56a1-b8c4-d56aa7a9b781,069ff11b-31b9-5f39-8437-64965b0671c1,Bournemouth,Stoke City,Bournemouth_Stoke City,Bournemouth_Stoke City_2015
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,team,opponent,match_teams,season_match_teams
+2015,7,Stoke City,0.0,0.0,Bournemouth,2.0,1.0,0,Lee Mason,0,0,0,0,9047,Stoke City,Bournemouth,Stoke City,Bournemouth,Bournemouth_Stoke_City,Bournemouth_Stoke City_2015
+2015,26,Bournemouth,0.0,0.0,Stoke City,1.0,3.0,0,Graham Scott,0,0,0,0,9241,Stoke City,Bournemouth,Bournemouth,Stoke City,Bournemouth_Stoke_City,Bournemouth_Stoke City_2015

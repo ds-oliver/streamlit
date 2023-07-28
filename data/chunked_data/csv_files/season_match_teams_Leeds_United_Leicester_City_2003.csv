@@ -1,3 +1,3 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
-2003,5,Leicester City,0.0,0.0,Leeds United,4.0,0.0,0,Jeff Winter,0,0,0,0,4473,Leicester City,Leeds United,aefd7f57-9c0f-563f-836d-6a63b3f8fbdf,1545ca72-1654-5b0c-b45f-74d075cd5681,Leicester City,Leeds United,Leeds United_Leicester City,Leeds United_Leicester City_2003
-2003,31,Leeds United,0.0,0.0,Leicester City,3.0,2.0,0,Mike Dean,0,0,0,0,4733,Leeds United,Leicester City,13523d03-49a0-52f7-b0a9-fbaf8c231437,1545ca72-1654-5b0c-b45f-74d075cd5681,Leeds United,Leicester City,Leeds United_Leicester City,Leeds United_Leicester City_2003
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,team,opponent,match_teams,season_match_teams
+2003,5,Leicester City,0.0,0.0,Leeds United,4.0,0.0,0,Jeff Winter,0,0,0,0,4473,Leicester City,Leeds United,Leicester City,Leeds United,Leeds_United_Leicester_City,Leeds United_Leicester City_2003
+2003,31,Leeds United,0.0,0.0,Leicester City,3.0,2.0,0,Mike Dean,0,0,0,0,4733,Leeds United,Leicester City,Leeds United,Leicester City,Leeds_United_Leicester_City,Leeds United_Leicester City_2003

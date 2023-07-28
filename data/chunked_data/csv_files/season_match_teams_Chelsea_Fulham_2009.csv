@@ -1,3 +1,3 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
-2009,3,Fulham,0.0,0.0,Chelsea,0.0,2.0,0,Andre Marriner,0,0,0,0,6728,Chelsea,Fulham,0b77cc5a-7add-520f-aae7-43f65eba6220,9b77e523-74da-58a8-bda5-e11be872382f,Fulham,Chelsea,Chelsea_Fulham,Chelsea_Fulham_2009
-2009,20,Chelsea,0.0,0.0,Fulham,2.0,1.0,0,Andre Marriner,0,0,0,0,6894,Chelsea,Fulham,867bb52e-c7df-5395-ad2b-75845680487f,9b77e523-74da-58a8-bda5-e11be872382f,Chelsea,Fulham,Chelsea_Fulham,Chelsea_Fulham_2009
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,team,opponent,match_teams,season_match_teams
+2009,3,Fulham,0.0,0.0,Chelsea,0.0,2.0,0,Andre Marriner,0,0,0,0,6728,Chelsea,Fulham,Fulham,Chelsea,Chelsea_Fulham,Chelsea_Fulham_2009
+2009,20,Chelsea,0.0,0.0,Fulham,2.0,1.0,0,Andre Marriner,0,0,0,0,6894,Chelsea,Fulham,Chelsea,Fulham,Chelsea_Fulham,Chelsea_Fulham_2009

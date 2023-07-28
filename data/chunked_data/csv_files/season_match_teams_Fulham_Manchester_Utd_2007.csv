@@ -1,3 +1,3 @@
-season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,match_id,season_merge_key,team,opponent,match_teams,season_match_teams
-2007,15,Manchester Utd,0.0,0.0,Fulham,2.0,0.0,0,Rob Styles,0,0,0,0,6093,Manchester Utd,Fulham,74811c5c-54e7-5369-b812-f4084d23f1ee,556837b5-a789-5d3b-86f6-7364a8d866d8,Manchester Utd,Fulham,Fulham_Manchester Utd,Fulham_Manchester Utd_2007
-2007,28,Fulham,0.0,0.0,Manchester Utd,0.0,3.0,0,Mike Dean,0,0,0,0,6215,Manchester Utd,Fulham,a61c5c88-888e-5acb-878e-6f105f6170f3,556837b5-a789-5d3b-86f6-7364a8d866d8,Fulham,Manchester Utd,Fulham_Manchester Utd,Fulham_Manchester Utd_2007
+season,gameweek,home_team,home_xg,away_xg,away_team,home_score,away_score,date,referee,venue,dayofweek,start_time,attendance,Unnamed: 0,winning_team,losing_team,team,opponent,match_teams,season_match_teams
+2007,15,Manchester Utd,0.0,0.0,Fulham,2.0,0.0,0,Rob Styles,0,0,0,0,6093,Manchester Utd,Fulham,Manchester Utd,Fulham,Fulham_Manchester_Utd,Fulham_Manchester Utd_2007
+2007,28,Fulham,0.0,0.0,Manchester Utd,0.0,3.0,0,Mike Dean,0,0,0,0,6215,Manchester Utd,Fulham,Fulham,Manchester Utd,Fulham_Manchester_Utd,Fulham_Manchester Utd_2007
