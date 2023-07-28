@@ -342,10 +342,10 @@ def main():
         all_results_df = pd.concat(dict_of_dfs.values(), axis=0)
 
         # Clean the dataframes
-        log_start_of_function('clean_results')
+        start_time = log_start_of_function('clean_results')
         all_results_df = clean_results(all_results_df)
         players_df = clean_players(players_df)
-        log_end_of_function('clean_results')
+        log_end_of_function('clean_results', start_time)
 
         only_results_df = all_results_df.copy()
 
