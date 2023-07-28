@@ -348,7 +348,6 @@ def main():
     # Create SQLite connection
     conn = sqlite3.connect(FINAL_DBS_PATH + LEFT_MERGE_DB_FILENAME)
     print(f"Opened database successfully")
-    print(f"Time elapsed from start: {time.time() - start_time} seconds")
     print(f"--- {round((time.time() - start_time) / 60, 2)} minutes, ({round(time.time() - start_time, 2)} seconds) have elapsed since the start ---")
 
     try:
@@ -495,6 +494,4 @@ if __name__ == "__main__":
     print(left_merge_players_df.isnull().sum())
     print(left_merge_players_df['match_teams'].nunique())
     print(left_merge_players_df['seasons_match_teams'].value_counts())
-
-
 
