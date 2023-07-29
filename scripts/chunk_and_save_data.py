@@ -13,7 +13,7 @@ import pickle
 # At the top of chunk_and_save_data.py
 import sys
 sys.path.append('/Users/hogan/Library/CloudStorage/Dropbox/Mac/Documents/GitHub/streamlit/helper_functions/')
-from log_it import set_up_logs, log_start_of_script, log_end_of_script, log_start_of_function, log_end_of_function, log_start_of_app, log_end_of_app, log_dataframe_details, log_specific_info_message
+from log_it import set_up_logs, log_start_of_script, log_end_of_script, log_start_of_function, log_end_of_function, log_start_of_app, log_end_of_app, log_dataframe_details, log_specific_info_message, log_dict_contents
 
 # Constants
 DATA_IN_PATH = '/Users/hogan/Library/CloudStorage/Dropbox/Mac/Documents/GitHub/streamlit/data/data_in/original_results_players_data/'
@@ -290,7 +290,6 @@ def get_path_and_filename(data, is_dataframe=False):
 
     return output_path, filename
 
-
 def save_data(data, is_dataframe=False):
     output_path, filename_prefix = get_path_and_filename(data, is_dataframe)
 
@@ -306,8 +305,6 @@ def save_data(data, is_dataframe=False):
         os.makedirs(FINAL_DICTS_PATH, exist_ok=True)
         with open(os.path.join(FINAL_DICTS_PATH, f'{filename_prefix}_dict.pkl'), 'wb') as f:
             pickle.dump(data, f)
-
-
 
 
 # def save_as_csvs(df_dict, dataframe, players_chunked_csvs_path=PLAYERS_CHUNKED_CSVS_PATH, results_chunked_csvs_path=RESULTS_CHUNKED_CSVS_PATH, final_csvs_path=FINAL_CSVS_PATH, is_players_df=False):  
@@ -486,6 +483,52 @@ def clean_duplicate_columns(merged_df):
 
     return cleaned_df
 
+def load_data(is_dataframe=False, dataframe_type='players', seasons=None, teams=None):
+    """
+    Load data from CSV files or pickle files.
+
+    Args:
+        is_dataframe (bool): if True, loads dataframe, else loads dictionary
+        dataframe_type (str): can be 'players' or 'results', used only if is_dataframe is True
+        seasons (list): list of seasons to load, used only if is_dataframe is False
+        teams (list): list of teams to load, used only if is_dataframe is False
+
+    Returns:
+        DataFrame or dict: Loaded data
+    """
+
+    if is_dataframe:
+        if dataframe_type == 'players':
+            return pd.read_csv(PLAYERS_PATH)
+        elif dataframe_type == 'results':
+            return pd.read_csv(RESULTS_PATH)
+        else:
+            raise ValueError("dataframe_type must be 'players' or 'results'")
+    else:
+        # Loading data from chunked files and pickle files
+        if seasons is None or teams is None:
+            raise ValueError("Both seasons and teams must be provided when loading dictionary data")
+
+        loaded_data = {}
+        for season in seasons:
+            for team in teams:
+                try:
+                    # Attempt to load data from chunked CSV files
+                    path = os.path.join(PLAYERS_CHUNKED_CSVS_PATH if len(season) > 50 else RESULTS_CHUNKED_CSVS_PATH, f"{team}_{season}.csv")
+                    loaded_data[(team, season)] = pd.read_csv(path)
+                except FileNotFoundError:
+                    pass  # Ignore if file not found
+
+                try:
+                    # Attempt to load data from pickle files
+                    path = os.path.join(FINAL_DICTS_PATH, f"{team}_{season}_dict.pkl")
+                    with open(path, 'rb') as f:
+                        loaded_data[(team, season)] = pickle.load(f)
+                except FileNotFoundError:
+                    pass  # Ignore if file not found
+
+        return loaded_data
+
 def main():
     
     # log start of main() function
@@ -631,6 +674,8 @@ def main():
 
         left_merge_players_dict = cut_df(left_merge_players_df, ['match_teams', 'season_match_teams'])
         only_results_dict = cut_df(only_results_df, ['match_teams', 'season_match_teams'])
+
+
         print(f"Chunking complete.\n--- {round((time.time() - start_time) / 60, 2)} minutes, ({round(time.time() - start_time, 2)} seconds) have elapsed since the start ---")
 
         # log the end of the cut_df function
@@ -656,6 +701,10 @@ def main():
 
         save_data(left_merge_players_df, is_dataframe=True)
         save_data(only_results_df, is_dataframe=True)
+
+        # log dict details
+        log_dict_contents('left_merge_players_dict', left_merge_players_dict)
+        log_dict_contents('only_results_dict', only_results_dict)
 
         save_data(left_merge_players_dict)
         save_data(only_results_dict)

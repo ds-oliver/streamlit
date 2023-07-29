@@ -136,3 +136,15 @@ def log_specific_info_message(message):
     This function logs a specific info message.
     """
     logging.info(message)
+
+def log_dict_contents(dict, dict_name):
+    """
+    This function prints the contents of a dictionary.
+    """
+    # print dict name
+    print(f"{dict_name}:")
+    keys_list = list(dict.keys())
+    # print len of keys list
+    print(f"Number of Dict Keys: {len(keys_list)}")
+    # print keys list
+    print(f"List of Dict Keys:\n{keys_list}")
