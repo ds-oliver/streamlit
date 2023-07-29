@@ -483,51 +483,51 @@ def clean_duplicate_columns(merged_df):
 
     return cleaned_df
 
-def load_data(is_dataframe=False, dataframe_type='players', seasons=None, teams=None):
-    """
-    Load data from CSV files or pickle files.
+# def load_data(is_dataframe=False, dataframe_type='players', seasons=None, teams=None):
+#     """
+#     Load data from CSV files or pickle files.
 
-    Args:
-        is_dataframe (bool): if True, loads dataframe, else loads dictionary
-        dataframe_type (str): can be 'players' or 'results', used only if is_dataframe is True
-        seasons (list): list of seasons to load, used only if is_dataframe is False
-        teams (list): list of teams to load, used only if is_dataframe is False
+#     Args:
+#         is_dataframe (bool): if True, loads dataframe, else loads dictionary
+#         dataframe_type (str): can be 'players' or 'results', used only if is_dataframe is True
+#         seasons (list): list of seasons to load, used only if is_dataframe is False
+#         teams (list): list of teams to load, used only if is_dataframe is False
 
-    Returns:
-        DataFrame or dict: Loaded data
-    """
+#     Returns:
+#         DataFrame or dict: Loaded data
+#     """
 
-    if is_dataframe:
-        if dataframe_type == 'players':
-            return pd.read_csv(PLAYERS_PATH)
-        elif dataframe_type == 'results':
-            return pd.read_csv(RESULTS_PATH)
-        else:
-            raise ValueError("dataframe_type must be 'players' or 'results'")
-    else:
-        # Loading data from chunked files and pickle files
-        if seasons is None or teams is None:
-            raise ValueError("Both seasons and teams must be provided when loading dictionary data")
+#     if is_dataframe:
+#         if dataframe_type == 'players':
+#             return pd.read_csv(PLAYERS_PATH)
+#         elif dataframe_type == 'results':
+#             return pd.read_csv(RESULTS_PATH)
+#         else:
+#             raise ValueError("dataframe_type must be 'players' or 'results'")
+#     else:
+#         # Loading data from chunked files and pickle files
+#         if seasons is None or teams is None:
+#             raise ValueError("Both seasons and teams must be provided when loading dictionary data")
 
-        loaded_data = {}
-        for season in seasons:
-            for team in teams:
-                try:
-                    # Attempt to load data from chunked CSV files
-                    path = os.path.join(PLAYERS_CHUNKED_CSVS_PATH if len(season) > 50 else RESULTS_CHUNKED_CSVS_PATH, f"{team}_{season}.csv")
-                    loaded_data[(team, season)] = pd.read_csv(path)
-                except FileNotFoundError:
-                    pass  # Ignore if file not found
+#         loaded_data = {}
+#         for season in seasons:
+#             for team in teams:
+#                 try:
+#                     # Attempt to load data from chunked CSV files
+#                     path = os.path.join(PLAYERS_CHUNKED_CSVS_PATH if len(season) > 50 else RESULTS_CHUNKED_CSVS_PATH, f"{team}_{season}.csv")
+#                     loaded_data[(team, season)] = pd.read_csv(path)
+#                 except FileNotFoundError:
+#                     pass  # Ignore if file not found
 
-                try:
-                    # Attempt to load data from pickle files
-                    path = os.path.join(FINAL_DICTS_PATH, f"{team}_{season}_dict.pkl")
-                    with open(path, 'rb') as f:
-                        loaded_data[(team, season)] = pickle.load(f)
-                except FileNotFoundError:
-                    pass  # Ignore if file not found
+#                 try:
+#                     # Attempt to load data from pickle files
+#                     path = os.path.join(FINAL_DICTS_PATH, f"{team}_{season}_dict.pkl")
+#                     with open(path, 'rb') as f:
+#                         loaded_data[(team, season)] = pickle.load(f)
+#                 except FileNotFoundError:
+#                     pass  # Ignore if file not found
 
-        return loaded_data
+#         return loaded_data
 
 def main():
     
@@ -641,7 +641,7 @@ def main():
         left_merge_players_df = left_merge_players_df.drop('matchup_merge_key', axis=1)
 
         # log specific message
-        print(f"Merge of players_df and matching_results_df to left_merge_players_df complete. Merged df details below:")
+        print(f"Merge of players_df and matching_results_df to left_merge_players_df complete.")
 
         log_end_of_function('merge', merge_start_of_function, app_start_time)
 
@@ -675,6 +675,9 @@ def main():
         left_merge_players_dict = cut_df(left_merge_players_df, ['match_teams', 'season_match_teams'])
         only_results_dict = cut_df(only_results_df, ['match_teams', 'season_match_teams'])
 
+        # log dict details
+        log_dict_contents('left_merge_players_dict', left_merge_players_dict)
+        log_dict_contents('only_results_dict', only_results_dict)
 
         print(f"Chunking complete.\n--- {round((time.time() - start_time) / 60, 2)} minutes, ({round(time.time() - start_time, 2)} seconds) have elapsed since the start ---")
 
@@ -699,16 +702,13 @@ def main():
         # log the start of the save_as_csvs function
         save_data_start_time = log_start_of_function('save_data')
 
+        # Saving left_merge_players_df, left_merge_players_dict, only_results_df, and only_results_dict
         save_data(left_merge_players_df, is_dataframe=True)
         save_data(only_results_df, is_dataframe=True)
 
-        # log dict details
-        log_dict_contents('left_merge_players_dict', left_merge_players_dict)
-        log_dict_contents('only_results_dict', only_results_dict)
-
-        save_data(left_merge_players_dict)
-        save_data(only_results_dict)
-
+        # log dataframe details
+        save_data(left_merge_players_dict, is_dataframe=False)
+        save_data(only_results_dict, is_dataframe=False)
 
         print(f"Dictionaries saved as CSVs.\n--- {round((time.time() - start_time) / 60, 2)} minutes, ({round(time.time() - start_time, 2)} seconds) have elapsed since the start ---")
 
