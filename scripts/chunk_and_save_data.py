@@ -275,36 +275,38 @@ def calculate_per90s(df_dict):
 
     return df_dict
 
-def get_path_and_filename(data, is_dataframe=False):
-    if is_dataframe:
-        output_path = FINAL_CSVS_PATH
-        filename = 'players.csv' if 'player' in data.columns else 'results.csv'
+def save_csvs(dataframe, dataframe_name):
+    # determine the csv filename based on whether 'player' is in the dataframe columns
+    csv_filename = 'players.csv' if 'player' in dataframe.columns else 'results.csv'
+    
+    # save the dataframe to the final_csvs_path
+    dataframe.to_csv(FINAL_CSVS_PATH + csv_filename, index=False)
+    print(f'Saved {dataframe_name} as {csv_filename} in {FINAL_CSVS_PATH}')
+
+
+def save_dicts(dictionary, dictionary_name):
+    # check whether the dictionary_name contains 'players' or 'results'
+    if 'players' in dictionary_name:
+        csvs_path = PLAYERS_CHUNKED_CSVS_PATH
+        csv_filename_prefix = 'players_'
+    elif 'results' in dictionary_name:
+        csvs_path = RESULTS_CHUNKED_CSVS_PATH
+        csv_filename_prefix = 'results_'
     else:
-        if len(data.keys()) > 50:
-            output_path = PLAYERS_CHUNKED_CSVS_PATH
-            filename_prefix = 'players'
-        else:
-            output_path = RESULTS_CHUNKED_CSVS_PATH
-            filename_prefix = 'results'
-        filename = f'{filename_prefix}'
+        print('Error: Invalid dictionary_name.')
+        return
 
-    return output_path, filename
+    # save each dataframe in the dictionary to its own csv file
+    for key, df in dictionary.items():
+        csv_filename = csv_filename_prefix + f"{key}.csv"
+        df.to_csv(csvs_path + csv_filename, index=False)
+        print(f'Saved dataframe with key {key} from {dictionary_name} as {csv_filename} in {csvs_path}')
 
-def save_data(data, is_dataframe=False):
-    output_path, filename_prefix = get_path_and_filename(data, is_dataframe)
-
-    os.makedirs(output_path, exist_ok=True)
-
-    if is_dataframe:
-        data.to_csv(os.path.join(output_path, filename_prefix), index=False)
-    else:
-        for key, df in data.items():
-            key = str(key).replace(" ", "_")
-            df.to_csv(os.path.join(output_path, f"{filename_prefix}_{key}.csv"), index=False)
-
-        os.makedirs(FINAL_DICTS_PATH, exist_ok=True)
-        with open(os.path.join(FINAL_DICTS_PATH, f'{filename_prefix}_dict.pkl'), 'wb') as f:
-            pickle.dump(data, f)
+    # save the entire dictionary as a pickle file
+    pickle_filename = dictionary_name + '.pkl'
+    with open(FINAL_DICTS_PATH + pickle_filename, 'wb') as f:
+        pickle.dump(dictionary, f)
+    print(f'Saved {dictionary_name} as {pickle_filename} in {FINAL_DICTS_PATH}')
 
 
 # def save_as_csvs(df_dict, dataframe, players_chunked_csvs_path=PLAYERS_CHUNKED_CSVS_PATH, results_chunked_csvs_path=RESULTS_CHUNKED_CSVS_PATH, final_csvs_path=FINAL_CSVS_PATH, is_players_df=False):  
@@ -700,20 +702,25 @@ def main():
         print(f"Saving the Dictionaries and Dataframes as CSVs...")
 
         # log the start of the save_as_csvs function
-        save_data_start_time = log_start_of_function('save_data')
+        save_csvs_start_time = log_start_of_function('save_csvs')
 
         # Saving left_merge_players_df, left_merge_players_dict, only_results_df, and only_results_dict
-        save_data(left_merge_players_df, is_dataframe=True)
-        save_data(only_results_df, is_dataframe=True)
+        save_csvs(left_merge_players_df, 'left_merge_players_df')
+        save_csvs(only_results_df, 'only_results_df')
 
-        # log dataframe details
-        save_data(left_merge_players_dict, is_dataframe=False)
-        save_data(only_results_dict, is_dataframe=False)
+        # log end of save_csvs function
+        log_end_of_function('save_csvs', save_csvs_start_time, app_start_time)
+
+        # log the start of the save_dicts function
+        save_dicts_start_time = log_start_of_function('save_dicts')
+
+        save_dicts(left_merge_players_dict, 'left_merge_players_dict')
+        save_dicts(only_results_dict, 'only_results_dict')
+
+        # log end of save_dicts function
+        log_end_of_function('save_dicts', save_dicts_start_time, app_start_time)
 
         print(f"Dictionaries saved as CSVs.\n--- {round((time.time() - start_time) / 60, 2)} minutes, ({round(time.time() - start_time, 2)} seconds) have elapsed since the start ---")
-
-        # log the end of the save_as_csvs function
-        log_end_of_function('save_data', save_data_start_time, app_start_time)
 
         print(f"Saving the Dataframes as Databases...")
 
