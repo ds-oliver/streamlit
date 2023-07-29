@@ -676,8 +676,8 @@ def main():
         only_results_dict = cut_df(only_results_df, ['match_teams', 'season_match_teams'])
 
         # log dict details
-        log_dict_contents('left_merge_players_dict', left_merge_players_dict)
-        log_dict_contents('only_results_dict', only_results_dict)
+        log_dict_contents(left_merge_players_dict, 'left_merge_players_dict')
+        log_dict_contents(only_results_dict, 'only_results_dict')
 
         print(f"Chunking complete.\n--- {round((time.time() - start_time) / 60, 2)} minutes, ({round(time.time() - start_time, 2)} seconds) have elapsed since the start ---")
 

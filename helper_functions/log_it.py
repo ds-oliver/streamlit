@@ -148,3 +148,4 @@ def log_dict_contents(dict, dict_name):
     print(f"Number of Dict Keys: {len(keys_list)}")
     # print keys list
     print(f"List of Dict Keys:\n{keys_list}")
+
