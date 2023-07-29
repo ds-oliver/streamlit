@@ -9,7 +9,7 @@ import sqlite3
 import warnings
 import time
 import datetime
-
+import pickle
 # At the top of chunk_and_save_data.py
 import sys
 sys.path.append('/Users/hogan/Library/CloudStorage/Dropbox/Mac/Documents/GitHub/streamlit/helper_functions/')
@@ -20,6 +20,8 @@ DATA_IN_PATH = '/Users/hogan/Library/CloudStorage/Dropbox/Mac/Documents/GitHub/s
 PLAYERS_CHUNKED_CSVS_PATH = 'data/data_out/csv_files/chunked_data/players/'
 RESULTS_CHUNKED_CSVS_PATH = 'data/data_out/csv_files/chunked_data/results/'
 CHUNKED_CSVS_PATH = 'data/data_out/csv_files/chunked_data/'
+
+FINAL_DICTS_PATH = 'data/data_out/pickle_files/'
 
 # DB_PATH = 'data/data_out/db_files'
 FINAL_CSVS_PATH = 'data/data_out/csv_files/'
@@ -273,47 +275,80 @@ def calculate_per90s(df_dict):
 
     return df_dict
 
-def save_as_csvs(df_dict, dataframe, players_chunked_csvs_path=PLAYERS_CHUNKED_CSVS_PATH, results_chunked_csvs_path=RESULTS_CHUNKED_CSVS_PATH, final_csvs_path=FINAL_CSVS_PATH, is_players_df=False):  
-    """
-    Summary: 
-        saves each df in df_dict as a csv file and as a SQLite3 db file
-
-    Args:
-        df_dict (dict): dictionary of dataframes
-        csv_path (str): directory to save csv files
-        db_path (str): path to SQLite3 db file
-        conn (Connection, optional): SQLite3 connection. Defaults to None.
-
-    Returns:
-        None
-    """
-    # Ensure directory for CSV files exists
-    os.makedirs(os.path.dirname(players_chunked_csvs_path), exist_ok=True)
-    os.makedirs(os.path.dirname(results_chunked_csvs_path), exist_ok=True)
-    os.makedirs(os.path.dirname(final_csvs_path), exist_ok=True)
-
-    # save df as a csv file
-    # if database has player columns, save as players.csv else save as results.csv
-    if 'player' in dataframe.columns:
-        dataframe.to_csv(os.path.join(final_csvs_path, 'players.csv'), index=False)
+def get_path_and_filename(data, is_dataframe=False):
+    if is_dataframe:
+        output_path = FINAL_CSVS_PATH
+        filename = 'players.csv' if 'player' in data.columns else 'results.csv'
     else:
-        dataframe.to_csv(os.path.join(final_csvs_path, 'results.csv'), index=False)
+        if len(data.keys()) > 50:
+            output_path = PLAYERS_CHUNKED_CSVS_PATH
+            filename_prefix = 'players'
+        else:
+            output_path = RESULTS_CHUNKED_CSVS_PATH
+            filename_prefix = 'results'
+        filename = f'{filename_prefix}'
+
+    return output_path, filename
+
+
+def save_data(data, is_dataframe=False):
+    output_path, filename_prefix = get_path_and_filename(data, is_dataframe)
+
+    os.makedirs(output_path, exist_ok=True)
+
+    if is_dataframe:
+        data.to_csv(os.path.join(output_path, filename_prefix), index=False)
+    else:
+        for key, df in data.items():
+            key = str(key).replace(" ", "_")
+            df.to_csv(os.path.join(output_path, f"{filename_prefix}_{key}.csv"), index=False)
+
+        with open(os.path.join(FINAL_DICTS_PATH, f'{filename_prefix}_dict.pkl'), 'wb') as f:
+            pickle.dump(data, f)
+
+
+
+# def save_as_csvs(df_dict, dataframe, players_chunked_csvs_path=PLAYERS_CHUNKED_CSVS_PATH, results_chunked_csvs_path=RESULTS_CHUNKED_CSVS_PATH, final_csvs_path=FINAL_CSVS_PATH, is_players_df=False):  
+#     """
+#     Summary: 
+#         saves each df in df_dict as a csv file and as a SQLite3 db file
+
+#     Args:
+#         df_dict (dict): dictionary of dataframes
+#         csv_path (str): directory to save csv files
+#         db_path (str): path to SQLite3 db file
+#         conn (Connection, optional): SQLite3 connection. Defaults to None.
+
+#     Returns:
+#         None
+#     """
+#     # Ensure directory for CSV files exists
+#     os.makedirs(os.path.dirname(players_chunked_csvs_path), exist_ok=True)
+#     os.makedirs(os.path.dirname(results_chunked_csvs_path), exist_ok=True)
+#     os.makedirs(os.path.dirname(final_csvs_path), exist_ok=True)
+
+#     # save df as a csv file
+#     # if database has player columns, save as players.csv else save as results.csv
+#     if 'player' in dataframe.columns:
+#         dataframe.to_csv(os.path.join(final_csvs_path, 'players.csv'), index=False)
+#     else:
+#         dataframe.to_csv(os.path.join(final_csvs_path, 'results.csv'), index=False)
 
     
-    for key, df in df_dict.items():
-        if is_players_df:
-            # Convert key to a string and replace spaces with underscores
-            key = str(key).replace(" ", "_")  
+#     for key, df in df_dict.items():
+#         if is_players_df:
+#             # Convert key to a string and replace spaces with underscores
+#             key = str(key).replace(" ", "_")  
 
-            # Save as a csv file
-            df.to_csv(os.path.join(players_chunked_csvs_path, f"{key}.csv"), index=False)
+#             # Save as a csv file
+#             df.to_csv(os.path.join(players_chunked_csvs_path, f"{key}.csv"), index=False)
 
-        else:
-            # Convert key to a string and replace spaces with underscores
-            key = str(key).replace(" ", "_")  
+#         else:
+#             # Convert key to a string and replace spaces with underscores
+#             key = str(key).replace(" ", "_")  
 
-            # Save as a csv file
-            df.to_csv(os.path.join(results_chunked_csvs_path, f"{key}.csv"), index=False)
+#             # Save as a csv file
+#             df.to_csv(os.path.join(results_chunked_csvs_path, f"{key}.csv"), index=False)
 
 
 
@@ -605,17 +640,22 @@ def main():
         log_end_of_function('calculate_per90s', calculate_per90s_start_time, app_start_time)
 
         # Save the dataframes
-        print(f"Saving the Dictionaries saved as CSVs...")
+        print(f"Saving the Dictionaries and Dataframes as CSVs...")
 
         # log the start of the save_as_csvs function
-        save_as_csvs_start_time = log_start_of_function('save_as_csvs')
+        save_data_start_time = log_start_of_function('save_data')
 
-        save_as_csvs(left_merge_players_dict, left_merge_players_df, PLAYERS_CHUNKED_CSVS_PATH, FINAL_CSVS_PATH, is_players_df=True)
-        save_as_csvs(only_results_dict, only_results_df, RESULTS_CHUNKED_CSVS_PATH, FINAL_CSVS_PATH)
+        save_data(left_merge_players_df, is_dataframe=True)
+        save_data(only_results_df, is_dataframe=True)
+
+        save_data(left_merge_players_dict)
+        save_data(only_results_dict)
+
+
         print(f"Dictionaries saved as CSVs.\n--- {round((time.time() - start_time) / 60, 2)} minutes, ({round(time.time() - start_time, 2)} seconds) have elapsed since the start ---")
 
         # log the end of the save_as_csvs function
-        log_end_of_function('save_as_csvs', save_as_csvs_start_time, app_start_time)
+        log_end_of_function('save_data', save_data_start_time, app_start_time)
 
         print(f"Saving the Dataframes as Databases...")
 
