@@ -303,8 +303,10 @@ def save_data(data, is_dataframe=False):
             key = str(key).replace(" ", "_")
             df.to_csv(os.path.join(output_path, f"{filename_prefix}_{key}.csv"), index=False)
 
+        os.makedirs(FINAL_DICTS_PATH, exist_ok=True)
         with open(os.path.join(FINAL_DICTS_PATH, f'{filename_prefix}_dict.pkl'), 'wb') as f:
             pickle.dump(data, f)
+
 
 
 
