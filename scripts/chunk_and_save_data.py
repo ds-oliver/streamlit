@@ -306,16 +306,15 @@ def save_as_csvs(df_dict, dataframe, players_chunked_csvs_path=PLAYERS_CHUNKED_C
             key = str(key).replace(" ", "_")  
 
             # Save as a csv file
-            players_chunked_csvs_path = os.path.join(players_chunked_csvs_path, f"{key}.csv")
-            df.to_csv(players_chunked_csvs_path, index=False)
+            df.to_csv(os.path.join(players_chunked_csvs_path, f"{key}.csv"), index=False)
 
         else:
             # Convert key to a string and replace spaces with underscores
             key = str(key).replace(" ", "_")  
 
             # Save as a csv file
-            results_chunked_csvs_path = os.path.join(results_chunked_csvs_path, f"{key}.csv")
-            df.to_csv(results_chunked_csvs_path, index=False)
+            df.to_csv(os.path.join(results_chunked_csvs_path, f"{key}.csv"), index=False)
+
 
 
 
