@@ -564,6 +564,9 @@ def main():
         # Create the matchup_merge_key
         matching_results_df['matchup_merge_key'] = matching_results_df.apply(lambda row: '_'.join(sorted([row['home_team'], row['away_team']]) + [row['gameweek'], row['season']]), axis=1)
 
+        # make sure all whitespace is removed from the matchup_merge_key column
+        matching_results_df['matchup_merge_key'] = matching_results_df['matchup_merge_key'].str.replace(' ', '_')
+
         # Drop rows with missing values
         players_df.dropna(subset=['team', 'opponent', 'gameweek', 'season'], inplace=True)
 
@@ -580,6 +583,9 @@ def main():
         # Create the matchup_merge_key
         players_df['matchup_merge_key'] = players_df.apply(lambda row: '_'.join(sorted([row['team'], row['opponent']]) + [row['gameweek'], row['season']]), axis=1)
 
+        # make sure all whitespace is removed from the matchup_merge_key column
+        players_df['matchup_merge_key'] = players_df['matchup_merge_key'].str.replace(' ', '_')
+
         # merge on index
         print(f"Merging the dataframes...")
         merge_start_of_function = log_start_of_function('merge')
@@ -594,10 +600,11 @@ def main():
         # log specific message
         print(f"Merge of players_df and matching_results_df to left_merge_players_df complete. Merged df details below:")
 
+        log_end_of_function('merge', merge_start_of_function, app_start_time)
+
         # log dataframes details
         log_dataframe_details('left_merge_players_df', left_merge_players_df)
 
-        log_end_of_function('merge', merge_start_of_function, app_start_time)
         print(f"Merge complete.")
         print(f"--- {round((time.time() - start_time) / 60, 2)} minutes, ({round(time.time() - start_time, 2)} seconds) have elapsed since the start ---")
 
